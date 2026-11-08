@@ -32,6 +32,39 @@
 "tmdbId": 1000213,
 "trailerKey": null
 },
+"appletv:movie:1031457:free": {
+"access": "free",
+"backdropPath": "/ykT9D5Yqvoa8c7tBet9vOxjQ5T4.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1031457:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Czarnobyl — dla większości obraz śmierci i katastrofy, a dla nielicznych wciąż po prostu dom. Mimo że doszło tam do największej katastrofy w historii energetyki jądrowej i wynikającego z tego skażenia radioaktywnego, to już po kilku miesiącach do otoczonego drutem kolczastym terenu zaczęli wracać pojedynczy ludzie. Robili to nielegalnie, by znów zamieszkać w swoich skromnych chatach, przekazywanych z pokolenia na pokolenie.",
+"overviewEn": "Chernobyl – for most, an image of death and disaster, and for a few, still simply home. Even though it was the site of the greatest disaster in the history of nuclear power and resultant radioactive contamination, after only a few months some people began returning to the barbed wire-enclosed area. They did so illegally to live again in their humble cottages, passed down from generation to generation.",
+"popularity": 0.17,
+"ratings": null,
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Czarnobyl: Ludzie ze stali",
+"titleEn": "Chernobyl: Men of Steel",
+"tmdbId": 1031457,
+"trailerKey": "uaEOHJR58Ns"
+},
 "appletv:movie:1032081:paid": {
 "access": "paid",
 "backdropPath": "/bUuKw3TwrPMyaLNBxLf8rXjqRVn.jpg",
@@ -1195,7 +1228,7 @@
 "ratings": {
 "imdb": 5.9,
 "imdbVotes": 5310,
-"tmdb": 6.4
+"tmdb": 6.3
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -2305,6 +2338,72 @@
 "tmdbId": 1817731,
 "trailerKey": null
 },
+"appletv:movie:1819651:paid": {
+"access": "paid",
+"backdropPath": "/dlr6EAJwlPkPUfU7eiRKeLuIYWN.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1819651:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Christmas is the most magical time of the year. A festive joy - For the royal family, Christmas is a time of tradition and reunion. From mistletoe to misery, this is Diana's Christmas With The Windsors.",
+"overviewEn": "Christmas is the most magical time of the year. A festive joy - For the royal family, Christmas is a time of tradition and reunion. From mistletoe to misery, this is Diana's Christmas With The Windsors.",
+"popularity": 0.1,
+"ratings": null,
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Christmas with the Windsors",
+"titleEn": null,
+"tmdbId": 1819651,
+"trailerKey": null
+},
+"appletv:movie:1819656:paid": {
+"access": "paid",
+"backdropPath": "/bMO3iZq1C0CZxUjbiT06KHxIQ33.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1819656:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "He is one of the ten best-known people on the planet. He has many names...and millions of faithful followers around the world. We name him Father Christmas, or Santa Claus, the large jolly man in red with white hair, a white beard, and red clothing, who rides on Christmas Eve on a magical sleigh pulled by his trusted reindeers. But who is this character that has become so popular at this time of the year? Is he the same over the world? Why does he live in such a remote place? Whether you are young, or just young at heart, Christmas around the world is the stuff of dreams. And the story of Santa is one that has always fascinated me. Let me share it with you.",
+"overviewEn": "He is one of the ten best-known people on the planet. He has many names...and millions of faithful followers around the world. We name him Father Christmas, or Santa Claus, the large jolly man in red with white hair, a white beard, and red clothing, who rides on Christmas Eve on a magical sleigh pulled by his trusted reindeers. But who is this character that has become so popular at this time of the year? Is he the same over the world? Why does he live in such a remote place? Whether you are young, or just young at heart, Christmas around the world is the stuff of dreams. And the story of Santa is one that has always fascinated me. Let me share it with you.",
+"popularity": 0.07,
+"ratings": null,
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "The Story of Santa",
+"titleEn": null,
+"tmdbId": 1819656,
+"trailerKey": null
+},
 "appletv:movie:191121:sub": {
 "access": "sub",
 "backdropPath": "/lnB3JiuzIjaHIwvsF0O7pVsTFro.jpg",
@@ -2342,6 +2441,44 @@
 "titleEn": null,
 "tmdbId": 191121,
 "trailerKey": "ER9vmhxFucg"
+},
+"appletv:movie:193197:sub": {
+"access": "sub",
+"backdropPath": "/poPjoZhOFwYMW0ri89JUUSjdP8G.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:193197:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "An exuberant and evocative family drama, that primarily revolves around the close bond between two brothers with radically different personalities, highlighting the complex process of choosing an ideal life partner for each of them.",
+"overviewEn": "An exuberant and evocative family drama, that primarily revolves around the close bond between two brothers with radically different personalities, highlighting the complex process of choosing an ideal life partner for each of them.",
+"popularity": 0.82,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 8580,
+"tmdb": 7.2
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "సీతమ్మ వాకిట్లో సిరిమల్లె చెట్టు",
+"titleEn": "Seethamma Vakitlo Sirimalle Chettu",
+"tmdbId": 193197,
+"trailerKey": "_c840-Ahuok"
 },
 "appletv:movie:205775:sub": {
 "access": "sub",
@@ -2420,6 +2557,44 @@
 "titleEn": null,
 "tmdbId": 21290,
 "trailerKey": "vX_34cIOx9s"
+},
+"appletv:movie:227056:sub": {
+"access": "sub",
+"backdropPath": "/chQmvy2VrKxro4eXqLfE0MBR04c.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:227056:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Nandu, a happy-go-lucky college student falls head over heels in love with Akarsha and goes all out to woo her. But only after Akarsha falls for him does she realize that he has revenge on his mind.",
+"overviewEn": "Nandu, a happy-go-lucky college student falls head over heels in love with Akarsha and goes all out to woo her. But only after Akarsha falls for him does she realize that he has revenge on his mind.",
+"popularity": 0.66,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 2689,
+"tmdb": 3.9
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "రామయ్యా వస్తావయ్యా",
+"titleEn": "Ramayya Vasthavayya",
+"tmdbId": 227056,
+"trailerKey": "lVbpn9MQFYs"
 },
 "appletv:movie:333371:sub": {
 "access": "sub",
@@ -2879,6 +3054,83 @@
 "titleEn": null,
 "tmdbId": 464052,
 "trailerKey": "9TsV_1TSgoE"
+},
+"appletv:movie:467649:sub": {
+"access": "sub",
+"backdropPath": "/kITotL1eL9vWpDpCNmR6jzuP37s.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:467649:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Two young people embark on a winding and rocky path to love after meeting at a wedding.",
+"overviewEn": "Two young people embark on a winding and rocky path to love after meeting at a wedding.",
+"popularity": 0.9,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 6819,
+"tmdb": 7.3
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "ఫిదా",
+"titleEn": "Fidaa",
+"tmdbId": 467649,
+"trailerKey": "NrnyxMdIOpU"
+},
+"appletv:movie:508791:free": {
+"access": "free",
+"backdropPath": "/3CFuFIwtSSQU4Fyd5NnmHnNZq9w.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:508791:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Natasha i Daniel pochodzą z różnych środowisk. Ona nie wierzy w nic, czego nie da się udowodnić naukowo. On to niepoprawny romantyk. Jedno z nich wkrótce wyjedzie na zawsze. Spotykają się przypadkiem w Nowym Jorku i jest im dany zaledwie jeden wspólny dzień. Czy można przeżyć wielką miłość, gdy czasu jest tak niewiarygodnie mało?",
+"overviewEn": "Two young New Yorkers begin to fall in love over the course of a single day, as a series of potentially life-altering meetings loom over their heads - hers concerning her family’s deportation to Jamaica, and his concerning an education at Dartmouth.",
+"popularity": 1.88,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 9072,
+"tmdb": 6.9
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Słońce też jest gwiazdą",
+"titleEn": "The Sun Is Also a Star",
+"tmdbId": 508791,
+"trailerKey": "Au6W0wSFiXc"
 },
 "appletv:movie:513268:sub": {
 "access": "sub",
@@ -5740,6 +5992,42 @@
 "tmdbId": 1059264,
 "trailerKey": "KkjzU_00ILA"
 },
+"canalplus:movie:1061618:paid": {
+"access": "paid",
+"backdropPath": "/cDpcG2EGOmGRgBM8pyxFcDNzc3U.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1061618:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "At the edge of our solar system supposedly lies an immense planet. Five to ten times the size of the Earth. Several international teams of scientists have been competing in a frantic race to detect it, in uncharted territories, far beyond Neptune. The recent discovery of several dwarf planets, with intriguing trajectories, have put astronomers on the trail of this mysterious planet. Why is this enigmatic planet so difficult to detect? What would a ninth planet teach us about our corner of the universe? Could it help us unlock some of the mysteries of our solar system?",
+"overviewEn": "At the edge of our solar system supposedly lies an immense planet. Five to ten times the size of the Earth. Several international teams of scientists have been competing in a frantic race to detect it, in uncharted territories, far beyond Neptune. The recent discovery of several dwarf planets, with intriguing trajectories, have put astronomers on the trail of this mysterious planet. Why is this enigmatic planet so difficult to detect? What would a ninth planet teach us about our corner of the universe? Could it help us unlock some of the mysteries of our solar system?",
+"popularity": 0.91,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 75
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "À la Recherche de Planète 9",
+"titleEn": "Searching for Planet 9",
+"tmdbId": 1061618,
+"trailerKey": null
+},
 "canalplus:movie:1061785:sub": {
 "access": "sub",
 "backdropPath": "/4sHXKmoUZan9oGFFHSUADGVza6p.jpg",
@@ -5931,6 +6219,44 @@
 "titleEn": "Down with Love",
 "tmdbId": 10720,
 "trailerKey": "2wzS37O7m-E"
+},
+"canalplus:movie:1073865:free": {
+"access": "free",
+"backdropPath": "/c0gXhSGO22BnRi7WoXtYK69AthB.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1073865:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tajemniczy wypadek samochodowy zmienia całkowicie życie Maćka. W zdarzeniu ginie jego żona Janina. Najprawdopodobniej kobieta popełniła samobójstwo. Maciej nie ma jednak pojęcia, dlaczego do wypadku doszło pod Mrągowem, skoro Janina powiedziała, że jedzie na delegację do Krakowa. Pomyliła się? A może kłamała? Zrozpaczony mężczyzna wyrusza w podróż, aby rozwiązać zagadkę jej śmierci. Wkrótce trafia na trop niejakiego Wojnara – aktora, którego podejrzewa o romans ze zmarłą żoną. Od tego momentu pytania zaczynają się mnożyć, a tragedia zmienia się w skomplikowaną zagadkę. Maciej dochodzi do wniosku, że być może w ogóle nie znał kobiety, którą poślubił…",
+"overviewEn": "A mysterious car accident changes Maciek's life completely. His wife Janina dies in the incident. Most likely, the woman committed suicide. However, Maciej has no idea why the accident happened near Mragowo, since Janina said she was going on a business trip to Krakow. She made a mistake? Or was she lying? A distraught man embarks on a journey to solve the mystery of her death. Soon he finds himself on the trail of a certain Wojnar - an actor whom he suspects of having an affair with his late wife. From that moment, questions begin to multiply, and the tragedy turns into a complicated mystery. Maciej comes to the conclusion that perhaps he did not know the woman he married at all.",
+"popularity": 0.4,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 244
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Wyrwa",
+"titleEn": "Breached",
+"tmdbId": 1073865,
+"trailerKey": "hu3B63xOQXA"
 },
 "canalplus:movie:1075352:sub": {
 "access": "sub",
@@ -6351,6 +6677,42 @@
 "titleEn": "The Amateur",
 "tmdbId": 1087891,
 "trailerKey": "BMKiMFkisTY"
+},
+"canalplus:movie:1090122:paid": {
+"access": "paid",
+"backdropPath": "/nvynQmvgtJAJzjpE98eFnchNTTI.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1090122:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Znakomicie zapowiadająca się skrzypaczka filharmonii i jej mąż, ambitny dziennikarz lokalnego radia, przechodzą kryzys małżeński. Przez narastające problemy i ciągły brak pieniędzy Dominika zaczyna się interesować bogatym biznesmenem, a Robert nie radzi sobie z rozpadem rodziny. Gdy dostaje od szefa zadanie opowiedzenia niecodziennych historii pielgrzymów przybywających do pobliskiego sanktuarium św. Józefa, twierdzących, że przydarzył im się cud, odkrywa, że także jego historia ma wiele wspólnego z milczącym opiekunem Świętej Rodziny. Czy w kulminacyjnym momencie, gdy będzie musiał podjąć decyzję, która zaważy na losach jego rodziny, zachowa się jak... św. Józef? Opiekun to film z elementami dokumentu, w którym oparta na faktach historia rodzinna Roberta i Dominiki staje się pretekstem do głębszej opowieści o ewangelicznej postaci ziemskiego opiekuna Jezusa i roli, jaką odegrał w życiu wielu współczesnych ludzi.",
+"overviewEn": "Ambitious violinist Dominika and her journalist husband Robert face a marriage in crisis - she’s drawn to a wealthy businessman, while he struggles to keep their family together. Assigned to report on miraculous pilgrim testimonies at the shrine of St. Joseph, Robert uncovers parallels between his own life and the silent protector of the Holy Family. As he reaches a crossroads that will decide his family’s fate, he must ask himself: can he rise to become a modern-day St. Joseph?",
+"popularity": 0.88,
+"ratings": {
+"imdb": 4.9,
+"imdbVotes": 40
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Opiekun",
+"titleEn": null,
+"tmdbId": 1090122,
+"trailerKey": "33vMjxfos0E"
 },
 "canalplus:movie:109424:paid": {
 "access": "paid",
@@ -7343,6 +7705,82 @@
 "tmdbId": 1128752,
 "trailerKey": "1PFnYr3dm1Y"
 },
+"canalplus:movie:1129104:paid": {
+"access": "paid",
+"backdropPath": "/6t9nSqZpD1mlT9DLugyZNmC3SsQ.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1129104:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+12,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Przygody 11-letniej Flavii de Luce, która jest zarówno detektywem-amatorem, jak i mistrzynią trucicielstwa. Kiedy odkrywa zwłoki w podupadającym brytyjskim dworze swojej rodziny, a jej ojciec zostaje oskarżony o morderstwo, Flavia rozpoczyna własne śledztwo, aby odkryć rodzinne sekrety i doprowadzić prawdziwego mordercę przed oblicze sprawiedliwości.",
+"overviewEn": "The adventures of 11-year-old Flavia de Luce, who is both an amateur detective and a master poisoner. When she discovers a dead body in her family’s decaying British manor house and her father is accused of the murder, Flavia launches her own investigation to uncover family secrets and bring the true murderer to justice.",
+"popularity": 5.38,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 655
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Flavia",
+"titleEn": null,
+"tmdbId": 1129104,
+"trailerKey": "IXZMB2cSnls"
+},
+"canalplus:movie:1129104:sub": {
+"access": "sub",
+"backdropPath": "/6t9nSqZpD1mlT9DLugyZNmC3SsQ.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-07",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1129104:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+12,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Przygody 11-letniej Flavii de Luce, która jest zarówno detektywem-amatorem, jak i mistrzynią trucicielstwa. Kiedy odkrywa zwłoki w podupadającym brytyjskim dworze swojej rodziny, a jej ojciec zostaje oskarżony o morderstwo, Flavia rozpoczyna własne śledztwo, aby odkryć rodzinne sekrety i doprowadzić prawdziwego mordercę przed oblicze sprawiedliwości.",
+"overviewEn": "The adventures of 11-year-old Flavia de Luce, who is both an amateur detective and a master poisoner. When she discovers a dead body in her family’s decaying British manor house and her father is accused of the murder, Flavia launches her own investigation to uncover family secrets and bring the true murderer to justice.",
+"popularity": 5.38,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 655
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Flavia",
+"titleEn": null,
+"tmdbId": 1129104,
+"trailerKey": "IXZMB2cSnls"
+},
 "canalplus:movie:1129676:sub": {
 "access": "sub",
 "backdropPath": "/y9BIZMDTffD67EaloEhSzuiZlDc.jpg",
@@ -7906,7 +8344,7 @@
 },
 "canalplus:movie:1165366:paid": {
 "access": "paid",
-"backdropPath": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+"backdropPath": "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
 "confirmedAt": "2026-11-07T19:24:27Z",
 "date": "2026-11-06",
 "dateConfirmed": true,
@@ -7945,7 +8383,7 @@
 },
 "canalplus:movie:1165366:sub": {
 "access": "sub",
-"backdropPath": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+"backdropPath": "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
 "confirmedAt": "2026-11-07T19:24:27Z",
 "date": "2026-11-07",
 "dateConfirmed": true,
@@ -13651,7 +14089,7 @@
 "ratings": {
 "imdb": 5.9,
 "imdbVotes": 5310,
-"tmdb": 6.4
+"tmdb": 6.3
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
@@ -14365,6 +14803,81 @@
 "titleEn": "Stolen Children",
 "tmdbId": 1583382,
 "trailerKey": "J1Bnn7ZWWAc"
+},
+"canalplus:movie:1586876:paid": {
+"access": "paid",
+"backdropPath": "/rVOll8XOde5BuIF4tGO1q0pfngQ.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1586876:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+10751,
+12
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Chiikawa and friends set off on a whimsical summer adventure to a mysterious island said to hide a long-lost mermaid secret. What starts as a fun getaway quickly turns into a heartwarming journey filled with surprises, gentle thrills, and adorable chaos. With sparkling seas, strange legends, and unforgettable encounters, the trio learns about courage, friendship, and the magic hidden in small moments.",
+"overviewEn": "Chiikawa and friends set off on a whimsical summer adventure to a mysterious island said to hide a long-lost mermaid secret. What starts as a fun getaway quickly turns into a heartwarming journey filled with surprises, gentle thrills, and adorable chaos. With sparkling seas, strange legends, and unforgettable encounters, the trio learns about courage, friendship, and the magic hidden in small moments.",
+"popularity": 5.25,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 895
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "映画ちいかわ 人魚の島のひみつ",
+"titleEn": "Chiikawa the Movie: The Secret of the Mermaid Island",
+"tmdbId": 1586876,
+"trailerKey": null
+},
+"canalplus:movie:159065:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:159065:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Autumn, 1941. Tito's partisans are ordered to attack a railway network system used by the Germans, their Bulgarian allies and local collaborators. A bloody battle ensues.",
+"overviewEn": "Autumn, 1941. Tito's partisans are ordered to attack a railway network system used by the Germans, their Bulgarian allies and local collaborators. A bloody battle ensues.",
+"popularity": 0.49,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 206
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Operacja Barbarossa",
+"titleEn": "The South Railway Battle",
+"tmdbId": 159065,
+"trailerKey": null
 },
 "canalplus:movie:1594914:sub": {
 "access": "sub",
@@ -15970,6 +16483,43 @@
 "titleEn": "Training Day",
 "tmdbId": 2034,
 "trailerKey": "VQ-SCoyUwfg"
+},
+"canalplus:movie:203872:paid": {
+"access": "paid",
+"backdropPath": "/9mhiWYXjggkfE8ENqC3fHFe2ul0.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:203872:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Bohaterem każdej z czterech opowieści jest inny mężczyzna, który staje przed dylematem moralnym. Adiunkt polonistki odkrywa, że kocha go studentka. Ksiądz dowiaduje się, że ma córkę. Pułkownik musi wybrać między uczuciem a karierą. Oszukany przez żonę złodziej jest świadkiem w jej procesie...",
+"overviewEn": "Jerzy Stuhr scripted, directed and plays four roles in this Polish comedy about four men -- an army officer, a college instructor, a priest, and a drug dealer -- and their relationships with four females. An attractive student puts the teacher in an awkward spot when she reveals her love for him. An 11-year-old informs the priest that she's his daughter. The army officer is pleased when confronted by a past lover. The drug dealer, taken prisoner, must decide whether or not to trust his wife with his hidden loot. In the wrap-up, the elderly accountant passes judgment on all four men. Stuhr acted in films by the late Krzysztof Kieslowski, who had some input here by offering advice to Stuhr on this screenplay.",
+"popularity": 1.17,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 594
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Historie miłosne",
+"titleEn": "Love Stories",
+"tmdbId": 203872,
+"trailerKey": null
 },
 "canalplus:movie:2057:paid": {
 "access": "paid",
@@ -18729,6 +19279,82 @@
 "titleEn": "Scream",
 "tmdbId": 4232,
 "trailerKey": "U0LETmDvuXc"
+},
+"canalplus:movie:4233:paid": {
+"access": "paid",
+"backdropPath": "/lVmcX3hlJqsUGkEOEZkRFiOQdLv.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:4233:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Podczas kinowej premiery filmu \"Cios\" zamaskowany osobnik morduje parę nastolatków. O całej sprawie dowiaduje się mieszkająca na terenie kampusu koledżu Sidney Prescott (Neve Campbell), która dwa lata temu przeżyła podobny atak. Dziewczyna boi się, że koszmar powróci i przerwie jej szczęśliwe życie z przyjaciółką Hallie (Elise Neal), chłopakiem Derekiem (Jerry O'Connell), nieco szurniętym przyjacielem Mickey'em (Timothy Olyphant) oraz kolegą Randym (Jamie Kennedy). Niedługo potem do jej koledżu przybywają reporterka Gale Wheaters (Courteney Cox) oraz porucznik Dewey (David Arquette), którzy tak jak Sidney przeżyli atak morderców. Odkrywają, że zabójca wzoruje się na mordercach z Woodsbooro. Sidney wie, że niedługo ponownie będzie musiała stawić czoło koszmarowi...",
+"overviewEn": "Two years after the Woodsboro murders, Sidney Prescott acclimates to college life while someone donning the Ghostface costume begins a new string of killings.",
+"popularity": 8.28,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 242797,
+"tmdb": 6.5
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Krzyk 2",
+"titleEn": "Scream 2",
+"tmdbId": 4233,
+"trailerKey": "C-j2TLBmTBY"
+},
+"canalplus:movie:4233:sub": {
+"access": "sub",
+"backdropPath": "/lVmcX3hlJqsUGkEOEZkRFiOQdLv.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:4233:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Podczas kinowej premiery filmu \"Cios\" zamaskowany osobnik morduje parę nastolatków. O całej sprawie dowiaduje się mieszkająca na terenie kampusu koledżu Sidney Prescott (Neve Campbell), która dwa lata temu przeżyła podobny atak. Dziewczyna boi się, że koszmar powróci i przerwie jej szczęśliwe życie z przyjaciółką Hallie (Elise Neal), chłopakiem Derekiem (Jerry O'Connell), nieco szurniętym przyjacielem Mickey'em (Timothy Olyphant) oraz kolegą Randym (Jamie Kennedy). Niedługo potem do jej koledżu przybywają reporterka Gale Wheaters (Courteney Cox) oraz porucznik Dewey (David Arquette), którzy tak jak Sidney przeżyli atak morderców. Odkrywają, że zabójca wzoruje się na mordercach z Woodsbooro. Sidney wie, że niedługo ponownie będzie musiała stawić czoło koszmarowi...",
+"overviewEn": "Two years after the Woodsboro murders, Sidney Prescott acclimates to college life while someone donning the Ghostface costume begins a new string of killings.",
+"popularity": 8.28,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 242797,
+"tmdb": 6.5
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Krzyk 2",
+"titleEn": "Scream 2",
+"tmdbId": 4233,
+"trailerKey": "C-j2TLBmTBY"
 },
 "canalplus:movie:425274:sub": {
 "access": "sub",
@@ -28490,6 +29116,44 @@
 "tmdbId": 1043870,
 "trailerKey": "UBosYy-Qz8g"
 },
+"cda:movie:1073865:free": {
+"access": "free",
+"backdropPath": "/c0gXhSGO22BnRi7WoXtYK69AthB.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1073865:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tajemniczy wypadek samochodowy zmienia całkowicie życie Maćka. W zdarzeniu ginie jego żona Janina. Najprawdopodobniej kobieta popełniła samobójstwo. Maciej nie ma jednak pojęcia, dlaczego do wypadku doszło pod Mrągowem, skoro Janina powiedziała, że jedzie na delegację do Krakowa. Pomyliła się? A może kłamała? Zrozpaczony mężczyzna wyrusza w podróż, aby rozwiązać zagadkę jej śmierci. Wkrótce trafia na trop niejakiego Wojnara – aktora, którego podejrzewa o romans ze zmarłą żoną. Od tego momentu pytania zaczynają się mnożyć, a tragedia zmienia się w skomplikowaną zagadkę. Maciej dochodzi do wniosku, że być może w ogóle nie znał kobiety, którą poślubił…",
+"overviewEn": "A mysterious car accident changes Maciek's life completely. His wife Janina dies in the incident. Most likely, the woman committed suicide. However, Maciej has no idea why the accident happened near Mragowo, since Janina said she was going on a business trip to Krakow. She made a mistake? Or was she lying? A distraught man embarks on a journey to solve the mystery of her death. Soon he finds himself on the trail of a certain Wojnar - an actor whom he suspects of having an affair with his late wife. From that moment, questions begin to multiply, and the tragedy turns into a complicated mystery. Maciej comes to the conclusion that perhaps he did not know the woman he married at all.",
+"popularity": 0.4,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 244
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Wyrwa",
+"titleEn": "Breached",
+"tmdbId": 1073865,
+"trailerKey": "hu3B63xOQXA"
+},
 "cda:movie:1079311:paid": {
 "access": "paid",
 "backdropPath": "/gF46j4Lv1FaKHfhuSAMY5OSyO3o.jpg",
@@ -28719,6 +29383,44 @@
 "titleEn": "Libres",
 "tmdbId": 1107264,
 "trailerKey": "uUAaUwfLUhE"
+},
+"cda:movie:11340:free": {
+"access": "free",
+"backdropPath": "/3aClURRSl7ujSTgOCXqJOzGPIQD.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:11340:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Przedsiębiorczy Bananowy Joe (Bud Spencer) żyje beztrosko na tropikalnej wyspie z dala od niedogodności współczesnej cywilizacji. Zarabia na życie, handlując nielegalnie bananami. Nie ma nawet dowodu osobistego ani ważnej licencji na prowadzenie działalności. Pewnego dnia Joe dowiaduje się, że kontrola nad tym sektorem gospodarki niebawem zostanie przejęta przez członków lokalnej mafii. Gangsterzy zaczynają również budowę kasyna. Joe postanawia do tego nie dopuścić.",
+"overviewEn": "Island farmer Banana Joe helps the local community by trading his bananas for goods. When gangsters arrive with plans to construct a banana processing plant, Joe kicks them out, but the mob boss discovers that Joe is operating without a license. After the mob tips off the authorities and Joe's boat is impounded, he ventures into a big city for the first time to seek help.",
+"popularity": 1.78,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 9942,
+"tmdb": 6.7
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Bananowy Joe",
+"titleEn": "Banana Joe",
+"tmdbId": 11340,
+"trailerKey": "pE3gD4ihsWA"
 },
 "cda:movie:1134801:paid": {
 "access": "paid",
@@ -29013,6 +29715,45 @@
 "titleEn": "Dreams",
 "tmdbId": 1228682,
 "trailerKey": "ijqwWwGdHZY"
+},
+"cda:movie:122930:free": {
+"access": "free",
+"backdropPath": "/kzjNkzcuhL2uElito95yoOaNkLU.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:122930:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+53,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Miarka się przebrała. Lorna (Gina Gershon), silna kobieta z Teksasu, ma dosyć wybryków swojego męża Dale'a (Val Kilmer). Skończyła się jej tolerancja wobec jego zdrad, kłamstw oraz wiecznych kłopotów z prawem. Lorna zwraca się o pomoc w pozbyciu się \"wrzoda\" do swojej przyjaciółki Tiny (Kelli Giddish). Dziewczyny organizują burzę mózgów, obficie wspomagając swoją kreatywność środkiem stymulującym w postaci whisky. To przełomowy wieczór, po którym na scenę wkracza szeryf Cooley (Ray Liotta), akcja dokonuje zaskakującej wolty i zaczyna się prawdziwa jazda bez trzymanki.  [opis dystrybutora dvd]",
+"overviewEn": "Lorna is a strong-willed Texas woman who’s had enough of her untrustworthy husband Dale’s criminal acts and lack of husbandry. Fed up, she enlists the help of her old friend, Tiny, to help her figure out what to do with Dale after his latest double-cross involving the theft of $100,000 from a bank.",
+"popularity": 1.39,
+"ratings": {
+"imdb": 5.2,
+"imdbVotes": 1956,
+"tmdb": 5.9
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Bez Tchu",
+"titleEn": "Breathless",
+"tmdbId": 122930,
+"trailerKey": "0qTRxvzJxeY"
 },
 "cda:movie:1239478:paid": {
 "access": "paid",
@@ -29567,6 +30308,44 @@
 "tmdbId": 1356875,
 "trailerKey": null
 },
+"cda:movie:137145:sub": {
+"access": "sub",
+"backdropPath": "/tIHNc6240dif2H8lzsuahPTCvxo.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:137145:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Po tragicznych przeżyciach z przeszłości, najlepsze przyjaciółki Jenna (Scout Taylor-Compton) i Renee (Christina Ulloa) udają się do chatki nad jeziorem, by w końcu porządnie się zabawić i zrelaksować. Towarzysz im Michael (Michael Copon) oraz Ian (Travis Van Winkle). Beztroski weekend zamienia się jednak w koszmar, kiedy zostają zamknięci w gorącej saunie. Początkowo myślą, że to dowcip Michaela, lecz gdy pomoc nie nadchodzi, a temperatura wzrasta z minuty na minutę, rozpoczyna się walka o życie.",
+"overviewEn": "Four friends travel to a lakeside cabin for a carefree weekend, but the fun turns into a nightmare when 3 of them end up locked in a hot sauna. Every minute counts and every degree matters as they fight for their lives in the heat up to 247°F.",
+"popularity": 1.87,
+"ratings": {
+"imdb": 4.8,
+"imdbVotes": 7515,
+"tmdb": 5.5
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "247°F",
+"titleEn": null,
+"tmdbId": 137145,
+"trailerKey": "0X08so-BfFA"
+},
 "cda:movie:13752:paid": {
 "access": "paid",
 "backdropPath": "/ji8AsF2vqsg88LzbOXakGGbRXSC.jpg",
@@ -29798,6 +30577,44 @@
 "titleEn": "The Heir Apparent: Largo Winch",
 "tmdbId": 14400,
 "trailerKey": "swgom5tFwWI"
+},
+"cda:movie:14536:free": {
+"access": "free",
+"backdropPath": "/tZF23SGsjhvzZvtorHLni1BcYYs.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:14536:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Lucy Hill (Renée Zellweger) to ambitna i dobrze rokująca menadżerka z Miami. Uwielbia eleganckie obuwie, piękne samochody, kocha wspinać się po szczeblach kariery. Kiedy pewnego razu dostaje propozycję tymczasowej pracy w odległym i odludnym miejscu, gdzie trzeba przeprowadzić restrukturyzację zakładu przemysłowego, bez wahania podejmuje wyzwanie, według niej będące przyczyną kolejnego awansu. To co z początku jest tylko kolejnym zawodowym zadaniem, staje się wkrótce wielkim życiowym doświadczeniem, dzięki któremu Lucy zaczyna bardziej doceniać własne życie i poznaje mężczyznę swoich marzeń (w tej roli Harry Connick, Jr.).",
+"overviewEn": "Lucy Hill is an ambitious up-and-coming executive living in Miami. She loves her shoes, her cars, and climbing the corporate ladder. When she is offered a temporary assignment — in the middle of nowhere — to restructure a manufacturing plant, she jumps at the opportunity, knowing that a big promotion is close at hand. What begins as a straightforward assignment becomes a life-changing experience as Lucy discovers greater meaning in her life and, most unexpectedly, the man of her dreams.",
+"popularity": 1.86,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 26835,
+"tmdb": 5.8
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Za jakie grzechy",
+"titleEn": "New in Town",
+"tmdbId": 14536,
+"trailerKey": "_K_JXt8qJqU"
 },
 "cda:movie:1466013:paid": {
 "access": "paid",
@@ -30442,6 +31259,43 @@
 "titleEn": "The Fifth Estate",
 "tmdbId": 162903,
 "trailerKey": "lnHSCgq-HdM"
+},
+"cda:movie:1629051:sub": {
+"access": "sub",
+"backdropPath": "/o73vpmtXq89bfSUMcAulLVN4TKP.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1629051:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Airi jest medium i jeździ po Japonii pomagając zagubionym duszom przejść na drugą stronę, a przerażonym żywym pozbyć się duchów. Kolejne zlecenie wydaje się rutynowe jednak na miejscu wszystko idzie nie tak, jak powinno...",
+"overviewEn": "A traveling psychic who helps lost souls cross over encounters a powerful entity at a remote house. While investigating its origins, she uncovers dark secrets and faces a deadly threat from an unexpected source.",
+"popularity": 70.86,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 2358,
+"tmdb": 7.1
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Krzyki w ciemności",
+"titleEn": "Never After Dark",
+"tmdbId": 1629051,
+"trailerKey": "fu33xTw654A"
 },
 "cda:movie:16353:paid": {
 "access": "paid",
@@ -31318,6 +32172,82 @@
 "tmdbId": 24810,
 "trailerKey": "SDt5q523UJs"
 },
+"cda:movie:249941:paid": {
+"access": "paid",
+"backdropPath": "/4H9YDZD1v4aV4FpbHBFha2irmU8.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:249941:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Martin leaves his protective parents’ home and comes to Berlin as a law student with high hopes. He finds a tiny, run-down flat in a strange, dark apartment block, from which the previous tenant has disappeared without a trace. Having no luck with social contacts at the university, Martin quickly falls for his mysterious landlady Simone, who lives just next door behind a thin wall. Hoping to find trust and intimacy, Martin loses himself in the house’s disturbing world of sex and violence. Deep in the walls, Martin discovers the true horror of his first love.",
+"overviewEn": "Martin leaves his protective parents’ home and comes to Berlin as a law student with high hopes. He finds a tiny, run-down flat in a strange, dark apartment block, from which the previous tenant has disappeared without a trace. Having no luck with social contacts at the university, Martin quickly falls for his mysterious landlady Simone, who lives just next door behind a thin wall. Hoping to find trust and intimacy, Martin loses himself in the house’s disturbing world of sex and violence. Deep in the walls, Martin discovers the true horror of his first love.",
+"popularity": 0.96,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 557,
+"tmdb": 4.9
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Die Frau hinter der Wand",
+"titleEn": "To Die For",
+"tmdbId": 249941,
+"trailerKey": "sHXI2kRpwGE"
+},
+"cda:movie:249941:sub": {
+"access": "sub",
+"backdropPath": "/4H9YDZD1v4aV4FpbHBFha2irmU8.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:249941:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Martin leaves his protective parents’ home and comes to Berlin as a law student with high hopes. He finds a tiny, run-down flat in a strange, dark apartment block, from which the previous tenant has disappeared without a trace. Having no luck with social contacts at the university, Martin quickly falls for his mysterious landlady Simone, who lives just next door behind a thin wall. Hoping to find trust and intimacy, Martin loses himself in the house’s disturbing world of sex and violence. Deep in the walls, Martin discovers the true horror of his first love.",
+"overviewEn": "Martin leaves his protective parents’ home and comes to Berlin as a law student with high hopes. He finds a tiny, run-down flat in a strange, dark apartment block, from which the previous tenant has disappeared without a trace. Having no luck with social contacts at the university, Martin quickly falls for his mysterious landlady Simone, who lives just next door behind a thin wall. Hoping to find trust and intimacy, Martin loses himself in the house’s disturbing world of sex and violence. Deep in the walls, Martin discovers the true horror of his first love.",
+"popularity": 0.96,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 557,
+"tmdb": 4.9
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Die Frau hinter der Wand",
+"titleEn": "To Die For",
+"tmdbId": 249941,
+"trailerKey": "sHXI2kRpwGE"
+},
 "cda:movie:254172:paid": {
 "access": "paid",
 "backdropPath": "/858cbEQUEwAceAZCtFXsFDcfwzB.jpg",
@@ -32157,6 +33087,45 @@
 "titleEn": "1 Mile To You",
 "tmdbId": 342472,
 "trailerKey": "LFB0NqjfpBo"
+},
+"cda:movie:348668:sub": {
+"access": "sub",
+"backdropPath": "/vDSDu2okecJy1gcmPf26bJBMhhV.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:348668:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Detektyw Carl (Nikolaj Lie Kaas) i jego pomocnik Assad (Fares Fares) z Departamentu Q nie raz już udowodnili, że nie ma czegoś takiego jak sprawy, których nie da się rozwiązać. W ich ręce trafia zamknięta w butelce tajemnicza wiadomość. Tekst liczy sobie 8 lat, a całość napisana jest dziecięcym pismem przy pomocy ludzkiej krwi. Carl i Assad trafiają na trop grupy religijnych fanatyków, którzy nigdy nie zgłosili zaginięć swoich podopiecznych. Detektywi rozpoczynają śmiertelnie niebezpieczną grę z psychopatycznym mordercą, który wystawi wiarę bogobojnych rodziców na najwyższą próbę.",
+"overviewEn": "Denmark, 2016. A blurred note is found in a bottle that has traveled across the ocean for a long time. After deciphering the cryptic note, Department Q follow a sinister trail that leads them to investigate a case that occurred in 2008. At the same time, new tragic events take place that test their faith and deepest beliefs.",
+"popularity": 3.04,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 25216,
+"tmdb": 6.9
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Wybawienie",
+"titleEn": "A Conspiracy of Faith",
+"tmdbId": 348668,
+"trailerKey": null
 },
 "cda:movie:348675:sub": {
 "access": "sub",
@@ -33108,6 +34077,84 @@
 "tmdbId": 451646,
 "trailerKey": null
 },
+"cda:movie:454626:paid": {
+"access": "paid",
+"backdropPath": "/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:454626:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+878,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Najszybsze na świecie, pewne siebie i nieco bezczelne humanoidalne stworzenie przeżywa kolejne przygody na Ziemi. Sonic, będąc jeszcze dzieckiem, przyciąga niechcianą uwagę na swoje nadprzyrodzone zdolności. Wkrótce staje się ofiarą zamaskowanych napastników. To wydarzenie sprawia, że mały niebieski jeż z pomocą swojej opiekunki oraz z sakiewką magicznych pierścieni udaje się na inną planetę. Poznaje tam nowego przyjaciela, Toma Wachowskiego, z którym łączy siły, aby powstrzymać złego geniusza, doktora Robotnika, chcącego schwytać potężnego Sonica i zagarnąć jego niezwykłe moce do zdobycia władzy nad światem.",
+"overviewEn": "Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.",
+"popularity": 12.36,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 197994,
+"tmdb": 7.3
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Sonic. Szybki jak błyskawica",
+"titleEn": "Sonic the Hedgehog",
+"tmdbId": 454626,
+"trailerKey": "Bd-XIkNAFJk"
+},
+"cda:movie:454626:sub": {
+"access": "sub",
+"backdropPath": "/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:454626:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+878,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Najszybsze na świecie, pewne siebie i nieco bezczelne humanoidalne stworzenie przeżywa kolejne przygody na Ziemi. Sonic, będąc jeszcze dzieckiem, przyciąga niechcianą uwagę na swoje nadprzyrodzone zdolności. Wkrótce staje się ofiarą zamaskowanych napastników. To wydarzenie sprawia, że mały niebieski jeż z pomocą swojej opiekunki oraz z sakiewką magicznych pierścieni udaje się na inną planetę. Poznaje tam nowego przyjaciela, Toma Wachowskiego, z którym łączy siły, aby powstrzymać złego geniusza, doktora Robotnika, chcącego schwytać potężnego Sonica i zagarnąć jego niezwykłe moce do zdobycia władzy nad światem.",
+"overviewEn": "Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.",
+"popularity": 12.36,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 197994,
+"tmdb": 7.3
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Sonic. Szybki jak błyskawica",
+"titleEn": "Sonic the Hedgehog",
+"tmdbId": 454626,
+"trailerKey": "Bd-XIkNAFJk"
+},
 "cda:movie:464818:sub": {
 "access": "sub",
 "backdropPath": "/7q2vGF327XKHMfzyYZheK4nHvUs.jpg",
@@ -33677,6 +34724,84 @@
 "tmdbId": 574852,
 "trailerKey": null
 },
+"cda:movie:585245:paid": {
+"access": "paid",
+"backdropPath": "/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:585245:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+12,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Ośmioletnia dziewczynka, Emily Elizabeth marzy o tym, aby jej maleńki, czerwony szczeniak urósł i był silny, nie spodziewa się jednak, że budząc się pewnego ranka znajdzie wielkiego psa w swoim małym mieszkaniu w Nowym Jorku. Emily za wszelką cenę chce, aby ukochany zwierzak został z nią. Postanawia znaleźć czarodzieja, który, przywróci Clifforda do normalnego rozmiaru. Na poszukiwania udaje się ze swoim wujem Caseyem i szkolnym kolegą Owenem. Clifford wzbudza powszechne zaciekawienie. Przyciąga również uwagę złego naukowca, który chce aby Clifford został jego psem.",
+"overviewEn": "As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.",
+"popularity": 4.9,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 19460,
+"tmdb": 7.1
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Clifford. Wielki czerwony pies",
+"titleEn": "Clifford the Big Red Dog",
+"tmdbId": 585245,
+"trailerKey": "PsE3aHTkQYk"
+},
+"cda:movie:585245:sub": {
+"access": "sub",
+"backdropPath": "/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:585245:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+12,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Ośmioletnia dziewczynka, Emily Elizabeth marzy o tym, aby jej maleńki, czerwony szczeniak urósł i był silny, nie spodziewa się jednak, że budząc się pewnego ranka znajdzie wielkiego psa w swoim małym mieszkaniu w Nowym Jorku. Emily za wszelką cenę chce, aby ukochany zwierzak został z nią. Postanawia znaleźć czarodzieja, który, przywróci Clifforda do normalnego rozmiaru. Na poszukiwania udaje się ze swoim wujem Caseyem i szkolnym kolegą Owenem. Clifford wzbudza powszechne zaciekawienie. Przyciąga również uwagę złego naukowca, który chce aby Clifford został jego psem.",
+"overviewEn": "As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.",
+"popularity": 4.9,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 19460,
+"tmdb": 7.1
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Clifford. Wielki czerwony pies",
+"titleEn": "Clifford the Big Red Dog",
+"tmdbId": 585245,
+"trailerKey": "PsE3aHTkQYk"
+},
 "cda:movie:585642:paid": {
 "access": "paid",
 "backdropPath": "/cE3FRahHySEDMAcMmkJ7F2tPsCE.jpg",
@@ -34172,6 +35297,45 @@
 "tmdbId": 6977,
 "trailerKey": "A0oNrgumrlE"
 },
+"cda:movie:714968:sub": {
+"access": "sub",
+"backdropPath": "/7KnevnlSUpxugkXZIBC5NmTVams.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:714968:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Niemcy, rok 1945. Pochodzącemu z żydowskiej rodziny Maksowi (August Diehl) udało się przetrwać Holokaust. Jest jednak cieniem człowieka, żyjącym traumą ostatnich lat. Pewnego dnia poznaje on grupę radykalnych bojowników, którzy podobnie jak on stracili wszystko, co mieli. Niemcy wymordowali bowiem ich bliskich i zabrali cały dobytek. Teraz ocalałym marzy się spektakularna zemsta za cierpienie całego narodu żydowskiego. W ich głowach rodzi się pomysł okrutnej akcji, której zasięg można by porównać z Holokaustem. Posługując się kryptonimem Plan A, grupa przygotowuje operację skażenia trucizną niemieckich wodociągów. Jej powodzenie mogłoby oznaczać śmierć 6 milionów obywateli znienawidzonego kraju. Zafascynowany tą misją Max coraz bardziej się z nią utożsamia. Film oparty na prawdziwej historii.",
+"overviewEn": "Germany 1945, Max, a Jewish Holocaust survivor, meets a radical group of Jewish resistance fighters, who, like him, lost all hope for their future after they were robbed of their existence and their entire families were killed by the Nazis. They dream of retaliation on an epic scale for the Jewish people. An eye for an eye, a tooth for a tooth. Max starts identifying with the group's monstrous plans...",
+"popularity": 1.75,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 2514,
+"tmdb": 6.2
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Plan A",
+"titleEn": null,
+"tmdbId": 714968,
+"trailerKey": "EFaJFKNnOZw"
+},
 "cda:movie:72784:paid": {
 "access": "paid",
 "backdropPath": "/1VVKplZXTgOzP0MF1PbX9Qzn8CA.jpg",
@@ -34283,6 +35447,44 @@
 "titleEn": null,
 "tmdbId": 751423,
 "trailerKey": null
+},
+"cda:movie:760204:sub": {
+"access": "sub",
+"backdropPath": "/cBNLVp6sDn9xoK8gZYBw1ycAjaD.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:760204:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Porucznik Kate Sinclair, pilot Królewskich Sił Powietrznych, odbywa ostatnią misję lotniczą, gdy jej odrzutowiec zostaje zestrzelony nad jedną z najniebezpieczniejszych twierdz rebeliantów w Afganistanie. Znajduje schronienie w opuszczonym podziemnym bunkrze, w którym budzą się śmiertelne, stworzone przez człowieka stworzenia znane jako Ravagers – pół-ludzie, pół-obcy i głodni ludzkiego mięsa.",
+"overviewEn": "Royal Air Force pilot Lt. Kate Sinclair is on her final flight mission when her jet is shot down over one of the most dangerous rebel strongholds in Afghanistan. She finds refuge in an abandoned underground bunker where deadly man-made creatures known as Ravagers — half-human, half-alien, and hungry for human flesh — are awakened.",
+"popularity": 2.06,
+"ratings": {
+"imdb": 4.6,
+"imdbVotes": 7069,
+"tmdb": 5.6
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Narodziny zła",
+"titleEn": "The Lair",
+"tmdbId": 760204,
+"trailerKey": "ebjFxaZfrQw"
 },
 "cda:movie:761190:paid": {
 "access": "paid",
@@ -34434,6 +35636,44 @@
 "tmdbId": 788940,
 "trailerKey": "anlN3krHVw8"
 },
+"cda:movie:802121:sub": {
+"access": "sub",
+"backdropPath": "/khKie13svIF1nL1a8A0D4XWlJTh.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:802121:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The ambitious scientist Franz Walter doesn't hesitate when he is promised a professorship at the university. He immediately accepts, pledges absolute loyalty to the system and agrees to work for the GDR's foreign intelligence service until he can take up his new position. Together with his colleague Dirk, he is sent on foreign assignments to West Germany. Franz soon has to use blackmail to get innocent people to talk. But his superiors go even further: GDR refugees and their relatives are targeted to be psychologically destroyed, forged letters, medical diagnoses, surveillance and wiretapping are on the agenda. However, this is more than Franz can bear: he feels powerless and increasingly isolates himself. When he then decides to steal secret documents for a later defection to the West, this results in an unfortunate chain reaction leading to his arrest and ultimately to his execution...",
+"overviewEn": "The ambitious scientist Franz Walter doesn't hesitate when he is promised a professorship at the university. He immediately accepts, pledges absolute loyalty to the system and agrees to work for the GDR's foreign intelligence service until he can take up his new position. Together with his colleague Dirk, he is sent on foreign assignments to West Germany. Franz soon has to use blackmail to get innocent people to talk. But his superiors go even further: GDR refugees and their relatives are targeted to be psychologically destroyed, forged letters, medical diagnoses, surveillance and wiretapping are on the agenda. However, this is more than Franz can bear: he feels powerless and increasingly isolates himself. When he then decides to steal secret documents for a later defection to the West, this results in an unfortunate chain reaction leading to his arrest and ultimately to his execution...",
+"popularity": 0.62,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 1774,
+"tmdb": 6.2
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Ostatnia egzekucja",
+"titleEn": "The Last Execution",
+"tmdbId": 802121,
+"trailerKey": null
+},
 "cda:movie:80280:paid": {
 "access": "paid",
 "backdropPath": "/zxPri7LbVdvdwAroeoUp5EXAse1.jpg",
@@ -34470,6 +35710,37 @@
 "titleEn": "[REC]³ Genesis",
 "tmdbId": 80280,
 "trailerKey": "NQckiIgNezw"
+},
+"cda:movie:807680:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:807680:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "El 30-30",
+"titleEn": null,
+"tmdbId": 807680,
+"trailerKey": null
 },
 "cda:movie:82390:paid": {
 "access": "paid",
@@ -34732,6 +36003,45 @@
 "titleEn": "An Unfinished Film",
 "tmdbId": 878607,
 "trailerKey": "2YycBG8PyTw"
+},
+"cda:movie:910365:sub": {
+"access": "sub",
+"backdropPath": "/c2uZuqjdt2KjkoRz1AgNCwZ7ung.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:910365:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+10752,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Berlin, 20 stycznia 1942 roku. Nazistowscy oficjele stawiają się na zgromadzenie w willi przy Großer Wannsee 56/58, aby przy śniadaniu rozważyć kwestię ostatecznego rozwiązania kwestii żydowskiej.",
+"overviewEn": "On January 20, 1942, the Wannsee Conference takes place in Berlin, a meeting that had only one item on the agenda: The Final Solution, the organization of the systematic mass murder of eleven million European Jews.",
+"popularity": 1.66,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 5826,
+"tmdb": 6.7
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Konferencja w Wannsee",
+"titleEn": "The Conference",
+"tmdbId": 910365,
+"trailerKey": "52fRAzmjJoQ"
 },
 "cda:movie:950792:paid": {
 "access": "paid",
@@ -35446,6 +36756,39 @@
 "allEpisodes": false,
 "episodeFrom": 2,
 "episodeTo": 2,
+"genres": [
+99
+],
+"kind": "doc_series",
+"season": 4,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Srial opowiada historie operacji ratujących życie, które mały miejsce w Szpitalu Uniwersyteckim w Birmingham. Poczynania chirurgów udokumentowano z niewielkiej odległości, dzięki czemu widzowie mają szansę przyjrzeć się ich fachowi i umiejętnościom. Program zwraca uwagę na wysoko wykwalifikowane zespoły, które każdego dnia ratują życia swoich pacjentów. W każdym z odcinków przedstawiono ciężkie przypadki, które często wymagają",
+"overviewEn": "Remarkable life-saving operations and extraordinary stories of surgical skill.",
+"popularity": 0.61,
+"ratings": null,
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "announced",
+"title": "Chirurdzy: kwestia życia i śmierci",
+"titleEn": "Surgeons: A Matter of Life or Death",
+"tmdbId": 231082,
+"trailerKey": "2rwNqPpujf8"
+},
+"cda:tv:231082:s4e3:sub": {
+"access": "sub",
+"backdropPath": "/rZNPOAJLqFu1VQsQxZOhHc66PzY.jpg",
+"confirmedAt": null,
+"date": "2026-11-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:tv:231082:s4e3:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 3,
+"episodeTo": 3,
 "genres": [
 99
 ],
@@ -36249,6 +37592,45 @@
 "tmdbId": 67106,
 "trailerKey": "Y8h005Bljlc"
 },
+"cda:tv:764:s26:sub": {
+"access": "sub",
+"backdropPath": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:tv:764:s26:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18,
+9648
+],
+"kind": "series",
+"season": 26,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Serial detektywistyczny tworzony przez brytyjską telewizję. Akcja rozgrywa się w na pozór spokojnym fikcyjnym hrabstwie Midsomer. Na pozór, gdyż często zdarzają się tam tajemnicze morderstwa. Serial opiera się na powieściach kryminalnych Caroline Graham, a pierwsze odcinki zostały zaadaptowane przez Anthony'ego Horowitza, który wymyślił też tytuł serialu.\n\nGłównym bohaterem serialu jest nadinspektor Tom Barnaby, który wraz ze swoim pomocnikiem stara się rozwiązać zawikłane sprawy morderstw w Midsomer.",
+"overviewEn": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+"popularity": 134.7,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 45226,
+"tmdb": 7.5
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Morderstwa w Midsomer",
+"titleEn": "Midsomer Murders",
+"tmdbId": 764,
+"trailerKey": "ym8b4UJDqcw"
+},
 "cda:tv:83524:s8e2:sub": {
 "access": "sub",
 "backdropPath": "/uvbiwdJ2Ja27O4G3kUOS0Uk7N5C.jpg",
@@ -36262,6 +37644,43 @@
 "allEpisodes": false,
 "episodeFrom": 2,
 "episodeTo": 2,
+"genres": [
+18
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Historia oparta na faktach. Rok 1952, brak wyszkolonego personelu zmusza mężczyzn do nauki w szkołach pielęgniarskich. Jak sobie poradzą w środowisku, w którym panują przestarzałe hierarchie i surowa dyscyplina?",
+"overviewEn": "The lives of Erik and Anna, students at a nursing school in 1950s Denmark, a time and place where it was not normal for a man to become a nurse.",
+"popularity": 15.59,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 1266,
+"tmdb": 8.0
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Pielęgniarki",
+"titleEn": "The New Nurses",
+"tmdbId": 83524,
+"trailerKey": null
+},
+"cda:tv:83524:s8e3:sub": {
+"access": "sub",
+"backdropPath": "/uvbiwdJ2Ja27O4G3kUOS0Uk7N5C.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:tv:83524:s8e3:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 3,
+"episodeTo": 3,
 "genres": [
 18
 ],
@@ -39061,7 +40480,7 @@
 "ratings": {
 "imdb": 7.8,
 "imdbVotes": 15039,
-"tmdb": 8.6
+"tmdb": 8.7
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -39762,7 +41181,7 @@
 },
 "disney:tv:279246:s1e1:sub": {
 "access": "sub",
-"backdropPath": "/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+"backdropPath": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
 "confirmedAt": "2026-11-05T13:10:07Z",
 "date": "2026-11-03",
 "dateConfirmed": true,
@@ -39787,7 +41206,8 @@
 "popularity": 196.36,
 "ratings": {
 "imdb": 7.9,
-"imdbVotes": 340
+"imdbVotes": 340,
+"tmdb": 7.7
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -39799,7 +41219,7 @@
 },
 "disney:tv:279246:s1e5:sub": {
 "access": "sub",
-"backdropPath": "/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+"backdropPath": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
 "confirmedAt": null,
 "date": "2026-11-11",
 "dateConfirmed": true,
@@ -39824,7 +41244,8 @@
 "popularity": 196.36,
 "ratings": {
 "imdb": 7.9,
-"imdbVotes": 340
+"imdbVotes": 340,
+"tmdb": 7.7
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -39836,7 +41257,7 @@
 },
 "disney:tv:279246:s1e7:sub": {
 "access": "sub",
-"backdropPath": "/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+"backdropPath": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
 "confirmedAt": null,
 "date": "2026-11-18",
 "dateConfirmed": true,
@@ -39861,7 +41282,8 @@
 "popularity": 196.36,
 "ratings": {
 "imdb": 7.9,
-"imdbVotes": 340
+"imdbVotes": 340,
+"tmdb": 7.7
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -39873,7 +41295,7 @@
 },
 "disney:tv:279246:s1e9:sub": {
 "access": "sub",
-"backdropPath": "/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+"backdropPath": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
 "confirmedAt": null,
 "date": "2026-11-25",
 "dateConfirmed": true,
@@ -39898,7 +41320,8 @@
 "popularity": 196.36,
 "ratings": {
 "imdb": 7.9,
-"imdbVotes": 340
+"imdbVotes": 340,
+"tmdb": 7.7
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -39910,7 +41333,7 @@
 },
 "disney:tv:279246:sub": {
 "access": "sub",
-"backdropPath": "/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+"backdropPath": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
 "confirmedAt": "2026-11-05T13:10:07Z",
 "date": "2026-11-05",
 "dateConfirmed": true,
@@ -39935,7 +41358,8 @@
 "popularity": 196.36,
 "ratings": {
 "imdb": 7.9,
-"imdbVotes": 340
+"imdbVotes": 340,
+"tmdb": 7.7
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -40318,7 +41742,7 @@
 "title": "Dragon Ball Super: Beerus",
 "titleEn": null,
 "tmdbId": 312359,
-"trailerKey": "iCD3Lf7Jf9o"
+"trailerKey": "lJMXyiENRAM"
 },
 "disney:tv:312359:s1e5:sub": {
 "access": "sub",
@@ -40357,7 +41781,7 @@
 "title": "Dragon Ball Super: Beerus",
 "titleEn": null,
 "tmdbId": 312359,
-"trailerKey": "iCD3Lf7Jf9o"
+"trailerKey": "lJMXyiENRAM"
 },
 "disney:tv:312359:s1e6:sub": {
 "access": "sub",
@@ -40396,7 +41820,7 @@
 "title": "Dragon Ball Super: Beerus",
 "titleEn": null,
 "tmdbId": 312359,
-"trailerKey": "iCD3Lf7Jf9o"
+"trailerKey": "lJMXyiENRAM"
 },
 "disney:tv:312359:s1e7:sub": {
 "access": "sub",
@@ -40435,7 +41859,7 @@
 "title": "Dragon Ball Super: Beerus",
 "titleEn": null,
 "tmdbId": 312359,
-"trailerKey": "iCD3Lf7Jf9o"
+"trailerKey": "lJMXyiENRAM"
 },
 "disney:tv:312359:s1e8:sub": {
 "access": "sub",
@@ -40474,7 +41898,7 @@
 "title": "Dragon Ball Super: Beerus",
 "titleEn": null,
 "tmdbId": 312359,
-"trailerKey": "iCD3Lf7Jf9o"
+"trailerKey": "lJMXyiENRAM"
 },
 "disney:tv:334887:s1e5:sub": {
 "access": "sub",
@@ -42459,7 +43883,7 @@
 "withAds": false
 },
 "origin": "schedule",
-"overview": "A young North Korean refugee fights to rebuild her life in fast-paced, hyper-modern South Korea, forcing her to confront the price of freedom and the past she left behind.",
+"overview": "Młoda uciekinierka z Korei Północnej trafia do Korei Południowej i próbuje odnaleźć się w nowym, zupełnie obcym świecie.",
 "overviewEn": "A young North Korean refugee fights to rebuild her life in fast-paced, hyper-modern South Korea, forcing her to confront the price of freedom and the past she left behind.",
 "popularity": 1.85,
 "ratings": {
@@ -42469,7 +43893,7 @@
 "serviceKey": "hbomax",
 "source": "tmdb",
 "status": "live",
-"title": "하나 코리아",
+"title": "Jedna Korea",
 "titleEn": "Hana Korea",
 "tmdbId": 1310677,
 "trailerKey": "vgD9NKGLm1s"
@@ -46570,8 +47994,84 @@
 "episodeFrom": 1,
 "episodeTo": 1,
 "genres": [
-18,
-80
+80,
+18
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Dwadzieścia lat po filmie City of God, Buscapé opowiada o tym, jak konflikty między policją, handlarzami i bojówkami wpłynęły na społeczność.",
+"overviewEn": "Twenty years after City of God, Buscapé recounts how conflicts between police, traffickers, and militias impacted the community.",
+"popularity": 8.86,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 2161,
+"tmdb": 7.7
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Miasto Boga: Walka trwa",
+"titleEn": "City of God: The Fight Rages On",
+"tmdbId": 223397,
+"trailerKey": "TmcoiA1iTYM"
+},
+"hbomax:tv:223397:s2e2:sub": {
+"access": "sub",
+"backdropPath": "/KvlbwzWi5ldhfPFRzOZy67rsKz.jpg",
+"confirmedAt": null,
+"date": "2026-11-16",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:223397:s2e2:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 2,
+"episodeTo": 2,
+"genres": [
+80,
+18
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Dwadzieścia lat po filmie City of God, Buscapé opowiada o tym, jak konflikty między policją, handlarzami i bojówkami wpłynęły na społeczność.",
+"overviewEn": "Twenty years after City of God, Buscapé recounts how conflicts between police, traffickers, and militias impacted the community.",
+"popularity": 8.86,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 2161,
+"tmdb": 7.7
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Miasto Boga: Walka trwa",
+"titleEn": "City of God: The Fight Rages On",
+"tmdbId": 223397,
+"trailerKey": "TmcoiA1iTYM"
+},
+"hbomax:tv:223397:s2e3:sub": {
+"access": "sub",
+"backdropPath": "/KvlbwzWi5ldhfPFRzOZy67rsKz.jpg",
+"confirmedAt": null,
+"date": "2026-11-23",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:223397:s2e3:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 3,
+"episodeTo": 3,
+"genres": [
+80,
+18
 ],
 "kind": "series",
 "season": 2,
@@ -49555,72 +51055,6 @@
 "tmdbId": 34634,
 "trailerKey": "ZxnqvqQN3Cs"
 },
-"hbomax:tv:45099:s33e10:sub": {
-"access": "sub",
-"backdropPath": "/bWLi7MqbA2iTcAUNb83o56mxQze.jpg",
-"confirmedAt": "2026-11-05T13:10:07Z",
-"date": "2026-11-05",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "hbomax:tv:45099:s33e10:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 10,
-"episodeTo": 10,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 33,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "„Kuchenne rewolucje” to historie, które zawsze zaczynają się w sercu każdej restauracji – w kuchni.\n\nTo tam nieporadni właściciele upatrują przyczyny swojej biznesowej porażki. Ale czy słusznie? Gdzie tkwi problem? I jak go rozwiązać? Od lat odpowiedzi na te pytania zna tylko Magda Gessler, która nie boi się nowych wyzwań i trudnych zadań. Ona – jako autorytet kulinarny i biznesowy – potrafi w kilka dni przeprowadzić rewolucję i dać właścicielom restauracji gotowy patent na sukces. Jednak tylko od nich zależy, czy powodzenie będzie długo- czy krótkoterminowe. Otrzymać znak jakości od Magdy Gessler to absolutny przywilej, na który trzeba zasłużyć ciężką pracą, uczciwością i najlepszymi smakami w Polsce! Właściciele restauracji wiedzą, że jest o co walczyć. Bo koniec końców to ich codzienność, marzenia i lepsza przyszłość.",
-"overviewEn": "Kuchenne rewolucje is a Polish reality television series broadcast on the TVN, in which Chef Magda Gessler is invited by the owners to spend a 4 days with a failing restaurant in an attempt to revive the business. It is the Polish version of Gordon Ramsay's Kitchen Nightmares in UK and US.",
-"popularity": 5.14,
-"ratings": null,
-"serviceKey": "hbomax",
-"source": "tmdb",
-"status": "live",
-"title": "Kuchenne rewolucje",
-"titleEn": "Kitchen Revolutions",
-"tmdbId": 45099,
-"trailerKey": null
-},
-"hbomax:tv:45099:s33e11:sub": {
-"access": "sub",
-"backdropPath": "/bWLi7MqbA2iTcAUNb83o56mxQze.jpg",
-"confirmedAt": null,
-"date": "2026-11-12",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "hbomax:tv:45099:s33e11:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 11,
-"episodeTo": 11,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 33,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "„Kuchenne rewolucje” to historie, które zawsze zaczynają się w sercu każdej restauracji – w kuchni.\n\nTo tam nieporadni właściciele upatrują przyczyny swojej biznesowej porażki. Ale czy słusznie? Gdzie tkwi problem? I jak go rozwiązać? Od lat odpowiedzi na te pytania zna tylko Magda Gessler, która nie boi się nowych wyzwań i trudnych zadań. Ona – jako autorytet kulinarny i biznesowy – potrafi w kilka dni przeprowadzić rewolucję i dać właścicielom restauracji gotowy patent na sukces. Jednak tylko od nich zależy, czy powodzenie będzie długo- czy krótkoterminowe. Otrzymać znak jakości od Magdy Gessler to absolutny przywilej, na który trzeba zasłużyć ciężką pracą, uczciwością i najlepszymi smakami w Polsce! Właściciele restauracji wiedzą, że jest o co walczyć. Bo koniec końców to ich codzienność, marzenia i lepsza przyszłość.",
-"overviewEn": "Kuchenne rewolucje is a Polish reality television series broadcast on the TVN, in which Chef Magda Gessler is invited by the owners to spend a 4 days with a failing restaurant in an attempt to revive the business. It is the Polish version of Gordon Ramsay's Kitchen Nightmares in UK and US.",
-"popularity": 5.14,
-"ratings": null,
-"serviceKey": "hbomax",
-"source": "tmdb",
-"status": "announced",
-"title": "Kuchenne rewolucje",
-"titleEn": "Kitchen Revolutions",
-"tmdbId": 45099,
-"trailerKey": null
-},
 "hbomax:tv:46268:s16e6:sub": {
 "access": "sub",
 "backdropPath": "/jH8BWwd1kIfY3N614o9idhW8rOJ.jpg",
@@ -50351,117 +51785,6 @@
 "tmdbId": 89341,
 "trailerKey": null
 },
-"hbomax:tv:90046:s8e6:sub": {
-"access": "sub",
-"backdropPath": "/9jmxvWOt5xTjrJ03FNmViZCuZ5f.jpg",
-"confirmedAt": null,
-"date": "2026-11-09",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "hbomax:tv:90046:s8e6:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 6,
-"episodeTo": 6,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 8,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Americans move to a foreign country all in the name of love. Will uprooting their lives in the United States pay off, or will they be packing up and moving back to America brokenhearted?",
-"overviewEn": "Americans move to a foreign country all in the name of love. Will uprooting their lives in the United States pay off, or will they be packing up and moving back to America brokenhearted?",
-"popularity": 6.63,
-"ratings": {
-"imdb": 6.7,
-"imdbVotes": 1384,
-"tmdb": 7.8
-},
-"serviceKey": "hbomax",
-"source": "tmdb",
-"status": "announced",
-"title": "90 Day Fiancé: The Other Way",
-"titleEn": null,
-"tmdbId": 90046,
-"trailerKey": "lrWfJ2IQHy0"
-},
-"hbomax:tv:90046:s8e7:sub": {
-"access": "sub",
-"backdropPath": "/9jmxvWOt5xTjrJ03FNmViZCuZ5f.jpg",
-"confirmedAt": null,
-"date": "2026-11-16",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "hbomax:tv:90046:s8e7:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 7,
-"episodeTo": 7,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 8,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Americans move to a foreign country all in the name of love. Will uprooting their lives in the United States pay off, or will they be packing up and moving back to America brokenhearted?",
-"overviewEn": "Americans move to a foreign country all in the name of love. Will uprooting their lives in the United States pay off, or will they be packing up and moving back to America brokenhearted?",
-"popularity": 6.63,
-"ratings": {
-"imdb": 6.7,
-"imdbVotes": 1384,
-"tmdb": 7.8
-},
-"serviceKey": "hbomax",
-"source": "tmdb",
-"status": "announced",
-"title": "90 Day Fiancé: The Other Way",
-"titleEn": null,
-"tmdbId": 90046,
-"trailerKey": "lrWfJ2IQHy0"
-},
-"hbomax:tv:90046:s8e8:sub": {
-"access": "sub",
-"backdropPath": "/9jmxvWOt5xTjrJ03FNmViZCuZ5f.jpg",
-"confirmedAt": null,
-"date": "2026-11-23",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "hbomax:tv:90046:s8e8:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 8,
-"episodeTo": 8,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 8,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Americans move to a foreign country all in the name of love. Will uprooting their lives in the United States pay off, or will they be packing up and moving back to America brokenhearted?",
-"overviewEn": "Americans move to a foreign country all in the name of love. Will uprooting their lives in the United States pay off, or will they be packing up and moving back to America brokenhearted?",
-"popularity": 6.63,
-"ratings": {
-"imdb": 6.7,
-"imdbVotes": 1384,
-"tmdb": 7.8
-},
-"serviceKey": "hbomax",
-"source": "tmdb",
-"status": "announced",
-"title": "90 Day Fiancé: The Other Way",
-"titleEn": null,
-"tmdbId": 90046,
-"trailerKey": "lrWfJ2IQHy0"
-},
 "hbomax:tv:98410:s9e11:sub": {
 "access": "sub",
 "backdropPath": "/pwqOrFWZBo2h9YNeorLh4dydRYM.jpg",
@@ -50575,6 +51898,80 @@
 "tmdbId": 1257147,
 "trailerKey": null
 },
+"netflix:movie:137249:sub": {
+"access": "sub",
+"backdropPath": "/cxNwzyY6k1wV0DhFdeVHTRwj8Fs.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:137249:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+80,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Sudheer and Rani break down near a resort and quickly realize they are in a do or die situation.",
+"overviewEn": "Sudheer and Rani break down near a resort and quickly realize they are in a do or die situation.",
+"popularity": 0.92,
+"ratings": {
+"imdb": 3.3,
+"imdbVotes": 298
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "దొంగల ముఠా",
+"titleEn": "Dongala Mutha",
+"tmdbId": 137249,
+"trailerKey": "fNPw-VXMgfM"
+},
+"netflix:movie:138078:sub": {
+"access": "sub",
+"backdropPath": "/rL4v6ORZ9sxx5RcWlbqn3nhH1yL.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:138078:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Based on the life of Indian guru Shirdi Sai Baba, who taught love, forgiveness, charity and devotion.",
+"overviewEn": "Based on the life of Indian guru Shirdi Sai Baba, who taught love, forgiveness, charity and devotion.",
+"popularity": 0.46,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 453
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Shirdi Sai",
+"titleEn": null,
+"tmdbId": 138078,
+"trailerKey": null
+},
 "netflix:movie:1399287:paid": {
 "access": "paid",
 "backdropPath": "/nmlFLD6kwezReQHoLb94SDR5kOQ.jpg",
@@ -50678,6 +52075,45 @@
 "tmdbId": 147580,
 "trailerKey": "-wMU2HdoURA"
 },
+"netflix:movie:148265:sub": {
+"access": "sub",
+"backdropPath": "/fuCfQ0D2HtNa7kRLFDkPWl87Zs9.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:148265:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+14,
+28,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "A passionate flower decorator, Nani, falls for his neighbor, Bindhu, but their budding romance takes an unexpected turn when he crosses paths with Sudeep, a ruthless and powerful businessman.",
+"overviewEn": "A passionate flower decorator, Nani, falls for his neighbor, Bindhu, but their budding romance takes an unexpected turn when he crosses paths with Sudeep, a ruthless and powerful businessman.",
+"popularity": 1.71,
+"ratings": {
+"imdb": 7.7,
+"imdbVotes": 31335,
+"tmdb": 7.1
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "ఈగ",
+"titleEn": "Eega",
+"tmdbId": 148265,
+"trailerKey": "b-XZtmVhN4U"
+},
 "netflix:movie:1483525:sub": {
 "access": "sub",
 "backdropPath": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
@@ -50692,7 +52128,8 @@
 "episodeFrom": null,
 "episodeTo": null,
 "genres": [
-18
+18,
+10749
 ],
 "kind": "movie",
 "season": null,
@@ -50705,7 +52142,7 @@
 "ratings": {
 "imdb": 8.0,
 "imdbVotes": 1750,
-"tmdb": 7.6
+"tmdb": 7.5
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -51450,6 +52887,119 @@
 "tmdbId": 191121,
 "trailerKey": "ER9vmhxFucg"
 },
+"netflix:movie:193197:paid": {
+"access": "paid",
+"backdropPath": "/poPjoZhOFwYMW0ri89JUUSjdP8G.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:193197:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "An exuberant and evocative family drama, that primarily revolves around the close bond between two brothers with radically different personalities, highlighting the complex process of choosing an ideal life partner for each of them.",
+"overviewEn": "An exuberant and evocative family drama, that primarily revolves around the close bond between two brothers with radically different personalities, highlighting the complex process of choosing an ideal life partner for each of them.",
+"popularity": 0.82,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 8580,
+"tmdb": 7.2
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "సీతమ్మ వాకిట్లో సిరిమల్లె చెట్టు",
+"titleEn": "Seethamma Vakitlo Sirimalle Chettu",
+"tmdbId": 193197,
+"trailerKey": "_c840-Ahuok"
+},
+"netflix:movie:193197:sub": {
+"access": "sub",
+"backdropPath": "/poPjoZhOFwYMW0ri89JUUSjdP8G.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:193197:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "An exuberant and evocative family drama, that primarily revolves around the close bond between two brothers with radically different personalities, highlighting the complex process of choosing an ideal life partner for each of them.",
+"overviewEn": "An exuberant and evocative family drama, that primarily revolves around the close bond between two brothers with radically different personalities, highlighting the complex process of choosing an ideal life partner for each of them.",
+"popularity": 0.82,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 8580,
+"tmdb": 7.2
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "సీతమ్మ వాకిట్లో సిరిమల్లె చెట్టు",
+"titleEn": "Seethamma Vakitlo Sirimalle Chettu",
+"tmdbId": 193197,
+"trailerKey": "_c840-Ahuok"
+},
+"netflix:movie:199808:sub": {
+"access": "sub",
+"backdropPath": "/5czirKDtUhNaLf6CPEg0faJeVMF.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:199808:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Subrahmanyam (Pawan Kalyan), the youngest son of the family wastes away his life. His father always scolds him but his brother Chakri (Achyuth) who is a boxer, and friend Jaanu (Preeti Jhangiani) dote him. Meanwhile he falls in love with Lovely (Aditi) and for this he keeps on telling lies to her that he is very rich. Jaanu in the middle truly loves Subrahmanyam and gives him everything he asks her for thinking that he is doing these for her but he does it for lovely. Will Subrahmanyam realize what true love is?",
+"overviewEn": "Subrahmanyam (Pawan Kalyan), the youngest son of the family wastes away his life. His father always scolds him but his brother Chakri (Achyuth) who is a boxer, and friend Jaanu (Preeti Jhangiani) dote him. Meanwhile he falls in love with Lovely (Aditi) and for this he keeps on telling lies to her that he is very rich. Jaanu in the middle truly loves Subrahmanyam and gives him everything he asks her for thinking that he is doing these for her but he does it for lovely. Will Subrahmanyam realize what true love is?",
+"popularity": 0.8,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 3935
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "తమ్ముడు",
+"titleEn": "Thammudu",
+"tmdbId": 199808,
+"trailerKey": "SN1FnqAMv7M"
+},
 "netflix:movie:205775:paid": {
 "access": "paid",
 "backdropPath": "/4LRLz2V63TSwuQhBVNXsbnHxgoY.jpg",
@@ -51606,6 +53156,196 @@
 "tmdbId": 2109,
 "trailerKey": "0e2Lbnq_lSM"
 },
+"netflix:movie:215248:sub": {
+"access": "sub",
+"backdropPath": "/uTb1cHB9nF6CRPtaq55D5VA5M8z.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:215248:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Satya is given a different face after he suffers burn-related injuries. After being released from the hospital, he deals with the murderer of his lover Deepti. But his new face has given him new foes.",
+"overviewEn": "Satya is given a different face after he suffers burn-related injuries. After being released from the hospital, he deals with the murderer of his lover Deepti. But his new face has given him new foes.",
+"popularity": 0.8,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 9837,
+"tmdb": 6.0
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "ఎవడు",
+"titleEn": "Yevadu",
+"tmdbId": 215248,
+"trailerKey": "r6YZjpuEh4Q"
+},
+"netflix:movie:224061:sub": {
+"access": "sub",
+"backdropPath": "/qhgIRqrc4WJBbu00GndjiMsstfi.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:224061:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Goutham promises his grandfather that he will reunite him with his estranged daughter, Sunanda. Posing as a driver, Goutham enters Sunanda's house but trouble soon follows.",
+"overviewEn": "Goutham promises his grandfather that he will reunite him with his estranged daughter, Sunanda. Posing as a driver, Goutham enters Sunanda's house but trouble soon follows.",
+"popularity": 0.7,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 10823,
+"tmdb": 6.7
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "అత్తారింటికి దారేది",
+"titleEn": "Atharintiki Daaredi",
+"tmdbId": 224061,
+"trailerKey": null
+},
+"netflix:movie:227056:paid": {
+"access": "paid",
+"backdropPath": "/chQmvy2VrKxro4eXqLfE0MBR04c.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:227056:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Nandu, a happy-go-lucky college student falls head over heels in love with Akarsha and goes all out to woo her. But only after Akarsha falls for him does she realize that he has revenge on his mind.",
+"overviewEn": "Nandu, a happy-go-lucky college student falls head over heels in love with Akarsha and goes all out to woo her. But only after Akarsha falls for him does she realize that he has revenge on his mind.",
+"popularity": 0.66,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 2689,
+"tmdb": 3.9
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "రామయ్యా వస్తావయ్యా",
+"titleEn": "Ramayya Vasthavayya",
+"tmdbId": 227056,
+"trailerKey": "lVbpn9MQFYs"
+},
+"netflix:movie:227056:sub": {
+"access": "sub",
+"backdropPath": "/chQmvy2VrKxro4eXqLfE0MBR04c.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:227056:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Nandu, a happy-go-lucky college student falls head over heels in love with Akarsha and goes all out to woo her. But only after Akarsha falls for him does she realize that he has revenge on his mind.",
+"overviewEn": "Nandu, a happy-go-lucky college student falls head over heels in love with Akarsha and goes all out to woo her. But only after Akarsha falls for him does she realize that he has revenge on his mind.",
+"popularity": 0.66,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 2689,
+"tmdb": 3.9
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "రామయ్యా వస్తావయ్యా",
+"titleEn": "Ramayya Vasthavayya",
+"tmdbId": 227056,
+"trailerKey": "lVbpn9MQFYs"
+},
+"netflix:movie:228092:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:228092:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Eeshwar Prasad, a young man attached to his mother, Shantamma, goes to Hyderabad to earn enough money to make his mother's life comfortable. However, circumstances turn him into a criminal",
+"overviewEn": "Eeshwar Prasad, a young man attached to his mother, Shantamma, goes to Hyderabad to earn enough money to make his mother's life comfortable. However, circumstances turn him into a criminal",
+"popularity": 0.47,
+"ratings": {
+"imdb": 4.7,
+"imdbVotes": 1187
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "యోగి",
+"titleEn": "Yogi",
+"tmdbId": 228092,
+"trailerKey": null
+},
 "netflix:movie:278154:paid": {
 "access": "paid",
 "backdropPath": "/rBEH34dgPMy1WuqZ0AFXR2ThmNo.jpg",
@@ -51683,6 +53423,44 @@
 "titleEn": "Ice Age: Collision Course",
 "tmdbId": 278154,
 "trailerKey": "Ohq6NmKMja8"
+},
+"netflix:movie:298457:paid": {
+"access": "paid",
+"backdropPath": "/qJungF5SDwgS9xfV4Yp8CgvZOmT.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:298457:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The rise and fall of a Neapolitan criminal clan through the story of a boss and his family, divided between the aspiration for a bourgeois life and the deep impulses of oppression. Thirty years of history of one of the most beautiful and discussed cities in the world, the dream of a boy who is overwhelmed by the desire for power as an end in itself, to become the nightmare of a man and those who live next to him.",
+"overviewEn": "The rise and fall of a Neapolitan criminal clan through the story of a boss and his family, divided between the aspiration for a bourgeois life and the deep impulses of oppression. Thirty years of history of one of the most beautiful and discussed cities in the world, the dream of a boy who is overwhelmed by the desire for power as an end in itself, to become the nightmare of a man and those who live next to him.",
+"popularity": 0.97,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 695,
+"tmdb": 6.1
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Milionari",
+"titleEn": "Mafia Millionaires",
+"tmdbId": 298457,
+"trailerKey": "BhlJzFhwKiM"
 },
 "netflix:movie:3131:paid": {
 "access": "paid",
@@ -51954,6 +53732,42 @@
 "titleEn": "The House",
 "tmdbId": 345914,
 "trailerKey": "f-SP8iSCbKM"
+},
+"netflix:movie:377475:sub": {
+"access": "sub",
+"backdropPath": "/6WVFYe3khJwstiNgCnJceLcNXxR.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:377475:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Two people meet again after more than 50 years. They were lovers once, but their lives took different turns: she married his best friend. Fifty years later, they meet again and passion flares up. But is it possible to pick up the thread of a life that unraveled fifty years ago? The story of a wonderful last love affair, which is relived with the intensity of a first.",
+"overviewEn": "Two people meet again after more than 50 years. They were lovers once, but their lives took different turns: she married his best friend. Fifty years later, they meet again and passion flares up. But is it possible to pick up the thread of a life that unraveled fifty years ago? The story of a wonderful last love affair, which is relived with the intensity of a first.",
+"popularity": 0.77,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 490
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Achter de wolken",
+"titleEn": "Behind the Clouds",
+"tmdbId": 377475,
+"trailerKey": null
 },
 "netflix:movie:378112:paid": {
 "access": "paid",
@@ -52459,6 +54273,45 @@
 "titleEn": null,
 "tmdbId": 464052,
 "trailerKey": "9TsV_1TSgoE"
+},
+"netflix:movie:467649:paid": {
+"access": "paid",
+"backdropPath": "/kITotL1eL9vWpDpCNmR6jzuP37s.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:467649:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Two young people embark on a winding and rocky path to love after meeting at a wedding.",
+"overviewEn": "Two young people embark on a winding and rocky path to love after meeting at a wedding.",
+"popularity": 0.9,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 6819,
+"tmdb": 7.3
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "ఫిదా",
+"titleEn": "Fidaa",
+"tmdbId": 467649,
+"trailerKey": "NrnyxMdIOpU"
 },
 "netflix:movie:474354:paid": {
 "access": "paid",
@@ -53038,6 +54891,45 @@
 "tmdbId": 57800,
 "trailerKey": "0Int9oeZN5o"
 },
+"netflix:movie:73583:sub": {
+"access": "sub",
+"backdropPath": "/uDzelyg1xCMYMzLHj2SvOx69GdG.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:73583:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+28,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "A brave man decides to kidnap his friend's beloved from a forced marriage, but ends up abducting the wrong bride. Ironically, the bride he kidnapped is ecstatic because she was already planning an escape. On the run, they fall in love, but in order to get married, they must convince their families.",
+"overviewEn": "A brave man decides to kidnap his friend's beloved from a forced marriage, but ends up abducting the wrong bride. Ironically, the bride he kidnapped is ecstatic because she was already planning an escape. On the run, they fall in love, but in order to get married, they must convince their families.",
+"popularity": 0.63,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 1791,
+"tmdb": 6.0
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "రెడీ",
+"titleEn": "Ready",
+"tmdbId": 73583,
+"trailerKey": null
+},
 "netflix:movie:79464:paid": {
 "access": "paid",
 "backdropPath": "/3UseBwzKsUmMN37XcahJSVYRWkf.jpg",
@@ -53191,6 +55083,45 @@
 "tmdbId": 810693,
 "trailerKey": "zhHucqc0t-A"
 },
+"netflix:movie:81070:sub": {
+"access": "sub",
+"backdropPath": "/fku0yFRcYZjDuIUGABOpPu5x1hk.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:81070:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "College friends Siddhu and Madhumati part ways due to a misunderstanding. Although they are in love and realize they cannot live without each other, their egos prevent them from uniting.",
+"overviewEn": "College friends Siddhu and Madhumati part ways due to a misunderstanding. Although they are in love and realize they cannot live without each other, their egos prevent them from uniting.",
+"popularity": 0.48,
+"ratings": {
+"imdb": 8.1,
+"imdbVotes": 6646,
+"tmdb": 6.6
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "ఖుషి",
+"titleEn": "Khushi",
+"tmdbId": 81070,
+"trailerKey": null
+},
 "netflix:movie:8211:paid": {
 "access": "paid",
 "backdropPath": "/z9Qw2zjI6GWqzYctpt2FwQblHFz.jpg",
@@ -53226,6 +55157,42 @@
 "title": "Sami swoi",
 "titleEn": "Our Folks",
 "tmdbId": 8211,
+"trailerKey": null
+},
+"netflix:movie:82777:sub": {
+"access": "sub",
+"backdropPath": "/bYYl5opcAXtpFe7UZFoCcWhSLzP.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:82777:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The story about how a young man (Brahmaji) in a village who wants to become a police officer ends up becoming a terrorist.",
+"overviewEn": "The story about how a young man (Brahmaji) in a village who wants to become a police officer ends up becoming a terrorist.",
+"popularity": 0.95,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 368
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "సింధూరం",
+"titleEn": "Sindhooram",
+"tmdbId": 82777,
 "trailerKey": null
 },
 "netflix:movie:8355:paid": {
@@ -53539,6 +55506,44 @@
 "titleEn": null,
 "tmdbId": 916224,
 "trailerKey": "COLtvIUbE1A"
+},
+"netflix:movie:94898:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:94898:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Venkata Ramana (Venkatesh) is a ventriloquist. He goes along with the troop of artists to perform for a local Telugu association in Europe. Paris Prasad (Brahmanandam) is a tour organizer in Europe. He enjoys making people around bakras. Pooja (Trisha) is the niece of Prasad. Venkata Ramana falls in love with her. Prasad realises that only way to make Ramana bakra is to tell him that Pooja loves him too. Pooja is the daughter of a rich factionist in Rayalaseema and she is forced to return back in the middle. Her marriage is fixed with a guy she doesn’t like. The rest of the story is all about how Prasad conspires with Ramana to rescue Pooja.",
+"overviewEn": "Venkata Ramana (Venkatesh) is a ventriloquist. He goes along with the troop of artists to perform for a local Telugu association in Europe. Paris Prasad (Brahmanandam) is a tour organizer in Europe. He enjoys making people around bakras. Pooja (Trisha) is the niece of Prasad. Venkata Ramana falls in love with her. Prasad realises that only way to make Ramana bakra is to tell him that Pooja loves him too. Pooja is the daughter of a rich factionist in Rayalaseema and she is forced to return back in the middle. Her marriage is fixed with a guy she doesn’t like. The rest of the story is all about how Prasad conspires with Ramana to rescue Pooja.",
+"popularity": 0.52,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 768
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "నమో వెంకటేశ",
+"titleEn": "Namo Venkatesa",
+"tmdbId": 94898,
+"trailerKey": null
 },
 "netflix:movie:950:paid": {
 "access": "paid",
@@ -57283,7 +59288,7 @@
 "title": "Dragon Ball Super: Beerus",
 "titleEn": null,
 "tmdbId": 312359,
-"trailerKey": "iCD3Lf7Jf9o"
+"trailerKey": "lJMXyiENRAM"
 },
 "netflix:tv:312359:s1e5:sub": {
 "access": "sub",
@@ -57322,7 +59327,7 @@
 "title": "Dragon Ball Super: Beerus",
 "titleEn": null,
 "tmdbId": 312359,
-"trailerKey": "iCD3Lf7Jf9o"
+"trailerKey": "lJMXyiENRAM"
 },
 "netflix:tv:312359:s1e6:sub": {
 "access": "sub",
@@ -57361,7 +59366,7 @@
 "title": "Dragon Ball Super: Beerus",
 "titleEn": null,
 "tmdbId": 312359,
-"trailerKey": "iCD3Lf7Jf9o"
+"trailerKey": "lJMXyiENRAM"
 },
 "netflix:tv:312359:s1e7:sub": {
 "access": "sub",
@@ -57400,7 +59405,7 @@
 "title": "Dragon Ball Super: Beerus",
 "titleEn": null,
 "tmdbId": 312359,
-"trailerKey": "iCD3Lf7Jf9o"
+"trailerKey": "lJMXyiENRAM"
 },
 "netflix:tv:312359:s1e8:sub": {
 "access": "sub",
@@ -57439,7 +59444,7 @@
 "title": "Dragon Ball Super: Beerus",
 "titleEn": null,
 "tmdbId": 312359,
-"trailerKey": "iCD3Lf7Jf9o"
+"trailerKey": "lJMXyiENRAM"
 },
 "netflix:tv:314271:s1:sub": {
 "access": "sub",
@@ -57735,40 +59740,6 @@
 "serviceKey": "netflix",
 "source": "tmdb",
 "status": "live",
-"title": "Allegedly with Ellison Barber",
-"titleEn": null,
-"tmdbId": 320935,
-"trailerKey": null
-},
-"netflix:tv:320935:s1e29:sub": {
-"access": "sub",
-"backdropPath": "/82F7t5uoI9eYb6RyZvO6USNgcqF.jpg",
-"confirmedAt": null,
-"date": "2026-11-11",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "netflix:tv:320935:s1e29:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 29,
-"episodeTo": 29,
-"genres": [
-80,
-10767
-],
-"kind": "series",
-"season": 1,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Hosted weekly by journalist Ellison Barber, this gripping podcast digs into the most captivating and talked about true crime cases.",
-"overviewEn": "Hosted weekly by journalist Ellison Barber, this gripping podcast digs into the most captivating and talked about true crime cases.",
-"popularity": 4.25,
-"ratings": null,
-"serviceKey": "netflix",
-"source": "tmdb",
-"status": "announced",
 "title": "Allegedly with Ellison Barber",
 "titleEn": null,
 "tmdbId": 320935,
@@ -60137,6 +62108,84 @@
 "tmdbId": 99353,
 "trailerKey": "s2eBAFt3L_0"
 },
+"player:movie:1048241:paid": {
+"access": "paid",
+"backdropPath": "/kutrMwSVEcGFn5F0fUJYYRPzuxn.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1048241:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+35,
+10751
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy licealny chór Sophie zostaje wybrany na włoskie tournée, którego punktem kulminacyjnym jest występ dla papieża w Watykanie, JJ postrzega to jako okazję do nawiązania więzi ze swoją nową pasierbicą i zgłasza się na ochotnika do pomocy w opiece nad grupą.  Podróżując przez weneckie kanały, słynne mosty Florencji i najbardziej historyczne miejsca Rzymu nie wie jednak, że on i Sophie stali się mimowolnymi pionkami w spisku terrorystycznym, który może doprowadzić do upadku znanego nam świata.",
+"overviewEn": "JJ, a veteran CIA agent, reunites with his protégé Sophie, in order to prevent a catastrophic nuclear plot targeting the Vatican.",
+"popularity": 4.3,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 13149,
+"tmdb": 6.5
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Mój przyjaciel szpieg - Wieczne miasto",
+"titleEn": "My Spy The Eternal City",
+"tmdbId": 1048241,
+"trailerKey": "Z_Y2ZLWPz5A"
+},
+"player:movie:1048241:sub": {
+"access": "sub",
+"backdropPath": "/kutrMwSVEcGFn5F0fUJYYRPzuxn.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1048241:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+35,
+10751
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy licealny chór Sophie zostaje wybrany na włoskie tournée, którego punktem kulminacyjnym jest występ dla papieża w Watykanie, JJ postrzega to jako okazję do nawiązania więzi ze swoją nową pasierbicą i zgłasza się na ochotnika do pomocy w opiece nad grupą.  Podróżując przez weneckie kanały, słynne mosty Florencji i najbardziej historyczne miejsca Rzymu nie wie jednak, że on i Sophie stali się mimowolnymi pionkami w spisku terrorystycznym, który może doprowadzić do upadku znanego nam świata.",
+"overviewEn": "JJ, a veteran CIA agent, reunites with his protégé Sophie, in order to prevent a catastrophic nuclear plot targeting the Vatican.",
+"popularity": 4.3,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 13149,
+"tmdb": 6.5
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Mój przyjaciel szpieg - Wieczne miasto",
+"titleEn": "My Spy The Eternal City",
+"tmdbId": 1048241,
+"trailerKey": "Z_Y2ZLWPz5A"
+},
 "player:movie:1063877:paid": {
 "access": "paid",
 "backdropPath": "/6Rjsm5khNaYa4Gnw4iHnGX2E34T.jpg",
@@ -60174,6 +62223,44 @@
 "titleEn": null,
 "tmdbId": 1063877,
 "trailerKey": "q0GpvLLMVQ4"
+},
+"player:movie:1073865:free": {
+"access": "free",
+"backdropPath": "/c0gXhSGO22BnRi7WoXtYK69AthB.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1073865:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tajemniczy wypadek samochodowy zmienia całkowicie życie Maćka. W zdarzeniu ginie jego żona Janina. Najprawdopodobniej kobieta popełniła samobójstwo. Maciej nie ma jednak pojęcia, dlaczego do wypadku doszło pod Mrągowem, skoro Janina powiedziała, że jedzie na delegację do Krakowa. Pomyliła się? A może kłamała? Zrozpaczony mężczyzna wyrusza w podróż, aby rozwiązać zagadkę jej śmierci. Wkrótce trafia na trop niejakiego Wojnara – aktora, którego podejrzewa o romans ze zmarłą żoną. Od tego momentu pytania zaczynają się mnożyć, a tragedia zmienia się w skomplikowaną zagadkę. Maciej dochodzi do wniosku, że być może w ogóle nie znał kobiety, którą poślubił…",
+"overviewEn": "A mysterious car accident changes Maciek's life completely. His wife Janina dies in the incident. Most likely, the woman committed suicide. However, Maciej has no idea why the accident happened near Mragowo, since Janina said she was going on a business trip to Krakow. She made a mistake? Or was she lying? A distraught man embarks on a journey to solve the mystery of her death. Soon he finds himself on the trail of a certain Wojnar - an actor whom he suspects of having an affair with his late wife. From that moment, questions begin to multiply, and the tragedy turns into a complicated mystery. Maciej comes to the conclusion that perhaps he did not know the woman he married at all.",
+"popularity": 0.4,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 244
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Wyrwa",
+"titleEn": "Breached",
+"tmdbId": 1073865,
+"trailerKey": "hu3B63xOQXA"
 },
 "player:movie:1101383:paid": {
 "access": "paid",
@@ -60446,7 +62533,7 @@
 },
 "player:movie:1165366:paid": {
 "access": "paid",
-"backdropPath": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+"backdropPath": "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
 "confirmedAt": "2026-11-06T12:55:18Z",
 "date": "2026-11-06",
 "dateConfirmed": true,
@@ -60485,7 +62572,7 @@
 },
 "player:movie:1165366:sub": {
 "access": "sub",
-"backdropPath": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+"backdropPath": "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
 "confirmedAt": "2026-11-06T20:52:16Z",
 "date": "2026-11-06",
 "dateConfirmed": true,
@@ -61559,6 +63646,44 @@
 "tmdbId": 1419406,
 "trailerKey": "HZXVnn6GnVM"
 },
+"player:movie:14536:free": {
+"access": "free",
+"backdropPath": "/tZF23SGsjhvzZvtorHLni1BcYYs.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:14536:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Lucy Hill (Renée Zellweger) to ambitna i dobrze rokująca menadżerka z Miami. Uwielbia eleganckie obuwie, piękne samochody, kocha wspinać się po szczeblach kariery. Kiedy pewnego razu dostaje propozycję tymczasowej pracy w odległym i odludnym miejscu, gdzie trzeba przeprowadzić restrukturyzację zakładu przemysłowego, bez wahania podejmuje wyzwanie, według niej będące przyczyną kolejnego awansu. To co z początku jest tylko kolejnym zawodowym zadaniem, staje się wkrótce wielkim życiowym doświadczeniem, dzięki któremu Lucy zaczyna bardziej doceniać własne życie i poznaje mężczyznę swoich marzeń (w tej roli Harry Connick, Jr.).",
+"overviewEn": "Lucy Hill is an ambitious up-and-coming executive living in Miami. She loves her shoes, her cars, and climbing the corporate ladder. When she is offered a temporary assignment — in the middle of nowhere — to restructure a manufacturing plant, she jumps at the opportunity, knowing that a big promotion is close at hand. What begins as a straightforward assignment becomes a life-changing experience as Lucy discovers greater meaning in her life and, most unexpectedly, the man of her dreams.",
+"popularity": 1.86,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 26835,
+"tmdb": 5.8
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Za jakie grzechy",
+"titleEn": "New in Town",
+"tmdbId": 14536,
+"trailerKey": "_K_JXt8qJqU"
+},
 "player:movie:1476682:paid": {
 "access": "paid",
 "backdropPath": "/7Mmzdcq0NDPlIt79WwtUMYa1zjI.jpg",
@@ -61586,7 +63711,7 @@
 "ratings": {
 "imdb": 5.9,
 "imdbVotes": 5310,
-"tmdb": 6.4
+"tmdb": 6.3
 },
 "serviceKey": "player",
 "source": "tmdb",
@@ -61737,6 +63862,45 @@
 "titleEn": "Guest",
 "tmdbId": 1483922,
 "trailerKey": null
+},
+"player:movie:15152:sub": {
+"access": "sub",
+"backdropPath": "/mrRzR4Xbt64heUQF5YBMMfdMEXu.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:15152:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+28,
+12
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "OSS 117 to pseudonim tajnego agenta pracującego dla rządu francuskiego. Jako, że jest jednym z najlepszych, powierzone mu zostaje trudne i ryzykowne zadanie do wykonania w Egipcie. Infiltracja tajnych stowarzyszeń, nawiązanie porozumienia między Zachodem a Wschodem - na różnych płaszczyznach, zdobycie cennych informacji to tylko niektóre z elementów jego misji. Dysponując bronią i nieodpartym urokiem OSS 117 zmierza do zrealizowania zadania, po drodze pokonując niebezpieczne przeszkody, nawiązując intrygujące znajomości i mierząc się ze wspomnieniami z przeszłości.",
+"overviewEn": "Set in 1955, French secret agent Hubert Bonisseur de La Bath/OSS 117 is sent to Cairo to investigate the disappearance of his best friend and fellow spy Jack Jefferson, only to stumble into a web of international intrigue.",
+"popularity": 2.56,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 25732,
+"tmdb": 7.2
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "OSS 117 - Kair, gniazdo szpiegów",
+"titleEn": "OSS 117: Cairo, Nest of Spies",
+"tmdbId": 15152,
+"trailerKey": "6T641no0uec"
 },
 "player:movie:1516237:sub": {
 "access": "sub",
@@ -62909,6 +65073,44 @@
 "tmdbId": 507250,
 "trailerKey": "XggLOjQCaEs"
 },
+"player:movie:508791:free": {
+"access": "free",
+"backdropPath": "/3CFuFIwtSSQU4Fyd5NnmHnNZq9w.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:508791:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Natasha i Daniel pochodzą z różnych środowisk. Ona nie wierzy w nic, czego nie da się udowodnić naukowo. On to niepoprawny romantyk. Jedno z nich wkrótce wyjedzie na zawsze. Spotykają się przypadkiem w Nowym Jorku i jest im dany zaledwie jeden wspólny dzień. Czy można przeżyć wielką miłość, gdy czasu jest tak niewiarygodnie mało?",
+"overviewEn": "Two young New Yorkers begin to fall in love over the course of a single day, as a series of potentially life-altering meetings loom over their heads - hers concerning her family’s deportation to Jamaica, and his concerning an education at Dartmouth.",
+"popularity": 1.88,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 9072,
+"tmdb": 6.9
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Słońce też jest gwiazdą",
+"titleEn": "The Sun Is Also a Star",
+"tmdbId": 508791,
+"trailerKey": "Au6W0wSFiXc"
+},
 "player:movie:512:sub": {
 "access": "sub",
 "backdropPath": "/8qPG3AjLtletf1K4g8iGhKwHQSc.jpg",
@@ -63523,6 +65725,44 @@
 "titleEn": "Tropic Thunder",
 "tmdbId": 7446,
 "trailerKey": "ASJvlHExnMA"
+},
+"player:movie:760204:sub": {
+"access": "sub",
+"backdropPath": "/cBNLVp6sDn9xoK8gZYBw1ycAjaD.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:760204:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Porucznik Kate Sinclair, pilot Królewskich Sił Powietrznych, odbywa ostatnią misję lotniczą, gdy jej odrzutowiec zostaje zestrzelony nad jedną z najniebezpieczniejszych twierdz rebeliantów w Afganistanie. Znajduje schronienie w opuszczonym podziemnym bunkrze, w którym budzą się śmiertelne, stworzone przez człowieka stworzenia znane jako Ravagers – pół-ludzie, pół-obcy i głodni ludzkiego mięsa.",
+"overviewEn": "Royal Air Force pilot Lt. Kate Sinclair is on her final flight mission when her jet is shot down over one of the most dangerous rebel strongholds in Afghanistan. She finds refuge in an abandoned underground bunker where deadly man-made creatures known as Ravagers — half-human, half-alien, and hungry for human flesh — are awakened.",
+"popularity": 2.06,
+"ratings": {
+"imdb": 4.6,
+"imdbVotes": 7069,
+"tmdb": 5.6
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Narodziny zła",
+"titleEn": "The Lair",
+"tmdbId": 760204,
+"trailerKey": "ebjFxaZfrQw"
 },
 "player:movie:81208:paid": {
 "access": "paid",
@@ -67979,72 +70219,6 @@
 "tmdbId": 44996,
 "trailerKey": null
 },
-"player:tv:45099:s33e10:sub": {
-"access": "sub",
-"backdropPath": "/bWLi7MqbA2iTcAUNb83o56mxQze.jpg",
-"confirmedAt": "2026-11-05T13:10:07Z",
-"date": "2026-11-05",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "player:tv:45099:s33e10:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 10,
-"episodeTo": 10,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 33,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "„Kuchenne rewolucje” to historie, które zawsze zaczynają się w sercu każdej restauracji – w kuchni.\n\nTo tam nieporadni właściciele upatrują przyczyny swojej biznesowej porażki. Ale czy słusznie? Gdzie tkwi problem? I jak go rozwiązać? Od lat odpowiedzi na te pytania zna tylko Magda Gessler, która nie boi się nowych wyzwań i trudnych zadań. Ona – jako autorytet kulinarny i biznesowy – potrafi w kilka dni przeprowadzić rewolucję i dać właścicielom restauracji gotowy patent na sukces. Jednak tylko od nich zależy, czy powodzenie będzie długo- czy krótkoterminowe. Otrzymać znak jakości od Magdy Gessler to absolutny przywilej, na który trzeba zasłużyć ciężką pracą, uczciwością i najlepszymi smakami w Polsce! Właściciele restauracji wiedzą, że jest o co walczyć. Bo koniec końców to ich codzienność, marzenia i lepsza przyszłość.",
-"overviewEn": "Kuchenne rewolucje is a Polish reality television series broadcast on the TVN, in which Chef Magda Gessler is invited by the owners to spend a 4 days with a failing restaurant in an attempt to revive the business. It is the Polish version of Gordon Ramsay's Kitchen Nightmares in UK and US.",
-"popularity": 5.14,
-"ratings": null,
-"serviceKey": "player",
-"source": "tmdb",
-"status": "live",
-"title": "Kuchenne rewolucje",
-"titleEn": "Kitchen Revolutions",
-"tmdbId": 45099,
-"trailerKey": null
-},
-"player:tv:45099:s33e11:sub": {
-"access": "sub",
-"backdropPath": "/bWLi7MqbA2iTcAUNb83o56mxQze.jpg",
-"confirmedAt": null,
-"date": "2026-11-12",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "player:tv:45099:s33e11:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 11,
-"episodeTo": 11,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 33,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "„Kuchenne rewolucje” to historie, które zawsze zaczynają się w sercu każdej restauracji – w kuchni.\n\nTo tam nieporadni właściciele upatrują przyczyny swojej biznesowej porażki. Ale czy słusznie? Gdzie tkwi problem? I jak go rozwiązać? Od lat odpowiedzi na te pytania zna tylko Magda Gessler, która nie boi się nowych wyzwań i trudnych zadań. Ona – jako autorytet kulinarny i biznesowy – potrafi w kilka dni przeprowadzić rewolucję i dać właścicielom restauracji gotowy patent na sukces. Jednak tylko od nich zależy, czy powodzenie będzie długo- czy krótkoterminowe. Otrzymać znak jakości od Magdy Gessler to absolutny przywilej, na który trzeba zasłużyć ciężką pracą, uczciwością i najlepszymi smakami w Polsce! Właściciele restauracji wiedzą, że jest o co walczyć. Bo koniec końców to ich codzienność, marzenia i lepsza przyszłość.",
-"overviewEn": "Kuchenne rewolucje is a Polish reality television series broadcast on the TVN, in which Chef Magda Gessler is invited by the owners to spend a 4 days with a failing restaurant in an attempt to revive the business. It is the Polish version of Gordon Ramsay's Kitchen Nightmares in UK and US.",
-"popularity": 5.14,
-"ratings": null,
-"serviceKey": "player",
-"source": "tmdb",
-"status": "announced",
-"title": "Kuchenne rewolucje",
-"titleEn": "Kitchen Revolutions",
-"tmdbId": 45099,
-"trailerKey": null
-},
 "player:tv:46268:s16e6:sub": {
 "access": "sub",
 "backdropPath": "/jH8BWwd1kIfY3N614o9idhW8rOJ.jpg",
@@ -68868,120 +71042,6 @@
 "titleEn": "091: Alerta Policía",
 "tmdbId": 80027,
 "trailerKey": null
-},
-"player:tv:84773:s3e1:sub": {
-"access": "sub",
-"backdropPath": "/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
-"confirmedAt": null,
-"date": "2026-11-11",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "player:tv:84773:s3e1:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 1,
-"episodeTo": 4,
-"genres": [
-10759,
-10765
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Akcja serialu nie będzie skupiać się na wydarzeniach znanych już z filmu. Osadzona zostanie w Drugiej Erze Sródziemia, w czasach, gdy Sauron dochodził do władzy, a my poznamy nowych bohaterów i zobaczymy kilku już znanych. Ujrzymy też wiele lokacji z krainy stworzonej przez Tolkiena.",
-"overviewEn": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-"popularity": 106.03,
-"ratings": {
-"imdb": 6.8,
-"imdbVotes": 447686,
-"tmdb": 7.2
-},
-"serviceKey": "player",
-"source": "tmdb",
-"status": "announced",
-"title": "Władca Pierścieni: Pierścienie Władzy",
-"titleEn": "The Lord of the Rings: The Rings of Power",
-"tmdbId": 84773,
-"trailerKey": "T_oNZpMebYU"
-},
-"player:tv:84773:s3e5:sub": {
-"access": "sub",
-"backdropPath": "/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
-"confirmedAt": null,
-"date": "2026-11-18",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "player:tv:84773:s3e5:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 5,
-"episodeTo": 6,
-"genres": [
-10759,
-10765
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Akcja serialu nie będzie skupiać się na wydarzeniach znanych już z filmu. Osadzona zostanie w Drugiej Erze Sródziemia, w czasach, gdy Sauron dochodził do władzy, a my poznamy nowych bohaterów i zobaczymy kilku już znanych. Ujrzymy też wiele lokacji z krainy stworzonej przez Tolkiena.",
-"overviewEn": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-"popularity": 106.03,
-"ratings": {
-"imdb": 6.8,
-"imdbVotes": 447686,
-"tmdb": 7.2
-},
-"serviceKey": "player",
-"source": "tmdb",
-"status": "announced",
-"title": "Władca Pierścieni: Pierścienie Władzy",
-"titleEn": "The Lord of the Rings: The Rings of Power",
-"tmdbId": 84773,
-"trailerKey": "T_oNZpMebYU"
-},
-"player:tv:84773:s3e7:sub": {
-"access": "sub",
-"backdropPath": "/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
-"confirmedAt": null,
-"date": "2026-11-25",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "player:tv:84773:s3e7:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 7,
-"episodeTo": 8,
-"genres": [
-10759,
-10765
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Akcja serialu nie będzie skupiać się na wydarzeniach znanych już z filmu. Osadzona zostanie w Drugiej Erze Sródziemia, w czasach, gdy Sauron dochodził do władzy, a my poznamy nowych bohaterów i zobaczymy kilku już znanych. Ujrzymy też wiele lokacji z krainy stworzonej przez Tolkiena.",
-"overviewEn": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-"popularity": 106.03,
-"ratings": {
-"imdb": 6.8,
-"imdbVotes": 447686,
-"tmdb": 7.2
-},
-"serviceKey": "player",
-"source": "tmdb",
-"status": "announced",
-"title": "Władca Pierścieni: Pierścienie Władzy",
-"titleEn": "The Lord of the Rings: The Rings of Power",
-"tmdbId": 84773,
-"trailerKey": "T_oNZpMebYU"
 },
 "player:tv:89341:s13e10:sub": {
 "access": "sub",
@@ -69919,7 +71979,7 @@
 },
 "polsatboxgo:movie:1165366:paid": {
 "access": "paid",
-"backdropPath": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+"backdropPath": "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
 "confirmedAt": "2026-11-07T11:43:12Z",
 "date": "2026-11-07",
 "dateConfirmed": true,
@@ -69958,7 +72018,7 @@
 },
 "polsatboxgo:movie:1165366:sub": {
 "access": "sub",
-"backdropPath": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+"backdropPath": "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
 "confirmedAt": "2026-11-06T12:55:18Z",
 "date": "2026-11-06",
 "dateConfirmed": true,
@@ -73857,6 +75917,82 @@
 "tmdbId": 70160,
 "trailerKey": "TTvi9xco3Cw"
 },
+"polsatboxgo:movie:70435:paid": {
+"access": "paid",
+"backdropPath": "/r5bLJXXwUMp2MO5hkn4KYXIR4eO.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:70435:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Grupa wysoko postawionych mężczyzn wprowadza w życie spisek mający na celu eliminację jednej kobiety. Wynik tego starcia okaże się daleki od oczekiwań. Piękna Mallory Kane (Gina Carano) to tajna superbroń amerykańskich spec służb. W najodleglejszym zakątku świata wykona najtrudniejsze zadanie i nie pozostawi żadnego śladu. Oficjalnie nie istnieje. Nieoficjalnie jest niezastąpiona. Ale tylko do czasu, gdy staje się niewygodna.\r Pewnego dnia podczas misji Mallory wpada w pułapkę. Wszystko wskazuje na to, że jej mocodawcy postanowili się jej pozbyć i zlecili jej likwidację. Nie docenili jej jednak. Teraz Mallory powraca do gry, by wyrównać rachunki, ukarać winnych i ocalić swoich najbliższych.  [opis dystrybutora dvd]",
+"overviewEn": "A black ops soldier seeks payback after she is betrayed and left for dead.",
+"popularity": 3.65,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 93732,
+"tmdb": 5.7
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Ścigana",
+"titleEn": "Haywire",
+"tmdbId": 70435,
+"trailerKey": "Og9dz4KNhJk"
+},
+"polsatboxgo:movie:70435:sub": {
+"access": "sub",
+"backdropPath": "/r5bLJXXwUMp2MO5hkn4KYXIR4eO.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:70435:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Grupa wysoko postawionych mężczyzn wprowadza w życie spisek mający na celu eliminację jednej kobiety. Wynik tego starcia okaże się daleki od oczekiwań. Piękna Mallory Kane (Gina Carano) to tajna superbroń amerykańskich spec służb. W najodleglejszym zakątku świata wykona najtrudniejsze zadanie i nie pozostawi żadnego śladu. Oficjalnie nie istnieje. Nieoficjalnie jest niezastąpiona. Ale tylko do czasu, gdy staje się niewygodna.\r Pewnego dnia podczas misji Mallory wpada w pułapkę. Wszystko wskazuje na to, że jej mocodawcy postanowili się jej pozbyć i zlecili jej likwidację. Nie docenili jej jednak. Teraz Mallory powraca do gry, by wyrównać rachunki, ukarać winnych i ocalić swoich najbliższych.  [opis dystrybutora dvd]",
+"overviewEn": "A black ops soldier seeks payback after she is betrayed and left for dead.",
+"popularity": 3.65,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 93732,
+"tmdb": 5.7
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Ścigana",
+"titleEn": "Haywire",
+"tmdbId": 70435,
+"trailerKey": "Og9dz4KNhJk"
+},
 "polsatboxgo:movie:744935:sub": {
 "access": "sub",
 "backdropPath": "/1qU8KnxrYXCIp2ZL9zk2f39VTOk.jpg",
@@ -75155,6 +77291,43 @@
 "tmdbId": 83524,
 "trailerKey": null
 },
+"polsatboxgo:tv:83524:s8e3:sub": {
+"access": "sub",
+"backdropPath": "/uvbiwdJ2Ja27O4G3kUOS0Uk7N5C.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:tv:83524:s8e3:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 3,
+"episodeTo": 3,
+"genres": [
+18
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Historia oparta na faktach. Rok 1952, brak wyszkolonego personelu zmusza mężczyzn do nauki w szkołach pielęgniarskich. Jak sobie poradzą w środowisku, w którym panują przestarzałe hierarchie i surowa dyscyplina?",
+"overviewEn": "The lives of Erik and Anna, students at a nursing school in 1950s Denmark, a time and place where it was not normal for a man to become a nurse.",
+"popularity": 15.59,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 1266,
+"tmdb": 8.0
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Pielęgniarki",
+"titleEn": "The New Nurses",
+"tmdbId": 83524,
+"trailerKey": null
+},
 "prime:movie:1006724:paid": {
 "access": "paid",
 "backdropPath": "/rGnf32URcZAqdTxtkoC6aUD1GBS.jpg",
@@ -75309,6 +77482,39 @@
 "tmdbId": 1030049,
 "trailerKey": "vr_jBNXvQVM"
 },
+"prime:movie:1031457:free": {
+"access": "free",
+"backdropPath": "/ykT9D5Yqvoa8c7tBet9vOxjQ5T4.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1031457:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Czarnobyl — dla większości obraz śmierci i katastrofy, a dla nielicznych wciąż po prostu dom. Mimo że doszło tam do największej katastrofy w historii energetyki jądrowej i wynikającego z tego skażenia radioaktywnego, to już po kilku miesiącach do otoczonego drutem kolczastym terenu zaczęli wracać pojedynczy ludzie. Robili to nielegalnie, by znów zamieszkać w swoich skromnych chatach, przekazywanych z pokolenia na pokolenie.",
+"overviewEn": "Chernobyl – for most, an image of death and disaster, and for a few, still simply home. Even though it was the site of the greatest disaster in the history of nuclear power and resultant radioactive contamination, after only a few months some people began returning to the barbed wire-enclosed area. They did so illegally to live again in their humble cottages, passed down from generation to generation.",
+"popularity": 0.17,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Czarnobyl: Ludzie ze stali",
+"titleEn": "Chernobyl: Men of Steel",
+"tmdbId": 1031457,
+"trailerKey": "uaEOHJR58Ns"
+},
 "prime:movie:1035047:paid": {
 "access": "paid",
 "backdropPath": "/qoUVkstQfGZlKlKdYC0T98kNrek.jpg",
@@ -75382,6 +77588,45 @@
 "titleEn": "The Naked Queen",
 "tmdbId": 1044913,
 "trailerKey": "OlFujgO3Z08"
+},
+"prime:movie:1048241:paid": {
+"access": "paid",
+"backdropPath": "/kutrMwSVEcGFn5F0fUJYYRPzuxn.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1048241:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+35,
+10751
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy licealny chór Sophie zostaje wybrany na włoskie tournée, którego punktem kulminacyjnym jest występ dla papieża w Watykanie, JJ postrzega to jako okazję do nawiązania więzi ze swoją nową pasierbicą i zgłasza się na ochotnika do pomocy w opiece nad grupą.  Podróżując przez weneckie kanały, słynne mosty Florencji i najbardziej historyczne miejsca Rzymu nie wie jednak, że on i Sophie stali się mimowolnymi pionkami w spisku terrorystycznym, który może doprowadzić do upadku znanego nam świata.",
+"overviewEn": "JJ, a veteran CIA agent, reunites with his protégé Sophie, in order to prevent a catastrophic nuclear plot targeting the Vatican.",
+"popularity": 4.3,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 13149,
+"tmdb": 6.5
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Mój przyjaciel szpieg - Wieczne miasto",
+"titleEn": "My Spy The Eternal City",
+"tmdbId": 1048241,
+"trailerKey": "Z_Y2ZLWPz5A"
 },
 "prime:movie:10731:free": {
 "access": "free",
@@ -75888,7 +78133,7 @@
 },
 "prime:movie:1165366:paid": {
 "access": "paid",
-"backdropPath": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+"backdropPath": "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
 "confirmedAt": "2026-11-06T12:55:18Z",
 "date": "2026-11-06",
 "dateConfirmed": true,
@@ -75927,7 +78172,7 @@
 },
 "prime:movie:1165366:sub": {
 "access": "sub",
-"backdropPath": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+"backdropPath": "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
 "confirmedAt": "2026-11-06T20:52:16Z",
 "date": "2026-11-06",
 "dateConfirmed": true,
@@ -76674,7 +78919,40 @@
 "origin": "diff",
 "overview": "Manuel lives with his father, Ricardo, on the family's hunting estate. Manu is a special boy with a strange connection to the mountains that makes him the best hunter in the area. But he no longer wants to kill. An accidental shooting that nearly kills his best friend, coupled with the suspicion that his father is a murderer, compels him to flee the estate to free himself. He soon learns that his unerring aim is the only thing that can prevent Ricardo from being killed.",
 "overviewEn": "Manuel lives with his father, Ricardo, on the family's hunting estate. Manu is a special boy with a strange connection to the mountains that makes him the best hunter in the area. But he no longer wants to kill. An accidental shooting that nearly kills his best friend, coupled with the suspicion that his father is a murderer, compels him to flee the estate to free himself. He soon learns that his unerring aim is the only thing that can prevent Ricardo from being killed.",
-"popularity": 2.11,
+"popularity": 2.29,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Literal",
+"titleEn": null,
+"tmdbId": 1282551,
+"trailerKey": null
+},
+"prime:movie:1282551:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1282551:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Manuel lives with his father, Ricardo, on the family's hunting estate. Manu is a special boy with a strange connection to the mountains that makes him the best hunter in the area. But he no longer wants to kill. An accidental shooting that nearly kills his best friend, coupled with the suspicion that his father is a murderer, compels him to flee the estate to free himself. He soon learns that his unerring aim is the only thing that can prevent Ricardo from being killed.",
+"overviewEn": "Manuel lives with his father, Ricardo, on the family's hunting estate. Manu is a special boy with a strange connection to the mountains that makes him the best hunter in the area. But he no longer wants to kill. An accidental shooting that nearly kills his best friend, coupled with the suspicion that his father is a murderer, compels him to flee the estate to free himself. He soon learns that his unerring aim is the only thing that can prevent Ricardo from being killed.",
+"popularity": 2.29,
 "ratings": null,
 "serviceKey": "prime",
 "source": "tmdb",
@@ -77520,6 +79798,37 @@
 "tmdbId": 1445434,
 "trailerKey": "gHFDYjFmZ24"
 },
+"prime:movie:1451028:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1451028:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Through previously unseen documentary material, testimonies from survivors and reflections from specialists, this documentary deals with the brutal attack perpetrated on October 7, 2023 by the terrorist group Hamas in the south of Israel.",
+"overviewEn": "Through previously unseen documentary material, testimonies from survivors and reflections from specialists, this documentary deals with the brutal attack perpetrated on October 7, 2023 by the terrorist group Hamas in the south of Israel.",
+"popularity": 1.14,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "7.10 Sur rojo",
+"titleEn": null,
+"tmdbId": 1451028,
+"trailerKey": null
+},
 "prime:movie:14620:paid": {
 "access": "paid",
 "backdropPath": "/woUBg7Se10brZajZjg2uBklwXlM.jpg",
@@ -77586,7 +79895,7 @@
 "ratings": {
 "imdb": 5.9,
 "imdbVotes": 5310,
-"tmdb": 6.4
+"tmdb": 6.3
 },
 "serviceKey": "prime",
 "source": "tmdb",
@@ -78675,6 +80984,45 @@
 "tmdbId": 26389,
 "trailerKey": "-jAbatBqqSc"
 },
+"prime:movie:268340:paid": {
+"access": "paid",
+"backdropPath": "/v5vrb4TEdPz80zz32T7J5M9qUNI.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:268340:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10752,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Francja, rok 1943. Dwie śliczne i zupełnie różne siedemnastolatki, Alice i Lisette wraz z innymi Alzatkami zostają wysłane do niemieckiego obozu pracy.",
+"overviewEn": "Two beautiful and different girls, Alice and Lisette are 17 years old, when forcibly removed from their Alsatian family to cooperate in the war effort in Germany. After spending six months in a indoctrination camp, they are both sent to a munitions factory where they are tasked to perform inhuman works. An explosion erupts, they are suspected of sabotage and threatened with being sent to a boot camp. Alice and Lisette believe they saved when transferred to a maternity where they continue living the hell of war.",
+"popularity": 0.7,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 608,
+"tmdb": 7.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Matki III Rzeszy",
+"titleEn": "Against Their Will",
+"tmdbId": 268340,
+"trailerKey": null
+},
 "prime:movie:2687:paid": {
 "access": "paid",
 "backdropPath": "/eVzJW6RplVDLMfcmeQ5Yjan0hRb.jpg",
@@ -78790,6 +81138,42 @@
 "tmdbId": 2770,
 "trailerKey": "ntxIBzJ0tU8"
 },
+"prime:movie:286024:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:286024:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "American engineer George Westinghouse revolutionized the American electricity system in the late 1880s with his endorsement of AC power distribution. This historical documentary chronicles Westinghouse's legendary rivalry with Thomas Edison and the birth of his many inventions, including the rail-road air brake.",
+"overviewEn": "American engineer George Westinghouse revolutionized the American electricity system in the late 1880s with his endorsement of AC power distribution. This historical documentary chronicles Westinghouse's legendary rivalry with Thomas Edison and the birth of his many inventions, including the rail-road air brake.",
+"popularity": 0.22,
+"ratings": {
+"imdb": 7.7,
+"imdbVotes": 89
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Westinghouse: The Life and Times of an American Icon",
+"titleEn": null,
+"tmdbId": 286024,
+"trailerKey": null
+},
 "prime:movie:28671:sub": {
 "access": "sub",
 "backdropPath": "/ddfw57zy58BIJBJkx5lnINwC7Er.jpg",
@@ -78891,7 +81275,43 @@
 "origin": "diff",
 "overview": "Derek poślubił niedawno swoją narzeczoną Lenkę. Po ślubie, oboje pojechali do wynajętej willi w Turcji, aby spędzić swój miesiąc miodowy. Wszystko wydaje się idealne, ale gdy Derek wieczorem jedzie do miasta, aby zrobić zakupy Lenka pozostaje w spokoju w domu i staje się ofiarą porwania.",
 "overviewEn": "A woman is kidnapped on her honeymoon and her ex-soldier husband endeavors to free her. A kidnap thriller set in New York and Turkey.",
-"popularity": 1.0,
+"popularity": 0.66,
+"ratings": {
+"imdb": 3.0,
+"imdbVotes": 335
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "The Disappearance Of Lenka Wood",
+"titleEn": null,
+"tmdbId": 296138,
+"trailerKey": "vKWPnleuniE"
+},
+"prime:movie:296138:sub": {
+"access": "sub",
+"backdropPath": "/ciOD5NUMcRq5fOHCaLubtlsRnAK.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:296138:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Derek poślubił niedawno swoją narzeczoną Lenkę. Po ślubie, oboje pojechali do wynajętej willi w Turcji, aby spędzić swój miesiąc miodowy. Wszystko wydaje się idealne, ale gdy Derek wieczorem jedzie do miasta, aby zrobić zakupy Lenka pozostaje w spokoju w domu i staje się ofiarą porwania.",
+"overviewEn": "A woman is kidnapped on her honeymoon and her ex-soldier husband endeavors to free her. A kidnap thriller set in New York and Turkey.",
+"popularity": 0.66,
 "ratings": {
 "imdb": 3.0,
 "imdbVotes": 335
@@ -79020,6 +81440,78 @@
 "titleEn": "Secret Wars",
 "tmdbId": 299608,
 "trailerKey": "xRXG1jA3T5o"
+},
+"prime:movie:299796:paid": {
+"access": "paid",
+"backdropPath": "/yncVNYhWAEFazzerm8g0P233vBN.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:299796:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na terenie współczesnej Moskwy grasuje nieuchwytny seryjny morderca. Funkcjonariusze nadali mu przydomek \"Fotograf\", gdyż przy ciałach swoich ofiar zostawia kartoniki z numerami, stosowane przez ekipy śledcze, kiedy fotografują zwłoki i potencjalne dowody na miejscach zbrodni. Tropy prowadzą do dawnego garnizonu Armii Radzieckiej w Legnicy i serii dramatycznych wydarzeń, które rozegrały się tam w latach 70. Rosyjska ekipa dochodzeniowa wyrusza do Polski, korzystając na miejscu ze wsparcia oficera lokalnej policji. W składzie ekipy jest milicjantka Natasza - jedyna osoba, która rozmawiała z mordercą i zdołała przeżyć. Jedyna, która jest w stanie go rozpoznać, gdyby doszło do konfrontacji.",
+"overviewEn": "The Photographer is an elusive serial killer operating in modern-day Moscow. He leaves numbered tiles at the scenes of his crimes, similar to those placed at crime scenes by forensic teams. The investigation points to the old Red Army barracks in Legnica, and to events dating back to the 1970s. One of the people involved in the investigation is Natasha - the only person to have survived an encounter with The Photographer.",
+"popularity": 2.07,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 575
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Fotograf",
+"titleEn": "The Photographer",
+"tmdbId": 299796,
+"trailerKey": "mHjXWrcJpKo"
+},
+"prime:movie:299796:sub": {
+"access": "sub",
+"backdropPath": "/yncVNYhWAEFazzerm8g0P233vBN.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:299796:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na terenie współczesnej Moskwy grasuje nieuchwytny seryjny morderca. Funkcjonariusze nadali mu przydomek \"Fotograf\", gdyż przy ciałach swoich ofiar zostawia kartoniki z numerami, stosowane przez ekipy śledcze, kiedy fotografują zwłoki i potencjalne dowody na miejscach zbrodni. Tropy prowadzą do dawnego garnizonu Armii Radzieckiej w Legnicy i serii dramatycznych wydarzeń, które rozegrały się tam w latach 70. Rosyjska ekipa dochodzeniowa wyrusza do Polski, korzystając na miejscu ze wsparcia oficera lokalnej policji. W składzie ekipy jest milicjantka Natasza - jedyna osoba, która rozmawiała z mordercą i zdołała przeżyć. Jedyna, która jest w stanie go rozpoznać, gdyby doszło do konfrontacji.",
+"overviewEn": "The Photographer is an elusive serial killer operating in modern-day Moscow. He leaves numbered tiles at the scenes of his crimes, similar to those placed at crime scenes by forensic teams. The investigation points to the old Red Army barracks in Legnica, and to events dating back to the 1970s. One of the people involved in the investigation is Natasha - the only person to have survived an encounter with The Photographer.",
+"popularity": 2.07,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 575
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Fotograf",
+"titleEn": "The Photographer",
+"tmdbId": 299796,
+"trailerKey": "mHjXWrcJpKo"
 },
 "prime:movie:299840:paid": {
 "access": "paid",
@@ -80216,6 +82708,42 @@
 "tmdbId": 447076,
 "trailerKey": null
 },
+"prime:movie:447419:sub": {
+"access": "sub",
+"backdropPath": "/xuHRFRaHceE7AzaxTaBHxMbCEVw.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:447419:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Mąż Karen (Chelsea Hobbs), Andrew (Matthew Lawrence), ulega wypadkowi samochodowemu, po którym na długi czas trafia do szpitala. Ponieważ nad małżonkami ciąży spłata kredytu, kobieta postanawia wynająć wolne pokoje w ich domu. Na ogłoszenie w internecie odpowiada m.in. Miranda (Charity Shea). Z pozoru sympatyczna lokatorka z czasem zaczyna pokazywać swoje mroczne oblicze. Kiedy ginie jeden z wynajmujących, Karen orientuje się, że grozi jej śmiertelne niebezpieczeństwo.",
+"overviewEn": "When her husband is hospitalized after a car accident, EMT Karen decides to rent out their spare rooms online. All goes well until Miranda moves in. Miranda quickly infiltrates all areas of Karen’s life. When one of Karen’s renters is found murdered, Karen becomes convinced Miranda was involved but has no idea that kicking her psychotic guest out will send Miranda into a murderous rage.",
+"popularity": 0.92,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 553
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "W sieci szaleństwa",
+"titleEn": "The Psycho She Met Online",
+"tmdbId": 447419,
+"trailerKey": null
+},
 "prime:movie:447767:paid": {
 "access": "paid",
 "backdropPath": "/gSNNnugWBBPv4U0n83S2Y7zA8Rk.jpg",
@@ -80444,6 +82972,158 @@
 "titleEn": "30 Days of Night",
 "tmdbId": 4513,
 "trailerKey": "sNEsmw56cv0"
+},
+"prime:movie:453296:sub": {
+"access": "sub",
+"backdropPath": "/sWckzV5o0lIuuCV3MABrIZLu1qI.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:453296:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10770,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Susan (Daphne Zuniga) samotnie wychowuje córkę Christy (Ava Hughes). Kiedy pojawiają się informacje o dochodzących w okolicy porwaniach dzieci, jest przerażona. Na dodatek okazuje się, że musi wyjechać służbowo. Prosi sąsiadkę Teri (Lisa Marie Caruk) o opiekę nad dziewczynką. Ta chętnie zgadza się zostać z nią na noc. Szybko okazuje się, że kobieta ma złe zamiary. Susan rozpoczyna dramatyczny wyścig z czasem, by uratować swoją córkę.",
+"overviewEn": "A recent kidnapping has single mom Susan worried about leaving her daughter Christy at home for an out-of-town trip - until neighbor Teri offers to \"babysit,\" looking in on Christy and spending the night. But Susan rushes home when Christy goes missing, under circumstances reminiscent of her police detective husband's death. Susan will have to open the past wound of her husband's death in order to rescue the only family she has left.",
+"popularity": 0.73,
+"ratings": {
+"imdb": 3.8,
+"imdbVotes": 477,
+"tmdb": 5.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Niebezpieczna opiekunka",
+"titleEn": "The Wrong Babysitter",
+"tmdbId": 453296,
+"trailerKey": "tXGriv2LeoU"
+},
+"prime:movie:460096:sub": {
+"access": "sub",
+"backdropPath": "/kSEHgd18x43O57RY43loNc2UZ3M.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:460096:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Gdy młoda Rachel Kent (Tiera Skovbye) zostaje porzucona przez matkę, jej ojciec Greg (Cameron Bancrof) oraz jego żona Cindy (Josie Davis), przyjmują ją z otwartymi ramionami. Nastolatka szybko dopasowuje się do rodziny i wszystko dobrze się układa. Pewnego dnia w sklepie, w którym pracuje dziewczyna, dochodzi do napadu. Wówczas jej przyjaciółka zostaje zamordowana, a Rachel obezwładniona. Macocha postanawia chronić pasierbicę i stara się jej pomóc stanąć na nogi, Niestety z czasem nabiera podejrzeń, że zabójcą może być właśnie Rachel. Policja badająca zdarzenie także jest nieufna, gdyż ślady znalezione na miejscu zbrodni nie pokrywają się z zeznaniami dziewczyny.",
+"overviewEn": "A mother protects her stepdaughter after the teenager witnesses the murder of her best friend, but is soon forced to come to grips with the terrifying possibility that her stepdaughter may be the real killer.",
+"popularity": 1.26,
+"ratings": {
+"imdb": 5.5,
+"imdbVotes": 1129,
+"tmdb": 4.9
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Morderca w naszym domu",
+"titleEn": "Secrets of My Stepdaughter",
+"tmdbId": 460096,
+"trailerKey": "ds_ngoM2t9A"
+},
+"prime:movie:461821:sub": {
+"access": "sub",
+"backdropPath": "/58hdZ6RggNO2kk0ofp3acVMjkcn.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:461821:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Ojciec 14 - letniej Allison ginie w katastrofie lotniczej. Trzy lata temu zmarła jej przybrana matka. Poukładane życie nastolatki rozpada się w jednej chwili. Na pogrzebie Allison spotyka swoją biologiczną matkę, Jessikę, której nie znała. Kobieta chce zrealizować plan przejęcia 40 milionowego spadku, który ma dostać Allison.",
+"overviewEn": "When 14 years old Allison loses her father in a plane crash, three years after her adoptive mother died, she is devastated.  At the funeral, she is shocked to meet her real mom, Jessica.  Little does she and her half sister Sydni know that Jessica has a nefarious plan in the works. And she will stop at nothing to control the 40 million dollars Allison is inheriting.",
+"popularity": 0.65,
+"ratings": {
+"imdb": 5.0,
+"imdbVotes": 421
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Zabójcza mamuśka",
+"titleEn": "Killer Mom",
+"tmdbId": 461821,
+"trailerKey": null
+},
+"prime:movie:462392:sub": {
+"access": "sub",
+"backdropPath": "/bxk82OPYCJp5n94EggWfEfCUhei.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:462392:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+53,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Największym marzeniem Kaylene Larsen's (Vanessa Marcil) jest posiadania dzieci i wreszcie dochodzi ono do skutku dzięki procedurze in vitro. Opieka nad bliźniętami okazuje się jednak wyczerpująca, więc kobieta zatrudnia pomoc domową. Wkrótce okazuje się jednak, że wynajęta przez nią niania jest w rzeczywistości dawczynią jajeczek. A teraz przyszła odebrać swoje dzieci. Film inspirowany prawdziwymi wydarzeniami.",
+"overviewEn": "After getting hit by a car, Kaylene needs home care. The nurse she hires becomes more and more interfering.",
+"popularity": 0.93,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 662,
+"tmdb": 6.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Fałszywa matka",
+"titleEn": "The Wrong Mother",
+"tmdbId": 462392,
+"trailerKey": "0fgTH-gaQ5I"
 },
 "prime:movie:464052:sub": {
 "access": "sub",
@@ -80678,6 +83358,44 @@
 "tmdbId": 490146,
 "trailerKey": "SPClIYqcJX4"
 },
+"prime:movie:492616:paid": {
+"access": "paid",
+"backdropPath": "/sXoe5hg2EjXfx2347ocV3y1e5yo.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:492616:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Luce pochodzi z pogrążonej w konflikcie Erytrei. Jako dziecko został adoptowany przez amerykańskie małżeństwo, Petera i Amy. Nastoletni Luce wydaje się idealnym synem i uczniem, odnosi sukcesy w nauce i w sporcie. Jego esej na temat przemocy budzi niepokój nauczycielki. Wygląda na to, że chłopak nie poradził sobie z wojenną traumą.",
+"overviewEn": "A star athlete and top student, Luce's idealized image is challenged by one of his teachers when his unsettling views on political violence come to light, putting a strain on family bonds while igniting intense debates on race and identity.",
+"popularity": 1.58,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 16394,
+"tmdb": 6.4
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Luz",
+"titleEn": "Luce",
+"tmdbId": 492616,
+"trailerKey": "aqzgDB1CMI4"
+},
 "prime:movie:49804:paid": {
 "access": "paid",
 "backdropPath": "/mugVHtGhT8YpNfvVNW3b5F2m0Al.jpg",
@@ -80753,6 +83471,44 @@
 "titleEn": "Dead Shot",
 "tmdbId": 507250,
 "trailerKey": "XggLOjQCaEs"
+},
+"prime:movie:508791:free": {
+"access": "free",
+"backdropPath": "/3CFuFIwtSSQU4Fyd5NnmHnNZq9w.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:508791:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Natasha i Daniel pochodzą z różnych środowisk. Ona nie wierzy w nic, czego nie da się udowodnić naukowo. On to niepoprawny romantyk. Jedno z nich wkrótce wyjedzie na zawsze. Spotykają się przypadkiem w Nowym Jorku i jest im dany zaledwie jeden wspólny dzień. Czy można przeżyć wielką miłość, gdy czasu jest tak niewiarygodnie mało?",
+"overviewEn": "Two young New Yorkers begin to fall in love over the course of a single day, as a series of potentially life-altering meetings loom over their heads - hers concerning her family’s deportation to Jamaica, and his concerning an education at Dartmouth.",
+"popularity": 1.88,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 9072,
+"tmdb": 6.9
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Słońce też jest gwiazdą",
+"titleEn": "The Sun Is Also a Star",
+"tmdbId": 508791,
+"trailerKey": "Au6W0wSFiXc"
 },
 "prime:movie:513268:sub": {
 "access": "sub",
@@ -81147,6 +83903,42 @@
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "prime:movie:568025:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The mid-west town of Cave City, Kentucky is preparing for its annual Christmas festival, when festivities are disrupted by a sudden snowstorm. While sitting out the blizzard, a group of former friends who have returned for a high school reunion discover what has happened in the intervening years.",
+"overviewEn": "The mid-west town of Cave City, Kentucky is preparing for its annual Christmas festival, when festivities are disrupted by a sudden snowstorm. While sitting out the blizzard, a group of former friends who have returned for a high school reunion discover what has happened in the intervening years.",
+"popularity": 1.08,
+"ratings": {
+"imdb": 5.2,
+"imdbVotes": 62
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "The Christmas Reunion",
+"titleEn": null,
+"tmdbId": 568025,
+"trailerKey": null
+},
+"prime:movie:568025:sub": {
+"access": "sub",
+"backdropPath": "/71JRsP26esGjjP0R6YpsCukqFSf.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:568025:sub",
 "mediaType": "movie",
 "meta": {
 "allEpisodes": false,
@@ -81709,6 +84501,80 @@
 "tmdbId": 659991,
 "trailerKey": "tJHcv0Pm0RU"
 },
+"prime:movie:673121:paid": {
+"access": "paid",
+"backdropPath": "/gU4MTmcZeNoFy0jlKwADO3NKAe0.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:673121:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jacob wierzy, że jest wilkiem. Okazuje się, że nie jest jedynym, który wierzy w to, że jest zwierzęciem, a nie człowiekiem. Trafia do ośrodka, gdzie przede wszystkim dzieci i młodzież są leczone z zaburzenia zwanego dysforią gatunkową. Na Jacoba terapia jednak nie działa, jeszcze mocniej przekonuje się o tym, że jest wilkiem. W klinice poznaje dziewczynę wierzącą, że jest kocicą. Zaczyna ich łączyć niezwykła relacja...",
+"overviewEn": "Jacob, a man who believes he is a wolf trapped in a human body, is sent to a clinic by his family where he is forced to undergo increasingly extreme forms of \"curative\" therapies at the hands of The Zookeeper. Jacob’s only solace is the enigmatic Wildcat, with whom he roams the hospital in the dead of night. The two form an improbable friendship that develops into infatuation.",
+"popularity": 1.33,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 13199,
+"tmdb": 5.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Wilk",
+"titleEn": "Wolf",
+"tmdbId": 673121,
+"trailerKey": "oG1xjm0GZgQ"
+},
+"prime:movie:673121:sub": {
+"access": "sub",
+"backdropPath": "/gU4MTmcZeNoFy0jlKwADO3NKAe0.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:673121:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jacob wierzy, że jest wilkiem. Okazuje się, że nie jest jedynym, który wierzy w to, że jest zwierzęciem, a nie człowiekiem. Trafia do ośrodka, gdzie przede wszystkim dzieci i młodzież są leczone z zaburzenia zwanego dysforią gatunkową. Na Jacoba terapia jednak nie działa, jeszcze mocniej przekonuje się o tym, że jest wilkiem. W klinice poznaje dziewczynę wierzącą, że jest kocicą. Zaczyna ich łączyć niezwykła relacja...",
+"overviewEn": "Jacob, a man who believes he is a wolf trapped in a human body, is sent to a clinic by his family where he is forced to undergo increasingly extreme forms of \"curative\" therapies at the hands of The Zookeeper. Jacob’s only solace is the enigmatic Wildcat, with whom he roams the hospital in the dead of night. The two form an improbable friendship that develops into infatuation.",
+"popularity": 1.33,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 13199,
+"tmdb": 5.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Wilk",
+"titleEn": "Wolf",
+"tmdbId": 673121,
+"trailerKey": "oG1xjm0GZgQ"
+},
 "prime:movie:675871:paid": {
 "access": "paid",
 "backdropPath": "/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
@@ -81941,6 +84807,44 @@
 "tmdbId": 7446,
 "trailerKey": "ASJvlHExnMA"
 },
+"prime:movie:760204:sub": {
+"access": "sub",
+"backdropPath": "/cBNLVp6sDn9xoK8gZYBw1ycAjaD.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:760204:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Porucznik Kate Sinclair, pilot Królewskich Sił Powietrznych, odbywa ostatnią misję lotniczą, gdy jej odrzutowiec zostaje zestrzelony nad jedną z najniebezpieczniejszych twierdz rebeliantów w Afganistanie. Znajduje schronienie w opuszczonym podziemnym bunkrze, w którym budzą się śmiertelne, stworzone przez człowieka stworzenia znane jako Ravagers – pół-ludzie, pół-obcy i głodni ludzkiego mięsa.",
+"overviewEn": "Royal Air Force pilot Lt. Kate Sinclair is on her final flight mission when her jet is shot down over one of the most dangerous rebel strongholds in Afghanistan. She finds refuge in an abandoned underground bunker where deadly man-made creatures known as Ravagers — half-human, half-alien, and hungry for human flesh — are awakened.",
+"popularity": 2.06,
+"ratings": {
+"imdb": 4.6,
+"imdbVotes": 7069,
+"tmdb": 5.6
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Narodziny zła",
+"titleEn": "The Lair",
+"tmdbId": 760204,
+"trailerKey": "ebjFxaZfrQw"
+},
 "prime:movie:777322:paid": {
 "access": "paid",
 "backdropPath": null,
@@ -81976,6 +84880,68 @@
 "title": "Murder in Eden",
 "titleEn": null,
 "tmdbId": 777322,
+"trailerKey": null
+},
+"prime:movie:807680:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:807680:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "El 30-30",
+"titleEn": null,
+"tmdbId": 807680,
+"trailerKey": null
+},
+"prime:movie:807680:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:807680:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "El 30-30",
+"titleEn": null,
+"tmdbId": 807680,
 "trailerKey": null
 },
 "prime:movie:810693:paid": {
@@ -82055,6 +85021,45 @@
 "titleEn": "Everything's Gonna Be Great",
 "tmdbId": 81549,
 "trailerKey": null
+},
+"prime:movie:818192:paid": {
+"access": "paid",
+"backdropPath": "/weneJTnAb1IFI94SKcaXzBFmPKH.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:818192:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+53,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Ida Red może nie przeżyć 20 lat więzienia za napad z bronią w ręku. Prosi więc syna o ostatnie zlecenie, które jest szansą na odzyskanie wolności.",
+"overviewEn": "Ida Red may not survive her 20-year prison sentence for armed robbery. She turns to her son, Wyatt, for one last job and a chance to regain her freedom.",
+"popularity": 1.32,
+"ratings": {
+"imdb": 5.6,
+"imdbVotes": 2825,
+"tmdb": 5.7
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Ida Red",
+"titleEn": null,
+"tmdbId": 818192,
+"trailerKey": "ProGvt36CBE"
 },
 "prime:movie:83:paid": {
 "access": "paid",
@@ -85454,80 +88459,6 @@
 "tmdbId": 62650,
 "trailerKey": null
 },
-"prime:tv:62650:s12e6:sub": {
-"access": "sub",
-"backdropPath": "/fFgVoJuSBewZWlzgaoUWGm8MvD4.jpg",
-"confirmedAt": null,
-"date": "2026-11-11",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:tv:62650:s12e6:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 6,
-"episodeTo": 6,
-"genres": [
-18
-],
-"kind": "series",
-"season": 12,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Serial opowiada o pracy i życiu ludzi pracujących w chicagowskim szpitalu.",
-"overviewEn": "An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
-"popularity": 97.97,
-"ratings": {
-"imdb": 7.6,
-"imdbVotes": 35383,
-"tmdb": 8.3
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "announced",
-"title": "Chicago Med",
-"titleEn": null,
-"tmdbId": 62650,
-"trailerKey": null
-},
-"prime:tv:62650:s12e7:sub": {
-"access": "sub",
-"backdropPath": "/fFgVoJuSBewZWlzgaoUWGm8MvD4.jpg",
-"confirmedAt": null,
-"date": "2026-11-18",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:tv:62650:s12e7:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 7,
-"episodeTo": 7,
-"genres": [
-18
-],
-"kind": "series",
-"season": 12,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Serial opowiada o pracy i życiu ludzi pracujących w chicagowskim szpitalu.",
-"overviewEn": "An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
-"popularity": 97.97,
-"ratings": {
-"imdb": 7.6,
-"imdbVotes": 35383,
-"tmdb": 8.3
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "announced",
-"title": "Chicago Med",
-"titleEn": null,
-"tmdbId": 62650,
-"trailerKey": null
-},
 "prime:tv:81723:s4e1:paid": {
 "access": "paid",
 "backdropPath": "/afUVsProh46h31w2EvL7qyHXrqj.jpg",
@@ -85713,120 +88644,6 @@
 "tmdbId": 81723,
 "trailerKey": "wKj1cMz3yfI"
 },
-"prime:tv:84773:s3e1:sub": {
-"access": "sub",
-"backdropPath": "/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
-"confirmedAt": null,
-"date": "2026-11-11",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:tv:84773:s3e1:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 1,
-"episodeTo": 4,
-"genres": [
-10759,
-10765
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Akcja serialu nie będzie skupiać się na wydarzeniach znanych już z filmu. Osadzona zostanie w Drugiej Erze Sródziemia, w czasach, gdy Sauron dochodził do władzy, a my poznamy nowych bohaterów i zobaczymy kilku już znanych. Ujrzymy też wiele lokacji z krainy stworzonej przez Tolkiena.",
-"overviewEn": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-"popularity": 106.03,
-"ratings": {
-"imdb": 6.8,
-"imdbVotes": 447686,
-"tmdb": 7.2
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "announced",
-"title": "Władca Pierścieni: Pierścienie Władzy",
-"titleEn": "The Lord of the Rings: The Rings of Power",
-"tmdbId": 84773,
-"trailerKey": "T_oNZpMebYU"
-},
-"prime:tv:84773:s3e5:sub": {
-"access": "sub",
-"backdropPath": "/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
-"confirmedAt": null,
-"date": "2026-11-18",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:tv:84773:s3e5:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 5,
-"episodeTo": 6,
-"genres": [
-10759,
-10765
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Akcja serialu nie będzie skupiać się na wydarzeniach znanych już z filmu. Osadzona zostanie w Drugiej Erze Sródziemia, w czasach, gdy Sauron dochodził do władzy, a my poznamy nowych bohaterów i zobaczymy kilku już znanych. Ujrzymy też wiele lokacji z krainy stworzonej przez Tolkiena.",
-"overviewEn": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-"popularity": 106.03,
-"ratings": {
-"imdb": 6.8,
-"imdbVotes": 447686,
-"tmdb": 7.2
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "announced",
-"title": "Władca Pierścieni: Pierścienie Władzy",
-"titleEn": "The Lord of the Rings: The Rings of Power",
-"tmdbId": 84773,
-"trailerKey": "T_oNZpMebYU"
-},
-"prime:tv:84773:s3e7:sub": {
-"access": "sub",
-"backdropPath": "/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
-"confirmedAt": null,
-"date": "2026-11-25",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:tv:84773:s3e7:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 7,
-"episodeTo": 8,
-"genres": [
-10759,
-10765
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Akcja serialu nie będzie skupiać się na wydarzeniach znanych już z filmu. Osadzona zostanie w Drugiej Erze Sródziemia, w czasach, gdy Sauron dochodził do władzy, a my poznamy nowych bohaterów i zobaczymy kilku już znanych. Ujrzymy też wiele lokacji z krainy stworzonej przez Tolkiena.",
-"overviewEn": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-"popularity": 106.03,
-"ratings": {
-"imdb": 6.8,
-"imdbVotes": 447686,
-"tmdb": 7.2
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "announced",
-"title": "Władca Pierścieni: Pierścienie Władzy",
-"titleEn": "The Lord of the Rings: The Rings of Power",
-"tmdbId": 84773,
-"trailerKey": "T_oNZpMebYU"
-},
 "prime:tv:85077:s6e1:sub": {
 "access": "sub",
 "backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -85943,6 +88760,44 @@
 "titleEn": null,
 "tmdbId": 85077,
 "trailerKey": "5CVj41dtkIA"
+},
+"rakuten:movie:1073865:free": {
+"access": "free",
+"backdropPath": "/c0gXhSGO22BnRi7WoXtYK69AthB.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1073865:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tajemniczy wypadek samochodowy zmienia całkowicie życie Maćka. W zdarzeniu ginie jego żona Janina. Najprawdopodobniej kobieta popełniła samobójstwo. Maciej nie ma jednak pojęcia, dlaczego do wypadku doszło pod Mrągowem, skoro Janina powiedziała, że jedzie na delegację do Krakowa. Pomyliła się? A może kłamała? Zrozpaczony mężczyzna wyrusza w podróż, aby rozwiązać zagadkę jej śmierci. Wkrótce trafia na trop niejakiego Wojnara – aktora, którego podejrzewa o romans ze zmarłą żoną. Od tego momentu pytania zaczynają się mnożyć, a tragedia zmienia się w skomplikowaną zagadkę. Maciej dochodzi do wniosku, że być może w ogóle nie znał kobiety, którą poślubił…",
+"overviewEn": "A mysterious car accident changes Maciek's life completely. His wife Janina dies in the incident. Most likely, the woman committed suicide. However, Maciej has no idea why the accident happened near Mragowo, since Janina said she was going on a business trip to Krakow. She made a mistake? Or was she lying? A distraught man embarks on a journey to solve the mystery of her death. Soon he finds himself on the trail of a certain Wojnar - an actor whom he suspects of having an affair with his late wife. From that moment, questions begin to multiply, and the tragedy turns into a complicated mystery. Maciej comes to the conclusion that perhaps he did not know the woman he married at all.",
+"popularity": 0.4,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 244
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Wyrwa",
+"titleEn": "Breached",
+"tmdbId": 1073865,
+"trailerKey": "hu3B63xOQXA"
 },
 "rakuten:movie:1101383:paid": {
 "access": "paid",
@@ -86254,7 +89109,7 @@
 },
 "rakuten:movie:1165366:paid": {
 "access": "paid",
-"backdropPath": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+"backdropPath": "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
 "confirmedAt": "2026-11-06T12:55:18Z",
 "date": "2026-11-06",
 "dateConfirmed": true,
@@ -86293,7 +89148,7 @@
 },
 "rakuten:movie:1165366:sub": {
 "access": "sub",
-"backdropPath": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+"backdropPath": "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
 "confirmedAt": "2026-11-06T20:52:16Z",
 "date": "2026-11-06",
 "dateConfirmed": true,
@@ -87277,7 +90132,7 @@
 "ratings": {
 "imdb": 5.9,
 "imdbVotes": 5310,
-"tmdb": 6.4
+"tmdb": 6.3
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
@@ -88928,6 +91783,44 @@
 "titleEn": "Tropic Thunder",
 "tmdbId": 7446,
 "trailerKey": "ASJvlHExnMA"
+},
+"rakuten:movie:760204:sub": {
+"access": "sub",
+"backdropPath": "/cBNLVp6sDn9xoK8gZYBw1ycAjaD.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:760204:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Porucznik Kate Sinclair, pilot Królewskich Sił Powietrznych, odbywa ostatnią misję lotniczą, gdy jej odrzutowiec zostaje zestrzelony nad jedną z najniebezpieczniejszych twierdz rebeliantów w Afganistanie. Znajduje schronienie w opuszczonym podziemnym bunkrze, w którym budzą się śmiertelne, stworzone przez człowieka stworzenia znane jako Ravagers – pół-ludzie, pół-obcy i głodni ludzkiego mięsa.",
+"overviewEn": "Royal Air Force pilot Lt. Kate Sinclair is on her final flight mission when her jet is shot down over one of the most dangerous rebel strongholds in Afghanistan. She finds refuge in an abandoned underground bunker where deadly man-made creatures known as Ravagers — half-human, half-alien, and hungry for human flesh — are awakened.",
+"popularity": 2.06,
+"ratings": {
+"imdb": 4.6,
+"imdbVotes": 7069,
+"tmdb": 5.6
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Narodziny zła",
+"titleEn": "The Lair",
+"tmdbId": 760204,
+"trailerKey": "ebjFxaZfrQw"
 },
 "rakuten:movie:87101:sub": {
 "access": "sub",
@@ -91189,6 +94082,120 @@
 "tmdbId": 10569,
 "trailerKey": "MAWsmINQqJk"
 },
+"tvpvod:movie:1073865:free": {
+"access": "free",
+"backdropPath": "/c0gXhSGO22BnRi7WoXtYK69AthB.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1073865:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tajemniczy wypadek samochodowy zmienia całkowicie życie Maćka. W zdarzeniu ginie jego żona Janina. Najprawdopodobniej kobieta popełniła samobójstwo. Maciej nie ma jednak pojęcia, dlaczego do wypadku doszło pod Mrągowem, skoro Janina powiedziała, że jedzie na delegację do Krakowa. Pomyliła się? A może kłamała? Zrozpaczony mężczyzna wyrusza w podróż, aby rozwiązać zagadkę jej śmierci. Wkrótce trafia na trop niejakiego Wojnara – aktora, którego podejrzewa o romans ze zmarłą żoną. Od tego momentu pytania zaczynają się mnożyć, a tragedia zmienia się w skomplikowaną zagadkę. Maciej dochodzi do wniosku, że być może w ogóle nie znał kobiety, którą poślubił…",
+"overviewEn": "A mysterious car accident changes Maciek's life completely. His wife Janina dies in the incident. Most likely, the woman committed suicide. However, Maciej has no idea why the accident happened near Mragowo, since Janina said she was going on a business trip to Krakow. She made a mistake? Or was she lying? A distraught man embarks on a journey to solve the mystery of her death. Soon he finds himself on the trail of a certain Wojnar - an actor whom he suspects of having an affair with his late wife. From that moment, questions begin to multiply, and the tragedy turns into a complicated mystery. Maciej comes to the conclusion that perhaps he did not know the woman he married at all.",
+"popularity": 0.4,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 244
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Wyrwa",
+"titleEn": "Breached",
+"tmdbId": 1073865,
+"trailerKey": "hu3B63xOQXA"
+},
+"tvpvod:movie:1073865:paid": {
+"access": "paid",
+"backdropPath": "/c0gXhSGO22BnRi7WoXtYK69AthB.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1073865:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tajemniczy wypadek samochodowy zmienia całkowicie życie Maćka. W zdarzeniu ginie jego żona Janina. Najprawdopodobniej kobieta popełniła samobójstwo. Maciej nie ma jednak pojęcia, dlaczego do wypadku doszło pod Mrągowem, skoro Janina powiedziała, że jedzie na delegację do Krakowa. Pomyliła się? A może kłamała? Zrozpaczony mężczyzna wyrusza w podróż, aby rozwiązać zagadkę jej śmierci. Wkrótce trafia na trop niejakiego Wojnara – aktora, którego podejrzewa o romans ze zmarłą żoną. Od tego momentu pytania zaczynają się mnożyć, a tragedia zmienia się w skomplikowaną zagadkę. Maciej dochodzi do wniosku, że być może w ogóle nie znał kobiety, którą poślubił…",
+"overviewEn": "A mysterious car accident changes Maciek's life completely. His wife Janina dies in the incident. Most likely, the woman committed suicide. However, Maciej has no idea why the accident happened near Mragowo, since Janina said she was going on a business trip to Krakow. She made a mistake? Or was she lying? A distraught man embarks on a journey to solve the mystery of her death. Soon he finds himself on the trail of a certain Wojnar - an actor whom he suspects of having an affair with his late wife. From that moment, questions begin to multiply, and the tragedy turns into a complicated mystery. Maciej comes to the conclusion that perhaps he did not know the woman he married at all.",
+"popularity": 0.4,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 244
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Wyrwa",
+"titleEn": "Breached",
+"tmdbId": 1073865,
+"trailerKey": "hu3B63xOQXA"
+},
+"tvpvod:movie:1073865:sub": {
+"access": "sub",
+"backdropPath": "/c0gXhSGO22BnRi7WoXtYK69AthB.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1073865:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tajemniczy wypadek samochodowy zmienia całkowicie życie Maćka. W zdarzeniu ginie jego żona Janina. Najprawdopodobniej kobieta popełniła samobójstwo. Maciej nie ma jednak pojęcia, dlaczego do wypadku doszło pod Mrągowem, skoro Janina powiedziała, że jedzie na delegację do Krakowa. Pomyliła się? A może kłamała? Zrozpaczony mężczyzna wyrusza w podróż, aby rozwiązać zagadkę jej śmierci. Wkrótce trafia na trop niejakiego Wojnara – aktora, którego podejrzewa o romans ze zmarłą żoną. Od tego momentu pytania zaczynają się mnożyć, a tragedia zmienia się w skomplikowaną zagadkę. Maciej dochodzi do wniosku, że być może w ogóle nie znał kobiety, którą poślubił…",
+"overviewEn": "A mysterious car accident changes Maciek's life completely. His wife Janina dies in the incident. Most likely, the woman committed suicide. However, Maciej has no idea why the accident happened near Mragowo, since Janina said she was going on a business trip to Krakow. She made a mistake? Or was she lying? A distraught man embarks on a journey to solve the mystery of her death. Soon he finds himself on the trail of a certain Wojnar - an actor whom he suspects of having an affair with his late wife. From that moment, questions begin to multiply, and the tragedy turns into a complicated mystery. Maciej comes to the conclusion that perhaps he did not know the woman he married at all.",
+"popularity": 0.4,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 244
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Wyrwa",
+"titleEn": "Breached",
+"tmdbId": 1073865,
+"trailerKey": "hu3B63xOQXA"
+},
 "tvpvod:movie:1081065:free": {
 "access": "free",
 "backdropPath": "/qImDmgPKevToyUOZnlxnjNVUiBz.jpg",
@@ -91534,7 +94541,7 @@
 },
 "tvpvod:movie:1165366:paid": {
 "access": "paid",
-"backdropPath": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+"backdropPath": "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
 "confirmedAt": "2026-11-06T12:55:18Z",
 "date": "2026-11-06",
 "dateConfirmed": true,
@@ -91573,7 +94580,7 @@
 },
 "tvpvod:movie:1165366:sub": {
 "access": "sub",
-"backdropPath": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+"backdropPath": "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
 "confirmedAt": "2026-11-06T20:52:16Z",
 "date": "2026-11-06",
 "dateConfirmed": true,
@@ -92404,6 +95411,82 @@
 "titleEn": "Just an Illusion",
 "tmdbId": 1404684,
 "trailerKey": "vZtK0AdeXk8"
+},
+"tvpvod:movie:14536:paid": {
+"access": "paid",
+"backdropPath": "/tZF23SGsjhvzZvtorHLni1BcYYs.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:14536:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Lucy Hill (Renée Zellweger) to ambitna i dobrze rokująca menadżerka z Miami. Uwielbia eleganckie obuwie, piękne samochody, kocha wspinać się po szczeblach kariery. Kiedy pewnego razu dostaje propozycję tymczasowej pracy w odległym i odludnym miejscu, gdzie trzeba przeprowadzić restrukturyzację zakładu przemysłowego, bez wahania podejmuje wyzwanie, według niej będące przyczyną kolejnego awansu. To co z początku jest tylko kolejnym zawodowym zadaniem, staje się wkrótce wielkim życiowym doświadczeniem, dzięki któremu Lucy zaczyna bardziej doceniać własne życie i poznaje mężczyznę swoich marzeń (w tej roli Harry Connick, Jr.).",
+"overviewEn": "Lucy Hill is an ambitious up-and-coming executive living in Miami. She loves her shoes, her cars, and climbing the corporate ladder. When she is offered a temporary assignment — in the middle of nowhere — to restructure a manufacturing plant, she jumps at the opportunity, knowing that a big promotion is close at hand. What begins as a straightforward assignment becomes a life-changing experience as Lucy discovers greater meaning in her life and, most unexpectedly, the man of her dreams.",
+"popularity": 1.86,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 26835,
+"tmdb": 5.8
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Za jakie grzechy",
+"titleEn": "New in Town",
+"tmdbId": 14536,
+"trailerKey": "_K_JXt8qJqU"
+},
+"tvpvod:movie:14536:sub": {
+"access": "sub",
+"backdropPath": "/tZF23SGsjhvzZvtorHLni1BcYYs.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:14536:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Lucy Hill (Renée Zellweger) to ambitna i dobrze rokująca menadżerka z Miami. Uwielbia eleganckie obuwie, piękne samochody, kocha wspinać się po szczeblach kariery. Kiedy pewnego razu dostaje propozycję tymczasowej pracy w odległym i odludnym miejscu, gdzie trzeba przeprowadzić restrukturyzację zakładu przemysłowego, bez wahania podejmuje wyzwanie, według niej będące przyczyną kolejnego awansu. To co z początku jest tylko kolejnym zawodowym zadaniem, staje się wkrótce wielkim życiowym doświadczeniem, dzięki któremu Lucy zaczyna bardziej doceniać własne życie i poznaje mężczyznę swoich marzeń (w tej roli Harry Connick, Jr.).",
+"overviewEn": "Lucy Hill is an ambitious up-and-coming executive living in Miami. She loves her shoes, her cars, and climbing the corporate ladder. When she is offered a temporary assignment — in the middle of nowhere — to restructure a manufacturing plant, she jumps at the opportunity, knowing that a big promotion is close at hand. What begins as a straightforward assignment becomes a life-changing experience as Lucy discovers greater meaning in her life and, most unexpectedly, the man of her dreams.",
+"popularity": 1.86,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 26835,
+"tmdb": 5.8
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Za jakie grzechy",
+"titleEn": "New in Town",
+"tmdbId": 14536,
+"trailerKey": "_K_JXt8qJqU"
 },
 "tvpvod:movie:1480574:paid": {
 "access": "paid",
@@ -93423,6 +96506,82 @@
 "tmdbId": 4787,
 "trailerKey": "tJ6nOkkuJtI"
 },
+"tvpvod:movie:508791:free": {
+"access": "free",
+"backdropPath": "/3CFuFIwtSSQU4Fyd5NnmHnNZq9w.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:508791:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Natasha i Daniel pochodzą z różnych środowisk. Ona nie wierzy w nic, czego nie da się udowodnić naukowo. On to niepoprawny romantyk. Jedno z nich wkrótce wyjedzie na zawsze. Spotykają się przypadkiem w Nowym Jorku i jest im dany zaledwie jeden wspólny dzień. Czy można przeżyć wielką miłość, gdy czasu jest tak niewiarygodnie mało?",
+"overviewEn": "Two young New Yorkers begin to fall in love over the course of a single day, as a series of potentially life-altering meetings loom over their heads - hers concerning her family’s deportation to Jamaica, and his concerning an education at Dartmouth.",
+"popularity": 1.88,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 9072,
+"tmdb": 6.9
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Słońce też jest gwiazdą",
+"titleEn": "The Sun Is Also a Star",
+"tmdbId": 508791,
+"trailerKey": "Au6W0wSFiXc"
+},
+"tvpvod:movie:508791:sub": {
+"access": "sub",
+"backdropPath": "/3CFuFIwtSSQU4Fyd5NnmHnNZq9w.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:508791:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Natasha i Daniel pochodzą z różnych środowisk. Ona nie wierzy w nic, czego nie da się udowodnić naukowo. On to niepoprawny romantyk. Jedno z nich wkrótce wyjedzie na zawsze. Spotykają się przypadkiem w Nowym Jorku i jest im dany zaledwie jeden wspólny dzień. Czy można przeżyć wielką miłość, gdy czasu jest tak niewiarygodnie mało?",
+"overviewEn": "Two young New Yorkers begin to fall in love over the course of a single day, as a series of potentially life-altering meetings loom over their heads - hers concerning her family’s deportation to Jamaica, and his concerning an education at Dartmouth.",
+"popularity": 1.88,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 9072,
+"tmdb": 6.9
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Słońce też jest gwiazdą",
+"titleEn": "The Sun Is Also a Star",
+"tmdbId": 508791,
+"trailerKey": "Au6W0wSFiXc"
+},
 "tvpvod:movie:512:sub": {
 "access": "sub",
 "backdropPath": "/8qPG3AjLtletf1K4g8iGhKwHQSc.jpg",
@@ -93756,6 +96915,44 @@
 "title": "Biały potok",
 "titleEn": null,
 "tmdbId": 847685,
+"trailerKey": null
+},
+"tvpvod:movie:87061:free": {
+"access": "free",
+"backdropPath": "/ts84A5JSHVaXFIe3FQYHzu0hpwk.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:87061:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99,
+36
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dokument ukazuje kulisy powstawania \"Podróży na księżyc\" Méliesa z 1902 r. oraz realia epoki, przypominając historię kina niemego i narodziny kina dźwiękowego.",
+"overviewEn": "An account of the extraordinary life of film pioneer Georges Méliès (1861-1938) and the amazing story of the copy in color of his masterpiece A Trip to the Moon (1902), unexpectedly found in Spain and restored thanks to the heroic efforts of a group of true cinema lovers.",
+"popularity": 1.25,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 530,
+"tmdb": 7.7
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Niezwykła podróż Georgesa Meliesa",
+"titleEn": "The Extraordinary Voyage",
+"tmdbId": 87061,
 "trailerKey": null
 },
 "tvpvod:movie:938150:paid": {
@@ -95653,6 +98850,43 @@
 "allEpisodes": false,
 "episodeFrom": 2,
 "episodeTo": 2,
+"genres": [
+18
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Historia oparta na faktach. Rok 1952, brak wyszkolonego personelu zmusza mężczyzn do nauki w szkołach pielęgniarskich. Jak sobie poradzą w środowisku, w którym panują przestarzałe hierarchie i surowa dyscyplina?",
+"overviewEn": "The lives of Erik and Anna, students at a nursing school in 1950s Denmark, a time and place where it was not normal for a man to become a nurse.",
+"popularity": 15.59,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 1266,
+"tmdb": 8.0
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Pielęgniarki",
+"titleEn": "The New Nurses",
+"tmdbId": 83524,
+"trailerKey": null
+},
+"tvpvod:tv:83524:s8e3:sub": {
+"access": "sub",
+"backdropPath": "/uvbiwdJ2Ja27O4G3kUOS0Uk7N5C.jpg",
+"confirmedAt": "2026-11-08T19:40:20Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:tv:83524:s8e3:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 3,
+"episodeTo": 3,
 "genres": [
 18
 ],
