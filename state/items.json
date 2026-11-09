@@ -513,8 +513,8 @@
 "appletv:movie:1226863:paid": {
 "access": "paid",
 "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-"confirmedAt": "2026-11-06T12:55:18Z",
-"date": "2026-11-06",
+"confirmedAt": null,
+"date": "2026-11-30",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "appletv:movie:1226863:paid",
@@ -543,7 +543,7 @@
 },
 "serviceKey": "appletv",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Super Mario  Galaxy Film",
 "titleEn": "The Super Mario Galaxy Movie",
 "tmdbId": 1226863,
@@ -731,7 +731,7 @@
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 63762,
-"tmdb": 6.7
+"tmdb": 6.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -740,6 +740,45 @@
 "titleEn": "The Roses",
 "tmdbId": 1267905,
 "trailerKey": "rb3x45F6mrQ"
+},
+"appletv:movie:1272149:sub": {
+"access": "sub",
+"backdropPath": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1272149:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Bridget znów jest sama, cztery lata temu, Mark zginął podczas misji humanitarnej w Sudanie. Teraz samotną matką 9-letniego Billy'ego i 4-letniej Mabel i utknęła w stanie emocjonalnego zawieszenia, wychowując swoje dzieci z pomocą lojalnych przyjaciół, a nawet byłego kochanka, Daniela Cleavera. Naciskana przez swoich przyjaciół - Shazzera, Jude'a i Toma, koleżankę z pracy, Mirandę oraz swoją lekarkę dr. Rawlings - aby wytyczyć nową ścieżkę w życiu i miłości, Bridget postanawia wrócić do pracy, a nawet próbuje aplikacji randkowych.",
+"overviewEn": "Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe – just maybe – her son's science teacher.",
+"popularity": 4.28,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 36143,
+"tmdb": 6.3
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Bridget Jones. Szalejąc za facetem",
+"titleEn": "Bridget Jones: Mad About the Boy",
+"tmdbId": 1272149,
+"trailerKey": "fi14ZQF0KaA"
 },
 "appletv:movie:1288227:free": {
 "access": "free",
@@ -1011,8 +1050,8 @@
 "appletv:movie:1358579:paid": {
 "access": "paid",
 "backdropPath": "/y18jH3YG9aAUT1nPLh1JcJA6Si1.jpg",
-"confirmedAt": "2026-11-06T12:55:18Z",
-"date": "2026-11-06",
+"confirmedAt": null,
+"date": "2026-12-01",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "appletv:movie:1358579:paid",
@@ -1028,17 +1067,17 @@
 "season": null,
 "withAds": false
 },
-"origin": "diff",
+"origin": "schedule",
 "overview": "Two strangers show up at the same Brooklyn apartment to collect cash they’re both owed. Forced to spend the day together on a journey through New York City, the pair reveal intimate details about their lives. One of them happens to be hiding a harrowing secret.",
 "overviewEn": "Two strangers show up at the same Brooklyn apartment to collect cash they’re both owed. Forced to spend the day together on a journey through New York City, the pair reveal intimate details about their lives. One of them happens to be hiding a harrowing secret.",
-"popularity": 0.42,
+"popularity": 0.36,
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 184
 },
 "serviceKey": "appletv",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Or Something",
 "titleEn": null,
 "tmdbId": 1358579,
@@ -1047,7 +1086,7 @@
 "appletv:movie:1367642:paid": {
 "access": "paid",
 "backdropPath": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -1076,7 +1115,7 @@
 },
 "serviceKey": "appletv",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Reminders of Him. Cząstka Ciebie, którą znam",
 "titleEn": "Reminders of Him",
 "tmdbId": 1367642,
@@ -1770,6 +1809,44 @@
 "tmdbId": 1637617,
 "trailerKey": null
 },
+"appletv:movie:16535:sub": {
+"access": "sub",
+"backdropPath": "/ahbx803wrITvlSjxLyp0Sfkzy3s.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:16535:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zmęczona nieudanym małżeństwem Julia postanawia uciec z dwójką dzieci do Ameryki. Wciąż kocha swego męża, lecz zdaje sobie sprawę, że wspólne życie będzie dla nich męką. W tajemnicy rezerwuje bilet na szeroko reklamowany rejs gigantycznym liniowcem. Richard w ostatniej chwili dowiaduje się o jej decyzji. Oszalały z rozpaczy kupuje bilet od jednego z pasażerów najniższej klasy.",
+"overviewEn": "Unhappily married, Julia Sturges decides to go to America with her two children on the Titanic. Her husband, Richard also arranges passage on the luxury liner so as to have custody of their two children. All this fades to insignificance once the ship hits an iceberg.",
+"popularity": 2.16,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 8312,
+"tmdb": 6.6
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Titanic",
+"titleEn": null,
+"tmdbId": 16535,
+"trailerKey": "r2z4DQcKl2c"
+},
 "appletv:movie:1662787:paid": {
 "access": "paid",
 "backdropPath": null,
@@ -1843,6 +1920,44 @@
 "titleEn": null,
 "tmdbId": 1711787,
 "trailerKey": "6z5uCjUEEy0"
+},
+"appletv:movie:1715208:paid": {
+"access": "paid",
+"backdropPath": "/pUicVatcE50HJbeHXs2nF7Z4JD1.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1715208:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+27,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "After his young son vanishes during a family road trip through a remote backwoods town, a desperate father joins forces with two detectives to uncover the terrifying truth behind the legend of CROATOAN. As the town's dark secrets unravel, they realize something ancient is hunting children.",
+"overviewEn": "After his young son vanishes during a family road trip through a remote backwoods town, a desperate father joins forces with two detectives to uncover the terrifying truth behind the legend of CROATOAN. As the town's dark secrets unravel, they realize something ancient is hunting children.",
+"popularity": 0.73,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 27
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "The Town That Takes",
+"titleEn": null,
+"tmdbId": 1715208,
+"trailerKey": "W9dNlOeOagk"
 },
 "appletv:movie:1716933:paid": {
 "access": "paid",
@@ -2406,6 +2521,72 @@
 "title": "Once Upon a Time... in Hollywood: Behind the Scenes",
 "titleEn": null,
 "tmdbId": 1817731,
+"trailerKey": null
+},
+"appletv:movie:1819518:paid": {
+"access": "paid",
+"backdropPath": "/k9qFYshmUa4cBC3oPL5hkQJulWB.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1819518:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "BEAUTY AND THE BEAST SING-ALONG",
+"titleEn": null,
+"tmdbId": 1819518,
+"trailerKey": null
+},
+"appletv:movie:1819518:sub": {
+"access": "sub",
+"backdropPath": "/k9qFYshmUa4cBC3oPL5hkQJulWB.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1819518:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "BEAUTY AND THE BEAST SING-ALONG",
+"titleEn": null,
+"tmdbId": 1819518,
 "trailerKey": null
 },
 "appletv:movie:1819651:paid": {
@@ -3651,6 +3832,45 @@
 "tmdbId": 649657,
 "trailerKey": null
 },
+"appletv:movie:667538:sub": {
+"access": "sub",
+"backdropPath": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:667538:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+878,
+12,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "OPTIMUS PRIME i AUTOBOTY w nowej, pełnej adrenaliny przygodzie. W obliczu grożącego planecie niebezpieczeństwa Transformersi muszą połączyć siły z potężną frakcją Maximali, aby wziąć udział w ostatecznej bitwie o ocalenie Ziemi. Gdy los ludzkości będzie zagrożony, Noah  i Elena  zrobią co tylko w ich mocy, by pomóc w ostatecznej walce o ocalenie Ziemi w nowym, ekscytującym rozdziale sagi z cyklu TRANSFORMERS.",
+"overviewEn": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+"popularity": 12.27,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 135093,
+"tmdb": 7.1
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Transformers. Przebudzenie bestii",
+"titleEn": "Transformers: Rise of the Beasts",
+"tmdbId": 667538,
+"trailerKey": "7qkBiCbI3GQ"
+},
 "appletv:movie:675871:paid": {
 "access": "paid",
 "backdropPath": "/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
@@ -4177,6 +4397,44 @@
 "tmdbId": 979416,
 "trailerKey": "UNwyKgi3tcs"
 },
+"appletv:tv:130853:s2e1:sub": {
+"access": "sub",
+"backdropPath": "/yj8g84iczcJVg3zCxVGpfdEMMxg.jpg",
+"confirmedAt": null,
+"date": "2026-12-01",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:tv:130853:s2e1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 1,
+"episodeTo": 1,
+"genres": [
+35,
+80
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Były detektyw, a obecnie kontroler w branży gastronomicznej na południowej Florydzie zostaje wciągnięty w świat pełen chciwości i korupcji, gdy turysta znajduje odcięte ramię podczas wędkowania. Pojawia się też małpa.",
+"overviewEn": "A detective turned restaurant inspector in Southern Florida is pulled into a world of greed and corruption after a tourist finds a severed arm while fishing. And yes, there's a monkey.",
+"popularity": 14.93,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 31029,
+"tmdb": 7.2
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "announced",
+"title": "Małpi biznes",
+"titleEn": "Bad Monkey",
+"tmdbId": 130853,
+"trailerKey": "RokJ4M2UjNc"
+},
 "appletv:tv:234310:s2e3:sub": {
 "access": "sub",
 "backdropPath": "/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
@@ -4408,7 +4666,7 @@
 "appletv:tv:248830:s2e3:sub": {
 "access": "sub",
 "backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -4437,7 +4695,7 @@
 },
 "serviceKey": "appletv",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Mistrz kija",
 "titleEn": "Stick",
 "tmdbId": 248830,
@@ -4494,6 +4752,44 @@
 "allEpisodes": false,
 "episodeFrom": 5,
 "episodeTo": 5,
+"genres": [
+35,
+18
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Pryce Cahill zmierzał ku golfowej wielkości, gdy załamanie nerwowe na polu golfowym zakończyło jego karierę. Teraz, walcząc o utrzymanie się na powierzchni, poświęca się całkowicie, by zostać mentorem Santiego, nastoletniego golfisty o ogromnym potencjale, i może przy tym uratować samego siebie.",
+"overviewEn": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
+"popularity": 39.06,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 21070,
+"tmdb": 7.3
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "announced",
+"title": "Mistrz kija",
+"titleEn": "Stick",
+"tmdbId": 248830,
+"trailerKey": "72oB_zVF_6o"
+},
+"appletv:tv:248830:s2e6:sub": {
+"access": "sub",
+"backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
+"confirmedAt": null,
+"date": "2026-12-01",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:tv:248830:s2e6:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
 "genres": [
 35,
 18
@@ -4966,6 +5262,37 @@
 "titleEn": null,
 "tmdbId": 1000475,
 "trailerKey": "dveH9v_R644"
+},
+"canalplus:movie:1001316:sub": {
+"access": "sub",
+"backdropPath": "/ft7MRAycCDTwdqLAFPsQBz2dlaV.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1001316:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W prowadzonych w latach 90. przez OBOP badaniach dotyczących religijności Polaków, odsetek osób wierzących zawsze oscylował w okolicach 95%. W tym samym czasie rekordowe wartości osiągały również wskaźniki bezrobocia. Kryzys wzmacniał w społeczeństwie potrzebę duchowości, co pozwalało wydarzać się rzeczom niekoniecznie możliwym w innych czasach…",
+"overviewEn": "According to researches made throughout 1990s by the Institute for Public Opinion Research (OBOP) approximately 95% of Poles identified themselves as a believers. At the same time unemployment rates reached record values. In times of crisis, when people sought spirituality, seemingly impossible events were possible...",
+"popularity": 0.48,
+"ratings": null,
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Diabeł",
+"titleEn": "The Devil",
+"tmdbId": 1001316,
+"trailerKey": null
 },
 "canalplus:movie:10025:free": {
 "access": "free",
@@ -9126,7 +9453,7 @@
 "ratings": {
 "imdb": 6.0,
 "imdbVotes": 3018,
-"tmdb": 8.2
+"tmdb": 8.1
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
@@ -9695,8 +10022,8 @@
 "canalplus:movie:1226863:paid": {
 "access": "paid",
 "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-"confirmedAt": "2026-11-07T11:43:12Z",
-"date": "2026-11-06",
+"confirmedAt": null,
+"date": "2026-11-30",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "canalplus:movie:1226863:paid",
@@ -9725,7 +10052,7 @@
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Super Mario  Galaxy Film",
 "titleEn": "The Super Mario Galaxy Movie",
 "tmdbId": 1226863,
@@ -11015,7 +11342,7 @@
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 63762,
-"tmdb": 6.7
+"tmdb": 6.6
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
@@ -11024,6 +11351,45 @@
 "titleEn": "The Roses",
 "tmdbId": 1267905,
 "trailerKey": "rb3x45F6mrQ"
+},
+"canalplus:movie:1272149:sub": {
+"access": "sub",
+"backdropPath": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1272149:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Bridget znów jest sama, cztery lata temu, Mark zginął podczas misji humanitarnej w Sudanie. Teraz samotną matką 9-letniego Billy'ego i 4-letniej Mabel i utknęła w stanie emocjonalnego zawieszenia, wychowując swoje dzieci z pomocą lojalnych przyjaciół, a nawet byłego kochanka, Daniela Cleavera. Naciskana przez swoich przyjaciół - Shazzera, Jude'a i Toma, koleżankę z pracy, Mirandę oraz swoją lekarkę dr. Rawlings - aby wytyczyć nową ścieżkę w życiu i miłości, Bridget postanawia wrócić do pracy, a nawet próbuje aplikacji randkowych.",
+"overviewEn": "Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe – just maybe – her son's science teacher.",
+"popularity": 4.28,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 36143,
+"tmdb": 6.3
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Bridget Jones. Szalejąc za facetem",
+"titleEn": "Bridget Jones: Mad About the Boy",
+"tmdbId": 1272149,
+"trailerKey": "fi14ZQF0KaA"
 },
 "canalplus:movie:1272837:sub": {
 "access": "sub",
@@ -12094,7 +12460,7 @@
 "canalplus:movie:1317288:paid": {
 "access": "paid",
 "backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -12123,7 +12489,7 @@
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Wielki Marty",
 "titleEn": "Marty Supreme",
 "tmdbId": 1317288,
@@ -12663,7 +13029,7 @@
 "canalplus:movie:1367642:paid": {
 "access": "paid",
 "backdropPath": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -12692,7 +13058,7 @@
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Reminders of Him. Cząstka Ciebie, którą znam",
 "titleEn": "Reminders of Him",
 "tmdbId": 1367642,
@@ -16127,6 +16493,72 @@
 "tmdbId": 1817731,
 "trailerKey": null
 },
+"canalplus:movie:1819518:paid": {
+"access": "paid",
+"backdropPath": "/k9qFYshmUa4cBC3oPL5hkQJulWB.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1819518:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "BEAUTY AND THE BEAST SING-ALONG",
+"titleEn": null,
+"tmdbId": 1819518,
+"trailerKey": null
+},
+"canalplus:movie:1819518:sub": {
+"access": "sub",
+"backdropPath": "/k9qFYshmUa4cBC3oPL5hkQJulWB.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1819518:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "BEAUTY AND THE BEAST SING-ALONG",
+"titleEn": null,
+"tmdbId": 1819518,
+"trailerKey": null
+},
 "canalplus:movie:185644:sub": {
 "access": "sub",
 "backdropPath": null,
@@ -18351,6 +18783,82 @@
 "tmdbId": 33588,
 "trailerKey": null
 },
+"canalplus:movie:340059:paid": {
+"access": "paid",
+"backdropPath": "/keUFJFd82pNtGcwhQWzPMpuftAu.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:340059:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+18,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jest rok 1965. Andrzej Hoffman jest wybitnym lekarzem, który mieszka i pracuje w Łodzi. Po wojnie kilka lat spędził w więzieniu. Jedynym dowodem w sprawie był donos złożony Służbie Bezpieczeństwa i jego wojenna działalność (był łącznikiem Armii Krajowej w Anglii). Pewnego dnia podczas obchodu w szpitalu spotyka Piotra, którego znał jeszcze z czasów partyzantki. Piotr za wszelką cenę chce wyjechać z Polski, by na Zachodzie rozpocząć nowe, lepsze życie. Jedynym sposobem, by zerwać z \"szarą\" polską rzeczywistością, jest zdobycie jak największej liczby pieniędzy i paszportu. Jest tylko jedno rozwiązanie tego problemu: napad na bank. Piotr od dawna przygotowywał plan napadu na konwój bankowy, jednakże do jego realizacji potrzebował wspólnika. Teraz pozyskał go w osobie Andrzeja, dla którego wyjazd za granicę to ostatnia szansa, aby spotkać się z żoną i córką, mieszkającymi w Wielkiej Brytanii.",
+"overviewEn": "In the mid-1960s, a respected surgeon dreams of leaving Poland to see his wife and daughter in England. To get the money for his escape, he needs to consider taking part in a bank robbery.",
+"popularity": 0.79,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 440
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Tam i z powrotem",
+"titleEn": "There and Back",
+"tmdbId": 340059,
+"trailerKey": null
+},
+"canalplus:movie:340059:sub": {
+"access": "sub",
+"backdropPath": "/keUFJFd82pNtGcwhQWzPMpuftAu.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:340059:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+18,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jest rok 1965. Andrzej Hoffman jest wybitnym lekarzem, który mieszka i pracuje w Łodzi. Po wojnie kilka lat spędził w więzieniu. Jedynym dowodem w sprawie był donos złożony Służbie Bezpieczeństwa i jego wojenna działalność (był łącznikiem Armii Krajowej w Anglii). Pewnego dnia podczas obchodu w szpitalu spotyka Piotra, którego znał jeszcze z czasów partyzantki. Piotr za wszelką cenę chce wyjechać z Polski, by na Zachodzie rozpocząć nowe, lepsze życie. Jedynym sposobem, by zerwać z \"szarą\" polską rzeczywistością, jest zdobycie jak największej liczby pieniędzy i paszportu. Jest tylko jedno rozwiązanie tego problemu: napad na bank. Piotr od dawna przygotowywał plan napadu na konwój bankowy, jednakże do jego realizacji potrzebował wspólnika. Teraz pozyskał go w osobie Andrzeja, dla którego wyjazd za granicę to ostatnia szansa, aby spotkać się z żoną i córką, mieszkającymi w Wielkiej Brytanii.",
+"overviewEn": "In the mid-1960s, a respected surgeon dreams of leaving Poland to see his wife and daughter in England. To get the money for his escape, he needs to consider taking part in a bank robbery.",
+"popularity": 0.79,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 440
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Tam i z powrotem",
+"titleEn": "There and Back",
+"tmdbId": 340059,
+"trailerKey": null
+},
 "canalplus:movie:351044:sub": {
 "access": "sub",
 "backdropPath": "/q9hnJ9SzwcF30seRtXEzLd5l1gw.jpg",
@@ -19342,6 +19850,44 @@
 "titleEn": "Red Dog: True Blue",
 "tmdbId": 403570,
 "trailerKey": "tlMpALk85DA"
+},
+"canalplus:movie:407531:paid": {
+"access": "paid",
+"backdropPath": "/gnaExMrBDw9hhgb1GacWapOV3mV.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:407531:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W niewyjaśnionych okolicznościach umiera licealistka Nikki. Po pogrzebie dziewczyny, piątka jej przyjaciół otrzymuje zaproszenie do pobrania tajemniczej aplikacji. Problem w tym, że komunikat o programie pochodzi z… telefonu zmarłej. Chcą rozwiązać zagadkę, nastolatki instalują aplikację na swoich komórkach. Wkrótce potem cała piątka zaczyna być terroryzowana przez złowrogą istotę. Nadprzyrodzony byt, tytułujący się Mr. Bedevil, wydaje się znać ich wszystkie, najmocniej skrywane fobie i lęki.",
+"overviewEn": "When a group of teenagers receive an invite to download the latest smartphone app, an intelligent personal assistant, they expect a harmless way to get directions and restaurant recommendations. But the sinister nature of the app soon reveals itself, tormenting the friends by tapping into their darkest fears.",
+"popularity": 1.18,
+"ratings": {
+"imdb": 4.3,
+"imdbVotes": 3965,
+"tmdb": 5.2
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Aplik@cja",
+"titleEn": "Bedeviled",
+"tmdbId": 407531,
+"trailerKey": "OYbAePGgs7Q"
 },
 "canalplus:movie:414906:paid": {
 "access": "paid",
@@ -23965,7 +24511,7 @@
 "origin": "diff",
 "overview": "Katniss pochodzi z Dwunastego Dystryktu, jednego z najbiedniejszych regionów w państwie Panem. Kiedy jej młodsza siostra zostaje wylosowana do udziału w Głodowych Igrzyskach, corocznym turnieju organizowanym przez bezwzględne władze, Katniss zgłasza się by zająć jej miejsce. Musi opuścić nie tylko rodzinę, której jest żywicielką, ale i Gale’a, który zdaje się być kimś więcej niż przyjacielem. Aby ich jeszcze zobaczyć, musi zwyciężyć w transmitowanych przez telewizję Igrzyskach. Przeżyć może tylko jeden uczestnik. Pochodzący z biednego dystryktu i nie szkoleni w walce Katniss i chłopak Peeta, w oczach widzów skazani są na porażkę. Igrzyska są jednak nieprzewidywalne. Między młodymi rodzi się uczucie, a odważna szesnastolatka rozpala w ludziach nadzieję na zmiany. Staje się symbolem buntu i walki z niesprawiedliwością. Jednak jeśli kiedykolwiek ma zobaczyć jeszcze rodzinny Dystrykt 12, musi dokonać rzeczy niemożliwych...",
 "overviewEn": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
-"popularity": 17.86,
+"popularity": 20.31,
 "ratings": {
 "imdb": 7.2,
 "imdbVotes": 1101632,
@@ -26256,6 +26802,44 @@
 "titleEn": null,
 "tmdbId": 86825,
 "trailerKey": "sOyxxhuvAmo"
+},
+"canalplus:movie:86829:paid": {
+"access": "paid",
+"backdropPath": "/kdkCTC6Cl20TJSf4B1eIJXAFeXl.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:86829:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tytułowy Davis to przenoszący się z jednej kanapy na drugą, z podrzędnego nowojorskiego baru do kolejnego, intrygujący muzyk. Davis szuka nie tylko swojego miejsca w świecie, ale także wciąż uciekającego mu kota. Po drodze marzy o zrobieniu wielkiej kariery muzycznej. Gra co prawda z Justinem Timberlakiem, ale nie da się ukryć, że muzycy mijają się w doborze repertuaru. Davis na pewno nie jest mistrzem w podejmowaniu właściwych decyzji. Nieustająco zostawia i zabiera rzeczy od dziewczyny przyjaciela, z którą sam miał romans. Ich dialogi skrzące od ciętych ripost zapewne przejdą do zbioru najlepszych tekstów Coenów.",
+"overviewEn": "In Greenwich Village in the early 1960s, gifted but volatile folk musician Llewyn Davis struggles with money, relationships, and his uncertain future.",
+"popularity": 3.54,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 173830,
+"tmdb": 7.2
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Co jest grane, Davis?",
+"titleEn": "Inside Llewyn Davis",
+"tmdbId": 86829,
+"trailerKey": "9JvHEDJEguY"
 },
 "canalplus:movie:8698:sub": {
 "access": "sub",
@@ -28728,6 +29312,42 @@
 "tmdbId": 117488,
 "trailerKey": "Axx9Qhct49w"
 },
+"canalplus:tv:128822:s6e10:sub": {
+"access": "sub",
+"backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
+"confirmedAt": null,
+"date": "2026-11-27",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:tv:128822:s6e10:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 10,
+"episodeTo": 12,
+"genres": [
+35
+],
+"kind": "series",
+"season": 6,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Akcja serialu rozgrywa się w Siedlcach, w siedzibie firmy zajmującej się produkcją wody mineralnej „Kropliczanka”. Jej prezes, Michał, to człowiek pozbawiony autorefleksji, który każdym słowem i gestem zabiega o atencję i uznanie. Kiedy przedsiębiorstwo zostaje przejęte przez nowego właściciela, a pracownicy zaczynają obawiać się o swoje posady, jedynie Michał patrzy na zmiany z optymizmem. Biznesowe roszady przeplatają się tu z biurową codziennością pracowników „Kropliczanki”.",
+"overviewEn": null,
+"popularity": 10.45,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 814
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "announced",
+"title": "The Office PL",
+"titleEn": null,
+"tmdbId": 128822,
+"trailerKey": "gkuO61ta8Js"
+},
 "canalplus:tv:128822:s6e1:sub": {
 "access": "sub",
 "backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
@@ -28777,6 +29397,42 @@
 "allEpisodes": false,
 "episodeFrom": 4,
 "episodeTo": 6,
+"genres": [
+35
+],
+"kind": "series",
+"season": 6,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Akcja serialu rozgrywa się w Siedlcach, w siedzibie firmy zajmującej się produkcją wody mineralnej „Kropliczanka”. Jej prezes, Michał, to człowiek pozbawiony autorefleksji, który każdym słowem i gestem zabiega o atencję i uznanie. Kiedy przedsiębiorstwo zostaje przejęte przez nowego właściciela, a pracownicy zaczynają obawiać się o swoje posady, jedynie Michał patrzy na zmiany z optymizmem. Biznesowe roszady przeplatają się tu z biurową codziennością pracowników „Kropliczanki”.",
+"overviewEn": null,
+"popularity": 10.45,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 814
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "announced",
+"title": "The Office PL",
+"titleEn": null,
+"tmdbId": 128822,
+"trailerKey": "gkuO61ta8Js"
+},
+"canalplus:tv:128822:s6e7:sub": {
+"access": "sub",
+"backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
+"confirmedAt": null,
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:tv:128822:s6e7:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 7,
+"episodeTo": 9,
 "genres": [
 35
 ],
@@ -29595,6 +30251,43 @@
 "titleEn": "Escape from New York",
 "tmdbId": 1103,
 "trailerKey": "bqT09APfNKI"
+},
+"cda:movie:1106194:sub": {
+"access": "sub",
+"backdropPath": "/q42pb6zBVgge7t8o6poZu0p5IHu.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1106194:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Pierwsza i największa miłość Giacoma Casanovy, która opuszcza Włochy i udaje się do Amsterdamu, po tym jak jej twarz została oszpecona przez ospę. Szesnaście lat później, kiedy odrodziła się jako zawoalowana kurtyzana znana pod imieniem Galathée, spotykają się ponownie. Nie ujawniając swojej prawdziwej tożsamości i twarzy, Lucia i Giacomo ponownie zostają kochankami.",
+"overviewEn": "Lucia, Giacomo Casanova’s only great love, leaves Italy for Amsterdam after her face has been disfigured by smallpox. Sixteen years later, they meet again when she has reinvented herself as a veiled courtesan. Without revealing her true identity or showing her face, Lucia and Giacomo become lovers once again. Will Lucia dare to reveal herself and turn her weakness into her strength so that she can be truly free in the eyes of her great love?",
+"popularity": 1.01,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 933,
+"tmdb": 7.5
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Piękna niedoskonałość",
+"titleEn": "A Beautiful Imperfection",
+"tmdbId": 1106194,
+"trailerKey": "pqSnQ99yreA"
 },
 "cda:movie:1107264:paid": {
 "access": "paid",
@@ -31620,7 +32313,7 @@
 "cda:movie:1657630:sub": {
 "access": "sub",
 "backdropPath": "/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -31646,11 +32339,11 @@
 "ratings": {
 "imdb": 3.5,
 "imdbVotes": 184,
-"tmdb": 6.4
+"tmdb": 6.5
 },
 "serviceKey": "cda",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Przebudzenie",
 "titleEn": "The Awakening",
 "tmdbId": 1657630,
@@ -33977,6 +34670,44 @@
 "tmdbId": 405931,
 "trailerKey": null
 },
+"cda:movie:407531:paid": {
+"access": "paid",
+"backdropPath": "/gnaExMrBDw9hhgb1GacWapOV3mV.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:407531:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W niewyjaśnionych okolicznościach umiera licealistka Nikki. Po pogrzebie dziewczyny, piątka jej przyjaciół otrzymuje zaproszenie do pobrania tajemniczej aplikacji. Problem w tym, że komunikat o programie pochodzi z… telefonu zmarłej. Chcą rozwiązać zagadkę, nastolatki instalują aplikację na swoich komórkach. Wkrótce potem cała piątka zaczyna być terroryzowana przez złowrogą istotę. Nadprzyrodzony byt, tytułujący się Mr. Bedevil, wydaje się znać ich wszystkie, najmocniej skrywane fobie i lęki.",
+"overviewEn": "When a group of teenagers receive an invite to download the latest smartphone app, an intelligent personal assistant, they expect a harmless way to get directions and restaurant recommendations. But the sinister nature of the app soon reveals itself, tormenting the friends by tapping into their darkest fears.",
+"popularity": 1.18,
+"ratings": {
+"imdb": 4.3,
+"imdbVotes": 3965,
+"tmdb": 5.2
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Aplik@cja",
+"titleEn": "Bedeviled",
+"tmdbId": 407531,
+"trailerKey": "OYbAePGgs7Q"
+},
 "cda:movie:412762:paid": {
 "access": "paid",
 "backdropPath": "/eC8Y6plhvkrIunRdDNNMXbs8E9Z.jpg",
@@ -35236,6 +35967,84 @@
 "tmdbId": 6028,
 "trailerKey": "p63taTOIVu4"
 },
+"cda:movie:621151:paid": {
+"access": "paid",
+"backdropPath": "/en7GPLCPwTRA0KxiR5BxjlSCqaG.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:621151:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+27,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Mężczyzna przeżywa katastrofę samolotu w Appalachach. Pod opiekę bierze go podejrzane starsze małżeństwo.",
+"overviewEn": "A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.",
+"popularity": 1.74,
+"ratings": {
+"imdb": 5.5,
+"imdbVotes": 11134,
+"tmdb": 6.4
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Urok",
+"titleEn": "Spell",
+"tmdbId": 621151,
+"trailerKey": "fTznGVd8nyo"
+},
+"cda:movie:621151:sub": {
+"access": "sub",
+"backdropPath": "/en7GPLCPwTRA0KxiR5BxjlSCqaG.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:621151:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+27,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Mężczyzna przeżywa katastrofę samolotu w Appalachach. Pod opiekę bierze go podejrzane starsze małżeństwo.",
+"overviewEn": "A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.",
+"popularity": 1.74,
+"ratings": {
+"imdb": 5.5,
+"imdbVotes": 11134,
+"tmdb": 6.4
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Urok",
+"titleEn": "Spell",
+"tmdbId": 621151,
+"trailerKey": "fTznGVd8nyo"
+},
 "cda:movie:63197:paid": {
 "access": "paid",
 "backdropPath": "/hGTK2dnm1vXYpr26QGWjXIVpI9l.jpg",
@@ -36249,6 +37058,80 @@
 "tmdbId": 85435,
 "trailerKey": "xSzCVYD7C4w"
 },
+"cda:movie:860901:paid": {
+"access": "paid",
+"backdropPath": "/3tlpvkOnBEuXwF5GDYqbCQYaRLM.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:860901:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "I wojna światowa dobiegła końca, ale wydarzenia związane z pierwszymi wolnymi wyborami we Włoszech grożą rozdarciem wioski. Ojciec Pio zmaga się z własnymi demonami, ostatecznie stając się jedną z najbardziej czczonych postaci katolicyzmu.",
+"overviewEn": "It is the end of World War I and the young Italian soldiers are making their way back to San Giovanni Rotondo, a land of poverty, with a tradition of violence and submission to the iron-clad rule of the church and its wealthy landowners. Families are desperate, the men are broken, albeit victorious. Padre Pio also arrives, at a remote Capuchin monastery, to begin his ministry, evoking an aura of charisma, saintliness and epic visions of Jesus, Mary and the Devil himself. The eve of the first free elections in Italy sets the stage for a massacre with a metaphorical dimension: an apocalyptic event that changes the course of history.",
+"popularity": 0.82,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 1889,
+"tmdb": 5.0
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Ojciec Pio",
+"titleEn": "Padre Pio",
+"tmdbId": 860901,
+"trailerKey": "s5VqoUSl8lw"
+},
+"cda:movie:860901:sub": {
+"access": "sub",
+"backdropPath": "/3tlpvkOnBEuXwF5GDYqbCQYaRLM.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:860901:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "I wojna światowa dobiegła końca, ale wydarzenia związane z pierwszymi wolnymi wyborami we Włoszech grożą rozdarciem wioski. Ojciec Pio zmaga się z własnymi demonami, ostatecznie stając się jedną z najbardziej czczonych postaci katolicyzmu.",
+"overviewEn": "It is the end of World War I and the young Italian soldiers are making their way back to San Giovanni Rotondo, a land of poverty, with a tradition of violence and submission to the iron-clad rule of the church and its wealthy landowners. Families are desperate, the men are broken, albeit victorious. Padre Pio also arrives, at a remote Capuchin monastery, to begin his ministry, evoking an aura of charisma, saintliness and epic visions of Jesus, Mary and the Devil himself. The eve of the first free elections in Italy sets the stage for a massacre with a metaphorical dimension: an apocalyptic event that changes the course of history.",
+"popularity": 0.82,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 1889,
+"tmdb": 5.0
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Ojciec Pio",
+"titleEn": "Padre Pio",
+"tmdbId": 860901,
+"trailerKey": "s5VqoUSl8lw"
+},
 "cda:movie:871082:paid": {
 "access": "paid",
 "backdropPath": "/coWunu5eyJ8FeIQHR08BIBZQvJV.jpg",
@@ -37167,6 +38050,123 @@
 "tmdbId": 244978,
 "trailerKey": "JuqtRc0y_hk"
 },
+"cda:tv:244978:s3e2:sub": {
+"access": "sub",
+"backdropPath": "/5vcVf5hDtnKQVmHj9RSIaVwwvlx.jpg",
+"confirmedAt": null,
+"date": "2026-11-13",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:tv:244978:s3e2:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 2,
+"episodeTo": 2,
+"genres": [
+80,
+9648,
+18
+],
+"kind": "series",
+"season": 3,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Detektyw inspektor Mackenzie Clarke wraca do rodzinnego miasta w Australii po zerwaniu z narzeczonym. Wkrótce zostaje wciągnięta w śledztwo, które sprawdzi jej wytrwałość, aż do ujęcia sprawcy.",
+"overviewEn": "DI Mackenzie Clarke is forced to leave London under a cloud of suspicion and return to the last place she ever wanted to be, her hometown of Dolphin Cove, Australia where her tenacity and work ethic helps her solve murder mysteries.",
+"popularity": 8.71,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 3012,
+"tmdb": 6.7
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "announced",
+"title": "Powrót do raju",
+"titleEn": "Return to Paradise",
+"tmdbId": 244978,
+"trailerKey": "JuqtRc0y_hk"
+},
+"cda:tv:244978:s3e3:sub": {
+"access": "sub",
+"backdropPath": "/5vcVf5hDtnKQVmHj9RSIaVwwvlx.jpg",
+"confirmedAt": null,
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:tv:244978:s3e3:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 3,
+"episodeTo": 3,
+"genres": [
+80,
+9648,
+18
+],
+"kind": "series",
+"season": 3,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Detektyw inspektor Mackenzie Clarke wraca do rodzinnego miasta w Australii po zerwaniu z narzeczonym. Wkrótce zostaje wciągnięta w śledztwo, które sprawdzi jej wytrwałość, aż do ujęcia sprawcy.",
+"overviewEn": "DI Mackenzie Clarke is forced to leave London under a cloud of suspicion and return to the last place she ever wanted to be, her hometown of Dolphin Cove, Australia where her tenacity and work ethic helps her solve murder mysteries.",
+"popularity": 8.71,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 3012,
+"tmdb": 6.7
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "announced",
+"title": "Powrót do raju",
+"titleEn": "Return to Paradise",
+"tmdbId": 244978,
+"trailerKey": "JuqtRc0y_hk"
+},
+"cda:tv:244978:s3e4:sub": {
+"access": "sub",
+"backdropPath": "/5vcVf5hDtnKQVmHj9RSIaVwwvlx.jpg",
+"confirmedAt": null,
+"date": "2026-11-27",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:tv:244978:s3e4:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 4,
+"episodeTo": 4,
+"genres": [
+80,
+9648,
+18
+],
+"kind": "series",
+"season": 3,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Detektyw inspektor Mackenzie Clarke wraca do rodzinnego miasta w Australii po zerwaniu z narzeczonym. Wkrótce zostaje wciągnięta w śledztwo, które sprawdzi jej wytrwałość, aż do ujęcia sprawcy.",
+"overviewEn": "DI Mackenzie Clarke is forced to leave London under a cloud of suspicion and return to the last place she ever wanted to be, her hometown of Dolphin Cove, Australia where her tenacity and work ethic helps her solve murder mysteries.",
+"popularity": 8.71,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 3012,
+"tmdb": 6.7
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "announced",
+"title": "Powrót do raju",
+"titleEn": "Return to Paradise",
+"tmdbId": 244978,
+"trailerKey": "JuqtRc0y_hk"
+},
 "cda:tv:260169:free": {
 "access": "free",
 "backdropPath": null,
@@ -37872,6 +38872,45 @@
 "tmdbId": 65334,
 "trailerKey": "Eo73DkyXywE"
 },
+"cda:tv:65334:s7e6:sub": {
+"access": "sub",
+"backdropPath": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+"confirmedAt": null,
+"date": "2026-11-29",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:tv:65334:s7e6:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
+"genres": [
+10759,
+16,
+10762
+],
+"kind": "series",
+"season": 7,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Serial opowiada o przygodach nastolatki Marinette, która otrzymała niezwykły dar — może przemieniać się w Biedronkę — super-bohaterkę o mocach szczęścia. W zwalczaniu zła pomaga jej Czarny Kot, który w rzeczywistości jest Adrienem, w którym dziewczyna jest zakochana. Bohaterowie nie wiedzą, kim są w rzeczywistości, a Czarny Kot żywi nieodwzajemnione uczucia do Biedronki. Czy nastolatkowie dowiedzą się, kim są naprawdę?",
+"overviewEn": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+"popularity": 132.73,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 21115,
+"tmdb": 8.1
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "announced",
+"title": "Miraculum: Biedronka i Czarny Kot",
+"titleEn": "Miraculous: Tales of Ladybug & Cat Noir",
+"tmdbId": 65334,
+"trailerKey": "Eo73DkyXywE"
+},
 "cda:tv:67106:free": {
 "access": "free",
 "backdropPath": "/ixSG9hAB54A1dlmBOW8qTExOyzw.jpg",
@@ -38442,7 +39481,7 @@
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 63762,
-"tmdb": 6.7
+"tmdb": 6.6
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -38639,6 +39678,72 @@
 "titleEn": "Super Scam Me",
 "tmdbId": 1771323,
 "trailerKey": "UWSVmS1TTb0"
+},
+"disney:movie:1819518:paid": {
+"access": "paid",
+"backdropPath": "/k9qFYshmUa4cBC3oPL5hkQJulWB.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "disney:movie:1819518:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "disney",
+"source": "tmdb",
+"status": "live",
+"title": "BEAUTY AND THE BEAST SING-ALONG",
+"titleEn": null,
+"tmdbId": 1819518,
+"trailerKey": null
+},
+"disney:movie:1819518:sub": {
+"access": "sub",
+"backdropPath": "/k9qFYshmUa4cBC3oPL5hkQJulWB.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "disney:movie:1819518:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "disney",
+"source": "tmdb",
+"status": "live",
+"title": "BEAUTY AND THE BEAST SING-ALONG",
+"titleEn": null,
+"tmdbId": 1819518,
+"trailerKey": null
 },
 "disney:movie:308531:paid": {
 "access": "paid",
@@ -40109,40 +41214,6 @@
 "tmdbId": 105009,
 "trailerKey": "idlLFNNpZiI"
 },
-"disney:tv:114656:s7e5:sub": {
-"access": "sub",
-"backdropPath": "/vKk3womxcGLqOZLiGZ2aXA2PtOV.jpg",
-"confirmedAt": "2026-11-07T11:43:12Z",
-"date": "2026-11-07",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "disney:tv:114656:s7e5:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 5,
-"episodeTo": 5,
-"genres": [],
-"kind": "series",
-"season": 7,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Hosted by Pat Sajak and Vanna White, celebrity contestants spin the wheel and solve word puzzles for a chance to win up to one million dollars for charity.",
-"overviewEn": "Hosted by Pat Sajak and Vanna White, celebrity contestants spin the wheel and solve word puzzles for a chance to win up to one million dollars for charity.",
-"popularity": 15.97,
-"ratings": {
-"imdb": 6.9,
-"imdbVotes": 370
-},
-"serviceKey": "disney",
-"source": "tmdb",
-"status": "live",
-"title": "Celebrity Wheel of Fortune",
-"titleEn": null,
-"tmdbId": 114656,
-"trailerKey": null
-},
 "disney:tv:114656:s7e6:sub": {
 "access": "sub",
 "backdropPath": "/vKk3womxcGLqOZLiGZ2aXA2PtOV.jpg",
@@ -40797,7 +41868,7 @@
 "ratings": {
 "imdb": 7.8,
 "imdbVotes": 15515,
-"tmdb": 8.7
+"tmdb": 8.6
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -41340,6 +42411,44 @@
 "tmdbId": 274388,
 "trailerKey": "JYLQcnHxBBs"
 },
+"disney:tv:274388:s1e73:sub": {
+"access": "sub",
+"backdropPath": "/tHWW3xDD49UZuoirqzUQT046dWi.jpg",
+"confirmedAt": null,
+"date": "2026-12-01",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "disney:tv:274388:s1e73:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 73,
+"episodeTo": 74,
+"genres": [
+16,
+10762,
+10765
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Iron Man i super ekipa Marvela to serial o przygodach najlepszych przyjaciół, którzy wspólnie, w genialne sposoby rozwiązują problemy i chronią swoje miasto.",
+"overviewEn": "Follow the adventures (and misadventures) of best friends and super geniuses, Tony Stark, Riri Williams and Amadeus Cho as they work together to solve problems both big and small and protect their city.",
+"popularity": 11.18,
+"ratings": {
+"imdb": 4.7,
+"imdbVotes": 212
+},
+"serviceKey": "disney",
+"source": "tmdb",
+"status": "announced",
+"title": "Iron Man i super ekipa",
+"titleEn": "Iron Man and His Awesome Friends",
+"tmdbId": 274388,
+"trailerKey": "JYLQcnHxBBs"
+},
 "disney:tv:275139:s1e5:sub": {
 "access": "sub",
 "backdropPath": "/roUD5m2nj6k88azMFsiqBae29cr.jpg",
@@ -41485,7 +42594,7 @@
 "ratings": {
 "imdb": 8.0,
 "imdbVotes": 384,
-"tmdb": 7.8
+"tmdb": 7.9
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -41523,7 +42632,7 @@
 "ratings": {
 "imdb": 8.0,
 "imdbVotes": 384,
-"tmdb": 7.8
+"tmdb": 7.9
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -41561,7 +42670,7 @@
 "ratings": {
 "imdb": 8.0,
 "imdbVotes": 384,
-"tmdb": 7.8
+"tmdb": 7.9
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -41599,7 +42708,7 @@
 "ratings": {
 "imdb": 8.0,
 "imdbVotes": 384,
-"tmdb": 7.8
+"tmdb": 7.9
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -41637,7 +42746,7 @@
 "ratings": {
 "imdb": 8.0,
 "imdbVotes": 384,
-"tmdb": 7.8
+"tmdb": 7.9
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -42143,7 +43252,7 @@
 "disney:tv:334887:s1e5:sub": {
 "access": "sub",
 "backdropPath": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -42170,7 +43279,7 @@
 },
 "serviceKey": "disney",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Mafia",
 "titleEn": "The Mob",
 "tmdbId": 334887,
@@ -42676,6 +43785,45 @@
 "allEpisodes": false,
 "episodeFrom": 5,
 "episodeTo": 5,
+"genres": [
+10759,
+16,
+10762
+],
+"kind": "series",
+"season": 7,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Serial opowiada o przygodach nastolatki Marinette, która otrzymała niezwykły dar — może przemieniać się w Biedronkę — super-bohaterkę o mocach szczęścia. W zwalczaniu zła pomaga jej Czarny Kot, który w rzeczywistości jest Adrienem, w którym dziewczyna jest zakochana. Bohaterowie nie wiedzą, kim są w rzeczywistości, a Czarny Kot żywi nieodwzajemnione uczucia do Biedronki. Czy nastolatkowie dowiedzą się, kim są naprawdę?",
+"overviewEn": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+"popularity": 132.73,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 21115,
+"tmdb": 8.1
+},
+"serviceKey": "disney",
+"source": "tmdb",
+"status": "announced",
+"title": "Miraculum: Biedronka i Czarny Kot",
+"titleEn": "Miraculous: Tales of Ladybug & Cat Noir",
+"tmdbId": 65334,
+"trailerKey": "Eo73DkyXywE"
+},
+"disney:tv:65334:s7e6:sub": {
+"access": "sub",
+"backdropPath": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+"confirmedAt": null,
+"date": "2026-11-29",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "disney:tv:65334:s7e6:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
 "genres": [
 10759,
 16,
@@ -46586,7 +47734,7 @@
 "origin": "diff",
 "overview": "Katniss pochodzi z Dwunastego Dystryktu, jednego z najbiedniejszych regionów w państwie Panem. Kiedy jej młodsza siostra zostaje wylosowana do udziału w Głodowych Igrzyskach, corocznym turnieju organizowanym przez bezwzględne władze, Katniss zgłasza się by zająć jej miejsce. Musi opuścić nie tylko rodzinę, której jest żywicielką, ale i Gale’a, który zdaje się być kimś więcej niż przyjacielem. Aby ich jeszcze zobaczyć, musi zwyciężyć w transmitowanych przez telewizję Igrzyskach. Przeżyć może tylko jeden uczestnik. Pochodzący z biednego dystryktu i nie szkoleni w walce Katniss i chłopak Peeta, w oczach widzów skazani są na porażkę. Igrzyska są jednak nieprzewidywalne. Między młodymi rodzi się uczucie, a odważna szesnastolatka rozpala w ludziach nadzieję na zmiany. Staje się symbolem buntu i walki z niesprawiedliwością. Jednak jeśli kiedykolwiek ma zobaczyć jeszcze rodzinny Dystrykt 12, musi dokonać rzeczy niemożliwych...",
 "overviewEn": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
-"popularity": 17.86,
+"popularity": 20.31,
 "ratings": {
 "imdb": 7.2,
 "imdbVotes": 1101632,
@@ -47464,7 +48612,7 @@
 "hbomax:tv:14750:s26e41:sub": {
 "access": "sub",
 "backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -47491,7 +48639,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Na Wspólnej",
 "titleEn": null,
 "tmdbId": 14750,
@@ -47819,43 +48967,6 @@
 "tmdbId": 207484,
 "trailerKey": "9hvjJEXoIhs"
 },
-"hbomax:tv:207484:s2e8:sub": {
-"access": "sub",
-"backdropPath": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
-"confirmedAt": "2026-11-07T11:43:12Z",
-"date": "2026-11-07",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "hbomax:tv:207484:s2e8:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 8,
-"episodeTo": 8,
-"genres": [
-18
-],
-"kind": "series",
-"season": 2,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Historia miłości rodziców głównych bohaterów \"Outlandera\", Jamiego oraz Claire. Ellen MacKenzie poznaje Briana Frasera w osiemnastowiecznej Szkocji, zaś Julia Moriston Henry'ego Beauchampa w Anglii podczas I wojny światowej.",
-"overviewEn": "From the battlefields of World War I to the rugged Highlands of 18th century Scotland, two fated couples must defy the forces that seek to tear them apart, unfolding in surprising and unforeseen ways in this romantic saga that unfolds across time.",
-"popularity": 25.35,
-"ratings": {
-"imdb": 8.1,
-"imdbVotes": 8002,
-"tmdb": 8.7
-},
-"serviceKey": "hbomax",
-"source": "tmdb",
-"status": "live",
-"title": "Outlander: Krew z krwi",
-"titleEn": "Outlander: Blood of My Blood",
-"tmdbId": 207484,
-"trailerKey": "9hvjJEXoIhs"
-},
 "hbomax:tv:207484:s2e9:sub": {
 "access": "sub",
 "backdropPath": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
@@ -47967,6 +49078,43 @@
 "tmdbId": 210062,
 "trailerKey": null
 },
+"hbomax:tv:210062:s9e12:sub": {
+"access": "sub",
+"backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
+"confirmedAt": null,
+"date": "2026-12-01",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:210062:s9e12:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 12,
+"episodeTo": 12,
+"genres": [
+10764,
+80
+],
+"kind": "series",
+"season": 9,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Funkcjonariusze szwedzkich służb granicznych i celnych nieustannie podejmują próby, by powstrzymywać przemyt nielegalnych dóbr do kraju. Ich praca nigdy się nie kończy.",
+"overviewEn": "Thousands of people cross Sweden's borders every day. We follow customs officers, investigators, scouts and dog handlers who daily secure Sweden's borders, ports and airports.",
+"popularity": 1.89,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 118
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Celnicy na straży Szwecji",
+"titleEn": "Border Control: Sweden",
+"tmdbId": 210062,
+"trailerKey": null
+},
 "hbomax:tv:210062:s9e8:sub": {
 "access": "sub",
 "backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
@@ -48007,7 +49155,7 @@
 "hbomax:tv:210062:s9e9:sub": {
 "access": "sub",
 "backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -48035,7 +49183,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Celnicy na straży Szwecji",
 "titleEn": "Border Control: Sweden",
 "tmdbId": 210062,
@@ -48188,7 +49336,7 @@
 "hbomax:tv:211656:s13e43:sub": {
 "access": "sub",
 "backdropPath": "/lF7A08C7hDC1RbhHPpLMjsS317C.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -48215,7 +49363,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Hotel Paradise",
 "titleEn": null,
 "tmdbId": 211656,
@@ -49469,6 +50617,158 @@
 "tmdbId": 255570,
 "trailerKey": "9irsgS7DEUI"
 },
+"hbomax:tv:255570:s2e5:sub": {
+"access": "sub",
+"backdropPath": "/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:255570:s2e5:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 5,
+"episodeTo": 5,
+"genres": [
+18,
+80
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "To opowieść o rodzinie i miłości, które zostały zniszczone i skażone przez ambicję, dumę i chciwość. To historia o władzy – o tym, co jesteśmy w stanie zrobić, aby ją zdobyć i utrzymać.",
+"overviewEn": "After trying to leave a world of crime, Michael is dragged back into the fold to answer questions. Back in Liverpool tensions continue to bubble amongst the remaining members of the gang, and a gangster who's just been let out of prison wants answers.",
+"popularity": 33.78,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 12276,
+"tmdb": 7.5
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "To miasto należy do nas",
+"titleEn": "This City Is Ours",
+"tmdbId": 255570,
+"trailerKey": "9irsgS7DEUI"
+},
+"hbomax:tv:255570:s2e6:sub": {
+"access": "sub",
+"backdropPath": "/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-09",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:255570:s2e6:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
+"genres": [
+18,
+80
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "To opowieść o rodzinie i miłości, które zostały zniszczone i skażone przez ambicję, dumę i chciwość. To historia o władzy – o tym, co jesteśmy w stanie zrobić, aby ją zdobyć i utrzymać.",
+"overviewEn": "After trying to leave a world of crime, Michael is dragged back into the fold to answer questions. Back in Liverpool tensions continue to bubble amongst the remaining members of the gang, and a gangster who's just been let out of prison wants answers.",
+"popularity": 33.78,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 12276,
+"tmdb": 7.5
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "To miasto należy do nas",
+"titleEn": "This City Is Ours",
+"tmdbId": 255570,
+"trailerKey": "9irsgS7DEUI"
+},
+"hbomax:tv:255570:s2e7:sub": {
+"access": "sub",
+"backdropPath": "/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
+"confirmedAt": null,
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:255570:s2e7:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 7,
+"episodeTo": 7,
+"genres": [
+18,
+80
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "To opowieść o rodzinie i miłości, które zostały zniszczone i skażone przez ambicję, dumę i chciwość. To historia o władzy – o tym, co jesteśmy w stanie zrobić, aby ją zdobyć i utrzymać.",
+"overviewEn": "After trying to leave a world of crime, Michael is dragged back into the fold to answer questions. Back in Liverpool tensions continue to bubble amongst the remaining members of the gang, and a gangster who's just been let out of prison wants answers.",
+"popularity": 33.78,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 12276,
+"tmdb": 7.5
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "To miasto należy do nas",
+"titleEn": "This City Is Ours",
+"tmdbId": 255570,
+"trailerKey": "9irsgS7DEUI"
+},
+"hbomax:tv:255570:s2e8:sub": {
+"access": "sub",
+"backdropPath": "/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
+"confirmedAt": null,
+"date": "2026-11-16",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:255570:s2e8:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 8,
+"episodeTo": 8,
+"genres": [
+18,
+80
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "To opowieść o rodzinie i miłości, które zostały zniszczone i skażone przez ambicję, dumę i chciwość. To historia o władzy – o tym, co jesteśmy w stanie zrobić, aby ją zdobyć i utrzymać.",
+"overviewEn": "After trying to leave a world of crime, Michael is dragged back into the fold to answer questions. Back in Liverpool tensions continue to bubble amongst the remaining members of the gang, and a gangster who's just been let out of prison wants answers.",
+"popularity": 33.78,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 12276,
+"tmdb": 7.5
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "To miasto należy do nas",
+"titleEn": "This City Is Ours",
+"tmdbId": 255570,
+"trailerKey": "9irsgS7DEUI"
+},
 "hbomax:tv:256695:s1e18:sub": {
 "access": "sub",
 "backdropPath": "/43Tu4TnFO57R6eK6XUBFGJrazrZ.jpg",
@@ -50088,7 +51388,7 @@
 "hbomax:tv:289214:s9e18:sub": {
 "access": "sub",
 "backdropPath": "/dpdmbawI8S3ZqFAoByuIp5JRvlC.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -50112,7 +51412,7 @@
 "ratings": null,
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "The Floor",
 "titleEn": "The Floor (PL)",
 "tmdbId": 289214,
@@ -50187,7 +51487,7 @@
 "hbomax:tv:290564:s2e6:sub": {
 "access": "sub",
 "backdropPath": "/u33XkP4bARiOCW72AvrQU2MT6ls.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -50214,7 +51514,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Wiza na miłość: single na polowaniu",
 "titleEn": "90 Day: Hunt for Love",
 "tmdbId": 290564,
@@ -50269,6 +51569,42 @@
 "allEpisodes": false,
 "episodeFrom": 8,
 "episodeTo": 8,
+"genres": [
+10764
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Ósemka singli po przejściach spotyka się z grupą potencjalnych partnerów w rajskiej scenerii Tulum w Meksyku. Jak zakończą się poszukiwania miłości?",
+"overviewEn": "Features eight singles from the 90 Day universe who are ready to embark on a quest for love once again, joined by fresh, new faces and romantic hopefuls.",
+"popularity": 3.68,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 225
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Wiza na miłość: single na polowaniu",
+"titleEn": "90 Day: Hunt for Love",
+"tmdbId": 290564,
+"trailerKey": "5oeNWIfS2AQ"
+},
+"hbomax:tv:290564:s2e9:sub": {
+"access": "sub",
+"backdropPath": "/u33XkP4bARiOCW72AvrQU2MT6ls.jpg",
+"confirmedAt": null,
+"date": "2026-12-01",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:290564:s2e9:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 9,
+"episodeTo": 9,
 "genres": [
 10764
 ],
@@ -51452,43 +52788,6 @@
 "tmdbId": 34045,
 "trailerKey": "vY14odcyaBk"
 },
-"hbomax:tv:34634:s17e6:sub": {
-"access": "sub",
-"backdropPath": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
-"confirmedAt": "2026-11-07T11:43:12Z",
-"date": "2026-11-07",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "hbomax:tv:34634:s17e6:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 6,
-"episodeTo": 6,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 17,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "W obliczu stygnącej gospodarki rodzina Hoffmanów bierze sprawy w swoje ręce - dosłownie. Wyposażeni w narzędzia będą szukać nowych granic - pod ziemią. \"Gorączka złota\" pokaże sylwetkę głowy rodziny, Todda Hoffmana, i jego rodziny, którzy wspólnie podejmują ogromne ryzyko. Mając nadzieję na wysoki zarobek, kupują dwieście akrów ziemi w północnej Alasce. To kraina o legendarnych wręcz bogactwach, ale ukrytych głęboko w ziemi. Wielka fortuna czeka tych, którzy przezwyciężą własny lęk przed ciemnością i ciasnymi korytarzami, a na bok odłożą przyzwyczajenie do czystości. Górnicy, wydobywający złote samorodki, to ludzie skłonni poświęcić wiele. Będziemy świadkami wielu wyzwań: zawodzący sprzęt, uparta natura, ludzkie słabości, no i nieufność okolicznych mieszkańców - którzy także szukają szczęścia na Alasce. Czy rodzinę Hoffmanów spotka fortuna? A może stracą oszczędności życia?",
-"overviewEn": "Follow the lives of ambitious miners as they head north in pursuit of gold. With new miners, new claims, new machines and new ways to pull gold out of the ground, the stakes are higher than ever. But will big risks lead to an even bigger pay out?",
-"popularity": 38.76,
-"ratings": {
-"imdb": 7.3,
-"imdbVotes": 6226,
-"tmdb": 7.2
-},
-"serviceKey": "hbomax",
-"source": "tmdb",
-"status": "live",
-"title": "Gorączka Złota",
-"titleEn": "Gold Rush",
-"tmdbId": 34634,
-"trailerKey": "ZxnqvqQN3Cs"
-},
 "hbomax:tv:34634:s17e7:sub": {
 "access": "sub",
 "backdropPath": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
@@ -52043,6 +53342,43 @@
 "titleEn": null,
 "tmdbId": 74274,
 "trailerKey": null
+},
+"hbomax:tv:77974:s16:sub": {
+"access": "sub",
+"backdropPath": "/2nATpVQp6MLiJyqCZrCrRB481jd.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-07",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:77974:s16:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10764,
+18
+],
+"kind": "series",
+"season": 16,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Losy śmiałków, którzy pragną się wzbogacić, poszukując kamieni szlachetnych w nieprzychylnej australijskiej dziczy. Bohaterowie programu kopią w spalonej słońcem ziemi, walczą z nieznośnym upałem i stają oko w oko ze śmiertelnie niebezpiecznymi wężami i pająkami. Wszystko dlatego, by znaleźć opale warte fortunę.",
+"overviewEn": "The world's toughest treasure hunters push their bodies and bank accounts to the limit on a quest to strike it rich, hunting the legendary Queen of Gems - Opal.",
+"popularity": 3.54,
+"ratings": {
+"imdb": 7.1,
+"imdbVotes": 386
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Łowcy opali",
+"titleEn": "Outback Opal Hunters",
+"tmdbId": 77974,
+"trailerKey": "ru2-XOgHiOs"
 },
 "hbomax:tv:80027:s10e5:sub": {
 "access": "sub",
@@ -56645,7 +57981,7 @@
 "ratings": {
 "imdb": 7.8,
 "imdbVotes": 22519,
-"tmdb": 7.7
+"tmdb": 7.6
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -56806,7 +58142,7 @@
 "netflix:tv:157926:s4e1:sub": {
 "access": "sub",
 "backdropPath": "/crA00CIs9jFpn2BkhrBTtjF1afG.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -56835,7 +58171,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Zostanie tylko 1",
 "titleEn": "Last One Standing",
 "tmdbId": 157926,
@@ -57109,7 +58445,7 @@
 "netflix:tv:214582:s3e1:sub": {
 "access": "sub",
 "backdropPath": "/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -57137,7 +58473,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Diabelski plan",
 "titleEn": "The Devil's Plan",
 "tmdbId": 214582,
@@ -59376,7 +60712,7 @@
 "netflix:tv:294637:s2e27:sub": {
 "access": "sub",
 "backdropPath": "/mWzn4Mg7FbuDMg7CKR88dKlWAwg.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -59401,7 +60737,7 @@
 "ratings": null,
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Młode gliny",
 "titleEn": null,
 "tmdbId": 294637,
@@ -60681,7 +62017,7 @@
 "netflix:tv:31991:s20e45:sub": {
 "access": "sub",
 "backdropPath": "/2ugy3IP3yvdRdEepHDOml82TKFT.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -60711,7 +62047,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "WWE NXT",
 "titleEn": null,
 "tmdbId": 31991,
@@ -60769,6 +62105,45 @@
 "allEpisodes": false,
 "episodeFrom": 47,
 "episodeTo": 47,
+"genres": [
+10759,
+18,
+10764
+],
+"kind": "series",
+"season": 20,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+"overviewEn": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+"popularity": 538.01,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 2658,
+"tmdb": 6.6
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "WWE NXT",
+"titleEn": null,
+"tmdbId": 31991,
+"trailerKey": null
+},
+"netflix:tv:31991:s20e48:sub": {
+"access": "sub",
+"backdropPath": "/2ugy3IP3yvdRdEepHDOml82TKFT.jpg",
+"confirmedAt": null,
+"date": "2026-12-01",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:31991:s20e48:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 48,
+"episodeTo": 48,
 "genres": [
 10759,
 18,
@@ -60932,7 +62307,7 @@
 "netflix:tv:321421:s1e881:sub": {
 "access": "sub",
 "backdropPath": "/9BTe8tU3OSA29Gn5487bVEGK44b.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -60956,7 +62331,7 @@
 "ratings": null,
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Behind the Bastards",
 "titleEn": null,
 "tmdbId": 321421,
@@ -62917,6 +64292,45 @@
 "tmdbId": 65334,
 "trailerKey": "Eo73DkyXywE"
 },
+"netflix:tv:65334:s7e6:sub": {
+"access": "sub",
+"backdropPath": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+"confirmedAt": null,
+"date": "2026-11-29",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:65334:s7e6:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
+"genres": [
+10759,
+16,
+10762
+],
+"kind": "series",
+"season": 7,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Serial opowiada o przygodach nastolatki Marinette, która otrzymała niezwykły dar — może przemieniać się w Biedronkę — super-bohaterkę o mocach szczęścia. W zwalczaniu zła pomaga jej Czarny Kot, który w rzeczywistości jest Adrienem, w którym dziewczyna jest zakochana. Bohaterowie nie wiedzą, kim są w rzeczywistości, a Czarny Kot żywi nieodwzajemnione uczucia do Biedronki. Czy nastolatkowie dowiedzą się, kim są naprawdę?",
+"overviewEn": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+"popularity": 132.73,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 21115,
+"tmdb": 8.1
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "Miraculum: Biedronka i Czarny Kot",
+"titleEn": "Miraculous: Tales of Ladybug & Cat Noir",
+"tmdbId": 65334,
+"trailerKey": "Eo73DkyXywE"
+},
 "netflix:tv:65701:s31e41:sub": {
 "access": "sub",
 "backdropPath": "/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
@@ -63718,6 +65132,45 @@
 "tmdbId": 1140521,
 "trailerKey": "PAUEwUhAjzg"
 },
+"player:movie:1141163:free": {
+"access": "free",
+"backdropPath": "/g8RddI0QqS9ufDDBvQddZSacgP6.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1141163:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Włochy, lata 80. i 90. XX wieku. Dzięki swojej agencji Diva Futura Riccardo Schicchi rewolucjonizuje kulturę masową, przekształcając hippisowską utopię wolnej miłości w nowe zjawisko: porno. Pod jej przewodnictwem „dziewczyny z sąsiedztwa”, takie jak Ilona Staller, Moana Pozzi, Eva Henger i wiele innych, nagle stają się divami światowej sławy i wchodzą do włoskich domów dzięki boomowi na prywatne telewizory i magnetowidy VHS. Ukute wówczas wyrażenie „gwiazda porno” wyznacza początek nowej ery. Wpływ mediów był tak przytłaczający, że zaowocował wyborem do parlamentu Ilony Staller, zwanej „Ciccioliną”, narodzinami Partii Miłości i kandydaturą Moany Pozzi na burmistrza Rzymu. Przygoda tej dużej „rodziny” – w której eksplodują zazdrości, udręki i sprzeczności, których skutki generują wymykającą się spod kontroli sytuację w branży pornograficznej – opowiedziana jest oczami Debory, młodej sekretarki agencji...",
+"overviewEn": "In 1980s - 1990s Italy, Riccardo Schicchi’s agency Diva Futura turns free love into porn, making stars of Ilona Staller, Moana Pozzi and others known around the world. Their fame leads to Cicciolina’s election and Pozzi’s mayoral run.",
+"popularity": 0.93,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 972,
+"tmdb": 6.3
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Diva Futura",
+"titleEn": null,
+"tmdbId": 1141163,
+"trailerKey": "J67QAvwqsig"
+},
 "player:movie:1159206:paid": {
 "access": "paid",
 "backdropPath": "/n36zycrAqHn2uzx65IeAdnsZcMj.jpg",
@@ -63901,7 +65354,7 @@
 "ratings": {
 "imdb": 6.0,
 "imdbVotes": 3018,
-"tmdb": 8.2
+"tmdb": 8.1
 },
 "serviceKey": "player",
 "source": "tmdb",
@@ -63990,8 +65443,8 @@
 "player:movie:1226863:paid": {
 "access": "paid",
 "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-"confirmedAt": "2026-11-06T12:55:18Z",
-"date": "2026-11-06",
+"confirmedAt": null,
+"date": "2026-11-30",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "player:movie:1226863:paid",
@@ -64020,7 +65473,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Super Mario  Galaxy Film",
 "titleEn": "The Super Mario Galaxy Movie",
 "tmdbId": 1226863,
@@ -64169,7 +65622,7 @@
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 63762,
-"tmdb": 6.7
+"tmdb": 6.6
 },
 "serviceKey": "player",
 "source": "tmdb",
@@ -64178,6 +65631,45 @@
 "titleEn": "The Roses",
 "tmdbId": 1267905,
 "trailerKey": "rb3x45F6mrQ"
+},
+"player:movie:1272149:sub": {
+"access": "sub",
+"backdropPath": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1272149:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Bridget znów jest sama, cztery lata temu, Mark zginął podczas misji humanitarnej w Sudanie. Teraz samotną matką 9-letniego Billy'ego i 4-letniej Mabel i utknęła w stanie emocjonalnego zawieszenia, wychowując swoje dzieci z pomocą lojalnych przyjaciół, a nawet byłego kochanka, Daniela Cleavera. Naciskana przez swoich przyjaciół - Shazzera, Jude'a i Toma, koleżankę z pracy, Mirandę oraz swoją lekarkę dr. Rawlings - aby wytyczyć nową ścieżkę w życiu i miłości, Bridget postanawia wrócić do pracy, a nawet próbuje aplikacji randkowych.",
+"overviewEn": "Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe – just maybe – her son's science teacher.",
+"popularity": 4.28,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 36143,
+"tmdb": 6.3
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Bridget Jones. Szalejąc za facetem",
+"titleEn": "Bridget Jones: Mad About the Boy",
+"tmdbId": 1272149,
+"trailerKey": "fi14ZQF0KaA"
 },
 "player:movie:1288227:free": {
 "access": "free",
@@ -64451,7 +65943,7 @@
 "player:movie:1317288:paid": {
 "access": "paid",
 "backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -64480,7 +65972,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Wielki Marty",
 "titleEn": "Marty Supreme",
 "tmdbId": 1317288,
@@ -64643,7 +66135,7 @@
 "player:movie:1367642:paid": {
 "access": "paid",
 "backdropPath": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -64672,7 +66164,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Reminders of Him. Cząstka Ciebie, którą znam",
 "titleEn": "Reminders of Him",
 "tmdbId": 1367642,
@@ -65403,6 +66895,72 @@
 "title": "Once Upon a Time... in Hollywood: Behind the Scenes",
 "titleEn": null,
 "tmdbId": 1817731,
+"trailerKey": null
+},
+"player:movie:1819518:paid": {
+"access": "paid",
+"backdropPath": "/k9qFYshmUa4cBC3oPL5hkQJulWB.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1819518:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "BEAUTY AND THE BEAST SING-ALONG",
+"titleEn": null,
+"tmdbId": 1819518,
+"trailerKey": null
+},
+"player:movie:1819518:sub": {
+"access": "sub",
+"backdropPath": "/k9qFYshmUa4cBC3oPL5hkQJulWB.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1819518:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "BEAUTY AND THE BEAST SING-ALONG",
+"titleEn": null,
+"tmdbId": 1819518,
 "trailerKey": null
 },
 "player:movie:1830:sub": {
@@ -66832,6 +68390,84 @@
 "tmdbId": 602158,
 "trailerKey": null
 },
+"player:movie:667538:paid": {
+"access": "paid",
+"backdropPath": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:667538:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+878,
+12,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "OPTIMUS PRIME i AUTOBOTY w nowej, pełnej adrenaliny przygodzie. W obliczu grożącego planecie niebezpieczeństwa Transformersi muszą połączyć siły z potężną frakcją Maximali, aby wziąć udział w ostatecznej bitwie o ocalenie Ziemi. Gdy los ludzkości będzie zagrożony, Noah  i Elena  zrobią co tylko w ich mocy, by pomóc w ostatecznej walce o ocalenie Ziemi w nowym, ekscytującym rozdziale sagi z cyklu TRANSFORMERS.",
+"overviewEn": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+"popularity": 12.27,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 135093,
+"tmdb": 7.1
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Transformers. Przebudzenie bestii",
+"titleEn": "Transformers: Rise of the Beasts",
+"tmdbId": 667538,
+"trailerKey": "7qkBiCbI3GQ"
+},
+"player:movie:667538:sub": {
+"access": "sub",
+"backdropPath": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:667538:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+878,
+12,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "OPTIMUS PRIME i AUTOBOTY w nowej, pełnej adrenaliny przygodzie. W obliczu grożącego planecie niebezpieczeństwa Transformersi muszą połączyć siły z potężną frakcją Maximali, aby wziąć udział w ostatecznej bitwie o ocalenie Ziemi. Gdy los ludzkości będzie zagrożony, Noah  i Elena  zrobią co tylko w ich mocy, by pomóc w ostatecznej walce o ocalenie Ziemi w nowym, ekscytującym rozdziale sagi z cyklu TRANSFORMERS.",
+"overviewEn": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+"popularity": 12.27,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 135093,
+"tmdb": 7.1
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Transformers. Przebudzenie bestii",
+"titleEn": "Transformers: Rise of the Beasts",
+"tmdbId": 667538,
+"trailerKey": "7qkBiCbI3GQ"
+},
 "player:movie:695721:paid": {
 "access": "paid",
 "backdropPath": "/bk1TitfD4YIGrM6AvljonMCtfnl.jpg",
@@ -66908,6 +68544,84 @@
 "titleEn": "No Country for Old Men",
 "tmdbId": 6977,
 "trailerKey": "A0oNrgumrlE"
+},
+"player:movie:70160:paid": {
+"access": "paid",
+"backdropPath": "/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:70160:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+878,
+12,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Katniss pochodzi z Dwunastego Dystryktu, jednego z najbiedniejszych regionów w państwie Panem. Kiedy jej młodsza siostra zostaje wylosowana do udziału w Głodowych Igrzyskach, corocznym turnieju organizowanym przez bezwzględne władze, Katniss zgłasza się by zająć jej miejsce. Musi opuścić nie tylko rodzinę, której jest żywicielką, ale i Gale’a, który zdaje się być kimś więcej niż przyjacielem. Aby ich jeszcze zobaczyć, musi zwyciężyć w transmitowanych przez telewizję Igrzyskach. Przeżyć może tylko jeden uczestnik. Pochodzący z biednego dystryktu i nie szkoleni w walce Katniss i chłopak Peeta, w oczach widzów skazani są na porażkę. Igrzyska są jednak nieprzewidywalne. Między młodymi rodzi się uczucie, a odważna szesnastolatka rozpala w ludziach nadzieję na zmiany. Staje się symbolem buntu i walki z niesprawiedliwością. Jednak jeśli kiedykolwiek ma zobaczyć jeszcze rodzinny Dystrykt 12, musi dokonać rzeczy niemożliwych...",
+"overviewEn": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
+"popularity": 20.31,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 1101632,
+"tmdb": 7.2
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Igrzyska śmierci",
+"titleEn": "The Hunger Games",
+"tmdbId": 70160,
+"trailerKey": "TTvi9xco3Cw"
+},
+"player:movie:70160:sub": {
+"access": "sub",
+"backdropPath": "/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:70160:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+878,
+12,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Katniss pochodzi z Dwunastego Dystryktu, jednego z najbiedniejszych regionów w państwie Panem. Kiedy jej młodsza siostra zostaje wylosowana do udziału w Głodowych Igrzyskach, corocznym turnieju organizowanym przez bezwzględne władze, Katniss zgłasza się by zająć jej miejsce. Musi opuścić nie tylko rodzinę, której jest żywicielką, ale i Gale’a, który zdaje się być kimś więcej niż przyjacielem. Aby ich jeszcze zobaczyć, musi zwyciężyć w transmitowanych przez telewizję Igrzyskach. Przeżyć może tylko jeden uczestnik. Pochodzący z biednego dystryktu i nie szkoleni w walce Katniss i chłopak Peeta, w oczach widzów skazani są na porażkę. Igrzyska są jednak nieprzewidywalne. Między młodymi rodzi się uczucie, a odważna szesnastolatka rozpala w ludziach nadzieję na zmiany. Staje się symbolem buntu i walki z niesprawiedliwością. Jednak jeśli kiedykolwiek ma zobaczyć jeszcze rodzinny Dystrykt 12, musi dokonać rzeczy niemożliwych...",
+"overviewEn": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
+"popularity": 20.31,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 1101632,
+"tmdb": 7.2
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Igrzyska śmierci",
+"titleEn": "The Hunger Games",
+"tmdbId": 70160,
+"trailerKey": "TTvi9xco3Cw"
 },
 "player:movie:724665:sub": {
 "access": "sub",
@@ -67099,6 +68813,44 @@
 "tmdbId": 81208,
 "trailerKey": null
 },
+"player:movie:81230:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:81230:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Najnowszy film teamu Konecki & Saramonowicz - twórców \"Testosteronu\" i \"Lejdis\", największych polskich hitów kinowych ostatnich lat - opowiada o tym, jak wielką siłę ma miłość od pierwszego wejrzenia. Kiedy Kostek spotyka Lunę, nie ma wątpliwości, że ta piękna blondynka o tajemniczym spojrzeniu jest jego \"drugą połówką pomarańczy\". Problem w tym, że Lunę i Kostka dzieli tak wiele, że wydaje się, iż nie ma żadnych szans, by mogli być razem.",
+"overviewEn": "When Kostek gets in the wrong taxicab and sees Luna, it is love at first sight. But Luna already has a girlfriend named Klara Rojek and is a lesbian so Kostek has more than a few things that are in his way of ever being with her. Kostek does whatever it takes to talk to Luna and tries to get her attention, including trying out for a porn movie Klara's feminist group is making. After some lengthily casting, Klara concludes that Kostek is the ideal guy for Luna to star in the film with.",
+"popularity": 0.53,
+"ratings": {
+"imdb": 4.2,
+"imdbVotes": 797,
+"tmdb": 4.1
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Idealny facet dla mojej dziewczyny",
+"titleEn": "The Perfect Guy for My Girlfriend",
+"tmdbId": 81230,
+"trailerKey": null
+},
 "player:movie:821493:paid": {
 "access": "paid",
 "backdropPath": "/qZuaYnhPnv45MnLCj1LVn9pYWKT.jpg",
@@ -67136,6 +68888,43 @@
 "titleEn": "India Sweets and Spices",
 "tmdbId": 821493,
 "trailerKey": "iqtVoCj1sQk"
+},
+"player:movie:860901:sub": {
+"access": "sub",
+"backdropPath": "/3tlpvkOnBEuXwF5GDYqbCQYaRLM.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:860901:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "I wojna światowa dobiegła końca, ale wydarzenia związane z pierwszymi wolnymi wyborami we Włoszech grożą rozdarciem wioski. Ojciec Pio zmaga się z własnymi demonami, ostatecznie stając się jedną z najbardziej czczonych postaci katolicyzmu.",
+"overviewEn": "It is the end of World War I and the young Italian soldiers are making their way back to San Giovanni Rotondo, a land of poverty, with a tradition of violence and submission to the iron-clad rule of the church and its wealthy landowners. Families are desperate, the men are broken, albeit victorious. Padre Pio also arrives, at a remote Capuchin monastery, to begin his ministry, evoking an aura of charisma, saintliness and epic visions of Jesus, Mary and the Devil himself. The eve of the first free elections in Italy sets the stage for a massacre with a metaphorical dimension: an apocalyptic event that changes the course of history.",
+"popularity": 0.82,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 1889,
+"tmdb": 5.0
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Ojciec Pio",
+"titleEn": "Padre Pio",
+"tmdbId": 860901,
+"trailerKey": "s5VqoUSl8lw"
 },
 "player:movie:87101:sub": {
 "access": "sub",
@@ -67405,6 +69194,42 @@
 "tmdbId": 117488,
 "trailerKey": "Axx9Qhct49w"
 },
+"player:tv:128822:s6e10:sub": {
+"access": "sub",
+"backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
+"confirmedAt": null,
+"date": "2026-11-27",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:128822:s6e10:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 10,
+"episodeTo": 12,
+"genres": [
+35
+],
+"kind": "series",
+"season": 6,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Akcja serialu rozgrywa się w Siedlcach, w siedzibie firmy zajmującej się produkcją wody mineralnej „Kropliczanka”. Jej prezes, Michał, to człowiek pozbawiony autorefleksji, który każdym słowem i gestem zabiega o atencję i uznanie. Kiedy przedsiębiorstwo zostaje przejęte przez nowego właściciela, a pracownicy zaczynają obawiać się o swoje posady, jedynie Michał patrzy na zmiany z optymizmem. Biznesowe roszady przeplatają się tu z biurową codziennością pracowników „Kropliczanki”.",
+"overviewEn": null,
+"popularity": 10.45,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 814
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "The Office PL",
+"titleEn": null,
+"tmdbId": 128822,
+"trailerKey": "gkuO61ta8Js"
+},
 "player:tv:128822:s6e1:sub": {
 "access": "sub",
 "backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
@@ -67454,6 +69279,42 @@
 "allEpisodes": false,
 "episodeFrom": 4,
 "episodeTo": 6,
+"genres": [
+35
+],
+"kind": "series",
+"season": 6,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Akcja serialu rozgrywa się w Siedlcach, w siedzibie firmy zajmującej się produkcją wody mineralnej „Kropliczanka”. Jej prezes, Michał, to człowiek pozbawiony autorefleksji, który każdym słowem i gestem zabiega o atencję i uznanie. Kiedy przedsiębiorstwo zostaje przejęte przez nowego właściciela, a pracownicy zaczynają obawiać się o swoje posady, jedynie Michał patrzy na zmiany z optymizmem. Biznesowe roszady przeplatają się tu z biurową codziennością pracowników „Kropliczanki”.",
+"overviewEn": null,
+"popularity": 10.45,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 814
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "The Office PL",
+"titleEn": null,
+"tmdbId": 128822,
+"trailerKey": "gkuO61ta8Js"
+},
+"player:tv:128822:s6e7:sub": {
+"access": "sub",
+"backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
+"confirmedAt": null,
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:128822:s6e7:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 7,
+"episodeTo": 9,
 "genres": [
 35
 ],
@@ -67928,7 +69789,7 @@
 "player:tv:14750:s26e41:sub": {
 "access": "sub",
 "backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -67955,7 +69816,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Na Wspólnej",
 "titleEn": null,
 "tmdbId": 14750,
@@ -68322,6 +70183,43 @@
 "tmdbId": 210062,
 "trailerKey": null
 },
+"player:tv:210062:s9e12:sub": {
+"access": "sub",
+"backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
+"confirmedAt": null,
+"date": "2026-12-01",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:210062:s9e12:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 12,
+"episodeTo": 12,
+"genres": [
+10764,
+80
+],
+"kind": "series",
+"season": 9,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Funkcjonariusze szwedzkich służb granicznych i celnych nieustannie podejmują próby, by powstrzymywać przemyt nielegalnych dóbr do kraju. Ich praca nigdy się nie kończy.",
+"overviewEn": "Thousands of people cross Sweden's borders every day. We follow customs officers, investigators, scouts and dog handlers who daily secure Sweden's borders, ports and airports.",
+"popularity": 1.89,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 118
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "Celnicy na straży Szwecji",
+"titleEn": "Border Control: Sweden",
+"tmdbId": 210062,
+"trailerKey": null
+},
 "player:tv:210062:s9e8:sub": {
 "access": "sub",
 "backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
@@ -68362,7 +70260,7 @@
 "player:tv:210062:s9e9:sub": {
 "access": "sub",
 "backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -68390,7 +70288,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Celnicy na straży Szwecji",
 "titleEn": "Border Control: Sweden",
 "tmdbId": 210062,
@@ -68543,7 +70441,7 @@
 "player:tv:211656:s13e43:sub": {
 "access": "sub",
 "backdropPath": "/lF7A08C7hDC1RbhHPpLMjsS317C.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -68570,7 +70468,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Hotel Paradise",
 "titleEn": null,
 "tmdbId": 211656,
@@ -69741,6 +71639,158 @@
 "tmdbId": 255570,
 "trailerKey": "9irsgS7DEUI"
 },
+"player:tv:255570:s2e5:sub": {
+"access": "sub",
+"backdropPath": "/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:255570:s2e5:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 5,
+"episodeTo": 5,
+"genres": [
+18,
+80
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "To opowieść o rodzinie i miłości, które zostały zniszczone i skażone przez ambicję, dumę i chciwość. To historia o władzy – o tym, co jesteśmy w stanie zrobić, aby ją zdobyć i utrzymać.",
+"overviewEn": "After trying to leave a world of crime, Michael is dragged back into the fold to answer questions. Back in Liverpool tensions continue to bubble amongst the remaining members of the gang, and a gangster who's just been let out of prison wants answers.",
+"popularity": 33.78,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 12276,
+"tmdb": 7.5
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "To miasto należy do nas",
+"titleEn": "This City Is Ours",
+"tmdbId": 255570,
+"trailerKey": "9irsgS7DEUI"
+},
+"player:tv:255570:s2e6:sub": {
+"access": "sub",
+"backdropPath": "/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-09",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:255570:s2e6:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
+"genres": [
+18,
+80
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "To opowieść o rodzinie i miłości, które zostały zniszczone i skażone przez ambicję, dumę i chciwość. To historia o władzy – o tym, co jesteśmy w stanie zrobić, aby ją zdobyć i utrzymać.",
+"overviewEn": "After trying to leave a world of crime, Michael is dragged back into the fold to answer questions. Back in Liverpool tensions continue to bubble amongst the remaining members of the gang, and a gangster who's just been let out of prison wants answers.",
+"popularity": 33.78,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 12276,
+"tmdb": 7.5
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "To miasto należy do nas",
+"titleEn": "This City Is Ours",
+"tmdbId": 255570,
+"trailerKey": "9irsgS7DEUI"
+},
+"player:tv:255570:s2e7:sub": {
+"access": "sub",
+"backdropPath": "/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
+"confirmedAt": null,
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:255570:s2e7:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 7,
+"episodeTo": 7,
+"genres": [
+18,
+80
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "To opowieść o rodzinie i miłości, które zostały zniszczone i skażone przez ambicję, dumę i chciwość. To historia o władzy – o tym, co jesteśmy w stanie zrobić, aby ją zdobyć i utrzymać.",
+"overviewEn": "After trying to leave a world of crime, Michael is dragged back into the fold to answer questions. Back in Liverpool tensions continue to bubble amongst the remaining members of the gang, and a gangster who's just been let out of prison wants answers.",
+"popularity": 33.78,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 12276,
+"tmdb": 7.5
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "To miasto należy do nas",
+"titleEn": "This City Is Ours",
+"tmdbId": 255570,
+"trailerKey": "9irsgS7DEUI"
+},
+"player:tv:255570:s2e8:sub": {
+"access": "sub",
+"backdropPath": "/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
+"confirmedAt": null,
+"date": "2026-11-16",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:255570:s2e8:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 8,
+"episodeTo": 8,
+"genres": [
+18,
+80
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "To opowieść o rodzinie i miłości, które zostały zniszczone i skażone przez ambicję, dumę i chciwość. To historia o władzy – o tym, co jesteśmy w stanie zrobić, aby ją zdobyć i utrzymać.",
+"overviewEn": "After trying to leave a world of crime, Michael is dragged back into the fold to answer questions. Back in Liverpool tensions continue to bubble amongst the remaining members of the gang, and a gangster who's just been let out of prison wants answers.",
+"popularity": 33.78,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 12276,
+"tmdb": 7.5
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "To miasto należy do nas",
+"titleEn": "This City Is Ours",
+"tmdbId": 255570,
+"trailerKey": "9irsgS7DEUI"
+},
 "player:tv:271105:sub": {
 "access": "sub",
 "backdropPath": "/ieNfQ0f2V2Niw6LPyTQMa1ZPToi.jpg",
@@ -70200,7 +72250,7 @@
 "player:tv:294637:s2e27:sub": {
 "access": "sub",
 "backdropPath": "/mWzn4Mg7FbuDMg7CKR88dKlWAwg.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -70225,7 +72275,7 @@
 "ratings": null,
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Młode gliny",
 "titleEn": null,
 "tmdbId": 294637,
@@ -72007,7 +74057,7 @@
 "player:tv:46268:s16e6:sub": {
 "access": "sub",
 "backdropPath": "/jH8BWwd1kIfY3N614o9idhW8rOJ.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -72035,7 +74085,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Moonshiners",
 "titleEn": null,
 "tmdbId": 46268,
@@ -72153,7 +74203,7 @@
 "player:tv:69880:s14e1:sub": {
 "access": "sub",
 "backdropPath": "/u8EUQWxMVYnUENwAhKyoRE5iBCa.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -72181,7 +74231,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Szczęście nie zna wagi",
 "titleEn": "My Big Fat Fabulous Life",
 "tmdbId": 69880,
@@ -72210,7 +74260,7 @@
 "origin": "schedule",
 "overview": "Gogglebox. Przed telewizorem – program emitowany od 2014 roku przez telewizję TTV, w którym wybrane rodziny, grupy przyjaciół lub pary komentują wybrane programy telewizyjne z ubiegłego tygodnia.",
 "overviewEn": null,
-"popularity": 1.9,
+"popularity": 1.36,
 "ratings": null,
 "serviceKey": "player",
 "source": "tmdb",
@@ -72517,7 +74567,7 @@
 "player:tv:76168:s29e52:sub": {
 "access": "sub",
 "backdropPath": "/ohuV85PKdBed6aF1wgLE2qYzEjp.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -72539,7 +74589,7 @@
 "ratings": null,
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Ukryta prawda",
 "titleEn": null,
 "tmdbId": 76168,
@@ -72792,6 +74842,43 @@
 "titleEn": null,
 "tmdbId": 76168,
 "trailerKey": null
+},
+"player:tv:77974:s16:sub": {
+"access": "sub",
+"backdropPath": "/2nATpVQp6MLiJyqCZrCrRB481jd.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-07",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:77974:s16:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10764,
+18
+],
+"kind": "series",
+"season": 16,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Losy śmiałków, którzy pragną się wzbogacić, poszukując kamieni szlachetnych w nieprzychylnej australijskiej dziczy. Bohaterowie programu kopią w spalonej słońcem ziemi, walczą z nieznośnym upałem i stają oko w oko ze śmiertelnie niebezpiecznymi wężami i pająkami. Wszystko dlatego, by znaleźć opale warte fortunę.",
+"overviewEn": "The world's toughest treasure hunters push their bodies and bank accounts to the limit on a quest to strike it rich, hunting the legendary Queen of Gems - Opal.",
+"popularity": 3.54,
+"ratings": {
+"imdb": 7.1,
+"imdbVotes": 386
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Łowcy opali",
+"titleEn": "Outback Opal Hunters",
+"tmdbId": 77974,
+"trailerKey": "ru2-XOgHiOs"
 },
 "player:tv:80027:s10e5:sub": {
 "access": "sub",
@@ -73187,6 +75274,196 @@
 "serviceKey": "player",
 "source": "tmdb",
 "status": "live",
+"title": "The Tamron Hall Show",
+"titleEn": null,
+"tmdbId": 93449,
+"trailerKey": null
+},
+"player:tv:93449:s8e39:sub": {
+"access": "sub",
+"backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-09",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:93449:s8e39:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 39,
+"episodeTo": 39,
+"genres": [
+10767,
+10763
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"overviewEn": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"popularity": 68.97,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 347,
+"tmdb": 4.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "The Tamron Hall Show",
+"titleEn": null,
+"tmdbId": 93449,
+"trailerKey": null
+},
+"player:tv:93449:s8e40:sub": {
+"access": "sub",
+"backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:93449:s8e40:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 40,
+"episodeTo": 40,
+"genres": [
+10767,
+10763
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"overviewEn": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"popularity": 68.97,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 347,
+"tmdb": 4.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "The Tamron Hall Show",
+"titleEn": null,
+"tmdbId": 93449,
+"trailerKey": null
+},
+"player:tv:93449:s8e41:sub": {
+"access": "sub",
+"backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
+"confirmedAt": null,
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:93449:s8e41:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 41,
+"episodeTo": 41,
+"genres": [
+10767,
+10763
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"overviewEn": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"popularity": 68.97,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 347,
+"tmdb": 4.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "The Tamron Hall Show",
+"titleEn": null,
+"tmdbId": 93449,
+"trailerKey": null
+},
+"player:tv:93449:s8e42:sub": {
+"access": "sub",
+"backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
+"confirmedAt": null,
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:93449:s8e42:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 42,
+"episodeTo": 42,
+"genres": [
+10767,
+10763
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"overviewEn": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"popularity": 68.97,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 347,
+"tmdb": 4.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "The Tamron Hall Show",
+"titleEn": null,
+"tmdbId": 93449,
+"trailerKey": null
+},
+"player:tv:93449:s8e43:sub": {
+"access": "sub",
+"backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
+"confirmedAt": null,
+"date": "2026-11-13",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:93449:s8e43:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 43,
+"episodeTo": 43,
+"genres": [
+10767,
+10763
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"overviewEn": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"popularity": 68.97,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 347,
+"tmdb": 4.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
 "title": "The Tamron Hall Show",
 "titleEn": null,
 "tmdbId": 93449,
@@ -73838,6 +76115,45 @@
 "titleEn": "The Magic Faraway Tree",
 "tmdbId": 1140521,
 "trailerKey": "PAUEwUhAjzg"
+},
+"polsatboxgo:movie:1141163:free": {
+"access": "free",
+"backdropPath": "/g8RddI0QqS9ufDDBvQddZSacgP6.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1141163:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Włochy, lata 80. i 90. XX wieku. Dzięki swojej agencji Diva Futura Riccardo Schicchi rewolucjonizuje kulturę masową, przekształcając hippisowską utopię wolnej miłości w nowe zjawisko: porno. Pod jej przewodnictwem „dziewczyny z sąsiedztwa”, takie jak Ilona Staller, Moana Pozzi, Eva Henger i wiele innych, nagle stają się divami światowej sławy i wchodzą do włoskich domów dzięki boomowi na prywatne telewizory i magnetowidy VHS. Ukute wówczas wyrażenie „gwiazda porno” wyznacza początek nowej ery. Wpływ mediów był tak przytłaczający, że zaowocował wyborem do parlamentu Ilony Staller, zwanej „Ciccioliną”, narodzinami Partii Miłości i kandydaturą Moany Pozzi na burmistrza Rzymu. Przygoda tej dużej „rodziny” – w której eksplodują zazdrości, udręki i sprzeczności, których skutki generują wymykającą się spod kontroli sytuację w branży pornograficznej – opowiedziana jest oczami Debory, młodej sekretarki agencji...",
+"overviewEn": "In 1980s - 1990s Italy, Riccardo Schicchi’s agency Diva Futura turns free love into porn, making stars of Ilona Staller, Moana Pozzi and others known around the world. Their fame leads to Cicciolina’s election and Pozzi’s mayoral run.",
+"popularity": 0.93,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 972,
+"tmdb": 6.3
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Diva Futura",
+"titleEn": null,
+"tmdbId": 1141163,
+"trailerKey": "J67QAvwqsig"
 },
 "polsatboxgo:movie:1159206:sub": {
 "access": "sub",
@@ -74715,7 +77031,7 @@
 "polsatboxgo:movie:1317288:sub": {
 "access": "sub",
 "backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -74744,7 +77060,7 @@
 },
 "serviceKey": "polsatboxgo",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Wielki Marty",
 "titleEn": "Marty Supreme",
 "tmdbId": 1317288,
@@ -77839,7 +80155,7 @@
 "origin": "diff",
 "overview": "Katniss pochodzi z Dwunastego Dystryktu, jednego z najbiedniejszych regionów w państwie Panem. Kiedy jej młodsza siostra zostaje wylosowana do udziału w Głodowych Igrzyskach, corocznym turnieju organizowanym przez bezwzględne władze, Katniss zgłasza się by zająć jej miejsce. Musi opuścić nie tylko rodzinę, której jest żywicielką, ale i Gale’a, który zdaje się być kimś więcej niż przyjacielem. Aby ich jeszcze zobaczyć, musi zwyciężyć w transmitowanych przez telewizję Igrzyskach. Przeżyć może tylko jeden uczestnik. Pochodzący z biednego dystryktu i nie szkoleni w walce Katniss i chłopak Peeta, w oczach widzów skazani są na porażkę. Igrzyska są jednak nieprzewidywalne. Między młodymi rodzi się uczucie, a odważna szesnastolatka rozpala w ludziach nadzieję na zmiany. Staje się symbolem buntu i walki z niesprawiedliwością. Jednak jeśli kiedykolwiek ma zobaczyć jeszcze rodzinny Dystrykt 12, musi dokonać rzeczy niemożliwych...",
 "overviewEn": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
-"popularity": 17.86,
+"popularity": 20.31,
 "ratings": {
 "imdb": 7.2,
 "imdbVotes": 1101632,
@@ -80106,6 +82422,45 @@
 "tmdbId": 1140521,
 "trailerKey": "PAUEwUhAjzg"
 },
+"prime:movie:1141163:free": {
+"access": "free",
+"backdropPath": "/g8RddI0QqS9ufDDBvQddZSacgP6.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1141163:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Włochy, lata 80. i 90. XX wieku. Dzięki swojej agencji Diva Futura Riccardo Schicchi rewolucjonizuje kulturę masową, przekształcając hippisowską utopię wolnej miłości w nowe zjawisko: porno. Pod jej przewodnictwem „dziewczyny z sąsiedztwa”, takie jak Ilona Staller, Moana Pozzi, Eva Henger i wiele innych, nagle stają się divami światowej sławy i wchodzą do włoskich domów dzięki boomowi na prywatne telewizory i magnetowidy VHS. Ukute wówczas wyrażenie „gwiazda porno” wyznacza początek nowej ery. Wpływ mediów był tak przytłaczający, że zaowocował wyborem do parlamentu Ilony Staller, zwanej „Ciccioliną”, narodzinami Partii Miłości i kandydaturą Moany Pozzi na burmistrza Rzymu. Przygoda tej dużej „rodziny” – w której eksplodują zazdrości, udręki i sprzeczności, których skutki generują wymykającą się spod kontroli sytuację w branży pornograficznej – opowiedziana jest oczami Debory, młodej sekretarki agencji...",
+"overviewEn": "In 1980s - 1990s Italy, Riccardo Schicchi’s agency Diva Futura turns free love into porn, making stars of Ilona Staller, Moana Pozzi and others known around the world. Their fame leads to Cicciolina’s election and Pozzi’s mayoral run.",
+"popularity": 0.93,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 972,
+"tmdb": 6.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Diva Futura",
+"titleEn": null,
+"tmdbId": 1141163,
+"trailerKey": "J67QAvwqsig"
+},
 "prime:movie:1156130:sub": {
 "access": "sub",
 "backdropPath": "/stoiYoe9tpzYx7sp9zicM5c0c5F.jpg",
@@ -80289,7 +82644,7 @@
 "ratings": {
 "imdb": 6.0,
 "imdbVotes": 3018,
-"tmdb": 8.2
+"tmdb": 8.1
 },
 "serviceKey": "prime",
 "source": "tmdb",
@@ -80417,8 +82772,8 @@
 "prime:movie:1226863:paid": {
 "access": "paid",
 "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-"confirmedAt": "2026-11-06T12:55:18Z",
-"date": "2026-11-06",
+"confirmedAt": null,
+"date": "2026-11-30",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "prime:movie:1226863:paid",
@@ -80447,7 +82802,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Super Mario  Galaxy Film",
 "titleEn": "The Super Mario Galaxy Movie",
 "tmdbId": 1226863,
@@ -80796,7 +83151,7 @@
 "prime:movie:1263337:paid": {
 "access": "paid",
 "backdropPath": "/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -80825,7 +83180,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "W sercu dziczy",
 "titleEn": "Heart of the Beast",
 "tmdbId": 1263337,
@@ -80936,7 +83291,7 @@
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 63762,
-"tmdb": 6.7
+"tmdb": 6.6
 },
 "serviceKey": "prime",
 "source": "tmdb",
@@ -80945,6 +83300,45 @@
 "titleEn": "The Roses",
 "tmdbId": 1267905,
 "trailerKey": "rb3x45F6mrQ"
+},
+"prime:movie:1272149:sub": {
+"access": "sub",
+"backdropPath": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1272149:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Bridget znów jest sama, cztery lata temu, Mark zginął podczas misji humanitarnej w Sudanie. Teraz samotną matką 9-letniego Billy'ego i 4-letniej Mabel i utknęła w stanie emocjonalnego zawieszenia, wychowując swoje dzieci z pomocą lojalnych przyjaciół, a nawet byłego kochanka, Daniela Cleavera. Naciskana przez swoich przyjaciół - Shazzera, Jude'a i Toma, koleżankę z pracy, Mirandę oraz swoją lekarkę dr. Rawlings - aby wytyczyć nową ścieżkę w życiu i miłości, Bridget postanawia wrócić do pracy, a nawet próbuje aplikacji randkowych.",
+"overviewEn": "Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe – just maybe – her son's science teacher.",
+"popularity": 4.28,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 36143,
+"tmdb": 6.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Bridget Jones. Szalejąc za facetem",
+"titleEn": "Bridget Jones: Mad About the Boy",
+"tmdbId": 1272149,
+"trailerKey": "fi14ZQF0KaA"
 },
 "prime:movie:1282551:paid": {
 "access": "paid",
@@ -81206,7 +83600,7 @@
 "prime:movie:1317288:sub": {
 "access": "sub",
 "backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -81235,7 +83629,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Wielki Marty",
 "titleEn": "Marty Supreme",
 "tmdbId": 1317288,
@@ -81473,7 +83867,7 @@
 "prime:movie:1367642:paid": {
 "access": "paid",
 "backdropPath": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -81502,7 +83896,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Reminders of Him. Cząstka Ciebie, którą znam",
 "titleEn": "Reminders of Him",
 "tmdbId": 1367642,
@@ -82331,6 +84725,119 @@
 "tmdbId": 16353,
 "trailerKey": "Bx08Cumv-wc"
 },
+"prime:movie:16535:paid": {
+"access": "paid",
+"backdropPath": "/ahbx803wrITvlSjxLyp0Sfkzy3s.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:16535:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zmęczona nieudanym małżeństwem Julia postanawia uciec z dwójką dzieci do Ameryki. Wciąż kocha swego męża, lecz zdaje sobie sprawę, że wspólne życie będzie dla nich męką. W tajemnicy rezerwuje bilet na szeroko reklamowany rejs gigantycznym liniowcem. Richard w ostatniej chwili dowiaduje się o jej decyzji. Oszalały z rozpaczy kupuje bilet od jednego z pasażerów najniższej klasy.",
+"overviewEn": "Unhappily married, Julia Sturges decides to go to America with her two children on the Titanic. Her husband, Richard also arranges passage on the luxury liner so as to have custody of their two children. All this fades to insignificance once the ship hits an iceberg.",
+"popularity": 2.16,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 8312,
+"tmdb": 6.6
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Titanic",
+"titleEn": null,
+"tmdbId": 16535,
+"trailerKey": "r2z4DQcKl2c"
+},
+"prime:movie:16535:sub": {
+"access": "sub",
+"backdropPath": "/ahbx803wrITvlSjxLyp0Sfkzy3s.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:16535:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zmęczona nieudanym małżeństwem Julia postanawia uciec z dwójką dzieci do Ameryki. Wciąż kocha swego męża, lecz zdaje sobie sprawę, że wspólne życie będzie dla nich męką. W tajemnicy rezerwuje bilet na szeroko reklamowany rejs gigantycznym liniowcem. Richard w ostatniej chwili dowiaduje się o jej decyzji. Oszalały z rozpaczy kupuje bilet od jednego z pasażerów najniższej klasy.",
+"overviewEn": "Unhappily married, Julia Sturges decides to go to America with her two children on the Titanic. Her husband, Richard also arranges passage on the luxury liner so as to have custody of their two children. All this fades to insignificance once the ship hits an iceberg.",
+"popularity": 2.16,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 8312,
+"tmdb": 6.6
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Titanic",
+"titleEn": null,
+"tmdbId": 16535,
+"trailerKey": "r2z4DQcKl2c"
+},
+"prime:movie:1756543:sub": {
+"access": "sub",
+"backdropPath": "/jUwaAscUDiJNyIIgopLRdQMCRVt.jpg",
+"confirmedAt": null,
+"date": "2026-12-01",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1756543:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99,
+53
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "British paranormal investigators explore a Hollywood mansion, uncovering true story of couple Daniel and Arthur, whose journey from homelessness to Hollywood history explores LGBTQ identity, resilience, and unexplained supernatural events.",
+"overviewEn": "British paranormal investigators explore a Hollywood mansion, uncovering true story of couple Daniel and Arthur, whose journey from homelessness to Hollywood history explores LGBTQ identity, resilience, and unexplained supernatural events.",
+"popularity": 0.48,
+"ratings": {
+"imdb": 3.3,
+"imdbVotes": 34
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "Paranormal Hollywood Haunting",
+"titleEn": null,
+"tmdbId": 1756543,
+"trailerKey": "9pQeEBQojIk"
+},
 "prime:movie:1804183:paid": {
 "access": "paid",
 "backdropPath": "/kkUqJcgUk7hJYC5nYLaxYtiakXm.jpg",
@@ -82497,6 +85004,72 @@
 "title": "Once Upon a Time... in Hollywood: Behind the Scenes",
 "titleEn": null,
 "tmdbId": 1817731,
+"trailerKey": null
+},
+"prime:movie:1819518:paid": {
+"access": "paid",
+"backdropPath": "/k9qFYshmUa4cBC3oPL5hkQJulWB.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1819518:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "BEAUTY AND THE BEAST SING-ALONG",
+"titleEn": null,
+"tmdbId": 1819518,
+"trailerKey": null
+},
+"prime:movie:1819518:sub": {
+"access": "sub",
+"backdropPath": "/k9qFYshmUa4cBC3oPL5hkQJulWB.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1819518:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "BEAUTY AND THE BEAST SING-ALONG",
+"titleEn": null,
+"tmdbId": 1819518,
 "trailerKey": null
 },
 "prime:movie:18898:paid": {
@@ -85289,6 +87862,44 @@
 "tmdbId": 464052,
 "trailerKey": "9TsV_1TSgoE"
 },
+"prime:movie:466471:sub": {
+"access": "sub",
+"backdropPath": "/64uszdAscRdShThWDY9OkR54dWS.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:466471:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Samotna matka Karen Clark zatrudnia Alexa (męską opiekunkę), który pomaga jej dwóm młodym synom. Nie podejrzewając, że Alex ma inne plany i chce, aby jej rodzina była jego własną...",
+"overviewEn": "Single mom Karen Clark hires Alex, a manny (a male nanny) to help with her two young sons never suspecting Alex has other plans and wants her family as his own... even if he has to murder to achieve his goal.",
+"popularity": 1.43,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 534,
+"tmdb": 5.6
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Nieznajomy z moimi dziećmi",
+"titleEn": "A Stranger with My Kids",
+"tmdbId": 466471,
+"trailerKey": "O9ZtORHR5Cw"
+},
 "prime:movie:474974:sub": {
 "access": "sub",
 "backdropPath": "/iQUuLZNPA0GpDUeKKC8cT5fQCuP.jpg",
@@ -86626,6 +89237,45 @@
 "tmdbId": 659991,
 "trailerKey": "tJHcv0Pm0RU"
 },
+"prime:movie:667538:sub": {
+"access": "sub",
+"backdropPath": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:667538:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+878,
+12,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "OPTIMUS PRIME i AUTOBOTY w nowej, pełnej adrenaliny przygodzie. W obliczu grożącego planecie niebezpieczeństwa Transformersi muszą połączyć siły z potężną frakcją Maximali, aby wziąć udział w ostatecznej bitwie o ocalenie Ziemi. Gdy los ludzkości będzie zagrożony, Noah  i Elena  zrobią co tylko w ich mocy, by pomóc w ostatecznej walce o ocalenie Ziemi w nowym, ekscytującym rozdziale sagi z cyklu TRANSFORMERS.",
+"overviewEn": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+"popularity": 12.27,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 135093,
+"tmdb": 7.1
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Transformers. Przebudzenie bestii",
+"titleEn": "Transformers: Rise of the Beasts",
+"tmdbId": 667538,
+"trailerKey": "7qkBiCbI3GQ"
+},
 "prime:movie:673121:paid": {
 "access": "paid",
 "backdropPath": "/gU4MTmcZeNoFy0jlKwADO3NKAe0.jpg",
@@ -87264,6 +89914,43 @@
 "tmdbId": 83,
 "trailerKey": "Z9q1qJi1nMs"
 },
+"prime:movie:860901:sub": {
+"access": "sub",
+"backdropPath": "/3tlpvkOnBEuXwF5GDYqbCQYaRLM.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:860901:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "I wojna światowa dobiegła końca, ale wydarzenia związane z pierwszymi wolnymi wyborami we Włoszech grożą rozdarciem wioski. Ojciec Pio zmaga się z własnymi demonami, ostatecznie stając się jedną z najbardziej czczonych postaci katolicyzmu.",
+"overviewEn": "It is the end of World War I and the young Italian soldiers are making their way back to San Giovanni Rotondo, a land of poverty, with a tradition of violence and submission to the iron-clad rule of the church and its wealthy landowners. Families are desperate, the men are broken, albeit victorious. Padre Pio also arrives, at a remote Capuchin monastery, to begin his ministry, evoking an aura of charisma, saintliness and epic visions of Jesus, Mary and the Devil himself. The eve of the first free elections in Italy sets the stage for a massacre with a metaphorical dimension: an apocalyptic event that changes the course of history.",
+"popularity": 0.82,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 1889,
+"tmdb": 5.0
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Ojciec Pio",
+"titleEn": "Padre Pio",
+"tmdbId": 860901,
+"trailerKey": "s5VqoUSl8lw"
+},
 "prime:movie:87101:sub": {
 "access": "sub",
 "backdropPath": "/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
@@ -87763,6 +90450,44 @@
 "tmdbId": 139434,
 "trailerKey": null
 },
+"prime:tv:139434:s6e12:sub": {
+"access": "sub",
+"backdropPath": "/5iOySYfc1vV8nDvmqWQ0sHk7q2q.jpg",
+"confirmedAt": null,
+"date": "2026-12-01",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:139434:s6e12:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 12,
+"episodeTo": 12,
+"genres": [
+10764,
+99
+],
+"kind": "doc_series",
+"season": 6,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Abandoned in the swedish wilderness seven candidates struggle to survive for seven days. Everybody has to get along with seven previously selected items and the clothes they are wearing. Who remains after seven days and collected the most points in the challenges of the day wins. No camera crew, no contact to the outer world, complete isolation.",
+"overviewEn": "Abandoned in the swedish wilderness seven candidates struggle to survive for seven days. Everybody has to get along with seven previously selected items and the clothes they are wearing. Who remains after seven days and collected the most points in the challenges of the day wins. No camera crew, no contact to the outer world, complete isolation.",
+"popularity": 9.18,
+"ratings": {
+"imdb": 7.7,
+"imdbVotes": 1137,
+"tmdb": 8.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "7 vs. Wild",
+"titleEn": null,
+"tmdbId": 139434,
+"trailerKey": null
+},
 "prime:tv:139434:s6e4:sub": {
 "access": "sub",
 "backdropPath": "/5iOySYfc1vV8nDvmqWQ0sHk7q2q.jpg",
@@ -87842,7 +90567,7 @@
 "prime:tv:139434:s6e6:sub": {
 "access": "sub",
 "backdropPath": "/5iOySYfc1vV8nDvmqWQ0sHk7q2q.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -87871,7 +90596,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "7 vs. Wild",
 "titleEn": null,
 "tmdbId": 139434,
@@ -88488,7 +91213,7 @@
 "prime:tv:248830:s2e3:free": {
 "access": "free",
 "backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -88517,7 +91242,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Mistrz kija",
 "titleEn": "Stick",
 "tmdbId": 248830,
@@ -88574,6 +91299,44 @@
 "allEpisodes": false,
 "episodeFrom": 5,
 "episodeTo": 5,
+"genres": [
+35,
+18
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Pryce Cahill zmierzał ku golfowej wielkości, gdy załamanie nerwowe na polu golfowym zakończyło jego karierę. Teraz, walcząc o utrzymanie się na powierzchni, poświęca się całkowicie, by zostać mentorem Santiego, nastoletniego golfisty o ogromnym potencjale, i może przy tym uratować samego siebie.",
+"overviewEn": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
+"popularity": 39.06,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 21070,
+"tmdb": 7.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "Mistrz kija",
+"titleEn": "Stick",
+"tmdbId": 248830,
+"trailerKey": "72oB_zVF_6o"
+},
+"prime:tv:248830:s2e6:free": {
+"access": "free",
+"backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
+"confirmedAt": null,
+"date": "2026-12-01",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:248830:s2e6:free",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
 "genres": [
 35,
 18
@@ -89427,7 +92190,7 @@
 "prime:tv:303745:s1e8:sub": {
 "access": "sub",
 "backdropPath": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -89457,7 +92220,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Miłość pod przykrywką",
 "titleEn": "Love in Disguise",
 "tmdbId": 303745,
@@ -91383,6 +94146,45 @@
 "tmdbId": 1140521,
 "trailerKey": "PAUEwUhAjzg"
 },
+"rakuten:movie:1141163:free": {
+"access": "free",
+"backdropPath": "/g8RddI0QqS9ufDDBvQddZSacgP6.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1141163:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Włochy, lata 80. i 90. XX wieku. Dzięki swojej agencji Diva Futura Riccardo Schicchi rewolucjonizuje kulturę masową, przekształcając hippisowską utopię wolnej miłości w nowe zjawisko: porno. Pod jej przewodnictwem „dziewczyny z sąsiedztwa”, takie jak Ilona Staller, Moana Pozzi, Eva Henger i wiele innych, nagle stają się divami światowej sławy i wchodzą do włoskich domów dzięki boomowi na prywatne telewizory i magnetowidy VHS. Ukute wówczas wyrażenie „gwiazda porno” wyznacza początek nowej ery. Wpływ mediów był tak przytłaczający, że zaowocował wyborem do parlamentu Ilony Staller, zwanej „Ciccioliną”, narodzinami Partii Miłości i kandydaturą Moany Pozzi na burmistrza Rzymu. Przygoda tej dużej „rodziny” – w której eksplodują zazdrości, udręki i sprzeczności, których skutki generują wymykającą się spod kontroli sytuację w branży pornograficznej – opowiedziana jest oczami Debory, młodej sekretarki agencji...",
+"overviewEn": "In 1980s - 1990s Italy, Riccardo Schicchi’s agency Diva Futura turns free love into porn, making stars of Ilona Staller, Moana Pozzi and others known around the world. Their fame leads to Cicciolina’s election and Pozzi’s mayoral run.",
+"popularity": 0.93,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 972,
+"tmdb": 6.3
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Diva Futura",
+"titleEn": null,
+"tmdbId": 1141163,
+"trailerKey": "J67QAvwqsig"
+},
 "rakuten:movie:1159206:paid": {
 "access": "paid",
 "backdropPath": "/n36zycrAqHn2uzx65IeAdnsZcMj.jpg",
@@ -91527,7 +94329,7 @@
 "ratings": {
 "imdb": 6.0,
 "imdbVotes": 3018,
-"tmdb": 8.2
+"tmdb": 8.1
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
@@ -91578,8 +94380,8 @@
 "rakuten:movie:1226863:paid": {
 "access": "paid",
 "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-"confirmedAt": "2026-11-06T12:55:18Z",
-"date": "2026-11-06",
+"confirmedAt": null,
+"date": "2026-11-30",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "rakuten:movie:1226863:paid",
@@ -91608,7 +94410,7 @@
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Super Mario  Galaxy Film",
 "titleEn": "The Super Mario Galaxy Movie",
 "tmdbId": 1226863,
@@ -91834,7 +94636,7 @@
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 63762,
-"tmdb": 6.7
+"tmdb": 6.6
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
@@ -91843,6 +94645,45 @@
 "titleEn": "The Roses",
 "tmdbId": 1267905,
 "trailerKey": "rb3x45F6mrQ"
+},
+"rakuten:movie:1272149:sub": {
+"access": "sub",
+"backdropPath": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1272149:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Bridget znów jest sama, cztery lata temu, Mark zginął podczas misji humanitarnej w Sudanie. Teraz samotną matką 9-letniego Billy'ego i 4-letniej Mabel i utknęła w stanie emocjonalnego zawieszenia, wychowując swoje dzieci z pomocą lojalnych przyjaciół, a nawet byłego kochanka, Daniela Cleavera. Naciskana przez swoich przyjaciół - Shazzera, Jude'a i Toma, koleżankę z pracy, Mirandę oraz swoją lekarkę dr. Rawlings - aby wytyczyć nową ścieżkę w życiu i miłości, Bridget postanawia wrócić do pracy, a nawet próbuje aplikacji randkowych.",
+"overviewEn": "Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe – just maybe – her son's science teacher.",
+"popularity": 4.28,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 36143,
+"tmdb": 6.3
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Bridget Jones. Szalejąc za facetem",
+"titleEn": "Bridget Jones: Mad About the Boy",
+"tmdbId": 1272149,
+"trailerKey": "fi14ZQF0KaA"
 },
 "rakuten:movie:1284186:paid": {
 "access": "paid",
@@ -92001,7 +94842,7 @@
 "rakuten:movie:1317288:paid": {
 "access": "paid",
 "backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -92030,7 +94871,7 @@
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Wielki Marty",
 "titleEn": "Marty Supreme",
 "tmdbId": 1317288,
@@ -92115,7 +94956,7 @@
 "rakuten:movie:1367642:paid": {
 "access": "paid",
 "backdropPath": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -92144,7 +94985,7 @@
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Reminders of Him. Cząstka Ciebie, którą znam",
 "titleEn": "Reminders of Him",
 "tmdbId": 1367642,
@@ -92703,6 +95544,72 @@
 "title": "Once Upon a Time... in Hollywood: Behind the Scenes",
 "titleEn": null,
 "tmdbId": 1817731,
+"trailerKey": null
+},
+"rakuten:movie:1819518:paid": {
+"access": "paid",
+"backdropPath": "/k9qFYshmUa4cBC3oPL5hkQJulWB.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1819518:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "BEAUTY AND THE BEAST SING-ALONG",
+"titleEn": null,
+"tmdbId": 1819518,
+"trailerKey": null
+},
+"rakuten:movie:1819518:sub": {
+"access": "sub",
+"backdropPath": "/k9qFYshmUa4cBC3oPL5hkQJulWB.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1819518:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "BEAUTY AND THE BEAST SING-ALONG",
+"titleEn": null,
+"tmdbId": 1819518,
 "trailerKey": null
 },
 "rakuten:movie:1830:sub": {
@@ -93861,6 +96768,45 @@
 "tmdbId": 628704,
 "trailerKey": "kmnGhMGuquc"
 },
+"rakuten:movie:667538:sub": {
+"access": "sub",
+"backdropPath": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:667538:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+878,
+12,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "OPTIMUS PRIME i AUTOBOTY w nowej, pełnej adrenaliny przygodzie. W obliczu grożącego planecie niebezpieczeństwa Transformersi muszą połączyć siły z potężną frakcją Maximali, aby wziąć udział w ostatecznej bitwie o ocalenie Ziemi. Gdy los ludzkości będzie zagrożony, Noah  i Elena  zrobią co tylko w ich mocy, by pomóc w ostatecznej walce o ocalenie Ziemi w nowym, ekscytującym rozdziale sagi z cyklu TRANSFORMERS.",
+"overviewEn": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+"popularity": 12.27,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 135093,
+"tmdb": 7.1
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Transformers. Przebudzenie bestii",
+"titleEn": "Transformers: Rise of the Beasts",
+"tmdbId": 667538,
+"trailerKey": "7qkBiCbI3GQ"
+},
 "rakuten:movie:675871:paid": {
 "access": "paid",
 "backdropPath": "/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
@@ -94172,6 +97118,43 @@
 "tmdbId": 760204,
 "trailerKey": "ebjFxaZfrQw"
 },
+"rakuten:movie:860901:sub": {
+"access": "sub",
+"backdropPath": "/3tlpvkOnBEuXwF5GDYqbCQYaRLM.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:860901:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "I wojna światowa dobiegła końca, ale wydarzenia związane z pierwszymi wolnymi wyborami we Włoszech grożą rozdarciem wioski. Ojciec Pio zmaga się z własnymi demonami, ostatecznie stając się jedną z najbardziej czczonych postaci katolicyzmu.",
+"overviewEn": "It is the end of World War I and the young Italian soldiers are making their way back to San Giovanni Rotondo, a land of poverty, with a tradition of violence and submission to the iron-clad rule of the church and its wealthy landowners. Families are desperate, the men are broken, albeit victorious. Padre Pio also arrives, at a remote Capuchin monastery, to begin his ministry, evoking an aura of charisma, saintliness and epic visions of Jesus, Mary and the Devil himself. The eve of the first free elections in Italy sets the stage for a massacre with a metaphorical dimension: an apocalyptic event that changes the course of history.",
+"popularity": 0.82,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 1889,
+"tmdb": 5.0
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Ojciec Pio",
+"titleEn": "Padre Pio",
+"tmdbId": 860901,
+"trailerKey": "s5VqoUSl8lw"
+},
 "rakuten:movie:87101:sub": {
 "access": "sub",
 "backdropPath": "/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
@@ -94436,7 +97419,7 @@
 "skyshowtime:movie:1367642:sub": {
 "access": "sub",
 "backdropPath": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -94465,7 +97448,7 @@
 },
 "serviceKey": "skyshowtime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Reminders of Him. Cząstka Ciebie, którą znam",
 "titleEn": "Reminders of Him",
 "tmdbId": 1367642,
@@ -94663,6 +97646,42 @@
 "tmdbId": 126824,
 "trailerKey": "vPrPoqUqBAY"
 },
+"skyshowtime:tv:128822:s6e10:sub": {
+"access": "sub",
+"backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
+"confirmedAt": null,
+"date": "2026-11-27",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:tv:128822:s6e10:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 10,
+"episodeTo": 12,
+"genres": [
+35
+],
+"kind": "series",
+"season": 6,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Akcja serialu rozgrywa się w Siedlcach, w siedzibie firmy zajmującej się produkcją wody mineralnej „Kropliczanka”. Jej prezes, Michał, to człowiek pozbawiony autorefleksji, który każdym słowem i gestem zabiega o atencję i uznanie. Kiedy przedsiębiorstwo zostaje przejęte przez nowego właściciela, a pracownicy zaczynają obawiać się o swoje posady, jedynie Michał patrzy na zmiany z optymizmem. Biznesowe roszady przeplatają się tu z biurową codziennością pracowników „Kropliczanki”.",
+"overviewEn": null,
+"popularity": 10.45,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 814
+},
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "announced",
+"title": "The Office PL",
+"titleEn": null,
+"tmdbId": 128822,
+"trailerKey": "gkuO61ta8Js"
+},
 "skyshowtime:tv:128822:s6e1:sub": {
 "access": "sub",
 "backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
@@ -94712,6 +97731,42 @@
 "allEpisodes": false,
 "episodeFrom": 4,
 "episodeTo": 6,
+"genres": [
+35
+],
+"kind": "series",
+"season": 6,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Akcja serialu rozgrywa się w Siedlcach, w siedzibie firmy zajmującej się produkcją wody mineralnej „Kropliczanka”. Jej prezes, Michał, to człowiek pozbawiony autorefleksji, który każdym słowem i gestem zabiega o atencję i uznanie. Kiedy przedsiębiorstwo zostaje przejęte przez nowego właściciela, a pracownicy zaczynają obawiać się o swoje posady, jedynie Michał patrzy na zmiany z optymizmem. Biznesowe roszady przeplatają się tu z biurową codziennością pracowników „Kropliczanki”.",
+"overviewEn": null,
+"popularity": 10.45,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 814
+},
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "announced",
+"title": "The Office PL",
+"titleEn": null,
+"tmdbId": 128822,
+"trailerKey": "gkuO61ta8Js"
+},
+"skyshowtime:tv:128822:s6e7:sub": {
+"access": "sub",
+"backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
+"confirmedAt": null,
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:tv:128822:s6e7:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 7,
+"episodeTo": 9,
 "genres": [
 35
 ],
@@ -95970,7 +99025,7 @@
 "skyshowtime:tv:4614:s24e5:sub": {
 "access": "sub",
 "backdropPath": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -96000,7 +99055,7 @@
 },
 "serviceKey": "skyshowtime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Agenci NCIS",
 "titleEn": "NCIS",
 "tmdbId": 4614,
@@ -96699,6 +99754,44 @@
 "tmdbId": 1081065,
 "trailerKey": "XhOAPv23UFM"
 },
+"tvpvod:movie:10863:free": {
+"access": "free",
+"backdropPath": "/ckGyKfhdLzaUjGZfocH63jshhdx.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:10863:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Trwa II wojna światowa. Henry Faber, nikomu nie rzucający się w oczy pracownik kolei, w rzeczywistości jest niemieckim szpiegiem znanym jako Die Nadel (Igła), który mieszka od kilku lat w Anglii. Wykonuje tam różne zlecenia dla wywiadu, m.in. zajmuje się fotografowaniem obiektów, które potem są bombardowane. Pewnego dnia dostaje zadanie - ma udać się na teren obozu wojskowego wroga i sfotografować zbierające się tam siły.",
+"overviewEn": "Great Britain, 1944, during World War II. Relentlessly pursued by several MI5 agents, Henry Faber the Needle, a ruthless German spy in possession of vital information about D-Day, takes refuge on Storm Island, an inhospitable, sparsely inhabited island off the coast of northern Scotland.",
+"popularity": 2.31,
+"ratings": {
+"imdb": 7.1,
+"imdbVotes": 14411,
+"tmdb": 6.7
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Igła",
+"titleEn": "Eye of the Needle",
+"tmdbId": 10863,
+"trailerKey": "BqwjTSLsjp8"
+},
 "tvpvod:movie:1124142:paid": {
 "access": "paid",
 "backdropPath": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
@@ -96891,6 +99984,45 @@
 "titleEn": "The Magic Faraway Tree",
 "tmdbId": 1140521,
 "trailerKey": "PAUEwUhAjzg"
+},
+"tvpvod:movie:1141163:free": {
+"access": "free",
+"backdropPath": "/g8RddI0QqS9ufDDBvQddZSacgP6.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1141163:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Włochy, lata 80. i 90. XX wieku. Dzięki swojej agencji Diva Futura Riccardo Schicchi rewolucjonizuje kulturę masową, przekształcając hippisowską utopię wolnej miłości w nowe zjawisko: porno. Pod jej przewodnictwem „dziewczyny z sąsiedztwa”, takie jak Ilona Staller, Moana Pozzi, Eva Henger i wiele innych, nagle stają się divami światowej sławy i wchodzą do włoskich domów dzięki boomowi na prywatne telewizory i magnetowidy VHS. Ukute wówczas wyrażenie „gwiazda porno” wyznacza początek nowej ery. Wpływ mediów był tak przytłaczający, że zaowocował wyborem do parlamentu Ilony Staller, zwanej „Ciccioliną”, narodzinami Partii Miłości i kandydaturą Moany Pozzi na burmistrza Rzymu. Przygoda tej dużej „rodziny” – w której eksplodują zazdrości, udręki i sprzeczności, których skutki generują wymykającą się spod kontroli sytuację w branży pornograficznej – opowiedziana jest oczami Debory, młodej sekretarki agencji...",
+"overviewEn": "In 1980s - 1990s Italy, Riccardo Schicchi’s agency Diva Futura turns free love into porn, making stars of Ilona Staller, Moana Pozzi and others known around the world. Their fame leads to Cicciolina’s election and Pozzi’s mayoral run.",
+"popularity": 0.93,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 972,
+"tmdb": 6.3
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Diva Futura",
+"titleEn": null,
+"tmdbId": 1141163,
+"trailerKey": "J67QAvwqsig"
 },
 "tvpvod:movie:11448:paid": {
 "access": "paid",
@@ -97729,7 +100861,7 @@
 "tvpvod:movie:1317288:paid": {
 "access": "paid",
 "backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -97758,7 +100890,7 @@
 },
 "serviceKey": "tvpvod",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Wielki Marty",
 "titleEn": "Marty Supreme",
 "tmdbId": 1317288,
@@ -98547,6 +101679,45 @@
 "titleEn": "Deconstructing Harry",
 "tmdbId": 2639,
 "trailerKey": "WwXOol3hRUg"
+},
+"tvpvod:movie:30588:free": {
+"access": "free",
+"backdropPath": "/pXAudXOkmQSiI6sFQyEfkibQxZp.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:30588:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W tym komicznym dramacie Verdoux, były kasjer bankowy, utrzymuje swoją rodzinę z mordowania bogatych kobiet. Jest okrutny i wyrafinowany. Uważa morderstwo za uzasadniony sposób osiągania celów w życiu. Jak wyjaśnił Chaplin: \"Dla generała niemieckiego von Clausevitza wojna była ciągiem dalszym zabiegów dyplomatycznych z zastosowaniem innych środków. Dla Verdoux zbrodnia była ciągiem dalszym robienia biznesu z zastosowaniem innych metod\". Postać Verdoux posłużyła Chaplinowi do wykazania, że społeczeństwo, którego sens określa robienie interesów, jest społeczeństwem opartym na zbrodni i wojnie. W filmie po raz pierwszy widzowie nie zobaczyli \"Charliego\". Ale czy poczciwy Charlie mógłby potępić społeczeństwo tak bezpardonowo, jak to zrobił Verdoux w swym przemówieniu w sądzie?",
+"overviewEn": "The film is about an unemployed banker, Henri Verdoux, and his sociopathic methods of attaining income. While being both loyal and competent in his work, Verdoux has been laid-off. To make money for his wife and child, he marries wealthy widows and then murders them. His crime spree eventually works against him when two particular widows break his normal routine.",
+"popularity": 1.69,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 20959,
+"tmdb": 7.7
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Pan Verdoux",
+"titleEn": "Monsieur Verdoux",
+"tmdbId": 30588,
+"trailerKey": "eND72dzh7EU"
 },
 "tvpvod:movie:332672:free": {
 "access": "free",
@@ -99795,7 +102966,7 @@
 "tvpvod:tv:14447:s27e20:free": {
 "access": "free",
 "backdropPath": "/jZhbWvp8tNrCA1zTyQQGPh0kabG.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -99822,7 +102993,7 @@
 },
 "serviceKey": "tvpvod",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "M jak miłość",
 "titleEn": "L for Love",
 "tmdbId": 14447,
@@ -100339,7 +103510,7 @@
 "access": "sub",
 "backdropPath": "/doIUOsdeCKkRNQxMvV4MKp0uoTT.jpg",
 "confirmedAt": "2026-11-07T11:43:12Z",
-"date": "2026-11-07",
+"date": "2026-11-09",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "tvpvod:tv:245841:s4e46:sub",
@@ -100348,6 +103519,42 @@
 "allEpisodes": false,
 "episodeFrom": 46,
 "episodeTo": 46,
+"genres": [
+18
+],
+"kind": "series",
+"season": 4,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Serial opowiada historie Hancer (w tej roli Talya Celebi), która wychodzi za mąż za Cihana (Cenay Turksever), by zdobyć pieniądze na leczenie chorego brata, Cemila. Po ślubie trafia do bardzo tajemniczej rezydencji rodziny Develioglu. Niepodzielnie rządzi tam matka jej męża, obdarzona żelazną wolą i charakterem Mukadder (Betigul Ceylan). Jest też była już żona Cihana, Beyza, która nie może się pogodzić z rozwodem. Hacer i Cemil nie mają rodziców. Dziewczyna wiele już w życiu przeszła. Teraz zrobi wszystko, by uratować brata, który jest jej jedyną rodziną.",
+"overviewEn": "The continuation of the lineage of a deep-rooted family depends on Cihan Develioğlu's unborn son, but Cihan cannot have a child due to his wife. Mukadder plays a cruel game for her son Cihan to have a son. Mukadder goes to Cihan's wife, Beyza, with a dangerous proposal and asks her to divorce her son. Named after her sharp looks, Hançer faces an offer that will turn her life upside down. Mukadder, who takes advantage of the fact that Hançer is poor and has a family that will not cause trouble, offers her the opportunity to marry her son and give birth to a male child. Hançer, who dreams of finding the love of her life and having a happy marriage, first rejects this offer. However, she is forced to accept the offer when she learns that her brother has a deadly illness. Cihan and Hançer, who have entered an irreversible path, will no longer be the same. Will these two young people, drawn into a big game and lost in a dark maze, fall under the spell of love contrary to the planned games?",
+"popularity": 7.82,
+"ratings": {
+"imdb": 4.0,
+"imdbVotes": 265
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Panna młoda",
+"titleEn": "The Bride",
+"tmdbId": 245841,
+"trailerKey": null
+},
+"tvpvod:tv:245841:s4e47:sub": {
+"access": "sub",
+"backdropPath": "/doIUOsdeCKkRNQxMvV4MKp0uoTT.jpg",
+"confirmedAt": "2026-11-09T23:46:08Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:tv:245841:s4e47:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 47,
+"episodeTo": 47,
 "genres": [
 18
 ],
@@ -100441,6 +103648,44 @@
 "serviceKey": "tvpvod",
 "source": "tmdb",
 "status": "live",
+"title": "Gra z Cieniem",
+"titleEn": null,
+"tmdbId": 256155,
+"trailerKey": null
+},
+"tvpvod:tv:256155:s2e11:free": {
+"access": "free",
+"backdropPath": "/1vWeDCMw86QnpAOJgAAqICNastZ.jpg",
+"confirmedAt": null,
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:tv:256155:s2e11:free",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 11,
+"episodeTo": 11,
+"genres": [
+10768,
+10759,
+80
+],
+"kind": "series",
+"season": 2,
+"withAds": true
+},
+"origin": "schedule",
+"overview": "Serial, który wciąga widzów w świat szpiegowskich intryg w Polsce Ludowej na początku lat 50. Głównym wątkiem jest zniknięcie szpiega o kryptonimie „Cień”, który pracował dla brytyjskiego wywiadu i dostarczał cenne informacje o polskim przemyśle, w tym o wydobyciu uranu. Jego nagłe zniknięcie staje się priorytetem zarówno dla UB, jak i dla brytyjskiej centrali, która chce za wszelką cenę odnaleźć swojego agenta.",
+"overviewEn": null,
+"popularity": 3.59,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 46
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "announced",
 "title": "Gra z Cieniem",
 "titleEn": null,
 "tmdbId": 256155,
@@ -100828,7 +104073,7 @@
 "tvpvod:tv:333522:s1e26:sub": {
 "access": "sub",
 "backdropPath": "/chxn3V5fH3nMYSMUsbDlad2QvUN.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -100852,7 +104097,7 @@
 "ratings": null,
 "serviceKey": "tvpvod",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Felicita",
 "titleEn": "Felicità",
 "tmdbId": 333522,
@@ -101309,6 +104554,45 @@
 "allEpisodes": false,
 "episodeFrom": 5,
 "episodeTo": 5,
+"genres": [
+10759,
+16,
+10762
+],
+"kind": "series",
+"season": 7,
+"withAds": true
+},
+"origin": "schedule",
+"overview": "Serial opowiada o przygodach nastolatki Marinette, która otrzymała niezwykły dar — może przemieniać się w Biedronkę — super-bohaterkę o mocach szczęścia. W zwalczaniu zła pomaga jej Czarny Kot, który w rzeczywistości jest Adrienem, w którym dziewczyna jest zakochana. Bohaterowie nie wiedzą, kim są w rzeczywistości, a Czarny Kot żywi nieodwzajemnione uczucia do Biedronki. Czy nastolatkowie dowiedzą się, kim są naprawdę?",
+"overviewEn": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+"popularity": 132.73,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 21115,
+"tmdb": 8.1
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "announced",
+"title": "Miraculum: Biedronka i Czarny Kot",
+"titleEn": "Miraculous: Tales of Ladybug & Cat Noir",
+"tmdbId": 65334,
+"trailerKey": "Eo73DkyXywE"
+},
+"tvpvod:tv:65334:s7e6:free": {
+"access": "free",
+"backdropPath": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+"confirmedAt": null,
+"date": "2026-11-29",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:tv:65334:s7e6:free",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
 "genres": [
 10759,
 16,
