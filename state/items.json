@@ -933,6 +933,78 @@
 "tmdbId": 1292695,
 "trailerKey": "s0PGrtw0X1Q"
 },
+"appletv:movie:1293232:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1293232:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "A story about the relationship between independent Soviet art and the West. It recalls a time when art was larger and more important than life itself. On one side, there are independent Soviet artists who lack not only the output but also the finances to complete their works. On the other side, there is the tempting West whose ambassadors (in the literal sense) take active interest in the Soviet underground art market. Selling one’s works to the West is a tricky business since the almighty KGB stands between the two mutually interested parties. Nevertheless, an incredible quantity of mainly Estonian and Moscovian visual art is sold and taken across the border. This is facilitated mainly by Western diplomats, behind whose coordinated actions stands none other than the CIA.",
+"overviewEn": "A story about the relationship between independent Soviet art and the West. It recalls a time when art was larger and more important than life itself. On one side, there are independent Soviet artists who lack not only the output but also the finances to complete their works. On the other side, there is the tempting West whose ambassadors (in the literal sense) take active interest in the Soviet underground art market. Selling one’s works to the West is a tricky business since the almighty KGB stands between the two mutually interested parties. Nevertheless, an incredible quantity of mainly Estonian and Moscovian visual art is sold and taken across the border. This is facilitated mainly by Western diplomats, behind whose coordinated actions stands none other than the CIA.",
+"popularity": 0.48,
+"ratings": null,
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Kunst ja külm sõda",
+"titleEn": "Art and the Cold War. Esthetic Resistance",
+"tmdbId": 1293232,
+"trailerKey": null
+},
+"appletv:movie:1302904:free": {
+"access": "free",
+"backdropPath": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1302904:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+14,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Wielopokoleniowa rodzina czarownic, skazana na wieki na brak miłości, próbuje złamać klątwę, stawiając czoła mrocznym sekretom i poświęcając się dla siebie nawzajem.",
+"overviewEn": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+"popularity": 58.13,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 19326,
+"tmdb": 7.2
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Totalna magia 2",
+"titleEn": "Practical Magic 2",
+"tmdbId": 1302904,
+"trailerKey": "Ho10_4IX1jE"
+},
 "appletv:movie:1317149:sub": {
 "access": "sub",
 "backdropPath": "/4mKczHAW4XPDXGk7V5k7Ui3dgUk.jpg",
@@ -1198,6 +1270,43 @@
 "tmdbId": 1423191,
 "trailerKey": "mNd1gb19A-c"
 },
+"appletv:movie:14254:sub": {
+"access": "sub",
+"backdropPath": "/yGsKygpcJl7WXn2UfGFoi1Mdrze.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:14254:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Anna w wyniku rodzinnej tragedii przebywa na oddziale psychiatrycznym. Gdy wraca do domu, ojciec oznajmia jej o zaręczynach z Rachel, która kiedyś była opiekunką matki.",
+"overviewEn": "Anna returns home after spending time in a psychiatric facility following her mother's tragic death and discovers that her mother's former nurse, Rachel, has moved into their house and become engaged to her father. Soon after she learns this shocking news, Anna is visited by her mother's ghost, who warns her that Rachel has evil intentions.",
+"popularity": 2.79,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 90726,
+"tmdb": 6.5
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Nieproszeni Goście",
+"titleEn": "The Uninvited",
+"tmdbId": 14254,
+"trailerKey": "SMAgwJrBeJM"
+},
 "appletv:movie:1433367:paid": {
 "access": "paid",
 "backdropPath": "/3afHil7EVm655wO2NS6RHxuyicE.jpg",
@@ -1235,6 +1344,39 @@
 "titleEn": "One Night Only",
 "tmdbId": 1433367,
 "trailerKey": "AvKoSR3O4NQ"
+},
+"appletv:movie:1452662:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1452662:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The Hotties of Horror are back in three more spicy chillers! Don't miss these goth girls doing some scary things to each other, it's the best horror porn around! Enjoy!",
+"overviewEn": "The Hotties of Horror are back in three more spicy chillers! Don't miss these goth girls doing some scary things to each other, it's the best horror porn around! Enjoy!",
+"popularity": 0.32,
+"ratings": null,
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Goth Girls: The Return",
+"titleEn": null,
+"tmdbId": 1452662,
+"trailerKey": null
 },
 "appletv:movie:1462146:paid": {
 "access": "paid",
@@ -1635,6 +1777,37 @@
 "tmdbId": 1572077,
 "trailerKey": "ZfjpmPn-kvA"
 },
+"appletv:movie:1584624:paid": {
+"access": "paid",
+"backdropPath": "/96brNqfQVTymTkTmLeHHNFLhrsF.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1584624:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jay Fisher and Josh Moore join 20 OnlyFans creators in Bali for a high-stakes collab. Beyond sex and spectacle, they explore ambition, chosen family, and community on this misunderstood platform.",
+"overviewEn": "Jay Fisher and Josh Moore join 20 OnlyFans creators in Bali for a high-stakes collab. Beyond sex and spectacle, they explore ambition, chosen family, and community on this misunderstood platform.",
+"popularity": 0.24,
+"ratings": null,
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Only Fantasy Island",
+"titleEn": null,
+"tmdbId": 1584624,
+"trailerKey": null
+},
 "appletv:movie:1587027:paid": {
 "access": "paid",
 "backdropPath": "/7coqkk4fWYItlGL58u8nGebq4P0.jpg",
@@ -1735,7 +1908,7 @@
 "ratings": {
 "imdb": 5.4,
 "imdbVotes": 3860,
-"tmdb": 6.5
+"tmdb": 6.4
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -2847,6 +3020,45 @@
 "tmdbId": 21290,
 "trailerKey": "vX_34cIOx9s"
 },
+"appletv:movie:21355:sub": {
+"access": "sub",
+"backdropPath": "/7U6WJ0qri2sACtcGa0wEpM9eAM1.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:21355:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749,
+37
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młody teksańczyk John Grady Cole (Matt Damon) rusza z przyjacielem Lacelayem Rawlinsem (Henry Thomas) do Meksyku w poszukiwaniu lepszego życia. W czasie podróży poznaje miłość swojego życia, uroczą Alejandrę (Penélope Cruz) - jednak nie obejdzie się bez nieprzewidzianych okoliczności...",
+"overviewEn": "The year is 1949. A young Texan named John Grady finds himself without a home after his mother sells the ranch where he has spent his entire life. Lured south of the border by the romance of cowboy life and the promise of a fresh start, Cole and his pal embark on an adventure that will test their resilience, define their maturity, and change their lives forever.",
+"popularity": 4.49,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 15367,
+"tmdb": 5.7
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Rącze konie",
+"titleEn": "All the Pretty Horses",
+"tmdbId": 21355,
+"trailerKey": "yygkQ8SjjQk"
+},
 "appletv:movie:227056:sub": {
 "access": "sub",
 "backdropPath": "/chQmvy2VrKxro4eXqLfE0MBR04c.jpg",
@@ -2884,6 +3096,44 @@
 "titleEn": "Ramayya Vasthavayya",
 "tmdbId": 227056,
 "trailerKey": "lVbpn9MQFYs"
+},
+"appletv:movie:296096:free": {
+"access": "free",
+"backdropPath": "/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:296096:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Louisa „Lou” Clark mieszka w niewielkim angielskim miasteczku i nie wie jeszcze, co zrobić ze swoim życiem. Ekscentryczna 26-latka próbuje sił w wielu dziedzinach, by pomóc swej rodzinie związać koniec z końcem. Zostaje opiekunką Willa Traynora, młodego, bogatego bankiera, którego losy całkowicie zmieniły się na skutek tragicznego zdarzenia sprzed dwóch lat. Niegdyś pełen energii, dziś cyniczny do szpiku kości Will wyzbył się już wszelkiej nadziei na szczęście. Dziewczyna postanawia pokazać mu, że jest jeszcze inna droga…",
+"overviewEn": "Lou Clark, a directionless 26-year-old from the English countryside, takes a job at the local castle as a caregiver and companion to a wealthy young banker, Will Traynor. Wheelchair-bound from an accident two years prior, the once adventurous Will has all but given up — that is until Lou determines to show him that life is worth living.",
+"popularity": 14.3,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 346741,
+"tmdb": 7.9
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Zanim się pojawiłeś",
+"titleEn": "Me Before You",
+"tmdbId": 296096,
+"trailerKey": "ffIwBzZzGng"
 },
 "appletv:movie:333371:sub": {
 "access": "sub",
@@ -4140,6 +4390,75 @@
 "titleEn": "Tropic Thunder",
 "tmdbId": 7446,
 "trailerKey": "ASJvlHExnMA"
+},
+"appletv:movie:769678:free": {
+"access": "free",
+"backdropPath": "/gKOvhDAwx30CapqvQOWIFZNkATM.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:769678:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+14,
+9648,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jen is living alone in a half-empty house, struggling with depression and how to deal with the hand life has dealt her.",
+"overviewEn": "Jen is living alone in a half-empty house, struggling with depression and how to deal with the hand life has dealt her.",
+"popularity": 0.97,
+"ratings": {
+"imdb": 3.4,
+"imdbVotes": 138
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Relentless",
+"titleEn": null,
+"tmdbId": 769678,
+"trailerKey": null
+},
+"appletv:movie:771848:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:771848:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.08,
+"ratings": null,
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Pueblo de malditos",
+"titleEn": null,
+"tmdbId": 771848,
+"trailerKey": null
 },
 "appletv:movie:79464:sub": {
 "access": "sub",
@@ -8245,8 +8564,8 @@
 "serviceKey": "canalplus",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -8283,8 +8602,8 @@
 "serviceKey": "canalplus",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -10851,7 +11170,7 @@
 "origin": "diff",
 "overview": "Mel ambitnie rozwija własną firmę Mikołajową. Stawia sobie za cel zorganizowanie uroczystej kolacji wigilijnej. Szybko jednak okazuje się, że to zadanie go przerasta. Dodatkowo, w swoim pracowniku Grześku, dostrzega odbicie dawnego siebie – młodego chłopaka, który popełnia te same błędy. Mel postanawia zrobić wszystko, by uchronić Grześka przed kolejnymi pochopnymi decyzjami! Karina i Szczepan pragną wreszcie spędzić spokojne, normalne święta. Jednak los ma wobec nich inne plany... Gdy nagle pęka rura i zalewa im mieszkanie, do ich domu trafia Lucek. Oczywiście, nie sam, lecz w towarzystwie kolejnej \"ofiary\", Japończyka Józka. Tymczasem Wojciech, wracający z Londynu, gdzie odwiedzał swoją córkę, ma własne plany na wigilijny wieczór. Wszystko wydaje się pod kontrolą, aż na jego drodze pojawia się Ewa – tajemnicza kobieta, która leci do Warszawy, by zobaczyć się z ukochanym poznanym przez Internet.",
 "overviewEn": "As Christmas approaches, ambitious Mel struggles to host a grand Eve dinner for his “Santa” business and, seeing his younger self in hapless employee Grzesiek, vows to save him from repeating old mistakes. Meanwhile, Karina and Szczepan’s quiet holiday is disrupted by a burst pipe that introduces repairman Lucek and stranded traveler Józek into their home. And Wojciech, fresh from London, plans a serene reunion, until he meets mysterious Ewa, who’s flown in to see an internet love.",
-"popularity": 1.05,
+"popularity": 0.73,
 "ratings": {
 "imdb": 5.8,
 "imdbVotes": 468
@@ -12108,6 +12427,45 @@
 "tmdbId": 1297028,
 "trailerKey": "0S0me9gHK00"
 },
+"canalplus:movie:1302904:free": {
+"access": "free",
+"backdropPath": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1302904:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+14,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Wielopokoleniowa rodzina czarownic, skazana na wieki na brak miłości, próbuje złamać klątwę, stawiając czoła mrocznym sekretom i poświęcając się dla siebie nawzajem.",
+"overviewEn": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+"popularity": 58.13,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 19326,
+"tmdb": 7.2
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Totalna magia 2",
+"titleEn": "Practical Magic 2",
+"tmdbId": 1302904,
+"trailerKey": "Ho10_4IX1jE"
+},
 "canalplus:movie:13053:sub": {
 "access": "sub",
 "backdropPath": "/zWqxBc6pdSIjklqWfZ70l5ce28P.jpg",
@@ -12185,10 +12543,46 @@
 "tmdbId": 1309012,
 "trailerKey": "tnLOr0YTFiQ"
 },
+"canalplus:movie:1310677:paid": {
+"access": "paid",
+"backdropPath": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1310677:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młoda uciekinierka z Korei Północnej trafia do Korei Południowej i próbuje odnaleźć się w nowym, zupełnie obcym świecie.",
+"overviewEn": "A young North Korean refugee fights to rebuild her life in fast-paced, hyper-modern South Korea, forcing her to confront the price of freedom and the past she left behind.",
+"popularity": 1.53,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 180
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Jedna Korea",
+"titleEn": "Hana Korea",
+"tmdbId": 1310677,
+"trailerKey": "vgD9NKGLm1s"
+},
 "canalplus:movie:1310677:sub": {
 "access": "sub",
 "backdropPath": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
-"confirmedAt": "2026-11-10T13:27:24Z",
+"confirmedAt": "2026-11-10T21:17:45Z",
 "date": "2026-11-07",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -14381,43 +14775,6 @@
 "tmdbId": 1463999,
 "trailerKey": null
 },
-"canalplus:movie:1464883:paid": {
-"access": "paid",
-"backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
-"confirmedAt": null,
-"date": "2026-11-16",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "canalplus:movie:1464883:paid",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-18
-],
-"kind": "movie",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "W całym Iraku trwa „dzień losowania”, kiedy szkoły wybierają uczniów do zaszczytu przyniesienia przedmiotów na obowiązkowe lokalne obchody urodzin prezydenta Saddama Husseina. Dziewięcioletnia Lamia mieszka na historycznych bagnach ze swoją pełną werwy babcią, Bibi. Przed szkołą Bibi uczy Lamię sprytnych sztuczek, aby uniknąć wyboru do tortu prezydenta. Jednak gdy Musa, autorytatywny nauczyciel, woła Lamię po imieniu, aby wykonać najtrudniejsze zadanie — tort urodzinowy — nie ma innego wyboru, jak tylko się zgodzić. Odmowa może oznaczać uwięzienie, a nawet śmierć.",
-"overviewEn": "While people across 1990’s Iraq struggle to survive, 9-year-old Lamia has been selected to prepare a cake to celebrate the President’s birthday. In a landscape of fear and scarcity, where basic ingredients are nearly impossible to find, Lamia sets out on a determined journey throughout the big city in search of eggs, flour, and sugar. Accompanied by her grandmother, her loyal friend Saeed, and her pet rooster Hindi, she navigates vendors and police officers along the way.",
-"popularity": 2.66,
-"ratings": {
-"imdb": 7.5,
-"imdbVotes": 5340,
-"tmdb": 7.4
-},
-"serviceKey": "canalplus",
-"source": "tmdb",
-"status": "announced",
-"title": "Tort dla prezydenta",
-"titleEn": "The President's Cake",
-"tmdbId": 1464883,
-"trailerKey": "8i3idbVnC6I"
-},
 "canalplus:movie:1465685:paid": {
 "access": "paid",
 "backdropPath": "/5lOl5DuXQF6vI7wySoIDcv3JgHC.jpg",
@@ -15488,7 +15845,7 @@
 "ratings": {
 "imdb": 5.4,
 "imdbVotes": 3860,
-"tmdb": 6.5
+"tmdb": 6.4
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
@@ -18245,6 +18602,44 @@
 "tmdbId": 295652,
 "trailerKey": "p_nP9sR_X60"
 },
+"canalplus:movie:296096:free": {
+"access": "free",
+"backdropPath": "/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:296096:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Louisa „Lou” Clark mieszka w niewielkim angielskim miasteczku i nie wie jeszcze, co zrobić ze swoim życiem. Ekscentryczna 26-latka próbuje sił w wielu dziedzinach, by pomóc swej rodzinie związać koniec z końcem. Zostaje opiekunką Willa Traynora, młodego, bogatego bankiera, którego losy całkowicie zmieniły się na skutek tragicznego zdarzenia sprzed dwóch lat. Niegdyś pełen energii, dziś cyniczny do szpiku kości Will wyzbył się już wszelkiej nadziei na szczęście. Dziewczyna postanawia pokazać mu, że jest jeszcze inna droga…",
+"overviewEn": "Lou Clark, a directionless 26-year-old from the English countryside, takes a job at the local castle as a caregiver and companion to a wealthy young banker, Will Traynor. Wheelchair-bound from an accident two years prior, the once adventurous Will has all but given up — that is until Lou determines to show him that life is worth living.",
+"popularity": 14.3,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 346741,
+"tmdb": 7.9
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Zanim się pojawiłeś",
+"titleEn": "Me Before You",
+"tmdbId": 296096,
+"trailerKey": "ffIwBzZzGng"
+},
 "canalplus:movie:299537:sub": {
 "access": "sub",
 "backdropPath": "/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
@@ -20613,6 +21008,84 @@
 "titleEn": "Lamborghini: The Man Behind the Legend",
 "tmdbId": 457232,
 "trailerKey": "WjTICfrC25s"
+},
+"canalplus:movie:460071:paid": {
+"access": "paid",
+"backdropPath": "/gv3wsm1EzFwd9QF9WPedwjlHG0H.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:460071:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Rok 1892. Lizzie Borden staje przed sądem pod zarzutem zamordowania toporem swojego ojca i macochy.",
+"overviewEn": "Massachusetts, 1892. An unmarried woman of 32 and a social outcast, Lizzie lives a claustrophobic life under her father's cold and domineering control. When Bridget Sullivan, a young maid, comes to work for the family, Lizzie finds a sympathetic, kindred spirit, and a secret intimacy soon blossoms into a wicked plan.",
+"popularity": 2.09,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 10753,
+"tmdb": 6.2
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Lizzie",
+"titleEn": null,
+"tmdbId": 460071,
+"trailerKey": "1BHPGudlLuc"
+},
+"canalplus:movie:460071:sub": {
+"access": "sub",
+"backdropPath": "/gv3wsm1EzFwd9QF9WPedwjlHG0H.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:460071:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Rok 1892. Lizzie Borden staje przed sądem pod zarzutem zamordowania toporem swojego ojca i macochy.",
+"overviewEn": "Massachusetts, 1892. An unmarried woman of 32 and a social outcast, Lizzie lives a claustrophobic life under her father's cold and domineering control. When Bridget Sullivan, a young maid, comes to work for the family, Lizzie finds a sympathetic, kindred spirit, and a secret intimacy soon blossoms into a wicked plan.",
+"popularity": 2.09,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 10753,
+"tmdb": 6.2
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Lizzie",
+"titleEn": null,
+"tmdbId": 460071,
+"trailerKey": "1BHPGudlLuc"
 },
 "canalplus:movie:4614:sub": {
 "access": "sub",
@@ -30954,6 +31427,45 @@
 "tmdbId": 12771,
 "trailerKey": "yH5LUdNfKb0"
 },
+"cda:movie:12783:free": {
+"access": "free",
+"backdropPath": "/qY6jnp4cNUYMz6FBG7ATtVmWttM.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:12783:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+36,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Księżna Georgiana Cavendish (Keira Knightley) wiodła ekstrawaganckie, pełne politycznych i miłosnych intryg życie. Już jako szesnastolatka wyróżniała się wśród innych arystokratek urodą i wdziękiem, wzbudzając tym samym zachwyt wszystkich mężczyzn. Udało się jej zwrócić uwagę samego księcia Devonshire (Ralph Fiennes). Perspektywa małżeństwa z tak wysoko postawionym człowiekiem i możliwość awansu społecznego, sprawiły że Georgiana odrzuciła zakochanego w niej Charlesa Grey'a. Jednak wbrew jej wyobrażeniu życie u boku Księcia nie przypominało bajki, a młoda Księżna szybko poznała gorzki smak życia na dworze. To historia niezwykłej kobiety, która była uwielbiana i znana z tego, że chciała być wierna swojej namiętności, historia kobiety, która musiała zapłacić za to wysoką cenę.",
+"overviewEn": "A chronicle of the life of 18th century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.",
+"popularity": 3.58,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 91768,
+"tmdb": 7.0
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Księżna",
+"titleEn": "The Duchess",
+"tmdbId": 12783,
+"trailerKey": "FFg-oduezDs"
+},
 "cda:movie:1288227:free": {
 "access": "free",
 "backdropPath": "/hylEN9D45VWC0TfMj3Nfpy1hjtV.jpg",
@@ -32459,6 +32971,80 @@
 "titleEn": "\"Opération Dragon\", la révolution Bruce Lee",
 "tmdbId": 1707491,
 "trailerKey": null
+},
+"cda:movie:173185:paid": {
+"access": "paid",
+"backdropPath": "/uuAbE6pP6VF7LxeOTokMUeDPyPI.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:173185:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Alice Lantins ma 38 lat. Jest piękna, ambitna i całkowicie oddana swej pracy - do tego stopnia, że życie prywatne dla niej nie istnieje. Ma w ręku wszystkie atuty, by zostać nową redaktor naczelną magazynu \"Rebelle\". Wszystkie, poza jednym... Alice jest kobietą, która nigdy nie wykracza poza utarte schematy. Dopiero gdy w jej życiu pojawi się 20-letni, czarujący Balthazar, koledzy i znajomi spojrzą nagle na nią innym okiem. Alice spostrzeże, że los dał jej do rąk klucz do przyszłej kariery. Zaczyna zatem odgrywać komedię, udając nieprawdopodobną idyllę.",
+"overviewEn": "38-year-old Alice has everything to become the next editor-in-chief of Rebelle magazine except for her uptight image. But when the young and charming Balthazar, barely 20, crosses Alice's path, she realizes that he holds the key to her promotion.",
+"popularity": 4.63,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 13664,
+"tmdb": 6.5
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Miłość po francusku",
+"titleEn": "It Boy",
+"tmdbId": 173185,
+"trailerKey": "AZFP0oIUit4"
+},
+"cda:movie:173185:sub": {
+"access": "sub",
+"backdropPath": "/uuAbE6pP6VF7LxeOTokMUeDPyPI.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:173185:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Alice Lantins ma 38 lat. Jest piękna, ambitna i całkowicie oddana swej pracy - do tego stopnia, że życie prywatne dla niej nie istnieje. Ma w ręku wszystkie atuty, by zostać nową redaktor naczelną magazynu \"Rebelle\". Wszystkie, poza jednym... Alice jest kobietą, która nigdy nie wykracza poza utarte schematy. Dopiero gdy w jej życiu pojawi się 20-letni, czarujący Balthazar, koledzy i znajomi spojrzą nagle na nią innym okiem. Alice spostrzeże, że los dał jej do rąk klucz do przyszłej kariery. Zaczyna zatem odgrywać komedię, udając nieprawdopodobną idyllę.",
+"overviewEn": "38-year-old Alice has everything to become the next editor-in-chief of Rebelle magazine except for her uptight image. But when the young and charming Balthazar, barely 20, crosses Alice's path, she realizes that he holds the key to her promotion.",
+"popularity": 4.63,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 13664,
+"tmdb": 6.5
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Miłość po francusku",
+"titleEn": "It Boy",
+"tmdbId": 173185,
+"trailerKey": "AZFP0oIUit4"
 },
 "cda:movie:18033:paid": {
 "access": "paid",
@@ -33984,6 +34570,45 @@
 "tmdbId": 333371,
 "trailerKey": "yQy-ANhnUpE"
 },
+"cda:movie:333696:sub": {
+"access": "sub",
+"backdropPath": "/kuPzbd0j1zN9J9tNBJgoCKvsk4t.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:333696:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+18,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "\"Nadzy wśród wilków\" to opowieść o trzyletnim żydowskim chłopcu, który został przemycony do obozu w Buchenwaldzie. Przywiózł go Polak w walizce ostatnim transportem z Auschwitz. Więźniowie wspólnymi siłami go ukrywają. Do konspiracji należą Żydzi, Polacy, niemieccy komuniści i Rosjanie. Tymczasem powoli zbliża się front, a terror w obozie nasila się.",
+"overviewEn": "Taking place at the Concentration camp Buchenwald at the end of March 1945, prisoner Hans Pippig discovers in a carrying case of an incoming prisoner a Jewish child. If reported the three-year-old is sure to die. On the other hand, a violation of the rules of the camp would threaten the long prepared uprising of the concentration camp prisoners against the SS.",
+"popularity": 1.02,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 4415,
+"tmdb": 7.3
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Nadzy Wśród Wilków",
+"titleEn": "Naked Among Wolves",
+"tmdbId": 333696,
+"trailerKey": "oovA6-YDg0w"
+},
 "cda:movie:334074:paid": {
 "access": "paid",
 "backdropPath": "/kbvSneIEkEcxHZ3AayZUEN2xC1P.jpg",
@@ -35202,6 +35827,45 @@
 "titleEn": "Sonic the Hedgehog",
 "tmdbId": 454626,
 "trailerKey": "Bd-XIkNAFJk"
+},
+"cda:movie:460071:paid": {
+"access": "paid",
+"backdropPath": "/gv3wsm1EzFwd9QF9WPedwjlHG0H.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:460071:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Rok 1892. Lizzie Borden staje przed sądem pod zarzutem zamordowania toporem swojego ojca i macochy.",
+"overviewEn": "Massachusetts, 1892. An unmarried woman of 32 and a social outcast, Lizzie lives a claustrophobic life under her father's cold and domineering control. When Bridget Sullivan, a young maid, comes to work for the family, Lizzie finds a sympathetic, kindred spirit, and a secret intimacy soon blossoms into a wicked plan.",
+"popularity": 2.09,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 10753,
+"tmdb": 6.2
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Lizzie",
+"titleEn": null,
+"tmdbId": 460071,
+"trailerKey": "1BHPGudlLuc"
 },
 "cda:movie:464818:sub": {
 "access": "sub",
@@ -38228,7 +38892,7 @@
 "ratings": {
 "imdb": 7.0,
 "imdbVotes": 3022,
-"tmdb": 6.7
+"tmdb": 6.6
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -38267,7 +38931,7 @@
 "ratings": {
 "imdb": 7.0,
 "imdbVotes": 3022,
-"tmdb": 6.7
+"tmdb": 6.6
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -38306,7 +38970,7 @@
 "ratings": {
 "imdb": 7.0,
 "imdbVotes": 3022,
-"tmdb": 6.7
+"tmdb": 6.6
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -38345,7 +39009,7 @@
 "ratings": {
 "imdb": 7.0,
 "imdbVotes": 3022,
-"tmdb": 6.7
+"tmdb": 6.6
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -39285,123 +39949,6 @@
 "tmdbId": 83524,
 "trailerKey": null
 },
-"cda:tv:85077:s6e1:sub": {
-"access": "sub",
-"backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-"confirmedAt": null,
-"date": "2026-11-15",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "cda:tv:85077:s6e1:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 1,
-"episodeTo": 3,
-"genres": [
-10759,
-10751,
-18
-],
-"kind": "series",
-"season": 6,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Charyzmatyczny rybak walczący z długiem, piękna kobieta zmagająca się z demonami i utalentowany księgowy wykluczony ze społeczeństwa. Oni jako pierwsi spotykają Jezusa, który dokonując cudów, rozpoczyna swoją misję, aby zmienić świat. Jeszcze nie wiedzą, że to początek globalnej rewolucji, która rozpocznie nową erę w historii. ",
-"overviewEn": "The life of Christ through the eyes of those who encountered him.",
-"popularity": 66.78,
-"ratings": {
-"imdb": 9.1,
-"imdbVotes": 72699,
-"tmdb": 8.9
-},
-"serviceKey": "cda",
-"source": "tmdb",
-"status": "announced",
-"title": "The Chosen",
-"titleEn": null,
-"tmdbId": 85077,
-"trailerKey": "5CVj41dtkIA"
-},
-"cda:tv:85077:s6e4:sub": {
-"access": "sub",
-"backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-"confirmedAt": null,
-"date": "2026-11-22",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "cda:tv:85077:s6e4:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 4,
-"episodeTo": 4,
-"genres": [
-10759,
-10751,
-18
-],
-"kind": "series",
-"season": 6,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Charyzmatyczny rybak walczący z długiem, piękna kobieta zmagająca się z demonami i utalentowany księgowy wykluczony ze społeczeństwa. Oni jako pierwsi spotykają Jezusa, który dokonując cudów, rozpoczyna swoją misję, aby zmienić świat. Jeszcze nie wiedzą, że to początek globalnej rewolucji, która rozpocznie nową erę w historii. ",
-"overviewEn": "The life of Christ through the eyes of those who encountered him.",
-"popularity": 66.78,
-"ratings": {
-"imdb": 9.1,
-"imdbVotes": 72699,
-"tmdb": 8.9
-},
-"serviceKey": "cda",
-"source": "tmdb",
-"status": "announced",
-"title": "The Chosen",
-"titleEn": null,
-"tmdbId": 85077,
-"trailerKey": "5CVj41dtkIA"
-},
-"cda:tv:85077:s6e5:sub": {
-"access": "sub",
-"backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-"confirmedAt": null,
-"date": "2026-11-29",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "cda:tv:85077:s6e5:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 5,
-"episodeTo": 5,
-"genres": [
-10759,
-10751,
-18
-],
-"kind": "series",
-"season": 6,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Charyzmatyczny rybak walczący z długiem, piękna kobieta zmagająca się z demonami i utalentowany księgowy wykluczony ze społeczeństwa. Oni jako pierwsi spotykają Jezusa, który dokonując cudów, rozpoczyna swoją misję, aby zmienić świat. Jeszcze nie wiedzą, że to początek globalnej rewolucji, która rozpocznie nową erę w historii. ",
-"overviewEn": "The life of Christ through the eyes of those who encountered him.",
-"popularity": 66.78,
-"ratings": {
-"imdb": 9.1,
-"imdbVotes": 72699,
-"tmdb": 8.9
-},
-"serviceKey": "cda",
-"source": "tmdb",
-"status": "announced",
-"title": "The Chosen",
-"titleEn": null,
-"tmdbId": 85077,
-"trailerKey": "5CVj41dtkIA"
-},
 "cda:tv:96005:sub": {
 "access": "sub",
 "backdropPath": "/zGIsInshYVAcXsqOlvktGZxon9c.jpg",
@@ -39712,6 +40259,39 @@
 "titleEn": "The Roses",
 "tmdbId": 1267905,
 "trailerKey": "rb3x45F6mrQ"
+},
+"disney:movie:1358943:sub": {
+"access": "sub",
+"backdropPath": "/omSCIBVSV22dZFWHCrRytNmkjd6.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "disney:movie:1358943:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W systemie zbudowanym z pudełek postacie żyją i pracują samotnie. Rysują, wycinają, składają i układają papierowe pudełka. Gdy stosy stają się zbyt wysokie i w końcu się zawalają, bohaterowie odnajdują się nawzajem i odkrywają wspólne życie.",
+"overviewEn": "In a regulated system built of boxes, the characters live and work in isolation. They draw, cut, fold and stack paper boxes. As the stacks get too high and finally collapse, the characters find each other and discover life together.",
+"popularity": 0.24,
+"ratings": null,
+"serviceKey": "disney",
+"source": "tmdb",
+"status": "live",
+"title": "Box",
+"titleEn": null,
+"tmdbId": 1358943,
+"trailerKey": null
 },
 "disney:movie:147580:free": {
 "access": "free",
@@ -42631,7 +43211,7 @@
 "title": "Prawo i porządek: Sekcja specjalna",
 "titleEn": "Law & Order: Special Victims Unit",
 "tmdbId": 2734,
-"trailerKey": null
+"trailerKey": "O53wYUc_fA4"
 },
 "disney:tv:274388:s1e71:sub": {
 "access": "sub",
@@ -42854,7 +43434,7 @@
 "ratings": {
 "imdb": 7.8,
 "imdbVotes": 445,
-"tmdb": 7.9
+"tmdb": 8.0
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -42892,7 +43472,7 @@
 "ratings": {
 "imdb": 7.8,
 "imdbVotes": 445,
-"tmdb": 7.9
+"tmdb": 8.0
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -42930,7 +43510,7 @@
 "ratings": {
 "imdb": 7.8,
 "imdbVotes": 445,
-"tmdb": 7.9
+"tmdb": 8.0
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -42968,7 +43548,7 @@
 "ratings": {
 "imdb": 7.8,
 "imdbVotes": 445,
-"tmdb": 7.9
+"tmdb": 8.0
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -43006,7 +43586,7 @@
 "ratings": {
 "imdb": 7.8,
 "imdbVotes": 445,
-"tmdb": 7.9
+"tmdb": 8.0
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -45039,8 +45619,8 @@
 "serviceKey": "hbomax",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -45077,8 +45657,8 @@
 "serviceKey": "hbomax",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -45565,6 +46145,45 @@
 "tmdbId": 1263371,
 "trailerKey": "lZ1DlykhLAo"
 },
+"hbomax:movie:12783:free": {
+"access": "free",
+"backdropPath": "/qY6jnp4cNUYMz6FBG7ATtVmWttM.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:12783:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+36,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Księżna Georgiana Cavendish (Keira Knightley) wiodła ekstrawaganckie, pełne politycznych i miłosnych intryg życie. Już jako szesnastolatka wyróżniała się wśród innych arystokratek urodą i wdziękiem, wzbudzając tym samym zachwyt wszystkich mężczyzn. Udało się jej zwrócić uwagę samego księcia Devonshire (Ralph Fiennes). Perspektywa małżeństwa z tak wysoko postawionym człowiekiem i możliwość awansu społecznego, sprawiły że Georgiana odrzuciła zakochanego w niej Charlesa Grey'a. Jednak wbrew jej wyobrażeniu życie u boku Księcia nie przypominało bajki, a młoda Księżna szybko poznała gorzki smak życia na dworze. To historia niezwykłej kobiety, która była uwielbiana i znana z tego, że chciała być wierna swojej namiętności, historia kobiety, która musiała zapłacić za to wysoką cenę.",
+"overviewEn": "A chronicle of the life of 18th century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.",
+"popularity": 3.58,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 91768,
+"tmdb": 7.0
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Księżna",
+"titleEn": "The Duchess",
+"tmdbId": 12783,
+"trailerKey": "FFg-oduezDs"
+},
 "hbomax:movie:1292695:sub": {
 "access": "sub",
 "backdropPath": "/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg",
@@ -45642,6 +46261,43 @@
 "tmdbId": 1294203,
 "trailerKey": "C5fZiMR12vg"
 },
+"hbomax:movie:1308618:sub": {
+"access": "sub",
+"backdropPath": "/s2jfSL3O1tmDV4FiruB48LWr0ul.jpg",
+"confirmedAt": null,
+"date": "2026-11-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:1308618:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Bertille, młodsza z dwóch sióstr z rodziny Roussier, cierpi na poważne upośledzenie, którego diagnoza jest niepewna. Rodzina żyje w niepewnej równowadze, mając pod opieką dziecko, które monopolizuje wysiłki i myśli wszystkich i które w każdej chwili może stracić życie. Każdy buduje siebie, żyje najlepiej jak potrafi, dostosowując się do wymagań tego rytmu i niepewności, które mu towarzyszą. Rodzice, Madeleine i Gilles, starsza siostra, Marion. Jak wygląda codzienne życie i przyszłość matki, ojca, pary, nastolatki, która zbyt szybko dorosła z powodu odpowiedzialności za młodszą córkę? Gdy zostaje postawiona nowa diagnoza, karty zostają potasowane, a przed nami pojawia się nowy horyzont...",
+"overviewEn": "Set against the backdrop of a summer on the French Riviera, the Roussier family navigates the severe disability of the youngest daughter, 13-year-old Bertille, while her older sister, 17-year-old Marion, seeks refuge in a relationship with an older boy.",
+"popularity": 1.35,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 283,
+"tmdb": 6.7
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Najdzielniejsza",
+"titleEn": "The Wonderers",
+"tmdbId": 1308618,
+"trailerKey": null
+},
 "hbomax:movie:1309012:paid": {
 "access": "paid",
 "backdropPath": "/q9bvjUkpKltPE0S9oxci2pmD1Zx.jpg",
@@ -45679,6 +46335,42 @@
 "titleEn": "Altered",
 "tmdbId": 1309012,
 "trailerKey": "tnLOr0YTFiQ"
+},
+"hbomax:movie:1310677:paid": {
+"access": "paid",
+"backdropPath": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:1310677:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młoda uciekinierka z Korei Północnej trafia do Korei Południowej i próbuje odnaleźć się w nowym, zupełnie obcym świecie.",
+"overviewEn": "A young North Korean refugee fights to rebuild her life in fast-paced, hyper-modern South Korea, forcing her to confront the price of freedom and the past she left behind.",
+"popularity": 1.53,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 180
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Jedna Korea",
+"titleEn": "Hana Korea",
+"tmdbId": 1310677,
+"trailerKey": "vgD9NKGLm1s"
 },
 "hbomax:movie:1310677:sub": {
 "access": "sub",
@@ -50738,7 +51430,7 @@
 "ratings": {
 "imdb": 7.3,
 "imdbVotes": 1669,
-"tmdb": 8.3
+"tmdb": 8.2
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -50775,7 +51467,7 @@
 "ratings": {
 "imdb": 7.3,
 "imdbVotes": 1669,
-"tmdb": 8.3
+"tmdb": 8.2
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -50812,7 +51504,7 @@
 "ratings": {
 "imdb": 7.3,
 "imdbVotes": 1669,
-"tmdb": 8.3
+"tmdb": 8.2
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -50849,7 +51541,7 @@
 "ratings": {
 "imdb": 7.3,
 "imdbVotes": 8033,
-"tmdb": 7.5
+"tmdb": 7.4
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -50886,7 +51578,7 @@
 "ratings": {
 "imdb": 7.3,
 "imdbVotes": 8033,
-"tmdb": 7.5
+"tmdb": 7.4
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -50923,7 +51615,7 @@
 "ratings": {
 "imdb": 7.3,
 "imdbVotes": 8033,
-"tmdb": 7.5
+"tmdb": 7.4
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -51432,7 +52124,7 @@
 "access": "sub",
 "backdropPath": "/gbmN2y9Dqm6XKEev1kd8GkGLLn.jpg",
 "confirmedAt": "2026-11-07T11:43:12Z",
-"date": "2026-11-04",
+"date": "2026-11-07",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "hbomax:tv:2808:s8e12:sub",
@@ -51441,45 +52133,6 @@
 "allEpisodes": false,
 "episodeFrom": 12,
 "episodeTo": 12,
-"genres": [
-16,
-10762,
-35
-],
-"kind": "series",
-"season": 8,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Perypetie trójki licealistek, które za dnia są zwykłymi uczennicami, a w nocy tajnymi agentkami. ",
-"overviewEn": "Totally Spies! depicts three girlfriends 'with an attitude' who have to cope with their daily lives at high school as well as the unpredictable pressures of international espionage. They confront the most intimidating - and demented - of villains, each with their own special agenda for demonic, global rude behavior.",
-"popularity": 24.97,
-"ratings": {
-"imdb": 7.1,
-"imdbVotes": 14646,
-"tmdb": 7.4
-},
-"serviceKey": "hbomax",
-"source": "tmdb",
-"status": "live",
-"title": "Odlotowe agentki",
-"titleEn": "Totally Spies!",
-"tmdbId": 2808,
-"trailerKey": null
-},
-"hbomax:tv:2808:s8e7:sub": {
-"access": "sub",
-"backdropPath": "/gbmN2y9Dqm6XKEev1kd8GkGLLn.jpg",
-"confirmedAt": "2026-11-09T13:51:36Z",
-"date": "2026-11-07",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "hbomax:tv:2808:s8e7:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 7,
-"episodeTo": 7,
 "genres": [
 16,
 10762,
@@ -54276,6 +54929,80 @@
 "tmdbId": 98410,
 "trailerKey": null
 },
+"netflix:movie:1019354:paid": {
+"access": "paid",
+"backdropPath": "/95pq8lCUtirZc4RNHHfJPmbq135.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:1019354:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Melowi jak zwykle nic nie wychodzi. Zbieg okoliczności sprawia, że staje się bohaterem mimo woli, a jego nie zawsze kryształowy charakter znowu zostaje wystawiony na próbę. Wojciech, który nie czuje wszechobecnej radosnej atmosfery, spotyka na swojej drodze kogoś, kto zmienia jego świąteczne plany. Z kolei Karina i Szczepan uwikłają się w walkę o spadek, który może poróżnić nawet najbliższych. Przekonają się, czy z rodziną rzeczywiście dobrze wychodzi się tylko na zdjęciach.",
+"overviewEn": "Wojciech, who does not feel the ubiquitous joyful atmosphere, meets someone who changes his holiday plans. In turn, Karina and Szczepan get embroiled in a fight for an inheritance that may divide even their loved ones. They will see if the only thing that comes out well with the family is in the photos.",
+"popularity": 0.59,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 530
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M. 5",
+"titleEn": "Letters to Santa 5",
+"tmdbId": 1019354,
+"trailerKey": "IiXxXeY_MiU"
+},
+"netflix:movie:1019354:sub": {
+"access": "sub",
+"backdropPath": "/95pq8lCUtirZc4RNHHfJPmbq135.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:1019354:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Melowi jak zwykle nic nie wychodzi. Zbieg okoliczności sprawia, że staje się bohaterem mimo woli, a jego nie zawsze kryształowy charakter znowu zostaje wystawiony na próbę. Wojciech, który nie czuje wszechobecnej radosnej atmosfery, spotyka na swojej drodze kogoś, kto zmienia jego świąteczne plany. Z kolei Karina i Szczepan uwikłają się w walkę o spadek, który może poróżnić nawet najbliższych. Przekonają się, czy z rodziną rzeczywiście dobrze wychodzi się tylko na zdjęciach.",
+"overviewEn": "Wojciech, who does not feel the ubiquitous joyful atmosphere, meets someone who changes his holiday plans. In turn, Karina and Szczepan get embroiled in a fight for an inheritance that may divide even their loved ones. They will see if the only thing that comes out well with the family is in the photos.",
+"popularity": 0.59,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 530
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M. 5",
+"titleEn": "Letters to Santa 5",
+"tmdbId": 1019354,
+"trailerKey": "IiXxXeY_MiU"
+},
 "netflix:movie:1026999:paid": {
 "access": "paid",
 "backdropPath": "/w2zsNG7WKBMH35QqcFYILEAdYDU.jpg",
@@ -54314,6 +55041,80 @@
 "titleEn": "Kleks Academy",
 "tmdbId": 1026999,
 "trailerKey": "0oLD1yYfgBY"
+},
+"netflix:movie:1254793:paid": {
+"access": "paid",
+"backdropPath": "/feYQbnTy9g3oODLSSdUss24Y1eX.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:1254793:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Mel ambitnie rozwija własną firmę Mikołajową. Stawia sobie za cel zorganizowanie uroczystej kolacji wigilijnej. Szybko jednak okazuje się, że to zadanie go przerasta. Dodatkowo, w swoim pracowniku Grześku, dostrzega odbicie dawnego siebie – młodego chłopaka, który popełnia te same błędy. Mel postanawia zrobić wszystko, by uchronić Grześka przed kolejnymi pochopnymi decyzjami! Karina i Szczepan pragną wreszcie spędzić spokojne, normalne święta. Jednak los ma wobec nich inne plany... Gdy nagle pęka rura i zalewa im mieszkanie, do ich domu trafia Lucek. Oczywiście, nie sam, lecz w towarzystwie kolejnej \"ofiary\", Japończyka Józka. Tymczasem Wojciech, wracający z Londynu, gdzie odwiedzał swoją córkę, ma własne plany na wigilijny wieczór. Wszystko wydaje się pod kontrolą, aż na jego drodze pojawia się Ewa – tajemnicza kobieta, która leci do Warszawy, by zobaczyć się z ukochanym poznanym przez Internet.",
+"overviewEn": "As Christmas approaches, ambitious Mel struggles to host a grand Eve dinner for his “Santa” business and, seeing his younger self in hapless employee Grzesiek, vows to save him from repeating old mistakes. Meanwhile, Karina and Szczepan’s quiet holiday is disrupted by a burst pipe that introduces repairman Lucek and stranded traveler Józek into their home. And Wojciech, fresh from London, plans a serene reunion, until he meets mysterious Ewa, who’s flown in to see an internet love.",
+"popularity": 0.73,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 468
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M. Pożegnania i powroty",
+"titleEn": "Letters to Santa 6",
+"tmdbId": 1254793,
+"trailerKey": "wLFnog34Vx4"
+},
+"netflix:movie:1254793:sub": {
+"access": "sub",
+"backdropPath": "/feYQbnTy9g3oODLSSdUss24Y1eX.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:1254793:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Mel ambitnie rozwija własną firmę Mikołajową. Stawia sobie za cel zorganizowanie uroczystej kolacji wigilijnej. Szybko jednak okazuje się, że to zadanie go przerasta. Dodatkowo, w swoim pracowniku Grześku, dostrzega odbicie dawnego siebie – młodego chłopaka, który popełnia te same błędy. Mel postanawia zrobić wszystko, by uchronić Grześka przed kolejnymi pochopnymi decyzjami! Karina i Szczepan pragną wreszcie spędzić spokojne, normalne święta. Jednak los ma wobec nich inne plany... Gdy nagle pęka rura i zalewa im mieszkanie, do ich domu trafia Lucek. Oczywiście, nie sam, lecz w towarzystwie kolejnej \"ofiary\", Japończyka Józka. Tymczasem Wojciech, wracający z Londynu, gdzie odwiedzał swoją córkę, ma własne plany na wigilijny wieczór. Wszystko wydaje się pod kontrolą, aż na jego drodze pojawia się Ewa – tajemnicza kobieta, która leci do Warszawy, by zobaczyć się z ukochanym poznanym przez Internet.",
+"overviewEn": "As Christmas approaches, ambitious Mel struggles to host a grand Eve dinner for his “Santa” business and, seeing his younger self in hapless employee Grzesiek, vows to save him from repeating old mistakes. Meanwhile, Karina and Szczepan’s quiet holiday is disrupted by a burst pipe that introduces repairman Lucek and stranded traveler Józek into their home. And Wojciech, fresh from London, plans a serene reunion, until he meets mysterious Ewa, who’s flown in to see an internet love.",
+"popularity": 0.73,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 468
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M. Pożegnania i powroty",
+"titleEn": "Letters to Santa 6",
+"tmdbId": 1254793,
+"trailerKey": "wLFnog34Vx4"
 },
 "netflix:movie:1257147:sub": {
 "access": "sub",
@@ -54829,7 +55630,7 @@
 "access": "sub",
 "backdropPath": "/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
 "confirmedAt": "2026-11-10T13:27:24Z",
-"date": "2026-11-10",
+"date": "2026-11-09",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "netflix:movie:1616419:sub",
@@ -54846,7 +55647,7 @@
 "season": null,
 "withAds": false
 },
-"origin": "diff",
+"origin": "schedule",
 "overview": "Prawnik, który po przedawkowaniu trafił na odwyk, ma tydzień na uratowanie swojej kariery i przygotowanie się do własnego procesu z pomocą zawziętej stażystki.",
 "overviewEn": "Léonard Landry, a flamboyant criminal defence lawyer, overdoses in the middle of the courtroom. After undergoing rehab, he has one week to save his career and prepare for his own trial, reluctantly assisted by a tenacious intern, Noé. This marks the beginning of a frantic race involving legal manoeuvres, temptations and dramatic twists.",
 "popularity": 26.81,
@@ -55647,6 +56448,45 @@
 "tmdbId": 2109,
 "trailerKey": "0e2Lbnq_lSM"
 },
+"netflix:movie:21355:paid": {
+"access": "paid",
+"backdropPath": "/7U6WJ0qri2sACtcGa0wEpM9eAM1.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:21355:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749,
+37
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młody teksańczyk John Grady Cole (Matt Damon) rusza z przyjacielem Lacelayem Rawlinsem (Henry Thomas) do Meksyku w poszukiwaniu lepszego życia. W czasie podróży poznaje miłość swojego życia, uroczą Alejandrę (Penélope Cruz) - jednak nie obejdzie się bez nieprzewidzianych okoliczności...",
+"overviewEn": "The year is 1949. A young Texan named John Grady finds himself without a home after his mother sells the ranch where he has spent his entire life. Lured south of the border by the romance of cowboy life and the promise of a fresh start, Cole and his pal embark on an adventure that will test their resilience, define their maturity, and change their lives forever.",
+"popularity": 4.49,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 15367,
+"tmdb": 5.7
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Rącze konie",
+"titleEn": "All the Pretty Horses",
+"tmdbId": 21355,
+"trailerKey": "yygkQ8SjjQk"
+},
 "netflix:movie:215248:sub": {
 "access": "sub",
 "backdropPath": "/uTb1cHB9nF6CRPtaq55D5VA5M8z.jpg",
@@ -56261,6 +57101,82 @@
 "titleEn": "The House",
 "tmdbId": 345914,
 "trailerKey": "f-SP8iSCbKM"
+},
+"netflix:movie:370291:paid": {
+"access": "paid",
+"backdropPath": "/hoJC8IUBg26pjR58MoYtTW8XSwG.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:370291:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Od wydarzeń znanych z „Listów do M” minęły równo cztery lata i wszyscy bohaterowie przygotowują się do kolejnej Wigilii. Mikołaj, który znalazł szczęście u boku Doris, wciąż nie może zdecydować się na oświadczyny, co prowokuje jego syna Kostka do obmyślenia sprytnej, świątecznej intrygi z pierścionkiem zaręczynowym w tle. Małgosia i Wojtek adoptowali Tosię, ale teraz, tuż przed Bożym Narodzeniem, ich rodzina musi zmierzyć się wspólnie z nową, trudną sytuacją, związaną ze zdrowiem Małgosi. Karina – obecnie wzięta pisarka i Szczepan – teraz taksówkarz, rozstali się, lecz ich ścieżki nieustannie się przecinają.",
+"overviewEn": "In their pursuit of perfect Christmas well - known characters accompanied by some new faces happen to experience tiny miracles! The adventures they come across help them realize that the most important things in life - hope, acceptance and family - are within their reach and that real love is the best Christmas present!",
+"popularity": 0.95,
+"ratings": {
+"imdb": 5.6,
+"imdbVotes": 1868,
+"tmdb": 6.2
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M. 2",
+"titleEn": "Letters to Santa 2",
+"tmdbId": 370291,
+"trailerKey": "FHlIHgb4hgk"
+},
+"netflix:movie:370291:sub": {
+"access": "sub",
+"backdropPath": "/hoJC8IUBg26pjR58MoYtTW8XSwG.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:370291:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Od wydarzeń znanych z „Listów do M” minęły równo cztery lata i wszyscy bohaterowie przygotowują się do kolejnej Wigilii. Mikołaj, który znalazł szczęście u boku Doris, wciąż nie może zdecydować się na oświadczyny, co prowokuje jego syna Kostka do obmyślenia sprytnej, świątecznej intrygi z pierścionkiem zaręczynowym w tle. Małgosia i Wojtek adoptowali Tosię, ale teraz, tuż przed Bożym Narodzeniem, ich rodzina musi zmierzyć się wspólnie z nową, trudną sytuacją, związaną ze zdrowiem Małgosi. Karina – obecnie wzięta pisarka i Szczepan – teraz taksówkarz, rozstali się, lecz ich ścieżki nieustannie się przecinają.",
+"overviewEn": "In their pursuit of perfect Christmas well - known characters accompanied by some new faces happen to experience tiny miracles! The adventures they come across help them realize that the most important things in life - hope, acceptance and family - are within their reach and that real love is the best Christmas present!",
+"popularity": 0.95,
+"ratings": {
+"imdb": 5.6,
+"imdbVotes": 1868,
+"tmdb": 6.2
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M. 2",
+"titleEn": "Letters to Santa 2",
+"tmdbId": 370291,
+"trailerKey": "FHlIHgb4hgk"
 },
 "netflix:movie:377475:sub": {
 "access": "sub",
@@ -56958,6 +57874,82 @@
 "tmdbId": 474955,
 "trailerKey": null
 },
+"netflix:movie:480973:paid": {
+"access": "paid",
+"backdropPath": "/aP3Gq3RcZ4BOeXfT5UXznHH08NL.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:480973:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W trzeciej części uroczej komedii bohaterowie po raz kolejny przekonają się o potędze miłości, rodziny, wybaczenia i wiary w to, że ten niezwykły świąteczny czas pełen jest niespodzianek. Uwielbiany przez widzów Mel stanie przed nie lada wyzwaniem - będzie próbował odnaleźć swojego rezolutnego syna, który to ruszył w ślad za swoim zaginionym przed laty dziadkiem. Piękna prezenterka Karolina, która na co dzień uwodzi w radiu swoim głosem, trafi na dość zaskakującą miłość swojego życia, a Wojciech postara się poukładać swoje życie po śmierci ukochanej żony.",
+"overviewEn": "Centered around a group of individuals, who come to experience magical moments over the course of one day. Full of the power of family, love and the spirit of forgiveness. Each individual comes to realize that Christmas, more than any other time of the year, is full of wonder and surprises.",
+"popularity": 0.62,
+"ratings": {
+"imdb": 5.5,
+"imdbVotes": 1234,
+"tmdb": 6.3
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M. 3",
+"titleEn": "Letters to Santa 3",
+"tmdbId": 480973,
+"trailerKey": "JrsSRQ9-who"
+},
+"netflix:movie:480973:sub": {
+"access": "sub",
+"backdropPath": "/aP3Gq3RcZ4BOeXfT5UXznHH08NL.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:480973:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W trzeciej części uroczej komedii bohaterowie po raz kolejny przekonają się o potędze miłości, rodziny, wybaczenia i wiary w to, że ten niezwykły świąteczny czas pełen jest niespodzianek. Uwielbiany przez widzów Mel stanie przed nie lada wyzwaniem - będzie próbował odnaleźć swojego rezolutnego syna, który to ruszył w ślad za swoim zaginionym przed laty dziadkiem. Piękna prezenterka Karolina, która na co dzień uwodzi w radiu swoim głosem, trafi na dość zaskakującą miłość swojego życia, a Wojciech postara się poukładać swoje życie po śmierci ukochanej żony.",
+"overviewEn": "Centered around a group of individuals, who come to experience magical moments over the course of one day. Full of the power of family, love and the spirit of forgiveness. Each individual comes to realize that Christmas, more than any other time of the year, is full of wonder and surprises.",
+"popularity": 0.62,
+"ratings": {
+"imdb": 5.5,
+"imdbVotes": 1234,
+"tmdb": 6.3
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M. 3",
+"titleEn": "Letters to Santa 3",
+"tmdbId": 480973,
+"trailerKey": "JrsSRQ9-who"
+},
 "netflix:movie:487741:paid": {
 "access": "paid",
 "backdropPath": "/cFZcVsYGb9jdULbIeRkHUbhL2xn.jpg",
@@ -57535,6 +58527,157 @@
 "titleEn": "Ready",
 "tmdbId": 73583,
 "trailerKey": null
+},
+"netflix:movie:755433:sub": {
+"access": "sub",
+"backdropPath": "/faolMFbliMkacs1bVgQys34sfag.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:755433:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+16
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The Monster at the End of This Story is Sesame Street special on HBO Max.",
+"overviewEn": "The Monster at the End of This Story is Sesame Street special on HBO Max.",
+"popularity": 0.71,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 87
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "The Monster at the End of This Story",
+"titleEn": null,
+"tmdbId": 755433,
+"trailerKey": "5s9K5D6-JtI"
+},
+"netflix:movie:792219:paid": {
+"access": "paid",
+"backdropPath": "/k2k3YWCYyGVINNEEDpgS7R50oFe.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:792219:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Cicha noc, na całej połaci śnieg, a spokój i radość w sercach wszystkich? Nie tym razem! W życiu bohaterów „Listów do M.” nadchodzi świąteczna zawierucha: Mel będzie musiał dostosować się do nowych standardów pracy, Karina i Szczepan wdrożą nowatorskie metody wychowawcze, Wojciech spotka nieoczekiwanego konkurenta do serca Agaty, a Karolina i Filip będą musieli sprawdzić, czy ich miłość ma szansę przetrwać, gdy pojawi się ta trzecia. W te święta odwiedzimy starych znajomych i poznamy zupełnie nowe postaci, które nas wzruszą, rozśmieszą, a przede wszystkim – sporo namieszają!",
+"overviewEn": "Anything can happen during Christmas Eve. Mel has to face new professional challenges and adapt to the new standards prevailing at work. Then Karina and Stephan plan to introduce serious changes in raising children. They decide to change their approach and apply somewhat sophisticated educational methods. A new woman will step in between Karolina and Filip, and the past will be reminded of Rudolf.",
+"popularity": 0.51,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 659,
+"tmdb": 5.6
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M. 4",
+"titleEn": "Letters to Santa 4",
+"tmdbId": 792219,
+"trailerKey": "afgVCw1lRPQ"
+},
+"netflix:movie:792219:sub": {
+"access": "sub",
+"backdropPath": "/k2k3YWCYyGVINNEEDpgS7R50oFe.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:792219:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Cicha noc, na całej połaci śnieg, a spokój i radość w sercach wszystkich? Nie tym razem! W życiu bohaterów „Listów do M.” nadchodzi świąteczna zawierucha: Mel będzie musiał dostosować się do nowych standardów pracy, Karina i Szczepan wdrożą nowatorskie metody wychowawcze, Wojciech spotka nieoczekiwanego konkurenta do serca Agaty, a Karolina i Filip będą musieli sprawdzić, czy ich miłość ma szansę przetrwać, gdy pojawi się ta trzecia. W te święta odwiedzimy starych znajomych i poznamy zupełnie nowe postaci, które nas wzruszą, rozśmieszą, a przede wszystkim – sporo namieszają!",
+"overviewEn": "Anything can happen during Christmas Eve. Mel has to face new professional challenges and adapt to the new standards prevailing at work. Then Karina and Stephan plan to introduce serious changes in raising children. They decide to change their approach and apply somewhat sophisticated educational methods. A new woman will step in between Karolina and Filip, and the past will be reminded of Rudolf.",
+"popularity": 0.51,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 659,
+"tmdb": 5.6
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M. 4",
+"titleEn": "Letters to Santa 4",
+"tmdbId": 792219,
+"trailerKey": "afgVCw1lRPQ"
+},
+"netflix:movie:79221:paid": {
+"access": "paid",
+"backdropPath": "/vHYwaBOnQJxMcwEQz8wDoQkpKzu.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:79221:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Prezenter radiowy Mikołaj samotnie wychowuje synka, który pragnie, by tata znów się zakochał. Dyrektorka radia, Małgorzata, wyznacza Mikołajowi dyżur w wigilijny wieczór. Jej małżeństwo jest pełne niewypowiedzianych trudnych emocji. Samotna siostra Małgorzaty oczekuje narodzin syna. Doris marzy o wielkiej miłości. Melchior romansuje z żoną negocjatora, Szczepana, który coraz gorzej znosi kolejne upokorzenia. Szef Doris szuka dziewczyny, z którą mógłby pokazać się u rodziców. Losy tych ludzi splatają się w Wigilię Bożego Narodzenia.",
+"overviewEn": "A romantic comedy set on Christmas Eve in Warsaw and centered around a series of characters.",
+"popularity": 0.93,
+"ratings": {
+"imdb": 7.1,
+"imdbVotes": 5251,
+"tmdb": 6.9
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M.",
+"titleEn": "Letters to Santa",
+"tmdbId": 79221,
+"trailerKey": "vHNfk9FZs_A"
 },
 "netflix:movie:79464:paid": {
 "access": "paid",
@@ -58720,19 +59863,19 @@
 "tmdbId": 1549,
 "trailerKey": null
 },
-"netflix:tv:157926:s4e1:sub": {
+"netflix:tv:157926:s4:sub": {
 "access": "sub",
 "backdropPath": "/crA00CIs9jFpn2BkhrBTtjF1afG.jpg",
-"confirmedAt": "2026-11-09T23:46:08Z",
+"confirmedAt": "2026-11-10T21:17:45Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
 "deepLinkId": null,
-"id": "netflix:tv:157926:s4e1:sub",
+"id": "netflix:tv:157926:s4:sub",
 "mediaType": "tv",
 "meta": {
-"allEpisodes": false,
-"episodeFrom": 1,
-"episodeTo": 1,
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
 "genres": [
 35,
 9648,
@@ -59035,7 +60178,7 @@
 "meta": {
 "allEpisodes": false,
 "episodeFrom": 1,
-"episodeTo": 4,
+"episodeTo": 5,
 "genres": [
 10764
 ],
@@ -59060,18 +60203,18 @@
 "tmdbId": 214582,
 "trailerKey": "dtaLR2G-zmc"
 },
-"netflix:tv:214582:s3e5:sub": {
+"netflix:tv:214582:s3e6:sub": {
 "access": "sub",
 "backdropPath": "/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
 "confirmedAt": null,
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
-"id": "netflix:tv:214582:s3e5:sub",
+"id": "netflix:tv:214582:s3e6:sub",
 "mediaType": "tv",
 "meta": {
 "allEpisodes": false,
-"episodeFrom": 5,
+"episodeFrom": 6,
 "episodeTo": 9,
 "genres": [
 10764
@@ -59429,7 +60572,7 @@
 "ratings": {
 "imdb": 6.8,
 "imdbVotes": 20760,
-"tmdb": 7.0
+"tmdb": 6.9
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -59769,7 +60912,7 @@
 "ratings": {
 "imdb": 7.2,
 "imdbVotes": 7669,
-"tmdb": 7.8
+"tmdb": 7.7
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -59807,7 +60950,7 @@
 "ratings": {
 "imdb": 7.2,
 "imdbVotes": 7669,
-"tmdb": 7.8
+"tmdb": 7.7
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -59845,7 +60988,7 @@
 "ratings": {
 "imdb": 7.2,
 "imdbVotes": 7669,
-"tmdb": 7.8
+"tmdb": 7.7
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -59883,7 +61026,7 @@
 "ratings": {
 "imdb": 7.2,
 "imdbVotes": 7669,
-"tmdb": 7.8
+"tmdb": 7.7
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -60160,7 +61303,7 @@
 "title": "Prawo i porządek: Sekcja specjalna",
 "titleEn": "Law & Order: Special Victims Unit",
 "tmdbId": 2734,
-"trailerKey": null
+"trailerKey": "O53wYUc_fA4"
 },
 "netflix:tv:2734:s28e6:sub": {
 "access": "sub",
@@ -60199,7 +61342,7 @@
 "title": "Prawo i porządek: Sekcja specjalna",
 "titleEn": "Law & Order: Special Victims Unit",
 "tmdbId": 2734,
-"trailerKey": null
+"trailerKey": "O53wYUc_fA4"
 },
 "netflix:tv:275204:s2:sub": {
 "access": "sub",
@@ -60229,7 +61372,7 @@
 "ratings": {
 "imdb": 8.7,
 "imdbVotes": 127353,
-"tmdb": 7.6
+"tmdb": 7.7
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -63083,6 +64226,43 @@
 "tmdbId": 321421,
 "trailerKey": null
 },
+"netflix:tv:322640:s5e21:sub": {
+"access": "sub",
+"backdropPath": "/w6LzGbQh4ZMKjSFUQyO9XnKnMM6.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:322640:s5e21:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 21,
+"episodeTo": 21,
+"genres": [
+10764,
+10767
+],
+"kind": "series",
+"season": 5,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "What would your last meal be? Join Mythical Chef Josh and celebrity guests as they dig into their ultimate last meal, sharing surprising tastes, personal memories, and culinary stories.",
+"overviewEn": "What would your last meal be? Join Mythical Chef Josh and celebrity guests as they dig into their ultimate last meal, sharing surprising tastes, personal memories, and culinary stories.",
+"popularity": 10.69,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 74
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Last Meals",
+"titleEn": null,
+"tmdbId": 322640,
+"trailerKey": null
+},
 "netflix:tv:323660:s2e31:sub": {
 "access": "sub",
 "backdropPath": "/2JECUzaIiv8EIm2kKSLdkFk1tf9.jpg",
@@ -64059,6 +65239,40 @@
 "title": "Last Trace with Kaelyn Moore",
 "titleEn": null,
 "tmdbId": 334702,
+"trailerKey": null
+},
+"netflix:tv:336478:s1:sub": {
+"access": "sub",
+"backdropPath": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-09",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:336478:s1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+10762
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Make it a doghouse day! Dog-loving Doozie uses her creativity and imagination during playtime with her puppy pals.",
+"overviewEn": "Make it a doghouse day! Dog-loving Doozie uses her creativity and imagination during playtime with her puppy pals.",
+"popularity": 5.53,
+"ratings": null,
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Doozie's Doghouse",
+"titleEn": null,
+"tmdbId": 336478,
 "trailerKey": null
 },
 "netflix:tv:336478:sub": {
@@ -66006,8 +67220,8 @@
 "serviceKey": "player",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -66044,8 +67258,8 @@
 "serviceKey": "player",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -66779,6 +67993,45 @@
 "titleEn": "They Will Kill You",
 "tmdbId": 1292695,
 "trailerKey": "s0PGrtw0X1Q"
+},
+"player:movie:1302904:free": {
+"access": "free",
+"backdropPath": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1302904:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+14,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Wielopokoleniowa rodzina czarownic, skazana na wieki na brak miłości, próbuje złamać klątwę, stawiając czoła mrocznym sekretom i poświęcając się dla siebie nawzajem.",
+"overviewEn": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+"popularity": 58.13,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 19326,
+"tmdb": 7.2
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Totalna magia 2",
+"titleEn": "Practical Magic 2",
+"tmdbId": 1302904,
+"trailerKey": "Ho10_4IX1jE"
 },
 "player:movie:1308767:paid": {
 "access": "paid",
@@ -68151,6 +69404,44 @@
 "tmdbId": 26389,
 "trailerKey": "-jAbatBqqSc"
 },
+"player:movie:296096:free": {
+"access": "free",
+"backdropPath": "/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:296096:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Louisa „Lou” Clark mieszka w niewielkim angielskim miasteczku i nie wie jeszcze, co zrobić ze swoim życiem. Ekscentryczna 26-latka próbuje sił w wielu dziedzinach, by pomóc swej rodzinie związać koniec z końcem. Zostaje opiekunką Willa Traynora, młodego, bogatego bankiera, którego losy całkowicie zmieniły się na skutek tragicznego zdarzenia sprzed dwóch lat. Niegdyś pełen energii, dziś cyniczny do szpiku kości Will wyzbył się już wszelkiej nadziei na szczęście. Dziewczyna postanawia pokazać mu, że jest jeszcze inna droga…",
+"overviewEn": "Lou Clark, a directionless 26-year-old from the English countryside, takes a job at the local castle as a caregiver and companion to a wealthy young banker, Will Traynor. Wheelchair-bound from an accident two years prior, the once adventurous Will has all but given up — that is until Lou determines to show him that life is worth living.",
+"popularity": 14.3,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 346741,
+"tmdb": 7.9
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Zanim się pojawiłeś",
+"titleEn": "Me Before You",
+"tmdbId": 296096,
+"trailerKey": "ffIwBzZzGng"
+},
 "player:movie:31132:paid": {
 "access": "paid",
 "backdropPath": "/vmGWKadwri2y67t4truG1nPVd6v.jpg",
@@ -69153,6 +70444,44 @@
 "tmdbId": 5375,
 "trailerKey": "dv9ce8cJVfg"
 },
+"player:movie:550244:free": {
+"access": "free",
+"backdropPath": "/7atlokNf3cC4gxj3Jq0JYaGnMED.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:550244:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "9 listopada 1985 roku gang przeprowadził krwawy nalot na supermarket Delhaize w Aalst w Belgii, w którym zginęło ośmioro niewinnych ludzi - w tym trzech członków rodziny Van de Steen. Należący do niej dziewięcioletni David, pomimo licznych obrażeń, przeżył masakrę. Sierotą postanowili zająć się dziadkowie. Jego dziadek - Albert - ze wszystkich sił pragnie zapewnić dobrą przyszłość wnuczkowi i doprowadzić morderców przed wymiar sprawiedliwości.",
+"overviewEn": "In one fell swoop, nine-year old David Van de Steen lost his mother, his father and his sister in an attack by the Brabant Killers in Aalst. His grandfather, Albert, has the well-nigh impossible task of giving David a new perspective on life, a future.",
+"popularity": 0.52,
+"ratings": {
+"imdb": 7.6,
+"imdbVotes": 2190,
+"tmdb": 7.3
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Nie strzelać",
+"titleEn": "Don't Shoot",
+"tmdbId": 550244,
+"trailerKey": "2gdwzKmc-JQ"
+},
 "player:movie:550385:free": {
 "access": "free",
 "backdropPath": "/h7u2zCHb4QW59Jbk5xuiUOuQyyJ.jpg",
@@ -70150,6 +71479,44 @@
 "titleEn": "Spider-Man: Brand New Day",
 "tmdbId": 969681,
 "trailerKey": "P3uI5sLosKU"
+},
+"player:movie:983526:sub": {
+"access": "sub",
+"backdropPath": "/elH2ZWRHOKpjUNHROvpTCZIvuO7.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:983526:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Pewnej deszczowej nocy na cmentarzu w Stanach Zjednoczonych policjant znajduje porzucone niemowlę. Dziewczynka jest owinięta w kocyk z satanistycznymi symbolami, a na szyi ma zawieszony wilczy krzyż. Przy dziecku nie pozostawiono żadnej wiadomości. 20 lat później dorosła już Hunter sama musi rozwiązać tajemnicę swojego porzucenia i tożsamości biologicznych rodziców. Testy genetyczne, kocyk oraz wilczy krzyż to tropy prowadzące do Norwegii. Hunter jest coraz bliżej odkrycia przerażającej prawdy, jednak pojawiająca się w jej wizjach mroczna postać ostrzega ją: ODEJDŹ!",
+"overviewEn": "A young woman tries to find her origins after having been abandoned as an infant at a cemetery wrapped in a cloth with satanic symbols, but as she gets closer to answers a malevolent spirit is telling her to leave.",
+"popularity": 0.71,
+"ratings": {
+"imdb": 4.9,
+"imdbVotes": 2547,
+"tmdb": 5.6
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Odejdź!",
+"titleEn": "Leave",
+"tmdbId": 983526,
+"trailerKey": "cKQxHfug6BU"
 },
 "player:tv:117488:s4e1:sub": {
 "access": "sub",
@@ -72475,7 +73842,7 @@
 "ratings": {
 "imdb": 7.3,
 "imdbVotes": 1669,
-"tmdb": 8.3
+"tmdb": 8.2
 },
 "serviceKey": "player",
 "source": "tmdb",
@@ -72512,7 +73879,7 @@
 "ratings": {
 "imdb": 7.3,
 "imdbVotes": 1669,
-"tmdb": 8.3
+"tmdb": 8.2
 },
 "serviceKey": "player",
 "source": "tmdb",
@@ -72549,7 +73916,7 @@
 "ratings": {
 "imdb": 7.3,
 "imdbVotes": 1669,
-"tmdb": 8.3
+"tmdb": 8.2
 },
 "serviceKey": "player",
 "source": "tmdb",
@@ -72586,7 +73953,7 @@
 "ratings": {
 "imdb": 7.3,
 "imdbVotes": 1669,
-"tmdb": 8.3
+"tmdb": 8.2
 },
 "serviceKey": "player",
 "source": "tmdb",
@@ -77100,8 +78467,8 @@
 "serviceKey": "polsatboxgo",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -77138,8 +78505,8 @@
 "serviceKey": "polsatboxgo",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -77904,6 +79271,45 @@
 "tmdbId": 1266800,
 "trailerKey": "dCDmE8aaOZg"
 },
+"polsatboxgo:movie:12783:free": {
+"access": "free",
+"backdropPath": "/qY6jnp4cNUYMz6FBG7ATtVmWttM.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:12783:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+36,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Księżna Georgiana Cavendish (Keira Knightley) wiodła ekstrawaganckie, pełne politycznych i miłosnych intryg życie. Już jako szesnastolatka wyróżniała się wśród innych arystokratek urodą i wdziękiem, wzbudzając tym samym zachwyt wszystkich mężczyzn. Udało się jej zwrócić uwagę samego księcia Devonshire (Ralph Fiennes). Perspektywa małżeństwa z tak wysoko postawionym człowiekiem i możliwość awansu społecznego, sprawiły że Georgiana odrzuciła zakochanego w niej Charlesa Grey'a. Jednak wbrew jej wyobrażeniu życie u boku Księcia nie przypominało bajki, a młoda Księżna szybko poznała gorzki smak życia na dworze. To historia niezwykłej kobiety, która była uwielbiana i znana z tego, że chciała być wierna swojej namiętności, historia kobiety, która musiała zapłacić za to wysoką cenę.",
+"overviewEn": "A chronicle of the life of 18th century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.",
+"popularity": 3.58,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 91768,
+"tmdb": 7.0
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Księżna",
+"titleEn": "The Duchess",
+"tmdbId": 12783,
+"trailerKey": "FFg-oduezDs"
+},
 "polsatboxgo:movie:1280941:sub": {
 "access": "sub",
 "backdropPath": "/olCv7BXqGBAMUZnYDUfgiu8rixN.jpg",
@@ -78015,6 +79421,43 @@
 "titleEn": "Larp",
 "tmdbId": 1295479,
 "trailerKey": "Kcjcy1vFxGw"
+},
+"polsatboxgo:movie:1308618:sub": {
+"access": "sub",
+"backdropPath": "/s2jfSL3O1tmDV4FiruB48LWr0ul.jpg",
+"confirmedAt": null,
+"date": "2026-11-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1308618:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Bertille, młodsza z dwóch sióstr z rodziny Roussier, cierpi na poważne upośledzenie, którego diagnoza jest niepewna. Rodzina żyje w niepewnej równowadze, mając pod opieką dziecko, które monopolizuje wysiłki i myśli wszystkich i które w każdej chwili może stracić życie. Każdy buduje siebie, żyje najlepiej jak potrafi, dostosowując się do wymagań tego rytmu i niepewności, które mu towarzyszą. Rodzice, Madeleine i Gilles, starsza siostra, Marion. Jak wygląda codzienne życie i przyszłość matki, ojca, pary, nastolatki, która zbyt szybko dorosła z powodu odpowiedzialności za młodszą córkę? Gdy zostaje postawiona nowa diagnoza, karty zostają potasowane, a przed nami pojawia się nowy horyzont...",
+"overviewEn": "Set against the backdrop of a summer on the French Riviera, the Roussier family navigates the severe disability of the youngest daughter, 13-year-old Bertille, while her older sister, 17-year-old Marion, seeks refuge in a relationship with an older boy.",
+"popularity": 1.35,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 283,
+"tmdb": 6.7
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "announced",
+"title": "Najdzielniejsza",
+"titleEn": "The Wonderers",
+"tmdbId": 1308618,
+"trailerKey": null
 },
 "polsatboxgo:movie:1308767:paid": {
 "access": "paid",
@@ -81196,6 +82639,82 @@
 "tmdbId": 659956,
 "trailerKey": "9T5XPXlsBnE"
 },
+"polsatboxgo:movie:660033:paid": {
+"access": "paid",
+"backdropPath": "/pHvHLrbvMogNMH1l7Uon3VzE3px.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:660033:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Akcja filmu zaczyna się w latach 70. – już wtedy młody Bohater wie, że adrenalina smakuje bardziej niż mleko w proszku. Z czasem odkrywa też pragnienie pieniędzy, władzy i bycia ponad prawem. Rozpoczyna się transformacja, a jego gangsterski talent rozkwita. Wspólnie z przyjacielem buduje własną armię.",
+"overviewEn": "The action of the film begins in the 1970s – even then, the young protagonist knows that adrenaline tastes better than powdered milk. Over time, he also discovers a desire for money, power, and being above the law. A transformation begins, and his gangster talent blossoms. Together with a friend, they build their own army.",
+"popularity": 1.33,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 5759,
+"tmdb": 6.9
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Jak zostałem gangsterem. Historia prawdziwa",
+"titleEn": "How I Became a Gangster",
+"tmdbId": 660033,
+"trailerKey": "sA2HS-UCltk"
+},
+"polsatboxgo:movie:660033:sub": {
+"access": "sub",
+"backdropPath": "/pHvHLrbvMogNMH1l7Uon3VzE3px.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:660033:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Akcja filmu zaczyna się w latach 70. – już wtedy młody Bohater wie, że adrenalina smakuje bardziej niż mleko w proszku. Z czasem odkrywa też pragnienie pieniędzy, władzy i bycia ponad prawem. Rozpoczyna się transformacja, a jego gangsterski talent rozkwita. Wspólnie z przyjacielem buduje własną armię.",
+"overviewEn": "The action of the film begins in the 1970s – even then, the young protagonist knows that adrenaline tastes better than powdered milk. Over time, he also discovers a desire for money, power, and being above the law. A transformation begins, and his gangster talent blossoms. Together with a friend, they build their own army.",
+"popularity": 1.33,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 5759,
+"tmdb": 6.9
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Jak zostałem gangsterem. Historia prawdziwa",
+"titleEn": "How I Became a Gangster",
+"tmdbId": 660033,
+"trailerKey": "sA2HS-UCltk"
+},
 "polsatboxgo:movie:70160:paid": {
 "access": "paid",
 "backdropPath": "/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
@@ -81770,6 +83289,43 @@
 "tmdbId": 938150,
 "trailerKey": "IZ-lmlN9JVw"
 },
+"polsatboxgo:movie:9506:paid": {
+"access": "paid",
+"backdropPath": "/jDQcNjo5SM8YxlcSn06cFzlLH6L.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:9506:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Adam Sandler i Jack Nicholson występują jako pacjent i jego terapeuta, chociaż czasem można mieć wątpliwości, który z nich jest kim. Po drobnym nieporozumieniu powstałym przy wejściu do samolotu, następuje ciąg niekontrolowanych zdarzeń, które skutkują skierowaniem przez sędzinę Daniels (Lynn Thigpen) dotąd raczej spokojnego i opanowanego Dave'a Buznika (Adam Sandler) na terapię, mającą nauczyć go kontrolować swój gniew. Prowadzi ją doktor Buddy Rydell (Jack Nicholson), zaś uczęszczają na nią bardzo ekscentryczni i wybuchowi pacjenci.",
+"overviewEn": "After a small misunderstanding aboard an airplane escalates out of control, timid businessman Dave Buznik is ordered by the court to undergo anger management therapy at the hands of specialist Dr. Buddy Rydell. But when Buddy steps up his aggressive treatment by moving in, Dave goes from mild to wild as the unorthodox treatment wreaks havoc with his life.",
+"popularity": 5.94,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 245234,
+"tmdb": 6.2
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Dwóch gniewnych ludzi",
+"titleEn": "Anger Management",
+"tmdbId": 9506,
+"trailerKey": "1Gl2kVUsy2M"
+},
 "polsatboxgo:movie:950792:paid": {
 "access": "paid",
 "backdropPath": "/4jCtAIDdSIyi5vc1qBRLryweQaY.jpg",
@@ -81960,6 +83516,82 @@
 "titleEn": "Spider-Man: Brand New Day",
 "tmdbId": 969681,
 "trailerKey": "P3uI5sLosKU"
+},
+"polsatboxgo:movie:983526:paid": {
+"access": "paid",
+"backdropPath": "/elH2ZWRHOKpjUNHROvpTCZIvuO7.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:983526:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Pewnej deszczowej nocy na cmentarzu w Stanach Zjednoczonych policjant znajduje porzucone niemowlę. Dziewczynka jest owinięta w kocyk z satanistycznymi symbolami, a na szyi ma zawieszony wilczy krzyż. Przy dziecku nie pozostawiono żadnej wiadomości. 20 lat później dorosła już Hunter sama musi rozwiązać tajemnicę swojego porzucenia i tożsamości biologicznych rodziców. Testy genetyczne, kocyk oraz wilczy krzyż to tropy prowadzące do Norwegii. Hunter jest coraz bliżej odkrycia przerażającej prawdy, jednak pojawiająca się w jej wizjach mroczna postać ostrzega ją: ODEJDŹ!",
+"overviewEn": "A young woman tries to find her origins after having been abandoned as an infant at a cemetery wrapped in a cloth with satanic symbols, but as she gets closer to answers a malevolent spirit is telling her to leave.",
+"popularity": 0.71,
+"ratings": {
+"imdb": 4.9,
+"imdbVotes": 2547,
+"tmdb": 5.6
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Odejdź!",
+"titleEn": "Leave",
+"tmdbId": 983526,
+"trailerKey": "cKQxHfug6BU"
+},
+"polsatboxgo:movie:983526:sub": {
+"access": "sub",
+"backdropPath": "/elH2ZWRHOKpjUNHROvpTCZIvuO7.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:983526:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Pewnej deszczowej nocy na cmentarzu w Stanach Zjednoczonych policjant znajduje porzucone niemowlę. Dziewczynka jest owinięta w kocyk z satanistycznymi symbolami, a na szyi ma zawieszony wilczy krzyż. Przy dziecku nie pozostawiono żadnej wiadomości. 20 lat później dorosła już Hunter sama musi rozwiązać tajemnicę swojego porzucenia i tożsamości biologicznych rodziców. Testy genetyczne, kocyk oraz wilczy krzyż to tropy prowadzące do Norwegii. Hunter jest coraz bliżej odkrycia przerażającej prawdy, jednak pojawiająca się w jej wizjach mroczna postać ostrzega ją: ODEJDŹ!",
+"overviewEn": "A young woman tries to find her origins after having been abandoned as an infant at a cemetery wrapped in a cloth with satanic symbols, but as she gets closer to answers a malevolent spirit is telling her to leave.",
+"popularity": 0.71,
+"ratings": {
+"imdb": 4.9,
+"imdbVotes": 2547,
+"tmdb": 5.6
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Odejdź!",
+"titleEn": "Leave",
+"tmdbId": 983526,
+"trailerKey": "cKQxHfug6BU"
 },
 "polsatboxgo:tv:12786:s20e5:sub": {
 "access": "sub",
@@ -83406,8 +85038,8 @@
 "serviceKey": "prime",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -83444,8 +85076,8 @@
 "serviceKey": "prime",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -83526,6 +85158,45 @@
 "titleEn": null,
 "tmdbId": 1141163,
 "trailerKey": "J67QAvwqsig"
+},
+"prime:movie:1145635:sub": {
+"access": "sub",
+"backdropPath": "/uQvVfVDuS84Vc3DVLg8LgMMeVJU.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1145635:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10770,
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Gdy zwaśnione rodzeństwo Lindsay i Brad wyjeżdżają w Boże Narodzenie do Szkocji, aby spotkać się z matką Jo, wychodzi na jaw wielka rodzinna tajemnica.",
+"overviewEn": "When estranged siblings Lindsay and Brad travel to Scotland at Christmas to reunite with their mother Jo, a big family secret is revealed.",
+"popularity": 1.28,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 3862,
+"tmdb": 6.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Choinka po szkocku",
+"titleEn": "A Merry Scottish Christmas",
+"tmdbId": 1145635,
+"trailerKey": "RRnu7ud1s4I"
 },
 "prime:movie:1156130:sub": {
 "access": "sub",
@@ -84664,6 +86335,45 @@
 "tmdbId": 1294203,
 "trailerKey": "C5fZiMR12vg"
 },
+"prime:movie:1302904:free": {
+"access": "free",
+"backdropPath": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1302904:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+14,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Wielopokoleniowa rodzina czarownic, skazana na wieki na brak miłości, próbuje złamać klątwę, stawiając czoła mrocznym sekretom i poświęcając się dla siebie nawzajem.",
+"overviewEn": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+"popularity": 58.13,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 19326,
+"tmdb": 7.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Totalna magia 2",
+"titleEn": "Practical Magic 2",
+"tmdbId": 1302904,
+"trailerKey": "Ho10_4IX1jE"
+},
 "prime:movie:1317149:sub": {
 "access": "sub",
 "backdropPath": "/4mKczHAW4XPDXGk7V5k7Ui3dgUk.jpg",
@@ -84739,6 +86449,44 @@
 "titleEn": "Marty Supreme",
 "tmdbId": 1317288,
 "trailerKey": "Z8rDPyKBy3k"
+},
+"prime:movie:1319443:sub": {
+"access": "sub",
+"backdropPath": "/jORh8yIWpsORpd02r91lISNvmpc.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1319443:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Alana Higman, a die-hard Kansas City Chiefs fan, and her family are competing to win the team's Fan of the Year contest, in a process judged by the director of fan engagement Derrick. As the pair spends time together, it's clear there's a spark between them. But when her grandfather's vintage Chiefs good luck winter hat goes missing, Alana begins to doubt everything she believed about fate, destiny and even questions her future with Derrick.",
+"overviewEn": "Alana Higman, a die-hard Kansas City Chiefs fan, and her family are competing to win the team's Fan of the Year contest, in a process judged by the director of fan engagement Derrick. As the pair spends time together, it's clear there's a spark between them. But when her grandfather's vintage Chiefs good luck winter hat goes missing, Alana begins to doubt everything she believed about fate, destiny and even questions her future with Derrick.",
+"popularity": 1.4,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 2938,
+"tmdb": 6.8
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Holiday Touchdown: A Chiefs Love Story",
+"titleEn": null,
+"tmdbId": 1319443,
+"trailerKey": "QGsUO--75oY"
 },
 "prime:movie:1325888:sub": {
 "access": "sub",
@@ -85271,6 +87019,43 @@
 "tmdbId": 1423191,
 "trailerKey": "mNd1gb19A-c"
 },
+"prime:movie:14254:sub": {
+"access": "sub",
+"backdropPath": "/yGsKygpcJl7WXn2UfGFoi1Mdrze.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:14254:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Anna w wyniku rodzinnej tragedii przebywa na oddziale psychiatrycznym. Gdy wraca do domu, ojciec oznajmia jej o zaręczynach z Rachel, która kiedyś była opiekunką matki.",
+"overviewEn": "Anna returns home after spending time in a psychiatric facility following her mother's tragic death and discovers that her mother's former nurse, Rachel, has moved into their house and become engaged to her father. Soon after she learns this shocking news, Anna is visited by her mother's ghost, who warns her that Rachel has evil intentions.",
+"popularity": 2.79,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 90726,
+"tmdb": 6.5
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Nieproszeni Goście",
+"titleEn": "The Uninvited",
+"tmdbId": 14254,
+"trailerKey": "SMAgwJrBeJM"
+},
 "prime:movie:1433367:paid": {
 "access": "paid",
 "backdropPath": "/3afHil7EVm655wO2NS6RHxuyicE.jpg",
@@ -85376,6 +87161,39 @@
 "title": "7.10 Sur rojo",
 "titleEn": null,
 "tmdbId": 1451028,
+"trailerKey": null
+},
+"prime:movie:1452662:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1452662:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The Hotties of Horror are back in three more spicy chillers! Don't miss these goth girls doing some scary things to each other, it's the best horror porn around! Enjoy!",
+"overviewEn": "The Hotties of Horror are back in three more spicy chillers! Don't miss these goth girls doing some scary things to each other, it's the best horror porn around! Enjoy!",
+"popularity": 0.32,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Goth Girls: The Return",
+"titleEn": null,
+"tmdbId": 1452662,
 "trailerKey": null
 },
 "prime:movie:14620:paid": {
@@ -85677,6 +87495,37 @@
 "tmdbId": 1544906,
 "trailerKey": null
 },
+"prime:movie:1584624:paid": {
+"access": "paid",
+"backdropPath": "/96brNqfQVTymTkTmLeHHNFLhrsF.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1584624:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jay Fisher and Josh Moore join 20 OnlyFans creators in Bali for a high-stakes collab. Beyond sex and spectacle, they explore ambition, chosen family, and community on this misunderstood platform.",
+"overviewEn": "Jay Fisher and Josh Moore join 20 OnlyFans creators in Bali for a high-stakes collab. Beyond sex and spectacle, they explore ambition, chosen family, and community on this misunderstood platform.",
+"popularity": 0.24,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Only Fantasy Island",
+"titleEn": null,
+"tmdbId": 1584624,
+"trailerKey": null
+},
 "prime:movie:1594914:paid": {
 "access": "paid",
 "backdropPath": "/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
@@ -85705,7 +87554,7 @@
 "ratings": {
 "imdb": 5.4,
 "imdbVotes": 3860,
-"tmdb": 6.5
+"tmdb": 6.4
 },
 "serviceKey": "prime",
 "source": "tmdb",
@@ -85905,6 +87754,43 @@
 "titleEn": null,
 "tmdbId": 16535,
 "trailerKey": "r2z4DQcKl2c"
+},
+"prime:movie:173185:sub": {
+"access": "sub",
+"backdropPath": "/uuAbE6pP6VF7LxeOTokMUeDPyPI.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:173185:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Alice Lantins ma 38 lat. Jest piękna, ambitna i całkowicie oddana swej pracy - do tego stopnia, że życie prywatne dla niej nie istnieje. Ma w ręku wszystkie atuty, by zostać nową redaktor naczelną magazynu \"Rebelle\". Wszystkie, poza jednym... Alice jest kobietą, która nigdy nie wykracza poza utarte schematy. Dopiero gdy w jej życiu pojawi się 20-letni, czarujący Balthazar, koledzy i znajomi spojrzą nagle na nią innym okiem. Alice spostrzeże, że los dał jej do rąk klucz do przyszłej kariery. Zaczyna zatem odgrywać komedię, udając nieprawdopodobną idyllę.",
+"overviewEn": "38-year-old Alice has everything to become the next editor-in-chief of Rebelle magazine except for her uptight image. But when the young and charming Balthazar, barely 20, crosses Alice's path, she realizes that he holds the key to her promotion.",
+"popularity": 4.63,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 13664,
+"tmdb": 6.5
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Miłość po francusku",
+"titleEn": "It Boy",
+"tmdbId": 173185,
+"trailerKey": "AZFP0oIUit4"
 },
 "prime:movie:1756543:sub": {
 "access": "sub",
@@ -86329,6 +88215,45 @@
 "titleEn": "Afflicted",
 "tmdbId": 210947,
 "trailerKey": "PtfSuXbPYUU"
+},
+"prime:movie:21355:sub": {
+"access": "sub",
+"backdropPath": "/7U6WJ0qri2sACtcGa0wEpM9eAM1.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:21355:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749,
+37
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młody teksańczyk John Grady Cole (Matt Damon) rusza z przyjacielem Lacelayem Rawlinsem (Henry Thomas) do Meksyku w poszukiwaniu lepszego życia. W czasie podróży poznaje miłość swojego życia, uroczą Alejandrę (Penélope Cruz) - jednak nie obejdzie się bez nieprzewidzianych okoliczności...",
+"overviewEn": "The year is 1949. A young Texan named John Grady finds himself without a home after his mother sells the ranch where he has spent his entire life. Lured south of the border by the romance of cowboy life and the promise of a fresh start, Cole and his pal embark on an adventure that will test their resilience, define their maturity, and change their lives forever.",
+"popularity": 4.49,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 15367,
+"tmdb": 5.7
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Rącze konie",
+"titleEn": "All the Pretty Horses",
+"tmdbId": 21355,
+"trailerKey": "yygkQ8SjjQk"
 },
 "prime:movie:2155:paid": {
 "access": "paid",
@@ -89700,6 +91625,45 @@
 "tmdbId": 551808,
 "trailerKey": "gF4yRYbo1WE"
 },
+"prime:movie:555281:sub": {
+"access": "sub",
+"backdropPath": "/8O3kBLSjYr2oLRT3bXUS8e3ZiUM.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:555281:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+10770,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Fotograficzka Samantha wraca do Cape Cod, by świętować Boże Narodzenie i ślub ojca. Pragnąc wrócić do dawnych wspomnień, odnajduje w swoich fotografiach nowe znaczenie i zakochuje się.",
+"overviewEn": "Samantha, a freelance photographer, is returning to Cape Cod for the first time since the death of her mother years earlier. She’s going to celebrate her father’s Christmas Eve wedding but is anxious to revisit past memories. On a deadline for a big Christmas spread that could ignite her career, she enlists the help of her childhood friend, Mike, to show her around. In the time she spends in Cape Cod, she realizes that Christmas is wherever your family is.",
+"popularity": 1.09,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 1995,
+"tmdb": 5.6
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Dzwonią dzwonki bożonarodzeniowe",
+"titleEn": "Christmas Bells Are Ringing",
+"tmdbId": 555281,
+"trailerKey": "g2MPR8lWArA"
+},
 "prime:movie:568025:free": {
 "access": "free",
 "backdropPath": "/71JRsP26esGjjP0R6YpsCukqFSf.jpg",
@@ -90725,6 +92689,37 @@
 "tmdbId": 760204,
 "trailerKey": "ebjFxaZfrQw"
 },
+"prime:movie:771848:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:771848:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.08,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Pueblo de malditos",
+"titleEn": null,
+"tmdbId": 771848,
+"trailerKey": null
+},
 "prime:movie:777322:paid": {
 "access": "paid",
 "backdropPath": null,
@@ -91389,7 +93384,45 @@
 "origin": "diff",
 "overview": "Pewnej deszczowej nocy na cmentarzu w Stanach Zjednoczonych policjant znajduje porzucone niemowlę. Dziewczynka jest owinięta w kocyk z satanistycznymi symbolami, a na szyi ma zawieszony wilczy krzyż. Przy dziecku nie pozostawiono żadnej wiadomości. 20 lat później dorosła już Hunter sama musi rozwiązać tajemnicę swojego porzucenia i tożsamości biologicznych rodziców. Testy genetyczne, kocyk oraz wilczy krzyż to tropy prowadzące do Norwegii. Hunter jest coraz bliżej odkrycia przerażającej prawdy, jednak pojawiająca się w jej wizjach mroczna postać ostrzega ją: ODEJDŹ!",
 "overviewEn": "A young woman tries to find her origins after having been abandoned as an infant at a cemetery wrapped in a cloth with satanic symbols, but as she gets closer to answers a malevolent spirit is telling her to leave.",
-"popularity": 1.21,
+"popularity": 0.71,
+"ratings": {
+"imdb": 4.9,
+"imdbVotes": 2547,
+"tmdb": 5.6
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Odejdź!",
+"titleEn": "Leave",
+"tmdbId": 983526,
+"trailerKey": "cKQxHfug6BU"
+},
+"prime:movie:983526:sub": {
+"access": "sub",
+"backdropPath": "/elH2ZWRHOKpjUNHROvpTCZIvuO7.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:983526:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Pewnej deszczowej nocy na cmentarzu w Stanach Zjednoczonych policjant znajduje porzucone niemowlę. Dziewczynka jest owinięta w kocyk z satanistycznymi symbolami, a na szyi ma zawieszony wilczy krzyż. Przy dziecku nie pozostawiono żadnej wiadomości. 20 lat później dorosła już Hunter sama musi rozwiązać tajemnicę swojego porzucenia i tożsamości biologicznych rodziców. Testy genetyczne, kocyk oraz wilczy krzyż to tropy prowadzące do Norwegii. Hunter jest coraz bliżej odkrycia przerażającej prawdy, jednak pojawiająca się w jej wizjach mroczna postać ostrzega ją: ODEJDŹ!",
+"overviewEn": "A young woman tries to find her origins after having been abandoned as an infant at a cemetery wrapped in a cloth with satanic symbols, but as she gets closer to answers a malevolent spirit is telling her to leave.",
+"popularity": 0.71,
 "ratings": {
 "imdb": 4.9,
 "imdbVotes": 2547,
@@ -92201,44 +94234,6 @@
 "tmdbId": 202625,
 "trailerKey": null
 },
-"prime:tv:218347:s2e1:paid": {
-"access": "paid",
-"backdropPath": "/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
-"confirmedAt": null,
-"date": "2026-11-26",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:tv:218347:s2e1:paid",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 1,
-"episodeTo": 1,
-"genres": [
-35,
-18
-],
-"kind": "series",
-"season": 2,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Rhiannon Lewis nie robi większego wrażenia - ludzie mijają ją na ulicy bez jednego spojrzenia. Dzieje się tak do czasu, gdy zostaje zepchnięta na margines i traci kontrolę. Życie Rhiannon zmienia się, ale czy uda jej się utrzymać tajemnicę zabójcy?",
-"overviewEn": "Rhiannon Lewis doesn't make much of an impression - people walk past her in the street without a second glance. That is until she is pushed over the edge and loses control. Rhiannon's life transforms, but can she keep her killer secret?",
-"popularity": 8.92,
-"ratings": {
-"imdb": 7.2,
-"imdbVotes": 23485,
-"tmdb": 7.4
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "announced",
-"title": "Złotko",
-"titleEn": "Sweetpea",
-"tmdbId": 218347,
-"trailerKey": "7-Zb6aYhAsk"
-},
 "prime:tv:244447:s2:paid": {
 "access": "paid",
 "backdropPath": "/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
@@ -92267,7 +94262,7 @@
 "ratings": {
 "imdb": 6.8,
 "imdbVotes": 20760,
-"tmdb": 7.0
+"tmdb": 6.9
 },
 "serviceKey": "prime",
 "source": "tmdb",
@@ -92873,7 +94868,7 @@
 "title": "Prawo i porządek: Sekcja specjalna",
 "titleEn": "Law & Order: Special Victims Unit",
 "tmdbId": 2734,
-"trailerKey": null
+"trailerKey": "O53wYUc_fA4"
 },
 "prime:tv:2734:s28e6:sub": {
 "access": "sub",
@@ -92912,7 +94907,7 @@
 "title": "Prawo i porządek: Sekcja specjalna",
 "titleEn": "Law & Order: Special Victims Unit",
 "tmdbId": 2734,
-"trailerKey": null
+"trailerKey": "O53wYUc_fA4"
 },
 "prime:tv:290856:s2e5:paid": {
 "access": "paid",
@@ -95388,8 +97383,8 @@
 "serviceKey": "rakuten",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -95426,8 +97421,8 @@
 "serviceKey": "rakuten",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -96162,6 +98157,45 @@
 "titleEn": "They Will Kill You",
 "tmdbId": 1292695,
 "trailerKey": "s0PGrtw0X1Q"
+},
+"rakuten:movie:1302904:free": {
+"access": "free",
+"backdropPath": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1302904:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+14,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Wielopokoleniowa rodzina czarownic, skazana na wieki na brak miłości, próbuje złamać klątwę, stawiając czoła mrocznym sekretom i poświęcając się dla siebie nawzajem.",
+"overviewEn": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+"popularity": 58.13,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 19326,
+"tmdb": 7.2
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Totalna magia 2",
+"titleEn": "Practical Magic 2",
+"tmdbId": 1302904,
+"trailerKey": "Ho10_4IX1jE"
 },
 "rakuten:movie:1317149:sub": {
 "access": "sub",
@@ -97090,6 +99124,45 @@
 "titleEn": "In the Heart of the Sea",
 "tmdbId": 205775,
 "trailerKey": "goHv0qmQYy4"
+},
+"rakuten:movie:21355:sub": {
+"access": "sub",
+"backdropPath": "/7U6WJ0qri2sACtcGa0wEpM9eAM1.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:21355:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749,
+37
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młody teksańczyk John Grady Cole (Matt Damon) rusza z przyjacielem Lacelayem Rawlinsem (Henry Thomas) do Meksyku w poszukiwaniu lepszego życia. W czasie podróży poznaje miłość swojego życia, uroczą Alejandrę (Penélope Cruz) - jednak nie obejdzie się bez nieprzewidzianych okoliczności...",
+"overviewEn": "The year is 1949. A young Texan named John Grady finds himself without a home after his mother sells the ranch where he has spent his entire life. Lured south of the border by the romance of cowboy life and the promise of a fresh start, Cole and his pal embark on an adventure that will test their resilience, define their maturity, and change their lives forever.",
+"popularity": 4.49,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 15367,
+"tmdb": 5.7
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Rącze konie",
+"titleEn": "All the Pretty Horses",
+"tmdbId": 21355,
+"trailerKey": "yygkQ8SjjQk"
 },
 "rakuten:movie:26389:sub": {
 "access": "sub",
@@ -98891,6 +100964,68 @@
 "tmdbId": 1686178,
 "trailerKey": "A7-2I1IvONY"
 },
+"skyshowtime:movie:771848:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:movie:771848:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.08,
+"ratings": null,
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "live",
+"title": "Pueblo de malditos",
+"titleEn": null,
+"tmdbId": 771848,
+"trailerKey": null
+},
+"skyshowtime:movie:771848:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:movie:771848:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.08,
+"ratings": null,
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "live",
+"title": "Pueblo de malditos",
+"titleEn": null,
+"tmdbId": 771848,
+"trailerKey": null
+},
 "skyshowtime:tv:126824:s6e3:sub": {
 "access": "sub",
 "backdropPath": "/kP7pCxfml6erWC9aB72ALtNawJq.jpg",
@@ -99371,7 +101506,7 @@
 "origin": "schedule",
 "overview": "Follow Rubble and his pup family as they use their awesome construction vehicles to build and repair whatever the town of Builder Cove needs in high-stakes adventures.",
 "overviewEn": "Follow Rubble and his pup family as they use their awesome construction vehicles to build and repair whatever the town of Builder Cove needs in high-stakes adventures.",
-"popularity": 17.61,
+"popularity": 16.75,
 "ratings": {
 "imdb": 4.6,
 "imdbVotes": 338,
@@ -99385,43 +101520,43 @@
 "tmdbId": 214875,
 "trailerKey": null
 },
-"skyshowtime:tv:218347:s2e1:sub": {
+"skyshowtime:tv:214875:s6e5:sub": {
 "access": "sub",
-"backdropPath": "/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
-"confirmedAt": null,
-"date": "2026-11-26",
+"backdropPath": "/5SWWe369D4Fjs2RDVhMagNJLlps.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-09",
 "dateConfirmed": true,
 "deepLinkId": null,
-"id": "skyshowtime:tv:218347:s2e1:sub",
+"id": "skyshowtime:tv:214875:s6e5:sub",
 "mediaType": "tv",
 "meta": {
 "allEpisodes": false,
-"episodeFrom": 1,
-"episodeTo": 1,
+"episodeFrom": 5,
+"episodeTo": 6,
 "genres": [
-35,
-18
+16,
+10762
 ],
 "kind": "series",
-"season": 2,
+"season": 6,
 "withAds": false
 },
 "origin": "schedule",
-"overview": "Rhiannon Lewis nie robi większego wrażenia - ludzie mijają ją na ulicy bez jednego spojrzenia. Dzieje się tak do czasu, gdy zostaje zepchnięta na margines i traci kontrolę. Życie Rhiannon zmienia się, ale czy uda jej się utrzymać tajemnicę zabójcy?",
-"overviewEn": "Rhiannon Lewis doesn't make much of an impression - people walk past her in the street without a second glance. That is until she is pushed over the edge and loses control. Rhiannon's life transforms, but can she keep her killer secret?",
-"popularity": 8.92,
+"overview": "Follow Rubble and his pup family as they use their awesome construction vehicles to build and repair whatever the town of Builder Cove needs in high-stakes adventures.",
+"overviewEn": "Follow Rubble and his pup family as they use their awesome construction vehicles to build and repair whatever the town of Builder Cove needs in high-stakes adventures.",
+"popularity": 16.75,
 "ratings": {
-"imdb": 7.2,
-"imdbVotes": 23485,
-"tmdb": 7.4
+"imdb": 4.6,
+"imdbVotes": 338,
+"tmdb": 7.1
 },
 "serviceKey": "skyshowtime",
 "source": "tmdb",
-"status": "announced",
-"title": "Złotko",
-"titleEn": "Sweetpea",
-"tmdbId": 218347,
-"trailerKey": "7-Zb6aYhAsk"
+"status": "live",
+"title": "Rubble i jego ekipa",
+"titleEn": "Rubble & Crew",
+"tmdbId": 214875,
+"trailerKey": null
 },
 "skyshowtime:tv:247718:s2e10:sub": {
 "access": "sub",
@@ -99806,7 +101941,7 @@
 "title": "Prawo i porządek: Sekcja specjalna",
 "titleEn": "Law & Order: Special Victims Unit",
 "tmdbId": 2734,
-"trailerKey": null
+"trailerKey": "O53wYUc_fA4"
 },
 "skyshowtime:tv:2734:s28e6:sub": {
 "access": "sub",
@@ -99845,7 +101980,7 @@
 "title": "Prawo i porządek: Sekcja specjalna",
 "titleEn": "Law & Order: Special Victims Unit",
 "tmdbId": 2734,
-"trailerKey": null
+"trailerKey": "O53wYUc_fA4"
 },
 "skyshowtime:tv:286277:s3e20:sub": {
 "access": "sub",
@@ -100850,6 +102985,80 @@
 "tmdbId": 80748,
 "trailerKey": null
 },
+"tvpvod:movie:103731:free": {
+"access": "free",
+"backdropPath": "/otmqSaptLwYutON1oZEgBLZeBEQ.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:103731:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwóch nastoletnich chłopców, Ellis i Neckbone, spotyka mężczyznę o imieniu Mud, który ukrywa się na wyspie na rzece Missisipi. Mud opowiada im brzmiącą dość nieprawdopodobnie historię, jakoby zabił człowieka w Teksasie i teraz ucieka przed żądnymi jego głowy łowcami nagród. Twierdzi, że zabierze ze sobą miłość swego życia, urodziwą Juniper, która czeka na niego w mieście. Zaintrygowani Ellis i Neckbone, choć podchodzą do wyznań Muda sceptycznie, postanawiają mu pomóc. Wkrótce okazuje się, że Mud wcale nie kłamał. W spokojnym miasteczku pojawia się nieznajoma piękność, a w ślad za nią przybywają bezwzględni łowcy nagród...",
+"overviewEn": "Two teenage boys find a fugitive hiding out on an island in the Mississippi River and help him reunite with his lover and escape an avenging family and their armed posse.",
+"popularity": 4.09,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 202483,
+"tmdb": 7.1
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Uciekinier",
+"titleEn": "Mud",
+"tmdbId": 103731,
+"trailerKey": "j6qv48R6zMk"
+},
+"tvpvod:movie:103731:sub": {
+"access": "sub",
+"backdropPath": "/otmqSaptLwYutON1oZEgBLZeBEQ.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:103731:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwóch nastoletnich chłopców, Ellis i Neckbone, spotyka mężczyznę o imieniu Mud, który ukrywa się na wyspie na rzece Missisipi. Mud opowiada im brzmiącą dość nieprawdopodobnie historię, jakoby zabił człowieka w Teksasie i teraz ucieka przed żądnymi jego głowy łowcami nagród. Twierdzi, że zabierze ze sobą miłość swego życia, urodziwą Juniper, która czeka na niego w mieście. Zaintrygowani Ellis i Neckbone, choć podchodzą do wyznań Muda sceptycznie, postanawiają mu pomóc. Wkrótce okazuje się, że Mud wcale nie kłamał. W spokojnym miasteczku pojawia się nieznajoma piękność, a w ślad za nią przybywają bezwzględni łowcy nagród...",
+"overviewEn": "Two teenage boys find a fugitive hiding out on an island in the Mississippi River and help him reunite with his lover and escape an avenging family and their armed posse.",
+"popularity": 4.09,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 202483,
+"tmdb": 7.1
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Uciekinier",
+"titleEn": "Mud",
+"tmdbId": 103731,
+"trailerKey": "j6qv48R6zMk"
+},
 "tvpvod:movie:10401:free": {
 "access": "free",
 "backdropPath": "/jlxwZ7XHK17U4sZUxmDP8iHThC8.jpg",
@@ -101304,8 +103513,8 @@
 "serviceKey": "tvpvod",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -101342,8 +103551,8 @@
 "serviceKey": "tvpvod",
 "source": "tmdb",
 "status": "live",
-"title": "Flavia",
-"titleEn": null,
+"title": "Flavia de Luce",
+"titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
@@ -102145,6 +104354,84 @@
 "tmdbId": 1275007,
 "trailerKey": "FsZbScvIYcE"
 },
+"tvpvod:movie:12783:free": {
+"access": "free",
+"backdropPath": "/qY6jnp4cNUYMz6FBG7ATtVmWttM.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:12783:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+36,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Księżna Georgiana Cavendish (Keira Knightley) wiodła ekstrawaganckie, pełne politycznych i miłosnych intryg życie. Już jako szesnastolatka wyróżniała się wśród innych arystokratek urodą i wdziękiem, wzbudzając tym samym zachwyt wszystkich mężczyzn. Udało się jej zwrócić uwagę samego księcia Devonshire (Ralph Fiennes). Perspektywa małżeństwa z tak wysoko postawionym człowiekiem i możliwość awansu społecznego, sprawiły że Georgiana odrzuciła zakochanego w niej Charlesa Grey'a. Jednak wbrew jej wyobrażeniu życie u boku Księcia nie przypominało bajki, a młoda Księżna szybko poznała gorzki smak życia na dworze. To historia niezwykłej kobiety, która była uwielbiana i znana z tego, że chciała być wierna swojej namiętności, historia kobiety, która musiała zapłacić za to wysoką cenę.",
+"overviewEn": "A chronicle of the life of 18th century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.",
+"popularity": 3.58,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 91768,
+"tmdb": 7.0
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Księżna",
+"titleEn": "The Duchess",
+"tmdbId": 12783,
+"trailerKey": "FFg-oduezDs"
+},
+"tvpvod:movie:12783:sub": {
+"access": "sub",
+"backdropPath": "/qY6jnp4cNUYMz6FBG7ATtVmWttM.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:12783:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+36,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Księżna Georgiana Cavendish (Keira Knightley) wiodła ekstrawaganckie, pełne politycznych i miłosnych intryg życie. Już jako szesnastolatka wyróżniała się wśród innych arystokratek urodą i wdziękiem, wzbudzając tym samym zachwyt wszystkich mężczyzn. Udało się jej zwrócić uwagę samego księcia Devonshire (Ralph Fiennes). Perspektywa małżeństwa z tak wysoko postawionym człowiekiem i możliwość awansu społecznego, sprawiły że Georgiana odrzuciła zakochanego w niej Charlesa Grey'a. Jednak wbrew jej wyobrażeniu życie u boku Księcia nie przypominało bajki, a młoda Księżna szybko poznała gorzki smak życia na dworze. To historia niezwykłej kobiety, która była uwielbiana i znana z tego, że chciała być wierna swojej namiętności, historia kobiety, która musiała zapłacić za to wysoką cenę.",
+"overviewEn": "A chronicle of the life of 18th century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.",
+"popularity": 3.58,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 91768,
+"tmdb": 7.0
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Księżna",
+"titleEn": "The Duchess",
+"tmdbId": 12783,
+"trailerKey": "FFg-oduezDs"
+},
 "tvpvod:movie:1288227:free": {
 "access": "free",
 "backdropPath": "/hylEN9D45VWC0TfMj3Nfpy1hjtV.jpg",
@@ -102743,6 +105030,39 @@
 "tmdbId": 1604303,
 "trailerKey": null
 },
+"tvpvod:movie:1612217:free": {
+"access": "free",
+"backdropPath": "/iAD4w0Q25SwRwBeNgyQevrv90D5.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1612217:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.23,
+"ratings": null,
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Apocalypse en Asie : le tsunami 2004 minute par minute",
+"titleEn": null,
+"tmdbId": 1612217,
+"trailerKey": null
+},
 "tvpvod:movie:1624183:paid": {
 "access": "paid",
 "backdropPath": "/3m4jsYrVGx5hZCofSaUd6eNWzXD.jpg",
@@ -103119,6 +105439,82 @@
 "titleEn": "Deconstructing Harry",
 "tmdbId": 2639,
 "trailerKey": "WwXOol3hRUg"
+},
+"tvpvod:movie:296096:free": {
+"access": "free",
+"backdropPath": "/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:296096:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Louisa „Lou” Clark mieszka w niewielkim angielskim miasteczku i nie wie jeszcze, co zrobić ze swoim życiem. Ekscentryczna 26-latka próbuje sił w wielu dziedzinach, by pomóc swej rodzinie związać koniec z końcem. Zostaje opiekunką Willa Traynora, młodego, bogatego bankiera, którego losy całkowicie zmieniły się na skutek tragicznego zdarzenia sprzed dwóch lat. Niegdyś pełen energii, dziś cyniczny do szpiku kości Will wyzbył się już wszelkiej nadziei na szczęście. Dziewczyna postanawia pokazać mu, że jest jeszcze inna droga…",
+"overviewEn": "Lou Clark, a directionless 26-year-old from the English countryside, takes a job at the local castle as a caregiver and companion to a wealthy young banker, Will Traynor. Wheelchair-bound from an accident two years prior, the once adventurous Will has all but given up — that is until Lou determines to show him that life is worth living.",
+"popularity": 14.3,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 346741,
+"tmdb": 7.9
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Zanim się pojawiłeś",
+"titleEn": "Me Before You",
+"tmdbId": 296096,
+"trailerKey": "ffIwBzZzGng"
+},
+"tvpvod:movie:296096:paid": {
+"access": "paid",
+"backdropPath": "/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:296096:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Louisa „Lou” Clark mieszka w niewielkim angielskim miasteczku i nie wie jeszcze, co zrobić ze swoim życiem. Ekscentryczna 26-latka próbuje sił w wielu dziedzinach, by pomóc swej rodzinie związać koniec z końcem. Zostaje opiekunką Willa Traynora, młodego, bogatego bankiera, którego losy całkowicie zmieniły się na skutek tragicznego zdarzenia sprzed dwóch lat. Niegdyś pełen energii, dziś cyniczny do szpiku kości Will wyzbył się już wszelkiej nadziei na szczęście. Dziewczyna postanawia pokazać mu, że jest jeszcze inna droga…",
+"overviewEn": "Lou Clark, a directionless 26-year-old from the English countryside, takes a job at the local castle as a caregiver and companion to a wealthy young banker, Will Traynor. Wheelchair-bound from an accident two years prior, the once adventurous Will has all but given up — that is until Lou determines to show him that life is worth living.",
+"popularity": 14.3,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 346741,
+"tmdb": 7.9
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Zanim się pojawiłeś",
+"titleEn": "Me Before You",
+"tmdbId": 296096,
+"trailerKey": "ffIwBzZzGng"
 },
 "tvpvod:movie:30588:free": {
 "access": "free",
@@ -103773,6 +106169,82 @@
 "tmdbId": 512,
 "trailerKey": "kusH2XxStsM"
 },
+"tvpvod:movie:550244:free": {
+"access": "free",
+"backdropPath": "/7atlokNf3cC4gxj3Jq0JYaGnMED.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:550244:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "9 listopada 1985 roku gang przeprowadził krwawy nalot na supermarket Delhaize w Aalst w Belgii, w którym zginęło ośmioro niewinnych ludzi - w tym trzech członków rodziny Van de Steen. Należący do niej dziewięcioletni David, pomimo licznych obrażeń, przeżył masakrę. Sierotą postanowili zająć się dziadkowie. Jego dziadek - Albert - ze wszystkich sił pragnie zapewnić dobrą przyszłość wnuczkowi i doprowadzić morderców przed wymiar sprawiedliwości.",
+"overviewEn": "In one fell swoop, nine-year old David Van de Steen lost his mother, his father and his sister in an attack by the Brabant Killers in Aalst. His grandfather, Albert, has the well-nigh impossible task of giving David a new perspective on life, a future.",
+"popularity": 0.52,
+"ratings": {
+"imdb": 7.6,
+"imdbVotes": 2190,
+"tmdb": 7.3
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Nie strzelać",
+"titleEn": "Don't Shoot",
+"tmdbId": 550244,
+"trailerKey": "2gdwzKmc-JQ"
+},
+"tvpvod:movie:550244:sub": {
+"access": "sub",
+"backdropPath": "/7atlokNf3cC4gxj3Jq0JYaGnMED.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:550244:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "9 listopada 1985 roku gang przeprowadził krwawy nalot na supermarket Delhaize w Aalst w Belgii, w którym zginęło ośmioro niewinnych ludzi - w tym trzech członków rodziny Van de Steen. Należący do niej dziewięcioletni David, pomimo licznych obrażeń, przeżył masakrę. Sierotą postanowili zająć się dziadkowie. Jego dziadek - Albert - ze wszystkich sił pragnie zapewnić dobrą przyszłość wnuczkowi i doprowadzić morderców przed wymiar sprawiedliwości.",
+"overviewEn": "In one fell swoop, nine-year old David Van de Steen lost his mother, his father and his sister in an attack by the Brabant Killers in Aalst. His grandfather, Albert, has the well-nigh impossible task of giving David a new perspective on life, a future.",
+"popularity": 0.52,
+"ratings": {
+"imdb": 7.6,
+"imdbVotes": 2190,
+"tmdb": 7.3
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Nie strzelać",
+"titleEn": "Don't Shoot",
+"tmdbId": 550244,
+"trailerKey": "2gdwzKmc-JQ"
+},
 "tvpvod:movie:59436:paid": {
 "access": "paid",
 "backdropPath": "/b5bcKhvN6VP82U5ztNdPfOLiolD.jpg",
@@ -104294,6 +106766,44 @@
 "titleEn": "Solar System",
 "tmdbId": 97305,
 "trailerKey": null
+},
+"tvpvod:movie:983526:sub": {
+"access": "sub",
+"backdropPath": "/elH2ZWRHOKpjUNHROvpTCZIvuO7.jpg",
+"confirmedAt": "2026-11-10T21:17:45Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:983526:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Pewnej deszczowej nocy na cmentarzu w Stanach Zjednoczonych policjant znajduje porzucone niemowlę. Dziewczynka jest owinięta w kocyk z satanistycznymi symbolami, a na szyi ma zawieszony wilczy krzyż. Przy dziecku nie pozostawiono żadnej wiadomości. 20 lat później dorosła już Hunter sama musi rozwiązać tajemnicę swojego porzucenia i tożsamości biologicznych rodziców. Testy genetyczne, kocyk oraz wilczy krzyż to tropy prowadzące do Norwegii. Hunter jest coraz bliżej odkrycia przerażającej prawdy, jednak pojawiająca się w jej wizjach mroczna postać ostrzega ją: ODEJDŹ!",
+"overviewEn": "A young woman tries to find her origins after having been abandoned as an infant at a cemetery wrapped in a cloth with satanic symbols, but as she gets closer to answers a malevolent spirit is telling her to leave.",
+"popularity": 0.71,
+"ratings": {
+"imdb": 4.9,
+"imdbVotes": 2547,
+"tmdb": 5.6
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Odejdź!",
+"titleEn": "Leave",
+"tmdbId": 983526,
+"trailerKey": "cKQxHfug6BU"
 },
 "tvpvod:tv:14447:s27e17:free": {
 "access": "free",
@@ -104929,78 +107439,6 @@
 "kind": "series",
 "season": 4,
 "withAds": false
-},
-"origin": "schedule",
-"overview": "Serial opowiada historie Hancer (w tej roli Talya Celebi), która wychodzi za mąż za Cihana (Cenay Turksever), by zdobyć pieniądze na leczenie chorego brata, Cemila. Po ślubie trafia do bardzo tajemniczej rezydencji rodziny Develioglu. Niepodzielnie rządzi tam matka jej męża, obdarzona żelazną wolą i charakterem Mukadder (Betigul Ceylan). Jest też była już żona Cihana, Beyza, która nie może się pogodzić z rozwodem. Hacer i Cemil nie mają rodziców. Dziewczyna wiele już w życiu przeszła. Teraz zrobi wszystko, by uratować brata, który jest jej jedyną rodziną.",
-"overviewEn": "The continuation of the lineage of a deep-rooted family depends on Cihan Develioğlu's unborn son, but Cihan cannot have a child due to his wife. Mukadder plays a cruel game for her son Cihan to have a son. Mukadder goes to Cihan's wife, Beyza, with a dangerous proposal and asks her to divorce her son. Named after her sharp looks, Hançer faces an offer that will turn her life upside down. Mukadder, who takes advantage of the fact that Hançer is poor and has a family that will not cause trouble, offers her the opportunity to marry her son and give birth to a male child. Hançer, who dreams of finding the love of her life and having a happy marriage, first rejects this offer. However, she is forced to accept the offer when she learns that her brother has a deadly illness. Cihan and Hançer, who have entered an irreversible path, will no longer be the same. Will these two young people, drawn into a big game and lost in a dark maze, fall under the spell of love contrary to the planned games?",
-"popularity": 8.64,
-"ratings": {
-"imdb": 4.0,
-"imdbVotes": 265
-},
-"serviceKey": "tvpvod",
-"source": "tmdb",
-"status": "live",
-"title": "Panna młoda",
-"titleEn": "The Bride",
-"tmdbId": 245841,
-"trailerKey": null
-},
-"tvpvod:tv:245841:s4e46:free": {
-"access": "free",
-"backdropPath": "/doIUOsdeCKkRNQxMvV4MKp0uoTT.jpg",
-"confirmedAt": "2026-11-10T13:27:24Z",
-"date": "2026-11-09",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "tvpvod:tv:245841:s4e46:free",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 46,
-"episodeTo": 46,
-"genres": [
-18
-],
-"kind": "series",
-"season": 4,
-"withAds": true
-},
-"origin": "schedule",
-"overview": "Serial opowiada historie Hancer (w tej roli Talya Celebi), która wychodzi za mąż za Cihana (Cenay Turksever), by zdobyć pieniądze na leczenie chorego brata, Cemila. Po ślubie trafia do bardzo tajemniczej rezydencji rodziny Develioglu. Niepodzielnie rządzi tam matka jej męża, obdarzona żelazną wolą i charakterem Mukadder (Betigul Ceylan). Jest też była już żona Cihana, Beyza, która nie może się pogodzić z rozwodem. Hacer i Cemil nie mają rodziców. Dziewczyna wiele już w życiu przeszła. Teraz zrobi wszystko, by uratować brata, który jest jej jedyną rodziną.",
-"overviewEn": "The continuation of the lineage of a deep-rooted family depends on Cihan Develioğlu's unborn son, but Cihan cannot have a child due to his wife. Mukadder plays a cruel game for her son Cihan to have a son. Mukadder goes to Cihan's wife, Beyza, with a dangerous proposal and asks her to divorce her son. Named after her sharp looks, Hançer faces an offer that will turn her life upside down. Mukadder, who takes advantage of the fact that Hançer is poor and has a family that will not cause trouble, offers her the opportunity to marry her son and give birth to a male child. Hançer, who dreams of finding the love of her life and having a happy marriage, first rejects this offer. However, she is forced to accept the offer when she learns that her brother has a deadly illness. Cihan and Hançer, who have entered an irreversible path, will no longer be the same. Will these two young people, drawn into a big game and lost in a dark maze, fall under the spell of love contrary to the planned games?",
-"popularity": 8.64,
-"ratings": {
-"imdb": 4.0,
-"imdbVotes": 265
-},
-"serviceKey": "tvpvod",
-"source": "tmdb",
-"status": "live",
-"title": "Panna młoda",
-"titleEn": "The Bride",
-"tmdbId": 245841,
-"trailerKey": null
-},
-"tvpvod:tv:245841:s4e47:free": {
-"access": "free",
-"backdropPath": "/doIUOsdeCKkRNQxMvV4MKp0uoTT.jpg",
-"confirmedAt": "2026-11-10T13:27:24Z",
-"date": "2026-11-10",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "tvpvod:tv:245841:s4e47:free",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 47,
-"episodeTo": 47,
-"genres": [
-18
-],
-"kind": "series",
-"season": 4,
-"withAds": true
 },
 "origin": "schedule",
 "overview": "Serial opowiada historie Hancer (w tej roli Talya Celebi), która wychodzi za mąż za Cihana (Cenay Turksever), by zdobyć pieniądze na leczenie chorego brata, Cemila. Po ślubie trafia do bardzo tajemniczej rezydencji rodziny Develioglu. Niepodzielnie rządzi tam matka jej męża, obdarzona żelazną wolą i charakterem Mukadder (Betigul Ceylan). Jest też była już żona Cihana, Beyza, która nie może się pogodzić z rozwodem. Hacer i Cemil nie mają rodziców. Dziewczyna wiele już w życiu przeszła. Teraz zrobi wszystko, by uratować brata, który jest jej jedyną rodziną.",
