@@ -1221,7 +1221,7 @@
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 14355,
-"tmdb": 7.8
+"tmdb": 7.7
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -1230,6 +1230,45 @@
 "titleEn": "Reminders of Him",
 "tmdbId": 1367642,
 "trailerKey": "i36Zw32GfRQ"
+},
+"appletv:movie:141052:sub": {
+"access": "sub",
+"backdropPath": "/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:141052:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+12,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zainspirowany ofiarnym czynem Supermana (Henry Cavill) Bruce Wayne, który odzyskał wiarę w ludzkość, prosi swojego nowego sprzymierzeńca, Dianę Prince, o pomoc w pokonaniu jeszcze potężniejszego wroga. Nie tracąc czasu, Batman (Ben Affleck) i Wonder Woman (Gal Gadot) starają się znaleźć grupę metaludzi i przekonać ich do współpracy. Mają oni stanąć do walki z nowym zagrożeniem. Jednak mimo utworzenia jedynej w swoim rodzaju ligi superbohaterów, złożonej z Batmana, Wonder Woman, Aquamana (Jason Momoa), Cyborga (Ray Fisher) i Flasha (Ezra Miller), może być już za późno na uratowanie planety przed atakiem o katastroficznych rozmiarach.  [opis dystrybutora Blu-ray]",
+"overviewEn": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+"popularity": 12.13,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 512104,
+"tmdb": 6.1
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Liga Sprawiedliwości",
+"titleEn": "Justice League",
+"tmdbId": 141052,
+"trailerKey": "u280uGDxUcc"
 },
 "appletv:movie:1417842:paid": {
 "access": "paid",
@@ -2245,8 +2284,8 @@
 "appletv:movie:1729007:paid": {
 "access": "paid",
 "backdropPath": null,
-"confirmedAt": "2026-11-11T12:41:28Z",
-"date": "2026-11-10",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "appletv:movie:1729007:paid",
@@ -2262,7 +2301,7 @@
 "season": null,
 "withAds": false
 },
-"origin": "schedule",
+"origin": "diff",
 "overview": "Amidst the chaos and destruction of the London Blitz, four women become trapped in an abandoned warehouse, where they must fight to survive against a murderous stranger known as The Blackout Ripper. Inspired by true events.",
 "overviewEn": "Amidst the chaos and destruction of the London Blitz, four women become trapped in an abandoned warehouse, where they must fight to survive against a murderous stranger known as The Blackout Ripper. Inspired by true events.",
 "popularity": 0.65,
@@ -2311,6 +2350,44 @@
 "titleEn": "Hail Caesar",
 "tmdbId": 173299,
 "trailerKey": "-PqKAzfau94"
+},
+"appletv:movie:1737302:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1737302:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+80,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "A veteran detective is paired with a transplant detective from Massachusetts to investigate strange occurrences in Cocoa Beach.",
+"overviewEn": "A veteran detective is paired with a transplant detective from Massachusetts to investigate strange occurrences in Cocoa Beach.",
+"popularity": 0.45,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 27
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Space Coast Confidential",
+"titleEn": null,
+"tmdbId": 1737302,
+"trailerKey": null
 },
 "appletv:movie:1737740:paid": {
 "access": "paid",
@@ -2762,7 +2839,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -2795,7 +2872,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -8261,6 +8338,84 @@
 "tmdbId": 1108427,
 "trailerKey": "EEz5xbzYPKI"
 },
+"canalplus:movie:11088:paid": {
+"access": "paid",
+"backdropPath": "/1acmRn1cnPnavQGQCrIJOERd6vX.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:11088:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Złodziej, z dużym stażem, specjalizujący się w kradzieży biżuterii, wysyła na kolejny napad swojego siostrzeńca. Siostrzeniec nie wie, że jest on tylko pionkiem w grze, a wujkowi chodzi o to, aby sprawdzić czy jego partner jest lojalny.",
+"overviewEn": "Joe Moore has a job he loves. He's a thief. His job goes sour when he gets caught on security camera tape. His fence, Bergman, reneges on the money he's owed, and his wife may be betraying him with the fence's young lieutenant. Moore and his partner, Bobby Blane, and their utility man, Pinky Pincus, find themselves broke, betrayed, and blackmailed. Moore is forced to commit his crew to do one last big job.",
+"popularity": 9.05,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 43208,
+"tmdb": 6.3
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Skok",
+"titleEn": "Heist",
+"tmdbId": 11088,
+"trailerKey": "Yjmy0TcpDtA"
+},
+"canalplus:movie:11088:sub": {
+"access": "sub",
+"backdropPath": "/1acmRn1cnPnavQGQCrIJOERd6vX.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:11088:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Złodziej, z dużym stażem, specjalizujący się w kradzieży biżuterii, wysyła na kolejny napad swojego siostrzeńca. Siostrzeniec nie wie, że jest on tylko pionkiem w grze, a wujkowi chodzi o to, aby sprawdzić czy jego partner jest lojalny.",
+"overviewEn": "Joe Moore has a job he loves. He's a thief. His job goes sour when he gets caught on security camera tape. His fence, Bergman, reneges on the money he's owed, and his wife may be betraying him with the fence's young lieutenant. Moore and his partner, Bobby Blane, and their utility man, Pinky Pincus, find themselves broke, betrayed, and blackmailed. Moore is forced to commit his crew to do one last big job.",
+"popularity": 9.05,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 43208,
+"tmdb": 6.3
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Skok",
+"titleEn": "Heist",
+"tmdbId": 11088,
+"trailerKey": "Yjmy0TcpDtA"
+},
 "canalplus:movie:1109946:sub": {
 "access": "sub",
 "backdropPath": "/zSR6cX7uJu9sXepVmSEc3FfugzU.jpg",
@@ -8487,6 +8642,84 @@
 "titleEn": null,
 "tmdbId": 1123521,
 "trailerKey": "izYVFehHd4k"
+},
+"canalplus:movie:1124142:paid": {
+"access": "paid",
+"backdropPath": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1124142:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na uboczu prowincjonalnej Ameryki żyje charyzmatyczny outsider, muzyk i lokalny przedsiębiorca, który przewodzi nietuzinkowej społeczności. Gdy po latach do jego życia niespodziewanie wraca przybrana córka, mężczyzna dostrzega szansę na odbudowanie relacji i stworzenie prawdziwego rodzinnego biznesu. Ich wspólna przyszłość szybko jednak staje pod znakiem zapytania - konkurenci zrobią wszystko, by zniszczyć to, co było budowane przez lata. W świecie, gdzie granica między dobrem a złem jest niejasna, a lojalność ma swoją cenę, nowo odbudowana rodzina będzie musiała zawalczyć nie tylko o przetrwanie, ale i o siebie nawzajem.",
+"overviewEn": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+"popularity": 8.98,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 9169,
+"tmdb": 6.7
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Wszyscy moi wrogowie",
+"titleEn": "The Rivals of Amziah King",
+"tmdbId": 1124142,
+"trailerKey": "GwSvAyaMGMo"
+},
+"canalplus:movie:1124142:sub": {
+"access": "sub",
+"backdropPath": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1124142:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na uboczu prowincjonalnej Ameryki żyje charyzmatyczny outsider, muzyk i lokalny przedsiębiorca, który przewodzi nietuzinkowej społeczności. Gdy po latach do jego życia niespodziewanie wraca przybrana córka, mężczyzna dostrzega szansę na odbudowanie relacji i stworzenie prawdziwego rodzinnego biznesu. Ich wspólna przyszłość szybko jednak staje pod znakiem zapytania - konkurenci zrobią wszystko, by zniszczyć to, co było budowane przez lata. W świecie, gdzie granica między dobrem a złem jest niejasna, a lojalność ma swoją cenę, nowo odbudowana rodzina będzie musiała zawalczyć nie tylko o przetrwanie, ale i o siebie nawzajem.",
+"overviewEn": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+"popularity": 8.98,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 9169,
+"tmdb": 6.7
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Wszyscy moi wrogowie",
+"titleEn": "The Rivals of Amziah King",
+"tmdbId": 1124142,
+"trailerKey": "GwSvAyaMGMo"
 },
 "canalplus:movie:1127384:paid": {
 "access": "paid",
@@ -8930,7 +9163,7 @@
 "ratings": {
 "imdb": 6.2,
 "imdbVotes": 6972,
-"tmdb": 6.7
+"tmdb": 6.8
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
@@ -9354,6 +9587,84 @@
 "titleEn": "De Gaulle: Résistance",
 "tmdbId": 1165366,
 "trailerKey": "dKUArYoZ_0U"
+},
+"canalplus:movie:1165369:paid": {
+"access": "paid",
+"backdropPath": "/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1165369:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+18,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "1943–1944. Aby wyzwolić Francję, generał de Gaulle musi zjednoczyć podzielony Ruch Oporu. Walczy również o potwierdzenie swojej legitymacji u aliantów.",
+"overviewEn": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+"popularity": 11.02,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 2793,
+"tmdb": 7.9
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "De Gaulle: Droga do wolności",
+"titleEn": "De Gaulle: Liberté",
+"tmdbId": 1165369,
+"trailerKey": "J6MRNchmZkY"
+},
+"canalplus:movie:1165369:sub": {
+"access": "sub",
+"backdropPath": "/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1165369:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+18,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "1943–1944. Aby wyzwolić Francję, generał de Gaulle musi zjednoczyć podzielony Ruch Oporu. Walczy również o potwierdzenie swojej legitymacji u aliantów.",
+"overviewEn": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+"popularity": 11.02,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 2793,
+"tmdb": 7.9
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "De Gaulle: Droga do wolności",
+"titleEn": "De Gaulle: Liberté",
+"tmdbId": 1165369,
+"trailerKey": "J6MRNchmZkY"
 },
 "canalplus:movie:1167307:sub": {
 "access": "sub",
@@ -12158,6 +12469,43 @@
 "tmdbId": 1288445,
 "trailerKey": "2Iqvbe98Gb4"
 },
+"canalplus:movie:1289344:paid": {
+"access": "paid",
+"backdropPath": "/cdn7cezMiczlLguVeq0lTXITvo0.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1289344:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99,
+36
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "At the turn of the 1970s, with Portugal having been ruled for nearly half a century by an uncompromising dictatorship, a handful of officers decided to risk everything to liberate their country. Working in the shadows of the regime, they plotted a coup d'état unprecedented in history. This coup would soon give rise to a revolution: the Carnation Revolution, which overthrew the Salazar regime in a single day, April 25, 1974, without bloodshed.",
+"overviewEn": "At the turn of the 1970s, with Portugal having been ruled for nearly half a century by an uncompromising dictatorship, a handful of officers decided to risk everything to liberate their country. Working in the shadows of the regime, they plotted a coup d'état unprecedented in history. This coup would soon give rise to a revolution: the Carnation Revolution, which overthrew the Salazar regime in a single day, April 25, 1974, without bloodshed.",
+"popularity": 0.4,
+"ratings": {
+"imdb": 7.6,
+"imdbVotes": 32
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "La Révolution des Œillets",
+"titleEn": null,
+"tmdbId": 1289344,
+"trailerKey": null
+},
 "canalplus:movie:128979:sub": {
 "access": "sub",
 "backdropPath": "/qfmEhpv4Z2m1wTFBz3tSGsiB3IL.jpg",
@@ -12613,6 +12961,84 @@
 "titleEn": "Bolt",
 "tmdbId": 13053,
 "trailerKey": "IBsg00NnzGg"
+},
+"canalplus:movie:1308767:paid": {
+"access": "paid",
+"backdropPath": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1308767:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+10752,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Niezwykła historia George'a Washingtona - geodety, który został dowódcą, stanął do walki o niepodległość Ameryki i jednogłośnie wybrano go na pierwszego prezydenta kraju.",
+"overviewEn": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+"popularity": 6.21,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 15153,
+"tmdb": 7.7
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Młody Waszyngton",
+"titleEn": "Young Washington",
+"tmdbId": 1308767,
+"trailerKey": "LJek-kc384w"
+},
+"canalplus:movie:1308767:sub": {
+"access": "sub",
+"backdropPath": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1308767:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+10752,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Niezwykła historia George'a Washingtona - geodety, który został dowódcą, stanął do walki o niepodległość Ameryki i jednogłośnie wybrano go na pierwszego prezydenta kraju.",
+"overviewEn": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+"popularity": 6.21,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 15153,
+"tmdb": 7.7
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Młody Waszyngton",
+"titleEn": "Young Washington",
+"tmdbId": 1308767,
+"trailerKey": "LJek-kc384w"
 },
 "canalplus:movie:1309012:sub": {
 "access": "sub",
@@ -13670,7 +14096,7 @@
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 14355,
-"tmdb": 7.8
+"tmdb": 7.7
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
@@ -17030,7 +17456,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "canalplus",
 "source": "tmdb",
@@ -17063,7 +17489,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "canalplus",
 "source": "tmdb",
@@ -22425,6 +22851,82 @@
 "tmdbId": 505642,
 "trailerKey": "_Z3QKkl1WyM"
 },
+"canalplus:movie:50667:paid": {
+"access": "paid",
+"backdropPath": "/gyK1ePJzOjDppLPRrkAdTLjsA1T.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:50667:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402,
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "A filming of the 1990 Rolling Stones \"Steel Wheels\" concert that traveled Europe. This was filmed in the IMAX process, which allows the film to be projected in a size ten times the size of a regular 35mm projected image.",
+"overviewEn": "A filming of the 1990 Rolling Stones \"Steel Wheels\" concert that traveled Europe. This was filmed in the IMAX process, which allows the film to be projected in a size ten times the size of a regular 35mm projected image.",
+"popularity": 0.83,
+"ratings": {
+"imdb": 7.6,
+"imdbVotes": 533,
+"tmdb": 7.4
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "The Rolling Stones: Live at the Max",
+"titleEn": null,
+"tmdbId": 50667,
+"trailerKey": "c1S0Z4bsDJg"
+},
+"canalplus:movie:50667:sub": {
+"access": "sub",
+"backdropPath": "/gyK1ePJzOjDppLPRrkAdTLjsA1T.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:50667:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402,
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "A filming of the 1990 Rolling Stones \"Steel Wheels\" concert that traveled Europe. This was filmed in the IMAX process, which allows the film to be projected in a size ten times the size of a regular 35mm projected image.",
+"overviewEn": "A filming of the 1990 Rolling Stones \"Steel Wheels\" concert that traveled Europe. This was filmed in the IMAX process, which allows the film to be projected in a size ten times the size of a regular 35mm projected image.",
+"popularity": 0.83,
+"ratings": {
+"imdb": 7.6,
+"imdbVotes": 533,
+"tmdb": 7.4
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "The Rolling Stones: Live at the Max",
+"titleEn": null,
+"tmdbId": 50667,
+"trailerKey": "c1S0Z4bsDJg"
+},
 "canalplus:movie:507089:sub": {
 "access": "sub",
 "backdropPath": "/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
@@ -23377,7 +23879,7 @@
 "origin": "diff",
 "overview": "Ethan Hunt i zespół IMF kontynuują poszukiwania przerażającej SI znanej jako Entity - która zinfiltrowała sieci wywiadowcze na całym świecie - z rządami świata i tajemniczym duchem z przeszłości Ethana na ich tropie. Dołączyli do nich nowi sojusznicy i uzbrojeni w środki, aby raz na zawsze zamknąć Entity, Hunt ściga się z czasem, aby zapobiec zmianie świata, jaki znamy, na zawsze.",
 "overviewEn": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
-"popularity": 20.34,
+"popularity": 18.92,
 "ratings": {
 "imdb": 7.1,
 "imdbVotes": 244233,
@@ -27802,6 +28304,84 @@
 "tmdbId": 885277,
 "trailerKey": null
 },
+"canalplus:movie:892:paid": {
+"access": "paid",
+"backdropPath": "/A3qvUUd36LUF5sfPYOHEd3ahDp2.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:892:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+878,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "\"Delikatesy\" to dziejąca się w niedalekiej przyszłości, surrealistyczna opowieść o mieszkańcach pewnej kamienicy. Wszyscy są klientami znajdujących się na parterze Delikatesów, których zapasy w mięso rosną wraz ze zniknięciem kolejnego lokatora kamienicy. Pewnego dnia do kamienicy przybywa Louison (Dominique Pinon), młody bezrobotny artysta cyrkowy, którego właściciel kamienicy i Delikatesów zatrudnia jako złotą rączkę. Czy przed rzeźnickim nożem uchroni go miłość Julie, córki bezwzględnego rzeźnika?  [opis dystrybutora dvd]",
+"overviewEn": "In a post-apocalyptic world, the residents of an apartment above the butcher shop receive an occasional delicacy of meat, something that is in low supply. A young man new in town falls in love with the butcher's daughter, which causes conflicts in her family, who need the young man for other business-related purposes.",
+"popularity": 3.31,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 95226,
+"tmdb": 7.3
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Delicatessen",
+"titleEn": null,
+"tmdbId": 892,
+"trailerKey": "GVL5_I4CvTc"
+},
+"canalplus:movie:892:sub": {
+"access": "sub",
+"backdropPath": "/A3qvUUd36LUF5sfPYOHEd3ahDp2.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:892:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+878,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "\"Delikatesy\" to dziejąca się w niedalekiej przyszłości, surrealistyczna opowieść o mieszkańcach pewnej kamienicy. Wszyscy są klientami znajdujących się na parterze Delikatesów, których zapasy w mięso rosną wraz ze zniknięciem kolejnego lokatora kamienicy. Pewnego dnia do kamienicy przybywa Louison (Dominique Pinon), młody bezrobotny artysta cyrkowy, którego właściciel kamienicy i Delikatesów zatrudnia jako złotą rączkę. Czy przed rzeźnickim nożem uchroni go miłość Julie, córki bezwzględnego rzeźnika?  [opis dystrybutora dvd]",
+"overviewEn": "In a post-apocalyptic world, the residents of an apartment above the butcher shop receive an occasional delicacy of meat, something that is in low supply. A young man new in town falls in love with the butcher's daughter, which causes conflicts in her family, who need the young man for other business-related purposes.",
+"popularity": 3.31,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 95226,
+"tmdb": 7.3
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Delicatessen",
+"titleEn": null,
+"tmdbId": 892,
+"trailerKey": "GVL5_I4CvTc"
+},
 "canalplus:movie:895956:sub": {
 "access": "sub",
 "backdropPath": "/4aZyheyL3Lu69QKMX3b8bOsUglA.jpg",
@@ -29552,6 +30132,45 @@
 "tmdbId": 974576,
 "trailerKey": "Uo-k7ef1xbw"
 },
+"canalplus:movie:974635:free": {
+"access": "free",
+"backdropPath": "/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:974635:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na co dzień skryty i nieśmiały profesor filozofii Gary Johnson, pokazuje drugie oblicze, dorabiając jako „fałszywy zabójca” na usługach Departamentu Policji z Nowego Orleanu. Obdarzony niespotykanym talentem do zdumiewających metamorfoz i przebieranek, mężczyzna nie ma sobie równych w wyłapywaniu ludzi planujących morderstwa swoich wrogów. Co jednak, gdy – podszywając się pod seksownego killera – sam znajdzie się pod wpływem i urokiem kobiety, którą zamierzał posłać za kratki? Czy uwikłany w gorący romans zdoła oprzeć się pięknej Madison, czy też sam stanie się ofiarą w tej przebiegłej grze pozorów?",
+"overviewEn": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+"popularity": 5.72,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 135728,
+"tmdb": 6.8
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Hit Man",
+"titleEn": null,
+"tmdbId": 974635,
+"trailerKey": "uoSlbklJuC0"
+},
 "canalplus:movie:975043:sub": {
 "access": "sub",
 "backdropPath": "/dSSj6p3sUvc997V5zPJjfrVyFt0.jpg",
@@ -31053,6 +31672,44 @@
 "tmdbId": 1087593,
 "trailerKey": "tK-YE3PjYGg"
 },
+"cda:movie:109729:sub": {
+"access": "sub",
+"backdropPath": "/d9XffDhi65UsJhbHlu534l9P2cN.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:109729:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Pochodzący z Los Angeles młody Christian (James Deen) postanawia zainwestować w branżę filmową. Mężczyzna spotyka się z Tarą (Lindsay Lohan), byłą modelką, która go zdradza. Kochankowie pragnący zdobyć sławę oraz pieniądze zostają wciągnięci przez Christiana w niebezpieczną grę pełną szaleństwa i przemocy.",
+"overviewEn": "The discovery of an illicit love affair leads two young Angelenos on a violent, sexually charged tour through the dark side of human nature.",
+"popularity": 1.86,
+"ratings": {
+"imdb": 3.8,
+"imdbVotes": 12738,
+"tmdb": 4.4
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "The Canyons",
+"titleEn": null,
+"tmdbId": 109729,
+"trailerKey": "71Dnzi3W_u0"
+},
 "cda:movie:1103:paid": {
 "access": "paid",
 "backdropPath": "/vsIpYIa23bi5beLReFtgtIROS2N.jpg",
@@ -31165,6 +31822,43 @@
 "tmdbId": 1107264,
 "trailerKey": "uUAaUwfLUhE"
 },
+"cda:movie:11152:sub": {
+"access": "sub",
+"backdropPath": "/rYqjPTWtgswEh7gTMbponxsy0tR.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:11152:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Grupa przyjaciół spędzających wakacje w Meksyku postanawia zwiedzić ruiny świątyni Majów, gdzie odkrywa coś przerażającego.",
+"overviewEn": "Americans Amy, Stacy, Jeff and Eric look for fun during a sunny holiday in Mexico, but they get much more than that after visiting an archaeological dig in the jungle.",
+"popularity": 3.75,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 92860,
+"tmdb": 6.0
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Ruiny",
+"titleEn": "The Ruins",
+"tmdbId": 11152,
+"trailerKey": "cyglpQU5sJ0"
+},
 "cda:movie:11340:free": {
 "access": "free",
 "backdropPath": "/3aClURRSl7ujSTgOCXqJOzGPIQD.jpg",
@@ -31271,6 +31965,44 @@
 "titleEn": null,
 "tmdbId": 1153475,
 "trailerKey": null
+},
+"cda:movie:1165464:sub": {
+"access": "sub",
+"backdropPath": "/sdAGwNLBMUikx185k8IJ9XJl32B.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1165464:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "After an absence of three years, Aitana makes a surprise return home with Gabi, her Brazilian partner, and their son. The reception from her parents is surprisingly cold. Only her wheelchair-bound brother is pleased to see her. But what affects Aitana most of all is the presence of a stranger her age sleeping in her bed, wearing her clothes, living in her house, and being treated by her parents as if she were their daughter. From that moment on, torn by jealousy, suspicion, and misunderstanding, Aitana tries to find out what is happening and who the intruder is until she discovers an unexpected and disturbing truth darker than she would ever have thought possible.",
+"overviewEn": "After an absence of three years, Aitana makes a surprise return home with Gabi, her Brazilian partner, and their son. The reception from her parents is surprisingly cold. Only her wheelchair-bound brother is pleased to see her. But what affects Aitana most of all is the presence of a stranger her age sleeping in her bed, wearing her clothes, living in her house, and being treated by her parents as if she were their daughter. From that moment on, torn by jealousy, suspicion, and misunderstanding, Aitana tries to find out what is happening and who the intruder is until she discovers an unexpected and disturbing truth darker than she would ever have thought possible.",
+"popularity": 0.74,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 784
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Tú no eres yo",
+"titleEn": "You Are Not Me",
+"tmdbId": 1165464,
+"trailerKey": "S5iVXbpsYbY"
 },
 "cda:movie:11856:paid": {
 "access": "paid",
@@ -31384,6 +32116,45 @@
 "titleEn": "Out of Control",
 "tmdbId": 1193115,
 "trailerKey": null
+},
+"cda:movie:1195518:sub": {
+"access": "sub",
+"backdropPath": "/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1195518:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+37,
+12,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Akcja rozgrywa się na tle burzliwej Montany lat 70. XIX wieku, na chwilę przed egzekucją Isaaca Broadwaya, gdzie zleca swojemu skłóconemu synowi, Henry'emu, niemożliwe zadanie: zamordowanie mężczyzny, który wrobił go w zbrodnię, której nie popełnił. Chcąc dotrzymać obietnicy, Henry udaje się do odległego miasteczka Trinity, gdzie nieoczekiwany obrót wydarzeń zatrzymuje go w mieście i pozostawia między Gabrielem Dove'em, uczciwym nowym szeryfem miasteczka, a tajemniczą postacią o imieniu St. Christopher.",
+"overviewEn": "Set against the turbulent backdrop of 1870s Montana, in the moments before the execution of Isaac Broadway, he gives his estranged son, Henry, an impossible task: murder the man who framed him for a crime he didn’t commit. Intent on fulfilling his promise, Henry travels to the remote town of Trinity, where an unexpected turn of events traps him in town and leaves him caught between Gabriel Dove, the town’s upstanding new sheriff, and a mysterious figure named St. Christopher.",
+"popularity": 3.43,
+"ratings": {
+"imdb": 5.5,
+"imdbVotes": 7620,
+"tmdb": 6.3
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Tajemnica Trójcy",
+"titleEn": "The Unholy Trinity",
+"tmdbId": 1195518,
+"trailerKey": "HgiEya5fjWo"
 },
 "cda:movie:1205515:paid": {
 "access": "paid",
@@ -33005,6 +33776,45 @@
 "tmdbId": 1570273,
 "trailerKey": null
 },
+"cda:movie:15705:sub": {
+"access": "sub",
+"backdropPath": "/hIC9EA6IPdJLOZ7TqD534E8XjEF.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:15705:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+53,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Scenariusz \"Incendiary\" powstał na podstawie książki Chrisa Cleave'a. Jej główną bohaterką jest kobieta, której życie rozbija się na kawałki kiedy mąż i kilkuletni synek giną w wyniku samobójczego zamachu bombowego na jednym z meczów piłkarskich. Jej traumę dodatkowo potęguje fakt, że w czasie kiedy oni umierali ona spotykała się ze swoim kochankiem. W rolę zrozpaczonej kobiety wcieli się tu Michelle Williams, McGregor zagra dziennikarza, z którym ma romans, a Macfadyen będzie przełożonym jej męża, szefem anyterrorystycznego oddziału policji, który także chce zdobyć jej miłość.",
+"overviewEn": "A woman's life is torn apart when her husband and infant son are killed in a suicide bombing at a soccer match.",
+"popularity": 1.74,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 9331,
+"tmdb": 5.4
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Drogi Osamo",
+"titleEn": "Incendiary",
+"tmdbId": 15705,
+"trailerKey": "GRjkXY4TFKA"
+},
 "cda:movie:1575721:paid": {
 "access": "paid",
 "backdropPath": "/q5G43oFGzNIWruBz4wBWZf0yuNX.jpg",
@@ -33148,6 +33958,42 @@
 "titleEn": "Cerita Lila",
 "tmdbId": 1590613,
 "trailerKey": "_S9ummr0mjg"
+},
+"cda:movie:1625673:sub": {
+"access": "sub",
+"backdropPath": "/fI6VKNrW4YFi6TBCM2Ekngyi1Q1.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1625673:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zadłużony pisarz horrorów desperacko odprawia rytuał, by przywołać demona, który obiecuje dostarczyć mu opowieści, których już nie jest w stanie pisać. Pakt się sprawdza, ale za straszliwą cenę.",
+"overviewEn": "A horror writer, drowning in debt and on the verge of collapse, desperately performs a ritual to summon a demon who promises to deliver the stories he can no longer write. The pact works, but at a terrible price.",
+"popularity": 2.49,
+"ratings": {
+"imdb": 4.8,
+"imdbVotes": 39
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Przymierze krwi",
+"titleEn": "Blood Covenant",
+"tmdbId": 1625673,
+"trailerKey": "1lec8pbqfjo"
 },
 "cda:movie:162903:sub": {
 "access": "sub",
@@ -34478,6 +35324,44 @@
 "titleEn": "Yellowbird",
 "tmdbId": 292795,
 "trailerKey": "DtDgItS_OgM"
+},
+"cda:movie:293572:sub": {
+"access": "sub",
+"backdropPath": "/ev3ohnH3PZnBX0l7spiXWbcOIz4.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:293572:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Beneath the fake blood and cheap masks of countless haunted house attractions across the country, there are whispers of truly terrifying alternatives. Looking to find an authentic, blood-curdling good fright for Halloween, five friends set off on a road trip in an RV to track down these underground Haunts. Just when their search seems to reach a dead end, strange and disturbing things start happening and it becomes clear that the Haunt has come to them…",
+"overviewEn": "Beneath the fake blood and cheap masks of countless haunted house attractions across the country, there are whispers of truly terrifying alternatives. Looking to find an authentic, blood-curdling good fright for Halloween, five friends set off on a road trip in an RV to track down these underground Haunts. Just when their search seems to reach a dead end, strange and disturbing things start happening and it becomes clear that the Haunt has come to them…",
+"popularity": 1.71,
+"ratings": {
+"imdb": 5.2,
+"imdbVotes": 12091,
+"tmdb": 5.0
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "The Houses October Built",
+"titleEn": null,
+"tmdbId": 293572,
+"trailerKey": "S9GnCti_ct4"
 },
 "cda:movie:299840:paid": {
 "access": "paid",
@@ -36994,6 +37878,80 @@
 "tmdbId": 585642,
 "trailerKey": null
 },
+"cda:movie:592695:paid": {
+"access": "paid",
+"backdropPath": "/y0LhmaMYpFkIfrUlOpJYTVMH2eA.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:592695:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Szwedka Linnéa przylatuje do Los Angeles, by tam jako Bella Cherry podbić branżę porno. Jednak piękne ciało i ogień w sercu nie wystarczą do osiągnięcia sukcesu. Dziewczyna będzie jeszcze musiała się nauczyć cynicznych zasad, którymi rządzi się show-biznes.",
+"overviewEn": "Bella Cherry arrives in Los Angeles with dreams of becoming an adult film star, but she soon learns that fame won't come easy as she harnesses her ambition and cunning to rise to the top of this mesmerizing and singular world.",
+"popularity": 5.54,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 27140,
+"tmdb": 6.3
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Pleasure",
+"titleEn": null,
+"tmdbId": 592695,
+"trailerKey": "g85r30mNZjs"
+},
+"cda:movie:592695:sub": {
+"access": "sub",
+"backdropPath": "/y0LhmaMYpFkIfrUlOpJYTVMH2eA.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:592695:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Szwedka Linnéa przylatuje do Los Angeles, by tam jako Bella Cherry podbić branżę porno. Jednak piękne ciało i ogień w sercu nie wystarczą do osiągnięcia sukcesu. Dziewczyna będzie jeszcze musiała się nauczyć cynicznych zasad, którymi rządzi się show-biznes.",
+"overviewEn": "Bella Cherry arrives in Los Angeles with dreams of becoming an adult film star, but she soon learns that fame won't come easy as she harnesses her ambition and cunning to rise to the top of this mesmerizing and singular world.",
+"popularity": 5.54,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 27140,
+"tmdb": 6.3
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Pleasure",
+"titleEn": null,
+"tmdbId": 592695,
+"trailerKey": "g85r30mNZjs"
+},
 "cda:movie:59981:paid": {
 "access": "paid",
 "backdropPath": "/3UPdg8QO6CF5UqmOIJoLKhRM6e.jpg",
@@ -37871,6 +38829,45 @@
 "tmdbId": 76203,
 "trailerKey": "z02Ie8wKKRg"
 },
+"cda:movie:78215:sub": {
+"access": "sub",
+"backdropPath": "/lLjWX6HuGGxuFJ9aJ9gBcSJzzDt.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:78215:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10752,
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kwiecień 1940 roku, początek II wojny światowej. Na norweskim niebie przypadkowo spotykają się dwa wrogie samoloty: brytyjski i niemiecki. Dochodzi do starcia, w wyniku którego obie załogi nie mogą wrócić do swoich baz i zmuszone są do przetrwania w nieprzyjaznym pustkowiu podczas brutalnej zimy. Muszą walczyć by przeżyć i wrócić do wojny - i znów walczyć ze sobą. Chociaż wojna uczyniła z nich wrogów, wzajemna chęć przetrwania prowadzi do nieprawdopodobnych przyjaźni, a zasady wojny przestają mieć znaczenie.",
+"overviewEn": "During World War II, enemy fighter pilots find themselves face to face after shooting down one another's planes over a desolate landscape. In order to survive, they must set aside the rules of war.",
+"popularity": 1.88,
+"ratings": {
+"imdb": 7.1,
+"imdbVotes": 23669,
+"tmdb": 6.9
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Śniegi Wojny",
+"titleEn": "Into the White",
+"tmdbId": 78215,
+"trailerKey": "MpcFKka5MEI"
+},
 "cda:movie:788940:paid": {
 "access": "paid",
 "backdropPath": "/89Wgi8Mbj4xfCvZR9OTVVxwpP4F.jpg",
@@ -38011,6 +39008,37 @@
 "title": "El 30-30",
 "titleEn": null,
 "tmdbId": 807680,
+"trailerKey": null
+},
+"cda:movie:809699:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:809699:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The 2016 concert HAPPENING by the band Guckkasten was greatly loved for its passionate performance.  Guckkasten unleashes explosive energy that overwhelms the audience through their excellent singing ability and perfect live performance. Experience the large-scale concert with colorful videos, special effects and sounds on the mega-sized stage through the screens at the movie theater.",
+"overviewEn": "The 2016 concert HAPPENING by the band Guckkasten was greatly loved for its passionate performance.  Guckkasten unleashes explosive energy that overwhelms the audience through their excellent singing ability and perfect live performance. Experience the large-scale concert with colorful videos, special effects and sounds on the mega-sized stage through the screens at the movie theater.",
+"popularity": 0.09,
+"ratings": null,
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "국카스텐 콘서트 실황 : 해프닝",
+"titleEn": "Guckkasten Live Concert: HAPPENING",
+"tmdbId": 809699,
 "trailerKey": null
 },
 "cda:movie:82390:paid": {
@@ -38463,6 +39491,45 @@
 "titleEn": "Visiting Hours",
 "tmdbId": 961080,
 "trailerKey": "lxLbhLodbpg"
+},
+"cda:movie:974635:free": {
+"access": "free",
+"backdropPath": "/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:974635:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na co dzień skryty i nieśmiały profesor filozofii Gary Johnson, pokazuje drugie oblicze, dorabiając jako „fałszywy zabójca” na usługach Departamentu Policji z Nowego Orleanu. Obdarzony niespotykanym talentem do zdumiewających metamorfoz i przebieranek, mężczyzna nie ma sobie równych w wyłapywaniu ludzi planujących morderstwa swoich wrogów. Co jednak, gdy – podszywając się pod seksownego killera – sam znajdzie się pod wpływem i urokiem kobiety, którą zamierzał posłać za kratki? Czy uwikłany w gorący romans zdoła oprzeć się pięknej Madison, czy też sam stanie się ofiarą w tej przebiegłej grze pozorów?",
+"overviewEn": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+"popularity": 5.72,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 135728,
+"tmdb": 6.8
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Hit Man",
+"titleEn": null,
+"tmdbId": 974635,
+"trailerKey": "uoSlbklJuC0"
 },
 "cda:movie:978073:paid": {
 "access": "paid",
@@ -41902,7 +42969,7 @@
 "origin": "diff",
 "overview": "Na górskim szczycie, w ciemnej jaskini mieszka złośliwy Grinch, który nie cierpi świąt Bożego Narodzenia. Postanawia zepsuć je mieszkańcom leżącego w pobliżu miasteczka. Mała Cindy Lou chcę na własną rękę rozprawić się z Grinchem i jest gotowa zrobić wszystko, aby i on pokochał święta.",
 "overviewEn": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
-"popularity": 16.8,
+"popularity": 21.45,
 "ratings": {
 "imdb": 6.4,
 "imdbVotes": 337687,
@@ -41941,7 +43008,7 @@
 "origin": "diff",
 "overview": "Na górskim szczycie, w ciemnej jaskini mieszka złośliwy Grinch, który nie cierpi świąt Bożego Narodzenia. Postanawia zepsuć je mieszkańcom leżącego w pobliżu miasteczka. Mała Cindy Lou chcę na własną rękę rozprawić się z Grinchem i jest gotowa zrobić wszystko, aby i on pokochał święta.",
 "overviewEn": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
-"popularity": 16.8,
+"popularity": 21.45,
 "ratings": {
 "imdb": 6.4,
 "imdbVotes": 337687,
@@ -43034,7 +44101,7 @@
 "ratings": {
 "imdb": 7.8,
 "imdbVotes": 16254,
-"tmdb": 8.5
+"tmdb": 8.4
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -43799,7 +44866,7 @@
 "ratings": {
 "imdb": 7.7,
 "imdbVotes": 487,
-"tmdb": 8.4
+"tmdb": 8.6
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -43837,7 +44904,7 @@
 "ratings": {
 "imdb": 7.7,
 "imdbVotes": 487,
-"tmdb": 8.4
+"tmdb": 8.6
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -43875,7 +44942,7 @@
 "ratings": {
 "imdb": 7.7,
 "imdbVotes": 487,
-"tmdb": 8.4
+"tmdb": 8.6
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -43913,7 +44980,7 @@
 "ratings": {
 "imdb": 7.7,
 "imdbVotes": 487,
-"tmdb": 8.4
+"tmdb": 8.6
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -43951,7 +45018,7 @@
 "ratings": {
 "imdb": 7.7,
 "imdbVotes": 487,
-"tmdb": 8.4
+"tmdb": 8.6
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -47188,6 +48255,42 @@
 "tmdbId": 1333099,
 "trailerKey": "8rZOnj30zN8"
 },
+"hbomax:movie:1338672:sub": {
+"access": "sub",
+"backdropPath": "/tBG4WQ1JDF0ZJ112gjZalnP7XhQ.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:1338672:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Grounded and romantic Kári loves his simple life in a small village on an isolated island, in one of the smallest countries in the world. But times soon take a turn for the worse; the only source of income for the local community is the fish factory where he works, and when it faces closure, the workers and his best friend look for a way out. But unlike most young people on the island, Kári wants to stay, at peace with things as they are. Even when everyone is chasing a better future somewhere else, Kári decides to stay and face the challenges head-on. Because for him, his home town is The Last Paradise on Earth.",
+"overviewEn": "Grounded and romantic Kári loves his simple life in a small village on an isolated island, in one of the smallest countries in the world. But times soon take a turn for the worse; the only source of income for the local community is the fish factory where he works, and when it faces closure, the workers and his best friend look for a way out. But unlike most young people on the island, Kári wants to stay, at peace with things as they are. Even when everyone is chasing a better future somewhere else, Kári decides to stay and face the challenges head-on. Because for him, his home town is The Last Paradise on Earth.",
+"popularity": 0.64,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 168
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Det sidste paradis på jorden",
+"titleEn": "The Last Paradise on Earth",
+"tmdbId": 1338672,
+"trailerKey": "h3l1T8i2Ryg"
+},
 "hbomax:movie:1365712:paid": {
 "access": "paid",
 "backdropPath": "/huRRHTVIPF10XG3SbAyvHs5K9Ks.jpg",
@@ -47288,7 +48391,7 @@
 "origin": "schedule",
 "overview": "Mężczyzna walczący z biedą coraz bardziej zatraca się moralnie, desperacko dążąc do lepszego życia.",
 "overviewEn": "On the cusp of his 50th birthday, Nacer Belkacem dreams of a better life. Yet, over the years, he has built himself an enviable position in the eyes of all: a loving family man, a happy husband, a model employee, and a respected citizen in his community. But the veneer is cracking. Beneath a seemingly perfect surface, Nacer has racked up expenses, made questionable investments, and is up to his neck in debt. On the brink of ruin, he devises a desperate plan to try to pull himself out of the water. You only have one life to earn your way to heaven...",
-"popularity": 1.71,
+"popularity": 1.26,
 "ratings": {
 "imdb": 6.9,
 "imdbVotes": 106
@@ -47944,7 +49047,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -47977,7 +49080,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -47985,6 +49088,42 @@
 "title": "Once Upon a Time... in Hollywood: Behind the Scenes",
 "titleEn": null,
 "tmdbId": 1817731,
+"trailerKey": null
+},
+"hbomax:movie:1821397:sub": {
+"access": "sub",
+"backdropPath": "/7iL7xylQHSO6OSlPdK9WHtc2V7P.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:1821397:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.01,
+"ratings": {
+"imdb": 8.4,
+"imdbVotes": 33
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Tiny Toons Looniversity: Spring Break",
+"titleEn": null,
+"tmdbId": 1821397,
 "trailerKey": null
 },
 "hbomax:movie:185644:paid": {
@@ -52732,6 +53871,45 @@
 "tmdbId": 2808,
 "trailerKey": null
 },
+"hbomax:tv:2808:s8e13:sub": {
+"access": "sub",
+"backdropPath": "/gbmN2y9Dqm6XKEev1kd8GkGLLn.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:2808:s8e13:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 13,
+"episodeTo": 13,
+"genres": [
+16,
+10762,
+35
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Perypetie trójki licealistek, które za dnia są zwykłymi uczennicami, a w nocy tajnymi agentkami. ",
+"overviewEn": "Totally Spies! depicts three girlfriends 'with an attitude' who have to cope with their daily lives at high school as well as the unpredictable pressures of international espionage. They confront the most intimidating - and demented - of villains, each with their own special agenda for demonic, global rude behavior.",
+"popularity": 25.05,
+"ratings": {
+"imdb": 7.1,
+"imdbVotes": 14646,
+"tmdb": 7.4
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Odlotowe agentki",
+"titleEn": "Totally Spies!",
+"tmdbId": 2808,
+"trailerKey": null
+},
 "hbomax:tv:285418:paid": {
 "access": "paid",
 "backdropPath": "/iEISXRsDv8Q2PA6i9cAQd2DH9bN.jpg",
@@ -55690,6 +56868,45 @@
 "tmdbId": 1026999,
 "trailerKey": "0oLD1yYfgBY"
 },
+"netflix:movie:11088:paid": {
+"access": "paid",
+"backdropPath": "/1acmRn1cnPnavQGQCrIJOERd6vX.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:11088:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Złodziej, z dużym stażem, specjalizujący się w kradzieży biżuterii, wysyła na kolejny napad swojego siostrzeńca. Siostrzeniec nie wie, że jest on tylko pionkiem w grze, a wujkowi chodzi o to, aby sprawdzić czy jego partner jest lojalny.",
+"overviewEn": "Joe Moore has a job he loves. He's a thief. His job goes sour when he gets caught on security camera tape. His fence, Bergman, reneges on the money he's owed, and his wife may be betraying him with the fence's young lieutenant. Moore and his partner, Bobby Blane, and their utility man, Pinky Pincus, find themselves broke, betrayed, and blackmailed. Moore is forced to commit his crew to do one last big job.",
+"popularity": 9.05,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 43208,
+"tmdb": 6.3
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Skok",
+"titleEn": "Heist",
+"tmdbId": 11088,
+"trailerKey": "Yjmy0TcpDtA"
+},
 "netflix:movie:1254793:paid": {
 "access": "paid",
 "backdropPath": "/feYQbnTy9g3oODLSSdUss24Y1eX.jpg",
@@ -55940,6 +57157,84 @@
 "titleEn": "Unbearable Holidays",
 "tmdbId": 1399287,
 "trailerKey": null
+},
+"netflix:movie:141052:paid": {
+"access": "paid",
+"backdropPath": "/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:141052:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+12,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zainspirowany ofiarnym czynem Supermana (Henry Cavill) Bruce Wayne, który odzyskał wiarę w ludzkość, prosi swojego nowego sprzymierzeńca, Dianę Prince, o pomoc w pokonaniu jeszcze potężniejszego wroga. Nie tracąc czasu, Batman (Ben Affleck) i Wonder Woman (Gal Gadot) starają się znaleźć grupę metaludzi i przekonać ich do współpracy. Mają oni stanąć do walki z nowym zagrożeniem. Jednak mimo utworzenia jedynej w swoim rodzaju ligi superbohaterów, złożonej z Batmana, Wonder Woman, Aquamana (Jason Momoa), Cyborga (Ray Fisher) i Flasha (Ezra Miller), może być już za późno na uratowanie planety przed atakiem o katastroficznych rozmiarach.  [opis dystrybutora Blu-ray]",
+"overviewEn": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+"popularity": 12.13,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 512104,
+"tmdb": 6.1
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Liga Sprawiedliwości",
+"titleEn": "Justice League",
+"tmdbId": 141052,
+"trailerKey": "u280uGDxUcc"
+},
+"netflix:movie:141052:sub": {
+"access": "sub",
+"backdropPath": "/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:141052:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+12,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zainspirowany ofiarnym czynem Supermana (Henry Cavill) Bruce Wayne, który odzyskał wiarę w ludzkość, prosi swojego nowego sprzymierzeńca, Dianę Prince, o pomoc w pokonaniu jeszcze potężniejszego wroga. Nie tracąc czasu, Batman (Ben Affleck) i Wonder Woman (Gal Gadot) starają się znaleźć grupę metaludzi i przekonać ich do współpracy. Mają oni stanąć do walki z nowym zagrożeniem. Jednak mimo utworzenia jedynej w swoim rodzaju ligi superbohaterów, złożonej z Batmana, Wonder Woman, Aquamana (Jason Momoa), Cyborga (Ray Fisher) i Flasha (Ezra Miller), może być już za późno na uratowanie planety przed atakiem o katastroficznych rozmiarach.  [opis dystrybutora Blu-ray]",
+"overviewEn": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+"popularity": 12.13,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 512104,
+"tmdb": 6.1
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Liga Sprawiedliwości",
+"titleEn": "Justice League",
+"tmdbId": 141052,
+"trailerKey": "u280uGDxUcc"
 },
 "netflix:movie:147580:free": {
 "access": "free",
@@ -56594,7 +57889,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -56627,7 +57922,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -56672,6 +57967,39 @@
 "titleEn": "High End: The Watch Theft Ring",
 "tmdbId": 1817773,
 "trailerKey": null
+},
+"netflix:movie:1820172:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:1820172:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "In her debut hour-long stand-up special, Janelle James sounds off on body counts, bank accounts and why women should wrestle men.",
+"overviewEn": "In her debut hour-long stand-up special, Janelle James sounds off on body counts, bank accounts and why women should wrestle men.",
+"popularity": 2.06,
+"ratings": null,
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Janelle James: How Romantic",
+"titleEn": null,
+"tmdbId": 1820172,
+"trailerKey": "MeBysXIz-zM"
 },
 "netflix:movie:1858:paid": {
 "access": "paid",
@@ -59824,6 +61152,84 @@
 "titleEn": "Transformers: Revenge of the Fallen",
 "tmdbId": 8373,
 "trailerKey": "fnXzKwUgDhg"
+},
+"netflix:movie:8871:paid": {
+"access": "paid",
+"backdropPath": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:8871:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+35,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na górskim szczycie, w ciemnej jaskini mieszka złośliwy Grinch, który nie cierpi świąt Bożego Narodzenia. Postanawia zepsuć je mieszkańcom leżącego w pobliżu miasteczka. Mała Cindy Lou chcę na własną rękę rozprawić się z Grinchem i jest gotowa zrobić wszystko, aby i on pokochał święta.",
+"overviewEn": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
+"popularity": 21.45,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 337687,
+"tmdb": 6.8
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Grinch: Świąt nie będzie",
+"titleEn": "How the Grinch Stole Christmas",
+"tmdbId": 8871,
+"trailerKey": "UnyPPS1Z-Vs"
+},
+"netflix:movie:8871:sub": {
+"access": "sub",
+"backdropPath": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:8871:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+35,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na górskim szczycie, w ciemnej jaskini mieszka złośliwy Grinch, który nie cierpi świąt Bożego Narodzenia. Postanawia zepsuć je mieszkańcom leżącego w pobliżu miasteczka. Mała Cindy Lou chcę na własną rękę rozprawić się z Grinchem i jest gotowa zrobić wszystko, aby i on pokochał święta.",
+"overviewEn": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
+"popularity": 21.45,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 337687,
+"tmdb": 6.8
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Grinch: Świąt nie będzie",
+"titleEn": "How the Grinch Stole Christmas",
+"tmdbId": 8871,
+"trailerKey": "UnyPPS1Z-Vs"
 },
 "netflix:movie:900667:paid": {
 "access": "paid",
@@ -64723,6 +66129,40 @@
 "tmdbId": 320935,
 "trailerKey": null
 },
+"netflix:tv:320935:s1e30:sub": {
+"access": "sub",
+"backdropPath": "/82F7t5uoI9eYb6RyZvO6USNgcqF.jpg",
+"confirmedAt": null,
+"date": "2026-11-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:320935:s1e30:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 30,
+"episodeTo": 30,
+"genres": [
+80,
+10767
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Hosted weekly by journalist Ellison Barber, this gripping podcast digs into the most captivating and talked about true crime cases.",
+"overviewEn": "Hosted weekly by journalist Ellison Barber, this gripping podcast digs into the most captivating and talked about true crime cases.",
+"popularity": 4.02,
+"ratings": null,
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "Allegedly with Ellison Barber",
+"titleEn": null,
+"tmdbId": 320935,
+"trailerKey": null
+},
 "netflix:tv:321421:s1e879:sub": {
 "access": "sub",
 "backdropPath": "/9BTe8tU3OSA29Gn5487bVEGK44b.jpg",
@@ -68087,7 +69527,7 @@
 "ratings": {
 "imdb": 6.2,
 "imdbVotes": 6972,
-"tmdb": 6.7
+"tmdb": 6.8
 },
 "serviceKey": "player",
 "source": "tmdb",
@@ -68328,6 +69768,84 @@
 "titleEn": "PAW Patrol: The Dino Movie",
 "tmdbId": 1185806,
 "trailerKey": "yYzIsz2qcwA"
+},
+"player:movie:1195506:paid": {
+"access": "paid",
+"backdropPath": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1195506:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+35,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy dziewczyna jego marzeń zostaje porwana, zwykły człowiek Nate zamienia swoją niezdolność do odczuwania bólu w nieoczekiwaną siłę w walce o jej odzyskanie.",
+"overviewEn": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
+"popularity": 5.06,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 98119,
+"tmdb": 6.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Nowokaina",
+"titleEn": "Novocaine",
+"tmdbId": 1195506,
+"trailerKey": "L63vbrf8cNc"
+},
+"player:movie:1195506:sub": {
+"access": "sub",
+"backdropPath": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1195506:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+35,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy dziewczyna jego marzeń zostaje porwana, zwykły człowiek Nate zamienia swoją niezdolność do odczuwania bólu w nieoczekiwaną siłę w walce o jej odzyskanie.",
+"overviewEn": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
+"popularity": 5.06,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 98119,
+"tmdb": 6.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Nowokaina",
+"titleEn": "Novocaine",
+"tmdbId": 1195506,
+"trailerKey": "L63vbrf8cNc"
 },
 "player:movie:1223663:paid": {
 "access": "paid",
@@ -68851,9 +70369,9 @@
 "withAds": false
 },
 "origin": "diff",
-"overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+"overview": "Niezwykła historia George'a Washingtona - geodety, który został dowódcą, stanął do walki o niepodległość Ameryki i jednogłośnie wybrano go na pierwszego prezydenta kraju.",
 "overviewEn": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-"popularity": 6.72,
+"popularity": 6.21,
 "ratings": {
 "imdb": 6.8,
 "imdbVotes": 15153,
@@ -68890,9 +70408,9 @@
 "withAds": false
 },
 "origin": "diff",
-"overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+"overview": "Niezwykła historia George'a Washingtona - geodety, który został dowódcą, stanął do walki o niepodległość Ameryki i jednogłośnie wybrano go na pierwszego prezydenta kraju.",
 "overviewEn": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-"popularity": 6.72,
+"popularity": 6.21,
 "ratings": {
 "imdb": 6.8,
 "imdbVotes": 15153,
@@ -69202,7 +70720,7 @@
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 14355,
-"tmdb": 7.8
+"tmdb": 7.7
 },
 "serviceKey": "player",
 "source": "tmdb",
@@ -69325,6 +70843,45 @@
 "titleEn": "Just an Illusion",
 "tmdbId": 1404684,
 "trailerKey": "vZtK0AdeXk8"
+},
+"player:movie:141052:sub": {
+"access": "sub",
+"backdropPath": "/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:141052:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+12,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zainspirowany ofiarnym czynem Supermana (Henry Cavill) Bruce Wayne, który odzyskał wiarę w ludzkość, prosi swojego nowego sprzymierzeńca, Dianę Prince, o pomoc w pokonaniu jeszcze potężniejszego wroga. Nie tracąc czasu, Batman (Ben Affleck) i Wonder Woman (Gal Gadot) starają się znaleźć grupę metaludzi i przekonać ich do współpracy. Mają oni stanąć do walki z nowym zagrożeniem. Jednak mimo utworzenia jedynej w swoim rodzaju ligi superbohaterów, złożonej z Batmana, Wonder Woman, Aquamana (Jason Momoa), Cyborga (Ray Fisher) i Flasha (Ezra Miller), może być już za późno na uratowanie planety przed atakiem o katastroficznych rozmiarach.  [opis dystrybutora Blu-ray]",
+"overviewEn": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+"popularity": 12.13,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 512104,
+"tmdb": 6.1
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Liga Sprawiedliwości",
+"titleEn": "Justice League",
+"tmdbId": 141052,
+"trailerKey": "u280uGDxUcc"
 },
 "player:movie:1416893:paid": {
 "access": "paid",
@@ -69935,7 +71492,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "player",
 "source": "tmdb",
@@ -69968,7 +71525,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "player",
 "source": "tmdb",
@@ -70042,6 +71599,42 @@
 "title": "BEAUTY AND THE BEAST SING-ALONG",
 "titleEn": null,
 "tmdbId": 1819518,
+"trailerKey": null
+},
+"player:movie:1820378:sub": {
+"access": "sub",
+"backdropPath": "/843chXtFQy9ulPQVcbMgd3zmIQj.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1820378:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dziennikarz Jacek Podemski i reżyser Armin Kurasz wchodzą do zamkniętej strefy wokół elektrowni w Czarnobylu, aż do sterowni reaktora nr 4, i pokazują, jak dziś wygląda miejsce katastrofy z 1986 roku.",
+"overviewEn": "Journalist Jacek Podemski and director Armin Kurasz enter the closed zone around the Chernobyl nuclear power plant, all the way to the control room of Reactor No. 4, and show what the site of the 1986 disaster looks like today.",
+"popularity": 0.12,
+"ratings": {
+"imdb": 7.6,
+"imdbVotes": 246
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Czarnobyl. Wstęp wzbroniony",
+"titleEn": null,
+"tmdbId": 1820378,
 "trailerKey": null
 },
 "player:movie:1830:sub": {
@@ -71393,6 +72986,84 @@
 "tmdbId": 574475,
 "trailerKey": "blC3CuwNCzY"
 },
+"player:movie:575265:paid": {
+"access": "paid",
+"backdropPath": "/xPNDRM50a58uvv1il2GVZrtWjkZ.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:575265:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53,
+12
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Ethan Hunt i zespół IMF kontynuują poszukiwania przerażającej SI znanej jako Entity - która zinfiltrowała sieci wywiadowcze na całym świecie - z rządami świata i tajemniczym duchem z przeszłości Ethana na ich tropie. Dołączyli do nich nowi sojusznicy i uzbrojeni w środki, aby raz na zawsze zamknąć Entity, Hunt ściga się z czasem, aby zapobiec zmianie świata, jaki znamy, na zawsze.",
+"overviewEn": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+"popularity": 18.92,
+"ratings": {
+"imdb": 7.1,
+"imdbVotes": 244233,
+"tmdb": 7.2
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Mission: Impossible - The Final Reckoning",
+"titleEn": null,
+"tmdbId": 575265,
+"trailerKey": "iUtE29BGczM"
+},
+"player:movie:575265:sub": {
+"access": "sub",
+"backdropPath": "/xPNDRM50a58uvv1il2GVZrtWjkZ.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:575265:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53,
+12
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Ethan Hunt i zespół IMF kontynuują poszukiwania przerażającej SI znanej jako Entity - która zinfiltrowała sieci wywiadowcze na całym świecie - z rządami świata i tajemniczym duchem z przeszłości Ethana na ich tropie. Dołączyli do nich nowi sojusznicy i uzbrojeni w środki, aby raz na zawsze zamknąć Entity, Hunt ściga się z czasem, aby zapobiec zmianie świata, jaki znamy, na zawsze.",
+"overviewEn": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+"popularity": 18.92,
+"ratings": {
+"imdb": 7.1,
+"imdbVotes": 244233,
+"tmdb": 7.2
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Mission: Impossible - The Final Reckoning",
+"titleEn": null,
+"tmdbId": 575265,
+"trailerKey": "iUtE29BGczM"
+},
 "player:movie:59436:paid": {
 "access": "paid",
 "backdropPath": "/b5bcKhvN6VP82U5ztNdPfOLiolD.jpg",
@@ -71896,6 +73567,37 @@
 "tmdbId": 760204,
 "trailerKey": "ebjFxaZfrQw"
 },
+"player:movie:809699:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:809699:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The 2016 concert HAPPENING by the band Guckkasten was greatly loved for its passionate performance.  Guckkasten unleashes explosive energy that overwhelms the audience through their excellent singing ability and perfect live performance. Experience the large-scale concert with colorful videos, special effects and sounds on the mega-sized stage through the screens at the movie theater.",
+"overviewEn": "The 2016 concert HAPPENING by the band Guckkasten was greatly loved for its passionate performance.  Guckkasten unleashes explosive energy that overwhelms the audience through their excellent singing ability and perfect live performance. Experience the large-scale concert with colorful videos, special effects and sounds on the mega-sized stage through the screens at the movie theater.",
+"popularity": 0.09,
+"ratings": null,
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "국카스텐 콘서트 실황 : 해프닝",
+"titleEn": "Guckkasten Live Concert: HAPPENING",
+"tmdbId": 809699,
+"trailerKey": null
+},
 "player:movie:81208:paid": {
 "access": "paid",
 "backdropPath": "/iA7TuFOthwAt3C35OlCyQnSFvLb.jpg",
@@ -72122,6 +73824,84 @@
 "tmdbId": 87101,
 "trailerKey": "Dx3ShEjUId0"
 },
+"player:movie:936108:paid": {
+"access": "paid",
+"backdropPath": "/9whEVuKte4Qi0LI4TzPf7glinJW.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:936108:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+10751,
+14
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy Papa Smerf zostaje w tajemniczy sposób porwany przez Razamela i Gargamela, Smerfetka poprowadzi misję Smerfów do prawdziwego świata, aby go uratować. Z pomocą nowych przyjaciół Smerfy odkryją co jest ich przeznaczeniem.",
+"overviewEn": "When Papa Smurf is mysteriously taken by evil wizards, Razamel and Gargamel, Smurfette leads the Smurfs on a mission into the real world to save him. With the help of new friends, the Smurfs must discover what defines their destiny to save the universe.",
+"popularity": 7.02,
+"ratings": {
+"imdb": 4.3,
+"imdbVotes": 7843,
+"tmdb": 5.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Smerfy. Wielki film",
+"titleEn": "Smurfs",
+"tmdbId": 936108,
+"trailerKey": "jg7KtgiiAjw"
+},
+"player:movie:936108:sub": {
+"access": "sub",
+"backdropPath": "/9whEVuKte4Qi0LI4TzPf7glinJW.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:936108:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+10751,
+14
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy Papa Smerf zostaje w tajemniczy sposób porwany przez Razamela i Gargamela, Smerfetka poprowadzi misję Smerfów do prawdziwego świata, aby go uratować. Z pomocą nowych przyjaciół Smerfy odkryją co jest ich przeznaczeniem.",
+"overviewEn": "When Papa Smurf is mysteriously taken by evil wizards, Razamel and Gargamel, Smurfette leads the Smurfs on a mission into the real world to save him. With the help of new friends, the Smurfs must discover what defines their destiny to save the universe.",
+"popularity": 7.02,
+"ratings": {
+"imdb": 4.3,
+"imdbVotes": 7843,
+"tmdb": 5.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Smerfy. Wielki film",
+"titleEn": "Smurfs",
+"tmdbId": 936108,
+"trailerKey": "jg7KtgiiAjw"
+},
 "player:movie:938150:paid": {
 "access": "paid",
 "backdropPath": "/cVhvKbZS8H0oqKDGzoKvgG9dS1B.jpg",
@@ -72159,6 +73939,84 @@
 "titleEn": "Wardriver",
 "tmdbId": 938150,
 "trailerKey": "IZ-lmlN9JVw"
+},
+"player:movie:939243:paid": {
+"access": "paid",
+"backdropPath": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:939243:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+878,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Sonic, Knuckles i Tails ponownie łączą siły przeciwko potężnemu nowemu przeciwnikowi, Shadowowi. Shadow to tajemniczy złoczyńca z mocami niepodobnymi do niczego, z czym mieli do czynienia wcześniej. Drużyna Sonica musi szukać nieprawdopodobnego sojuszu w nadziei na powstrzymanie złoczyńcy i ochronę planety.",
+"overviewEn": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+"popularity": 17.3,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 86195,
+"tmdb": 7.6
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Sonic 3. Szybki jak błyskawica",
+"titleEn": "Sonic the Hedgehog 3",
+"tmdbId": 939243,
+"trailerKey": "Up8d3yWiStc"
+},
+"player:movie:939243:sub": {
+"access": "sub",
+"backdropPath": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:939243:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+878,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Sonic, Knuckles i Tails ponownie łączą siły przeciwko potężnemu nowemu przeciwnikowi, Shadowowi. Shadow to tajemniczy złoczyńca z mocami niepodobnymi do niczego, z czym mieli do czynienia wcześniej. Drużyna Sonica musi szukać nieprawdopodobnego sojuszu w nadziei na powstrzymanie złoczyńcy i ochronę planety.",
+"overviewEn": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+"popularity": 17.3,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 86195,
+"tmdb": 7.6
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Sonic 3. Szybki jak błyskawica",
+"titleEn": "Sonic the Hedgehog 3",
+"tmdbId": 939243,
+"trailerKey": "Up8d3yWiStc"
 },
 "player:movie:964849:paid": {
 "access": "paid",
@@ -72274,6 +74132,45 @@
 "titleEn": "Spider-Man: Brand New Day",
 "tmdbId": 969681,
 "trailerKey": "P3uI5sLosKU"
+},
+"player:movie:974635:free": {
+"access": "free",
+"backdropPath": "/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:974635:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na co dzień skryty i nieśmiały profesor filozofii Gary Johnson, pokazuje drugie oblicze, dorabiając jako „fałszywy zabójca” na usługach Departamentu Policji z Nowego Orleanu. Obdarzony niespotykanym talentem do zdumiewających metamorfoz i przebieranek, mężczyzna nie ma sobie równych w wyłapywaniu ludzi planujących morderstwa swoich wrogów. Co jednak, gdy – podszywając się pod seksownego killera – sam znajdzie się pod wpływem i urokiem kobiety, którą zamierzał posłać za kratki? Czy uwikłany w gorący romans zdoła oprzeć się pięknej Madison, czy też sam stanie się ofiarą w tej przebiegłej grze pozorów?",
+"overviewEn": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+"popularity": 5.72,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 135728,
+"tmdb": 6.8
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Hit Man",
+"titleEn": null,
+"tmdbId": 974635,
+"trailerKey": "uoSlbklJuC0"
 },
 "player:movie:983526:sub": {
 "access": "sub",
@@ -79558,11 +81455,11 @@
 "origin": "diff",
 "overview": "Na uboczu prowincjonalnej Ameryki żyje charyzmatyczny outsider, muzyk i lokalny przedsiębiorca, który przewodzi nietuzinkowej społeczności. Gdy po latach do jego życia niespodziewanie wraca przybrana córka, mężczyzna dostrzega szansę na odbudowanie relacji i stworzenie prawdziwego rodzinnego biznesu. Ich wspólna przyszłość szybko jednak staje pod znakiem zapytania - konkurenci zrobią wszystko, by zniszczyć to, co było budowane przez lata. W świecie, gdzie granica między dobrem a złem jest niejasna, a lojalność ma swoją cenę, nowo odbudowana rodzina będzie musiała zawalczyć nie tylko o przetrwanie, ale i o siebie nawzajem.",
 "overviewEn": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-"popularity": 7.18,
+"popularity": 8.98,
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 9169,
-"tmdb": 6.8
+"tmdb": 6.7
 },
 "serviceKey": "polsatboxgo",
 "source": "tmdb",
@@ -79597,11 +81494,11 @@
 "origin": "diff",
 "overview": "Na uboczu prowincjonalnej Ameryki żyje charyzmatyczny outsider, muzyk i lokalny przedsiębiorca, który przewodzi nietuzinkowej społeczności. Gdy po latach do jego życia niespodziewanie wraca przybrana córka, mężczyzna dostrzega szansę na odbudowanie relacji i stworzenie prawdziwego rodzinnego biznesu. Ich wspólna przyszłość szybko jednak staje pod znakiem zapytania - konkurenci zrobią wszystko, by zniszczyć to, co było budowane przez lata. W świecie, gdzie granica między dobrem a złem jest niejasna, a lojalność ma swoją cenę, nowo odbudowana rodzina będzie musiała zawalczyć nie tylko o przetrwanie, ale i o siebie nawzajem.",
 "overviewEn": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-"popularity": 7.18,
+"popularity": 8.98,
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 9169,
-"tmdb": 6.8
+"tmdb": 6.7
 },
 "serviceKey": "polsatboxgo",
 "source": "tmdb",
@@ -79716,7 +81613,7 @@
 "ratings": {
 "imdb": 6.2,
 "imdbVotes": 6972,
-"tmdb": 6.7
+"tmdb": 6.8
 },
 "serviceKey": "polsatboxgo",
 "source": "tmdb",
@@ -79879,6 +81776,84 @@
 "titleEn": "De Gaulle: Résistance",
 "tmdbId": 1165366,
 "trailerKey": "dKUArYoZ_0U"
+},
+"polsatboxgo:movie:1165369:paid": {
+"access": "paid",
+"backdropPath": "/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1165369:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+18,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "1943–1944. Aby wyzwolić Francję, generał de Gaulle musi zjednoczyć podzielony Ruch Oporu. Walczy również o potwierdzenie swojej legitymacji u aliantów.",
+"overviewEn": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+"popularity": 11.02,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 2793,
+"tmdb": 7.9
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "De Gaulle: Droga do wolności",
+"titleEn": "De Gaulle: Liberté",
+"tmdbId": 1165369,
+"trailerKey": "J6MRNchmZkY"
+},
+"polsatboxgo:movie:1165369:sub": {
+"access": "sub",
+"backdropPath": "/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1165369:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+18,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "1943–1944. Aby wyzwolić Francję, generał de Gaulle musi zjednoczyć podzielony Ruch Oporu. Walczy również o potwierdzenie swojej legitymacji u aliantów.",
+"overviewEn": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+"popularity": 11.02,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 2793,
+"tmdb": 7.9
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "De Gaulle: Droga do wolności",
+"titleEn": "De Gaulle: Liberté",
+"tmdbId": 1165369,
+"trailerKey": "J6MRNchmZkY"
 },
 "polsatboxgo:movie:116:paid": {
 "access": "paid",
@@ -80659,9 +82634,9 @@
 "withAds": false
 },
 "origin": "diff",
-"overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+"overview": "Niezwykła historia George'a Washingtona - geodety, który został dowódcą, stanął do walki o niepodległość Ameryki i jednogłośnie wybrano go na pierwszego prezydenta kraju.",
 "overviewEn": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-"popularity": 6.72,
+"popularity": 6.21,
 "ratings": {
 "imdb": 6.8,
 "imdbVotes": 15153,
@@ -80698,9 +82673,9 @@
 "withAds": false
 },
 "origin": "diff",
-"overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+"overview": "Niezwykła historia George'a Washingtona - geodety, który został dowódcą, stanął do walki o niepodległość Ameryki i jednogłośnie wybrano go na pierwszego prezydenta kraju.",
 "overviewEn": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-"popularity": 6.72,
+"popularity": 6.21,
 "ratings": {
 "imdb": 6.8,
 "imdbVotes": 15153,
@@ -80713,6 +82688,78 @@
 "titleEn": "Young Washington",
 "tmdbId": 1308767,
 "trailerKey": "LJek-kc384w"
+},
+"polsatboxgo:movie:1310677:paid": {
+"access": "paid",
+"backdropPath": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1310677:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młoda uciekinierka z Korei Północnej trafia do Korei Południowej i próbuje odnaleźć się w nowym, zupełnie obcym świecie.",
+"overviewEn": "A young North Korean refugee fights to rebuild her life in fast-paced, hyper-modern South Korea, forcing her to confront the price of freedom and the past she left behind.",
+"popularity": 1.53,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 186
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Jedna Korea",
+"titleEn": "Hana Korea",
+"tmdbId": 1310677,
+"trailerKey": "vgD9NKGLm1s"
+},
+"polsatboxgo:movie:1310677:sub": {
+"access": "sub",
+"backdropPath": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1310677:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młoda uciekinierka z Korei Północnej trafia do Korei Południowej i próbuje odnaleźć się w nowym, zupełnie obcym świecie.",
+"overviewEn": "A young North Korean refugee fights to rebuild her life in fast-paced, hyper-modern South Korea, forcing her to confront the price of freedom and the past she left behind.",
+"popularity": 1.53,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 186
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Jedna Korea",
+"titleEn": "Hana Korea",
+"tmdbId": 1310677,
+"trailerKey": "vgD9NKGLm1s"
 },
 "polsatboxgo:movie:1317288:sub": {
 "access": "sub",
@@ -81164,6 +83211,44 @@
 "tmdbId": 1385223,
 "trailerKey": null
 },
+"polsatboxgo:movie:1403331:sub": {
+"access": "sub",
+"backdropPath": "/2jU5fl5gcTcZsjHbW9xnz0XwGdl.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1403331:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+9648,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Mężczyzna walczący z biedą coraz bardziej zatraca się moralnie, desperacko dążąc do lepszego życia.",
+"overviewEn": "On the cusp of his 50th birthday, Nacer Belkacem dreams of a better life. Yet, over the years, he has built himself an enviable position in the eyes of all: a loving family man, a happy husband, a model employee, and a respected citizen in his community. But the veneer is cracking. Beneath a seemingly perfect surface, Nacer has racked up expenses, made questionable investments, and is up to his neck in debt. On the brink of ruin, he devises a desperate plan to try to pull himself out of the water. You only have one life to earn your way to heaven...",
+"popularity": 1.26,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 106
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Cena raju",
+"titleEn": "The Cost of Heaven",
+"tmdbId": 1403331,
+"trailerKey": "rhrZNNaE6Sk"
+},
 "polsatboxgo:movie:1404684:sub": {
 "access": "sub",
 "backdropPath": "/l1fhfzNclQcp4oBz550KMY0CTre.jpg",
@@ -81601,6 +83686,39 @@
 "titleEn": "Blackout",
 "tmdbId": 1624183,
 "trailerKey": "GHKqcxCQLBE"
+},
+"polsatboxgo:movie:1817731:paid": {
+"access": "paid",
+"backdropPath": "/rqWIbOczC3DN2g2Pg1xTBhRNfwi.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1817731:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "5-part making of featurette that goes over the film's production.",
+"overviewEn": "5-part making of featurette that goes over the film's production.",
+"popularity": 0.33,
+"ratings": null,
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Once Upon a Time... in Hollywood: Behind the Scenes",
+"titleEn": null,
+"tmdbId": 1817731,
+"trailerKey": null
 },
 "polsatboxgo:movie:1830:paid": {
 "access": "paid",
@@ -84770,6 +86888,45 @@
 "tmdbId": 969681,
 "trailerKey": "P3uI5sLosKU"
 },
+"polsatboxgo:movie:974635:free": {
+"access": "free",
+"backdropPath": "/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:974635:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na co dzień skryty i nieśmiały profesor filozofii Gary Johnson, pokazuje drugie oblicze, dorabiając jako „fałszywy zabójca” na usługach Departamentu Policji z Nowego Orleanu. Obdarzony niespotykanym talentem do zdumiewających metamorfoz i przebieranek, mężczyzna nie ma sobie równych w wyłapywaniu ludzi planujących morderstwa swoich wrogów. Co jednak, gdy – podszywając się pod seksownego killera – sam znajdzie się pod wpływem i urokiem kobiety, którą zamierzał posłać za kratki? Czy uwikłany w gorący romans zdoła oprzeć się pięknej Madison, czy też sam stanie się ofiarą w tej przebiegłej grze pozorów?",
+"overviewEn": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+"popularity": 5.72,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 135728,
+"tmdb": 6.8
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Hit Man",
+"titleEn": null,
+"tmdbId": 974635,
+"trailerKey": "uoSlbklJuC0"
+},
 "polsatboxgo:movie:983526:paid": {
 "access": "paid",
 "backdropPath": "/elH2ZWRHOKpjUNHROvpTCZIvuO7.jpg",
@@ -86165,11 +88322,11 @@
 "origin": "diff",
 "overview": "Na uboczu prowincjonalnej Ameryki żyje charyzmatyczny outsider, muzyk i lokalny przedsiębiorca, który przewodzi nietuzinkowej społeczności. Gdy po latach do jego życia niespodziewanie wraca przybrana córka, mężczyzna dostrzega szansę na odbudowanie relacji i stworzenie prawdziwego rodzinnego biznesu. Ich wspólna przyszłość szybko jednak staje pod znakiem zapytania - konkurenci zrobią wszystko, by zniszczyć to, co było budowane przez lata. W świecie, gdzie granica między dobrem a złem jest niejasna, a lojalność ma swoją cenę, nowo odbudowana rodzina będzie musiała zawalczyć nie tylko o przetrwanie, ale i o siebie nawzajem.",
 "overviewEn": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-"popularity": 7.18,
+"popularity": 8.98,
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 9169,
-"tmdb": 6.8
+"tmdb": 6.7
 },
 "serviceKey": "prime",
 "source": "tmdb",
@@ -86204,11 +88361,11 @@
 "origin": "diff",
 "overview": "Na uboczu prowincjonalnej Ameryki żyje charyzmatyczny outsider, muzyk i lokalny przedsiębiorca, który przewodzi nietuzinkowej społeczności. Gdy po latach do jego życia niespodziewanie wraca przybrana córka, mężczyzna dostrzega szansę na odbudowanie relacji i stworzenie prawdziwego rodzinnego biznesu. Ich wspólna przyszłość szybko jednak staje pod znakiem zapytania - konkurenci zrobią wszystko, by zniszczyć to, co było budowane przez lata. W świecie, gdzie granica między dobrem a złem jest niejasna, a lojalność ma swoją cenę, nowo odbudowana rodzina będzie musiała zawalczyć nie tylko o przetrwanie, ale i o siebie nawzajem.",
 "overviewEn": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-"popularity": 7.18,
+"popularity": 8.98,
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 9169,
-"tmdb": 6.8
+"tmdb": 6.7
 },
 "serviceKey": "prime",
 "source": "tmdb",
@@ -86401,7 +88558,7 @@
 "ratings": {
 "imdb": 6.2,
 "imdbVotes": 6972,
-"tmdb": 6.7
+"tmdb": 6.8
 },
 "serviceKey": "prime",
 "source": "tmdb",
@@ -86612,6 +88769,45 @@
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "prime:movie:1165369:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+18,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "1943–1944. Aby wyzwolić Francję, generał de Gaulle musi zjednoczyć podzielony Ruch Oporu. Walczy również o potwierdzenie swojej legitymacji u aliantów.",
+"overviewEn": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+"popularity": 11.02,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 2793,
+"tmdb": 7.9
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "De Gaulle: Droga do wolności",
+"titleEn": "De Gaulle: Liberté",
+"tmdbId": 1165369,
+"trailerKey": "J6MRNchmZkY"
+},
+"prime:movie:1165369:sub": {
+"access": "sub",
+"backdropPath": "/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1165369:sub",
 "mediaType": "movie",
 "meta": {
 "allEpisodes": false,
@@ -88075,7 +90271,7 @@
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 14355,
-"tmdb": 7.8
+"tmdb": 7.7
 },
 "serviceKey": "prime",
 "source": "tmdb",
@@ -88309,6 +90505,45 @@
 "titleEn": "Just an Illusion",
 "tmdbId": 1404684,
 "trailerKey": "vZtK0AdeXk8"
+},
+"prime:movie:141052:sub": {
+"access": "sub",
+"backdropPath": "/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:141052:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+12,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zainspirowany ofiarnym czynem Supermana (Henry Cavill) Bruce Wayne, który odzyskał wiarę w ludzkość, prosi swojego nowego sprzymierzeńca, Dianę Prince, o pomoc w pokonaniu jeszcze potężniejszego wroga. Nie tracąc czasu, Batman (Ben Affleck) i Wonder Woman (Gal Gadot) starają się znaleźć grupę metaludzi i przekonać ich do współpracy. Mają oni stanąć do walki z nowym zagrożeniem. Jednak mimo utworzenia jedynej w swoim rodzaju ligi superbohaterów, złożonej z Batmana, Wonder Woman, Aquamana (Jason Momoa), Cyborga (Ray Fisher) i Flasha (Ezra Miller), może być już za późno na uratowanie planety przed atakiem o katastroficznych rozmiarach.  [opis dystrybutora Blu-ray]",
+"overviewEn": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+"popularity": 12.13,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 512104,
+"tmdb": 6.1
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Liga Sprawiedliwości",
+"titleEn": "Justice League",
+"tmdbId": 141052,
+"trailerKey": "u280uGDxUcc"
 },
 "prime:movie:1423191:paid": {
 "access": "paid",
@@ -89085,6 +91320,39 @@
 "tmdbId": 16535,
 "trailerKey": "r2z4DQcKl2c"
 },
+"prime:movie:1707002:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1707002:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.13,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Cammino Minerario di Santa Barbara",
+"titleEn": null,
+"tmdbId": 1707002,
+"trailerKey": null
+},
 "prime:movie:173185:sub": {
 "access": "sub",
 "backdropPath": "/uuAbE6pP6VF7LxeOTokMUeDPyPI.jpg",
@@ -89284,7 +91552,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "prime",
 "source": "tmdb",
@@ -89317,7 +91585,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "prime",
 "source": "tmdb",
@@ -93904,6 +96172,42 @@
 "tmdbId": 6977,
 "trailerKey": "A0oNrgumrlE"
 },
+"prime:movie:712717:paid": {
+"access": "paid",
+"backdropPath": "/bFzaZU2MHQbLKHdjPnLB7TRa9bV.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:712717:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Morena is a trans woman who lives together with her elderly mother,  keeping a harmonious relationship. Morena has been working in a textile  factory for several years. She has two transvestite friends, one of them is  Claudia, who is a teacher and has just accessed to her first employment as  substitute; another is the very young and beautiful Myriam, immersed in a  maelstrom of excesses linked to prostitution with police protection.\r Morena discovers that Ricardo, her current partner, has lied to her from the  first moment, that he is married and is the father of two children, so she  decides to end the relationship.",
+"overviewEn": "Morena is a trans woman who lives together with her elderly mother,  keeping a harmonious relationship. Morena has been working in a textile  factory for several years. She has two transvestite friends, one of them is  Claudia, who is a teacher and has just accessed to her first employment as  substitute; another is the very young and beautiful Myriam, immersed in a  maelstrom of excesses linked to prostitution with police protection.\r Morena discovers that Ricardo, her current partner, has lied to her from the  first moment, that he is married and is the father of two children, so she  decides to end the relationship.",
+"popularity": 0.95,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 54
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Bajo mi piel morena",
+"titleEn": "Under My Dark Skin",
+"tmdbId": 712717,
+"trailerKey": null
+},
 "prime:movie:724665:sub": {
 "access": "sub",
 "backdropPath": "/3xGfsAYAxVmYj1CbE5vAkmMJbHo.jpg",
@@ -94727,6 +97031,45 @@
 "titleEn": "Spider-Man: Brand New Day",
 "tmdbId": 969681,
 "trailerKey": "P3uI5sLosKU"
+},
+"prime:movie:974635:free": {
+"access": "free",
+"backdropPath": "/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:974635:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na co dzień skryty i nieśmiały profesor filozofii Gary Johnson, pokazuje drugie oblicze, dorabiając jako „fałszywy zabójca” na usługach Departamentu Policji z Nowego Orleanu. Obdarzony niespotykanym talentem do zdumiewających metamorfoz i przebieranek, mężczyzna nie ma sobie równych w wyłapywaniu ludzi planujących morderstwa swoich wrogów. Co jednak, gdy – podszywając się pod seksownego killera – sam znajdzie się pod wpływem i urokiem kobiety, którą zamierzał posłać za kratki? Czy uwikłany w gorący romans zdoła oprzeć się pięknej Madison, czy też sam stanie się ofiarą w tej przebiegłej grze pozorów?",
+"overviewEn": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+"popularity": 5.72,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 135728,
+"tmdb": 6.8
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Hit Man",
+"titleEn": null,
+"tmdbId": 974635,
+"trailerKey": "uoSlbklJuC0"
 },
 "prime:movie:983526:paid": {
 "access": "paid",
@@ -96723,7 +99066,7 @@
 },
 "prime:tv:303745:s1e10:sub": {
 "access": "sub",
-"backdropPath": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+"backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
 "confirmedAt": null,
 "date": "2026-11-17",
 "dateConfirmed": true,
@@ -96762,7 +99105,7 @@
 },
 "prime:tv:303745:s1e11:sub": {
 "access": "sub",
-"backdropPath": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+"backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
 "confirmedAt": null,
 "date": "2026-11-23",
 "dateConfirmed": true,
@@ -96801,7 +99144,7 @@
 },
 "prime:tv:303745:s1e12:sub": {
 "access": "sub",
-"backdropPath": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+"backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
 "confirmedAt": null,
 "date": "2026-11-24",
 "dateConfirmed": true,
@@ -96840,7 +99183,7 @@
 },
 "prime:tv:303745:s1e5:sub": {
 "access": "sub",
-"backdropPath": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+"backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
 "confirmedAt": "2026-11-03T22:16:51Z",
 "date": "2026-11-02",
 "dateConfirmed": true,
@@ -96879,7 +99222,7 @@
 },
 "prime:tv:303745:s1e6:sub": {
 "access": "sub",
-"backdropPath": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+"backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
 "confirmedAt": "2026-11-03T22:16:51Z",
 "date": "2026-11-03",
 "dateConfirmed": true,
@@ -96918,7 +99261,7 @@
 },
 "prime:tv:303745:s1e7:sub": {
 "access": "sub",
-"backdropPath": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+"backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
 "confirmedAt": "2026-11-09T13:51:36Z",
 "date": "2026-11-09",
 "dateConfirmed": true,
@@ -96957,7 +99300,7 @@
 },
 "prime:tv:303745:s1e8:sub": {
 "access": "sub",
-"backdropPath": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+"backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
 "confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
@@ -96996,7 +99339,7 @@
 },
 "prime:tv:303745:s1e9:sub": {
 "access": "sub",
-"backdropPath": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+"backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
 "confirmedAt": null,
 "date": "2026-11-16",
 "dateConfirmed": true,
@@ -98740,11 +101083,11 @@
 "origin": "diff",
 "overview": "Na uboczu prowincjonalnej Ameryki żyje charyzmatyczny outsider, muzyk i lokalny przedsiębiorca, który przewodzi nietuzinkowej społeczności. Gdy po latach do jego życia niespodziewanie wraca przybrana córka, mężczyzna dostrzega szansę na odbudowanie relacji i stworzenie prawdziwego rodzinnego biznesu. Ich wspólna przyszłość szybko jednak staje pod znakiem zapytania - konkurenci zrobią wszystko, by zniszczyć to, co było budowane przez lata. W świecie, gdzie granica między dobrem a złem jest niejasna, a lojalność ma swoją cenę, nowo odbudowana rodzina będzie musiała zawalczyć nie tylko o przetrwanie, ale i o siebie nawzajem.",
 "overviewEn": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-"popularity": 7.18,
+"popularity": 8.98,
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 9169,
-"tmdb": 6.8
+"tmdb": 6.7
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
@@ -98779,11 +101122,11 @@
 "origin": "diff",
 "overview": "Na uboczu prowincjonalnej Ameryki żyje charyzmatyczny outsider, muzyk i lokalny przedsiębiorca, który przewodzi nietuzinkowej społeczności. Gdy po latach do jego życia niespodziewanie wraca przybrana córka, mężczyzna dostrzega szansę na odbudowanie relacji i stworzenie prawdziwego rodzinnego biznesu. Ich wspólna przyszłość szybko jednak staje pod znakiem zapytania - konkurenci zrobią wszystko, by zniszczyć to, co było budowane przez lata. W świecie, gdzie granica między dobrem a złem jest niejasna, a lojalność ma swoją cenę, nowo odbudowana rodzina będzie musiała zawalczyć nie tylko o przetrwanie, ale i o siebie nawzajem.",
 "overviewEn": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-"popularity": 7.18,
+"popularity": 8.98,
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 9169,
-"tmdb": 6.8
+"tmdb": 6.7
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
@@ -98937,7 +101280,7 @@
 "ratings": {
 "imdb": 6.2,
 "imdbVotes": 6972,
-"tmdb": 6.7
+"tmdb": 6.8
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
@@ -99100,6 +101443,84 @@
 "titleEn": "De Gaulle: Résistance",
 "tmdbId": 1165366,
 "trailerKey": "dKUArYoZ_0U"
+},
+"rakuten:movie:1165369:paid": {
+"access": "paid",
+"backdropPath": "/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1165369:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+18,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "1943–1944. Aby wyzwolić Francję, generał de Gaulle musi zjednoczyć podzielony Ruch Oporu. Walczy również o potwierdzenie swojej legitymacji u aliantów.",
+"overviewEn": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+"popularity": 11.02,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 2793,
+"tmdb": 7.9
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "De Gaulle: Droga do wolności",
+"titleEn": "De Gaulle: Liberté",
+"tmdbId": 1165369,
+"trailerKey": "J6MRNchmZkY"
+},
+"rakuten:movie:1165369:sub": {
+"access": "sub",
+"backdropPath": "/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1165369:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+18,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "1943–1944. Aby wyzwolić Francję, generał de Gaulle musi zjednoczyć podzielony Ruch Oporu. Walczy również o potwierdzenie swojej legitymacji u aliantów.",
+"overviewEn": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+"popularity": 11.02,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 2793,
+"tmdb": 7.9
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "De Gaulle: Droga do wolności",
+"titleEn": "De Gaulle: Liberté",
+"tmdbId": 1165369,
+"trailerKey": "J6MRNchmZkY"
 },
 "rakuten:movie:1185806:paid": {
 "access": "paid",
@@ -99859,7 +102280,7 @@
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 14355,
-"tmdb": 7.8
+"tmdb": 7.7
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
@@ -100020,6 +102441,45 @@
 "titleEn": "Just an Illusion",
 "tmdbId": 1404684,
 "trailerKey": "vZtK0AdeXk8"
+},
+"rakuten:movie:141052:sub": {
+"access": "sub",
+"backdropPath": "/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:141052:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+12,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zainspirowany ofiarnym czynem Supermana (Henry Cavill) Bruce Wayne, który odzyskał wiarę w ludzkość, prosi swojego nowego sprzymierzeńca, Dianę Prince, o pomoc w pokonaniu jeszcze potężniejszego wroga. Nie tracąc czasu, Batman (Ben Affleck) i Wonder Woman (Gal Gadot) starają się znaleźć grupę metaludzi i przekonać ich do współpracy. Mają oni stanąć do walki z nowym zagrożeniem. Jednak mimo utworzenia jedynej w swoim rodzaju ligi superbohaterów, złożonej z Batmana, Wonder Woman, Aquamana (Jason Momoa), Cyborga (Ray Fisher) i Flasha (Ezra Miller), może być już za późno na uratowanie planety przed atakiem o katastroficznych rozmiarach.  [opis dystrybutora Blu-ray]",
+"overviewEn": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+"popularity": 12.13,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 512104,
+"tmdb": 6.1
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Liga Sprawiedliwości",
+"titleEn": "Justice League",
+"tmdbId": 141052,
+"trailerKey": "u280uGDxUcc"
 },
 "rakuten:movie:1419406:paid": {
 "access": "paid",
@@ -100420,7 +102880,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "rakuten",
 "source": "tmdb",
@@ -100453,7 +102913,7 @@
 "origin": "diff",
 "overview": "5-part making of featurette that goes over the film's production.",
 "overviewEn": "5-part making of featurette that goes over the film's production.",
-"popularity": 0.3,
+"popularity": 0.33,
 "ratings": null,
 "serviceKey": "rakuten",
 "source": "tmdb",
@@ -101634,7 +104094,44 @@
 "origin": "diff",
 "overview": "Szwedka Linnéa przylatuje do Los Angeles, by tam jako Bella Cherry podbić branżę porno. Jednak piękne ciało i ogień w sercu nie wystarczą do osiągnięcia sukcesu. Dziewczyna będzie jeszcze musiała się nauczyć cynicznych zasad, którymi rządzi się show-biznes.",
 "overviewEn": "Bella Cherry arrives in Los Angeles with dreams of becoming an adult film star, but she soon learns that fame won't come easy as she harnesses her ambition and cunning to rise to the top of this mesmerizing and singular world.",
-"popularity": 5.44,
+"popularity": 5.54,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 27140,
+"tmdb": 6.3
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Pleasure",
+"titleEn": null,
+"tmdbId": 592695,
+"trailerKey": "g85r30mNZjs"
+},
+"rakuten:movie:592695:sub": {
+"access": "sub",
+"backdropPath": "/y0LhmaMYpFkIfrUlOpJYTVMH2eA.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:592695:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Szwedka Linnéa przylatuje do Los Angeles, by tam jako Bella Cherry podbić branżę porno. Jednak piękne ciało i ogień w sercu nie wystarczą do osiągnięcia sukcesu. Dziewczyna będzie jeszcze musiała się nauczyć cynicznych zasad, którymi rządzi się show-biznes.",
+"overviewEn": "Bella Cherry arrives in Los Angeles with dreams of becoming an adult film star, but she soon learns that fame won't come easy as she harnesses her ambition and cunning to rise to the top of this mesmerizing and singular world.",
+"popularity": 5.54,
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 27140,
@@ -102438,7 +104935,7 @@
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 14355,
-"tmdb": 7.8
+"tmdb": 7.7
 },
 "serviceKey": "skyshowtime",
 "source": "tmdb",
@@ -104985,11 +107482,11 @@
 "origin": "diff",
 "overview": "Na uboczu prowincjonalnej Ameryki żyje charyzmatyczny outsider, muzyk i lokalny przedsiębiorca, który przewodzi nietuzinkowej społeczności. Gdy po latach do jego życia niespodziewanie wraca przybrana córka, mężczyzna dostrzega szansę na odbudowanie relacji i stworzenie prawdziwego rodzinnego biznesu. Ich wspólna przyszłość szybko jednak staje pod znakiem zapytania - konkurenci zrobią wszystko, by zniszczyć to, co było budowane przez lata. W świecie, gdzie granica między dobrem a złem jest niejasna, a lojalność ma swoją cenę, nowo odbudowana rodzina będzie musiała zawalczyć nie tylko o przetrwanie, ale i o siebie nawzajem.",
 "overviewEn": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-"popularity": 7.18,
+"popularity": 8.98,
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 9169,
-"tmdb": 6.8
+"tmdb": 6.7
 },
 "serviceKey": "tvpvod",
 "source": "tmdb",
@@ -105024,11 +107521,11 @@
 "origin": "diff",
 "overview": "Na uboczu prowincjonalnej Ameryki żyje charyzmatyczny outsider, muzyk i lokalny przedsiębiorca, który przewodzi nietuzinkowej społeczności. Gdy po latach do jego życia niespodziewanie wraca przybrana córka, mężczyzna dostrzega szansę na odbudowanie relacji i stworzenie prawdziwego rodzinnego biznesu. Ich wspólna przyszłość szybko jednak staje pod znakiem zapytania - konkurenci zrobią wszystko, by zniszczyć to, co było budowane przez lata. W świecie, gdzie granica między dobrem a złem jest niejasna, a lojalność ma swoją cenę, nowo odbudowana rodzina będzie musiała zawalczyć nie tylko o przetrwanie, ale i o siebie nawzajem.",
 "overviewEn": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-"popularity": 7.18,
+"popularity": 8.98,
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 9169,
-"tmdb": 6.8
+"tmdb": 6.7
 },
 "serviceKey": "tvpvod",
 "source": "tmdb",
@@ -105143,7 +107640,7 @@
 "ratings": {
 "imdb": 6.2,
 "imdbVotes": 6972,
-"tmdb": 6.7
+"tmdb": 6.8
 },
 "serviceKey": "tvpvod",
 "source": "tmdb",
@@ -105382,6 +107879,84 @@
 "titleEn": "De Gaulle: Résistance",
 "tmdbId": 1165366,
 "trailerKey": "dKUArYoZ_0U"
+},
+"tvpvod:movie:1165369:paid": {
+"access": "paid",
+"backdropPath": "/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1165369:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+18,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "1943–1944. Aby wyzwolić Francję, generał de Gaulle musi zjednoczyć podzielony Ruch Oporu. Walczy również o potwierdzenie swojej legitymacji u aliantów.",
+"overviewEn": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+"popularity": 11.02,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 2793,
+"tmdb": 7.9
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "De Gaulle: Droga do wolności",
+"titleEn": "De Gaulle: Liberté",
+"tmdbId": 1165369,
+"trailerKey": "J6MRNchmZkY"
+},
+"tvpvod:movie:1165369:sub": {
+"access": "sub",
+"backdropPath": "/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1165369:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+18,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "1943–1944. Aby wyzwolić Francję, generał de Gaulle musi zjednoczyć podzielony Ruch Oporu. Walczy również o potwierdzenie swojej legitymacji u aliantów.",
+"overviewEn": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+"popularity": 11.02,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 2793,
+"tmdb": 7.9
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "De Gaulle: Droga do wolności",
+"titleEn": "De Gaulle: Liberté",
+"tmdbId": 1165369,
+"trailerKey": "J6MRNchmZkY"
 },
 "tvpvod:movie:116:sub": {
 "access": "sub",
@@ -106522,6 +109097,39 @@
 "tmdbId": 1544906,
 "trailerKey": null
 },
+"tvpvod:movie:1556575:free": {
+"access": "free",
+"backdropPath": null,
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1556575:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "An investigative documentary about a lost Polish blockbuster from 1930 and its surprising connection to Merian C. Cooper - creator of the legendary King Kong.",
+"overviewEn": "An investigative documentary about a lost Polish blockbuster from 1930 and its surprising connection to Merian C. Cooper - creator of the legendary King Kong.",
+"popularity": 0.06,
+"ratings": null,
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Tajemnica Gwiaździstej Eskadry",
+"titleEn": "Mystery of the Starry Squadron",
+"tmdbId": 1556575,
+"trailerKey": null
+},
 "tvpvod:movie:1556575:sub": {
 "access": "sub",
 "backdropPath": null,
@@ -106545,7 +109153,7 @@
 "origin": "diff",
 "overview": "An investigative documentary about a lost Polish blockbuster from 1930 and its surprising connection to Merian C. Cooper - creator of the legendary King Kong.",
 "overviewEn": "An investigative documentary about a lost Polish blockbuster from 1930 and its surprising connection to Merian C. Cooper - creator of the legendary King Kong.",
-"popularity": 0.18,
+"popularity": 0.06,
 "ratings": null,
 "serviceKey": "tvpvod",
 "source": "tmdb",
@@ -107919,6 +110527,84 @@
 "tmdbId": 59436,
 "trailerKey": "FAfR8omt-CY"
 },
+"tvpvod:movie:59860:paid": {
+"access": "paid",
+"backdropPath": "/aD7XtR408aKDiBo4wJcO0sksvBw.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:59860:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młoda dziewczyna wyrusza wraz z przyjaciółką w wymarzoną podróż do Paryża. Zbieg okoliczności sprawia, że zostaje wzięta za dziedziczkę ogromnej fortuny, a stąd już tylko krok do ekskluzywnych pokazów mody, lotów prywatnym odrzutowcem, tłumów paparazzi, śledzących każdy jej krok i wakacji w Monte Carlo, których nigdy nie zapomni.",
+"overviewEn": "Three young women vacationing in Paris find themselves whisked away to Monte Carlo after one of the girls is mistaken for a British heiress.",
+"popularity": 3.27,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 53103,
+"tmdb": 6.8
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Monte Carlo",
+"titleEn": null,
+"tmdbId": 59860,
+"trailerKey": "X0n3Q_VDQk8"
+},
+"tvpvod:movie:59860:sub": {
+"access": "sub",
+"backdropPath": "/aD7XtR408aKDiBo4wJcO0sksvBw.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:59860:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młoda dziewczyna wyrusza wraz z przyjaciółką w wymarzoną podróż do Paryża. Zbieg okoliczności sprawia, że zostaje wzięta za dziedziczkę ogromnej fortuny, a stąd już tylko krok do ekskluzywnych pokazów mody, lotów prywatnym odrzutowcem, tłumów paparazzi, śledzących każdy jej krok i wakacji w Monte Carlo, których nigdy nie zapomni.",
+"overviewEn": "Three young women vacationing in Paris find themselves whisked away to Monte Carlo after one of the girls is mistaken for a British heiress.",
+"popularity": 3.27,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 53103,
+"tmdb": 6.8
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Monte Carlo",
+"titleEn": null,
+"tmdbId": 59860,
+"trailerKey": "X0n3Q_VDQk8"
+},
 "tvpvod:movie:642538:paid": {
 "access": "paid",
 "backdropPath": "/b0wvlhQdnBMKjkxDDs3OqHVYgCW.jpg",
@@ -108362,6 +111048,45 @@
 "titleEn": "Solar System",
 "tmdbId": 97305,
 "trailerKey": null
+},
+"tvpvod:movie:974635:free": {
+"access": "free",
+"backdropPath": "/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+"confirmedAt": "2026-11-11T21:55:03Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:974635:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na co dzień skryty i nieśmiały profesor filozofii Gary Johnson, pokazuje drugie oblicze, dorabiając jako „fałszywy zabójca” na usługach Departamentu Policji z Nowego Orleanu. Obdarzony niespotykanym talentem do zdumiewających metamorfoz i przebieranek, mężczyzna nie ma sobie równych w wyłapywaniu ludzi planujących morderstwa swoich wrogów. Co jednak, gdy – podszywając się pod seksownego killera – sam znajdzie się pod wpływem i urokiem kobiety, którą zamierzał posłać za kratki? Czy uwikłany w gorący romans zdoła oprzeć się pięknej Madison, czy też sam stanie się ofiarą w tej przebiegłej grze pozorów?",
+"overviewEn": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+"popularity": 5.72,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 135728,
+"tmdb": 6.8
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Hit Man",
+"titleEn": null,
+"tmdbId": 974635,
+"trailerKey": "uoSlbklJuC0"
 },
 "tvpvod:movie:983526:sub": {
 "access": "sub",
@@ -109752,14 +112477,14 @@
 "tmdbId": 335594,
 "trailerKey": null
 },
-"tvpvod:tv:335594:s1e18:free": {
-"access": "free",
+"tvpvod:tv:335594:s1e18:sub": {
+"access": "sub",
 "backdropPath": "/2QV4gUm3obKZD60i8XmIORk9k1o.jpg",
 "confirmedAt": null,
 "date": "2026-11-12",
 "dateConfirmed": true,
 "deepLinkId": null,
-"id": "tvpvod:tv:335594:s1e18:free",
+"id": "tvpvod:tv:335594:s1e18:sub",
 "mediaType": "tv",
 "meta": {
 "allEpisodes": false,
@@ -109770,7 +112495,7 @@
 ],
 "kind": "series",
 "season": 1,
-"withAds": true
+"withAds": false
 },
 "origin": "schedule",
 "overview": "Młoda psychoterapeutka po osobistej tragedii zostaje w małym miasteczku, gdzie próbuje przełamać uprzedzenia wobec dbania o zdrowie psychiczne i zdobyć zaufanie mieszkańców, pomagając im mierzyć się z codziennymi problemami i życiowymi kryzysami.",
