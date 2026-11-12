@@ -32,6 +32,45 @@
 "tmdbId": 1000213,
 "trailerKey": null
 },
+"appletv:movie:1016084:sub": {
+"access": "sub",
+"backdropPath": "/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1016084:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwóch niedopasowanych przedsiębiorców - innowator Mike Lazaridis i biznesmen Jim Balsillie - połączyło siły w przedsięwzięciu, które miało stać się światowym hitem w nieco ponad dekadę. Historia błyskawicznego wzrostu i katastrofalnego upadku pierwszego na świecie smartfona.",
+"overviewEn": "Two mismatched entrepreneurs – egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie – joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+"popularity": 4.27,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 74173,
+"tmdb": 7.2
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "BlackBerry",
+"titleEn": null,
+"tmdbId": 1016084,
+"trailerKey": "cXL_HDzBQsM"
+},
 "appletv:movie:1031457:free": {
 "access": "free",
 "backdropPath": "/ykT9D5Yqvoa8c7tBet9vOxjQ5T4.jpg",
@@ -3283,6 +3322,42 @@
 "tmdbId": 296096,
 "trailerKey": "ffIwBzZzGng"
 },
+"appletv:movie:314292:sub": {
+"access": "sub",
+"backdropPath": "/2ZX43B0HOrQ48qpUgDgVLjybSZR.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:314292:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "K2 is widely seen as the world's harshest mountain. Yet many indigenous porters make a living in its extreme conditions, carrying provisions for foreign climbing expeditions. Often risking their lives, they receive minimal pay for their efforts. Against a backdrop of breathtaking natural beauty, this doc explores the courage and sacrifice of the men who call the 'Savage Mountain' their home.",
+"overviewEn": "K2 is widely seen as the world's harshest mountain. Yet many indigenous porters make a living in its extreme conditions, carrying provisions for foreign climbing expeditions. Often risking their lives, they receive minimal pay for their efforts. Against a backdrop of breathtaking natural beauty, this doc explores the courage and sacrifice of the men who call the 'Savage Mountain' their home.",
+"popularity": 0.58,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 155
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "K2 & The Invisible Footmen",
+"titleEn": null,
+"tmdbId": 314292,
+"trailerKey": null
+},
 "appletv:movie:333371:sub": {
 "access": "sub",
 "backdropPath": "/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
@@ -3975,6 +4050,78 @@
 "tmdbId": 5375,
 "trailerKey": "dv9ce8cJVfg"
 },
+"appletv:movie:542016:sub": {
+"access": "sub",
+"backdropPath": "/8kc9c7Bg0a2DoSEL1jaokJYYaH1.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:542016:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dispatches goes undercover in the secretive world of the people who decide what can and can't be posted on Facebook, exploring how their decisions are made and the impact they have on users.",
+"overviewEn": "Dispatches goes undercover in the secretive world of the people who decide what can and can't be posted on Facebook, exploring how their decisions are made and the impact they have on users.",
+"popularity": 0.33,
+"ratings": {
+"imdb": 5.2,
+"imdbVotes": 43
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Inside Facebook: Secrets of the Social Network",
+"titleEn": null,
+"tmdbId": 542016,
+"trailerKey": null
+},
+"appletv:movie:549352:sub": {
+"access": "sub",
+"backdropPath": "/9Gy5VEVxTpWE8wRMAmsg6xqdTI5.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:549352:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "When Dian was six years old, she heard a deep rumble and turned to see a tsunami of mud barreling towards her village. Her mother scooped her up to save her from the boiling mud. Her neighbors ran for their lives. Sixteen villages, including Dian's, were wiped away, forever buried under 60 feet of mud. A decade later, 60,000 people have been displaced from what was once a thriving industrial and residential area in East Java. Dozens of factories, schools and mosques are completely submerged under a moonscape of ooze and grit. The cause? Lapindo, an Indonesian company drilling for natural gas in 2006, unleashed a violent, unstoppable flow of hot sludge from the earth's depths. It is estimated that the mudflow will not end for another decade. Shot over the course of six years, GRIT bears witness to Dian's transformation from young girl to a politically active teenager as she and her mother launch a resistance campaign against the drilling company.",
+"overviewEn": "When Dian was six years old, she heard a deep rumble and turned to see a tsunami of mud barreling towards her village. Her mother scooped her up to save her from the boiling mud. Her neighbors ran for their lives. Sixteen villages, including Dian's, were wiped away, forever buried under 60 feet of mud. A decade later, 60,000 people have been displaced from what was once a thriving industrial and residential area in East Java. Dozens of factories, schools and mosques are completely submerged under a moonscape of ooze and grit. The cause? Lapindo, an Indonesian company drilling for natural gas in 2006, unleashed a violent, unstoppable flow of hot sludge from the earth's depths. It is estimated that the mudflow will not end for another decade. Shot over the course of six years, GRIT bears witness to Dian's transformation from young girl to a politically active teenager as she and her mother launch a resistance campaign against the drilling company.",
+"popularity": 0.38,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 56
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Grit",
+"titleEn": null,
+"tmdbId": 549352,
+"trailerKey": null
+},
 "appletv:movie:551808:sub": {
 "access": "sub",
 "backdropPath": "/sljpNfrfQtYvDOjGGIH18BMTwhG.jpg",
@@ -4646,6 +4793,45 @@
 "titleEn": "Rockstar",
 "tmdbId": 79464,
 "trailerKey": null
+},
+"appletv:movie:816904:sub": {
+"access": "sub",
+"backdropPath": "/xVFpOIVdVn5ZUq1QIf0UJcZWjO2.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:816904:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+12,
+14
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W Egipcie, głęboko pod ziemią, znajduje się liczące sobie 3000 lat miasto mumii. Zgodnie z królewskim rozkazem księżniczka Nefer musi wyjść za mąż za Thuta, ale żadne z tych dwojga się do tego nie pali. Nefer pragnie wolności, a Thut na wszelkie zobowiązania reaguje alergicznie. Przed wolą bogów nie ma jednak ucieczki. Thut będzie musiał ożenić się z Nefer już za siedem dni. Musi też przynieść na ślub starożytny pierścień, który wręczył mu sam faraon.",
+"overviewEn": "Through a series of unfortunate events, three mummies end up in present-day London and embark on a wacky and hilarious journey in search of an old ring belonging to the Royal Family, stolen by ambitious archaeologist Lord Carnaby.",
+"popularity": 2.88,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 10563,
+"tmdb": 6.9
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Mumie",
+"titleEn": "Mummies",
+"tmdbId": 816904,
+"trailerKey": "X6rNGDAiFjQ"
 },
 "appletv:movie:837422:free": {
 "access": "free",
@@ -5844,6 +6030,37 @@
 "titleEn": null,
 "tmdbId": 1000475,
 "trailerKey": "dveH9v_R644"
+},
+"canalplus:movie:1001316:paid": {
+"access": "paid",
+"backdropPath": "/ft7MRAycCDTwdqLAFPsQBz2dlaV.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1001316:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W prowadzonych w latach 90. przez OBOP badaniach dotyczących religijności Polaków, odsetek osób wierzących zawsze oscylował w okolicach 95%. W tym samym czasie rekordowe wartości osiągały również wskaźniki bezrobocia. Kryzys wzmacniał w społeczeństwie potrzebę duchowości, co pozwalało wydarzać się rzeczom niekoniecznie możliwym w innych czasach…",
+"overviewEn": "According to researches made throughout 1990s by the Institute for Public Opinion Research (OBOP) approximately 95% of Poles identified themselves as a believers. At the same time unemployment rates reached record values. In times of crisis, when people sought spirituality, seemingly impossible events were possible...",
+"popularity": 0.48,
+"ratings": null,
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Diabeł",
+"titleEn": "The Devil",
+"tmdbId": 1001316,
+"trailerKey": null
 },
 "canalplus:movie:1001316:sub": {
 "access": "sub",
@@ -7917,6 +8134,80 @@
 "titleEn": null,
 "tmdbId": 1097549,
 "trailerKey": "CwBpC6KQG5Q"
+},
+"canalplus:movie:1098534:paid": {
+"access": "paid",
+"backdropPath": "/iVqXcSZs4ye2HTROwUYQgy3Dx7c.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1098534:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zanurzamy się w ostatnich miesiącach życia Orwella i jego wizjonerskiej pracy, by zbadać źródła niepokojących koncepcji, które ujawnił światu w swoim dystopijnym arcydziele: dwójmowy, zbrodni myślowych, nowomowy, wszechobecnego widma Wielkiego Brata... prawd społeczno-politycznych, które dziś wywołują jeszcze silniejsze emocje.",
+"overviewEn": "George Orwell was one of the most visionary authors of the 20th century, whose novels 1984 and Animal Farm foretold a chilling, authoritarian future. Acclaimed director Raoul Peck interweaves clips, readings from Orwell's diary, cinematic references, and modern-day footage to craft not only a portrait of the writer, but a fresh take on how prophetic his work has become.",
+"popularity": 1.68,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 2228,
+"tmdb": 7.3
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Orwell: 2+2=5",
+"titleEn": null,
+"tmdbId": 1098534,
+"trailerKey": "npwmcJxgLic"
+},
+"canalplus:movie:1098534:sub": {
+"access": "sub",
+"backdropPath": "/iVqXcSZs4ye2HTROwUYQgy3Dx7c.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1098534:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zanurzamy się w ostatnich miesiącach życia Orwella i jego wizjonerskiej pracy, by zbadać źródła niepokojących koncepcji, które ujawnił światu w swoim dystopijnym arcydziele: dwójmowy, zbrodni myślowych, nowomowy, wszechobecnego widma Wielkiego Brata... prawd społeczno-politycznych, które dziś wywołują jeszcze silniejsze emocje.",
+"overviewEn": "George Orwell was one of the most visionary authors of the 20th century, whose novels 1984 and Animal Farm foretold a chilling, authoritarian future. Acclaimed director Raoul Peck interweaves clips, readings from Orwell's diary, cinematic references, and modern-day footage to craft not only a portrait of the writer, but a fresh take on how prophetic his work has become.",
+"popularity": 1.68,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 2228,
+"tmdb": 7.3
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Orwell: 2+2=5",
+"titleEn": null,
+"tmdbId": 1098534,
+"trailerKey": "npwmcJxgLic"
 },
 "canalplus:movie:1101383:paid": {
 "access": "paid",
@@ -12246,6 +12537,43 @@
 "tmdbId": 1272837,
 "trailerKey": "rl_DJZCyEH4"
 },
+"canalplus:movie:1273221:paid": {
+"access": "paid",
+"backdropPath": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1273221:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwadzieścia sześć lat po tym, jak udało im się uciec przed podejrzanie znajomym zamaskowanym zabójcą, czwórka bohaterów znów znalazła się na celowniku mordercy – i żadna seria horrorów nie jest już bezpieczna.",
+"overviewEn": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+"popularity": 35.49,
+"ratings": {
+"imdb": 4.8,
+"imdbVotes": 64854,
+"tmdb": 6.3
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Straszny film",
+"titleEn": "Scary Movie",
+"tmdbId": 1273221,
+"trailerKey": "cGgWAHXuTKc"
+},
 "canalplus:movie:1273304:sub": {
 "access": "sub",
 "backdropPath": null,
@@ -13501,7 +13829,7 @@
 },
 "canalplus:movie:1317288:paid": {
 "access": "paid",
-"backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+"backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
 "confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
@@ -13881,6 +14209,42 @@
 "tmdbId": 1337985,
 "trailerKey": "KlY6GRri7io"
 },
+"canalplus:movie:1338672:sub": {
+"access": "sub",
+"backdropPath": "/tBG4WQ1JDF0ZJ112gjZalnP7XhQ.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1338672:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Grounded and romantic Kári loves his simple life in a small village on an isolated island, in one of the smallest countries in the world. But times soon take a turn for the worse; the only source of income for the local community is the fish factory where he works, and when it faces closure, the workers and his best friend look for a way out. But unlike most young people on the island, Kári wants to stay, at peace with things as they are. Even when everyone is chasing a better future somewhere else, Kári decides to stay and face the challenges head-on. Because for him, his home town is The Last Paradise on Earth.",
+"overviewEn": "Grounded and romantic Kári loves his simple life in a small village on an isolated island, in one of the smallest countries in the world. But times soon take a turn for the worse; the only source of income for the local community is the fish factory where he works, and when it faces closure, the workers and his best friend look for a way out. But unlike most young people on the island, Kári wants to stay, at peace with things as they are. Even when everyone is chasing a better future somewhere else, Kári decides to stay and face the challenges head-on. Because for him, his home town is The Last Paradise on Earth.",
+"popularity": 0.64,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 171
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Det sidste paradis på jorden",
+"titleEn": "The Last Paradise on Earth",
+"tmdbId": 1338672,
+"trailerKey": "h3l1T8i2Ryg"
+},
 "canalplus:movie:1339552:sub": {
 "access": "sub",
 "backdropPath": "/bXVuPPT7fvIPdMu7UYgVHyLIdI0.jpg",
@@ -13919,6 +14283,44 @@
 "titleEn": null,
 "tmdbId": 1339552,
 "trailerKey": "5yVCoIkT788"
+},
+"canalplus:movie:1339713:paid": {
+"access": "paid",
+"backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+"confirmedAt": null,
+"date": "2026-11-14",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1339713:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Bear platonicznie zakochany w swojej przyjaciółce Nikki, chce zdobyć serce ukochanej i postanawia spełnić swoje marzenie za pomocą taniej zabawki spełniające życzenia \"One Wish Willow\". Zabawka naprawdę działa i chłopak otrzymuje dokładnie to, o co prosił, ale wkrótce odkrywa, że niektóre pragnienia mają mroczną, złowrogą cenę.",
+"overviewEn": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+"popularity": 76.43,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 429573,
+"tmdb": 8.2
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "announced",
+"title": "Obsesja",
+"titleEn": "Obsession",
+"tmdbId": 1339713,
+"trailerKey": "gMC8kkwbIQQ"
 },
 "canalplus:movie:134826:free": {
 "access": "free",
@@ -14751,6 +15153,82 @@
 "titleEn": "The Testament of Ann Lee",
 "tmdbId": 1401281,
 "trailerKey": "Rb0ZhiDD9J0"
+},
+"canalplus:movie:1403331:paid": {
+"access": "paid",
+"backdropPath": "/2jU5fl5gcTcZsjHbW9xnz0XwGdl.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1403331:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+9648,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Mężczyzna walczący z biedą coraz bardziej zatraca się moralnie, desperacko dążąc do lepszego życia.",
+"overviewEn": "On the cusp of his 50th birthday, Nacer Belkacem dreams of a better life. Yet, over the years, he has built himself an enviable position in the eyes of all: a loving family man, a happy husband, a model employee, and a respected citizen in his community. But the veneer is cracking. Beneath a seemingly perfect surface, Nacer has racked up expenses, made questionable investments, and is up to his neck in debt. On the brink of ruin, he devises a desperate plan to try to pull himself out of the water. You only have one life to earn your way to heaven...",
+"popularity": 1.26,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 109
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Cena raju",
+"titleEn": "The Cost of Heaven",
+"tmdbId": 1403331,
+"trailerKey": "rhrZNNaE6Sk"
+},
+"canalplus:movie:1403331:sub": {
+"access": "sub",
+"backdropPath": "/2jU5fl5gcTcZsjHbW9xnz0XwGdl.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1403331:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+9648,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Mężczyzna walczący z biedą coraz bardziej zatraca się moralnie, desperacko dążąc do lepszego życia.",
+"overviewEn": "On the cusp of his 50th birthday, Nacer Belkacem dreams of a better life. Yet, over the years, he has built himself an enviable position in the eyes of all: a loving family man, a happy husband, a model employee, and a respected citizen in his community. But the veneer is cracking. Beneath a seemingly perfect surface, Nacer has racked up expenses, made questionable investments, and is up to his neck in debt. On the brink of ruin, he devises a desperate plan to try to pull himself out of the water. You only have one life to earn your way to heaven...",
+"popularity": 1.26,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 109
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Cena raju",
+"titleEn": "The Cost of Heaven",
+"tmdbId": 1403331,
+"trailerKey": "rhrZNNaE6Sk"
 },
 "canalplus:movie:1403501:sub": {
 "access": "sub",
@@ -16939,7 +17417,7 @@
 "origin": "diff",
 "overview": "Co rozpoczęło się nietypową przyjaźnią między nastoletnim wikingiem a straszliwą Nocną Furią, stało się epicką trylogią, która odmieniła ich życie. W następnym rozdziale, Czkawka i Szczerbatek w końcu odkryją swoje prawdziwe przeznaczenia: wódz wioski jako władca Berk u boku Astrid, i smoczy przywódca swojej rasy. Z biegiem czasu najmroczniejsze zagrożenie, któremu stawią czoła - a także pojawienie się samicy Nocnej Furii - wystawi ich przyjaźń na próbę ciężką jak nigdy dotąd.",
 "overviewEn": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
-"popularity": 13.23,
+"popularity": 11.1,
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 184801,
@@ -17432,6 +17910,42 @@
 "titleEn": "Big Hero 6",
 "tmdbId": 177572,
 "trailerKey": "SnmpnjbIS98"
+},
+"canalplus:movie:180654:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:180654:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Caught in the tensions of the returning Pierrot, an ex-con, and the neighboring outlaws, Coralie attempts to distance herself from an ambiguous if not tormented past. Set against a busy highway, the butting houses dominated by a boss loosing sight of his operation are suspended as an anarchic surge approaches.",
+"overviewEn": "Caught in the tensions of the returning Pierrot, an ex-con, and the neighboring outlaws, Coralie attempts to distance herself from an ambiguous if not tormented past. Set against a busy highway, the butting houses dominated by a boss loosing sight of his operation are suspended as an anarchic surge approaches.",
+"popularity": 0.58,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 169
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Elle veut le chaos",
+"titleEn": "All That She Wants",
+"tmdbId": 180654,
+"trailerKey": null
 },
 "canalplus:movie:1813355:sub": {
 "access": "sub",
@@ -18087,7 +18601,7 @@
 "origin": "diff",
 "overview": "Longfellow Deeds (Adam Sandler), mieszkaniec małego miasteczka w stanie New Hampshire, pewnego dnia dowiaduje się, że jest jedynym spadkobiercą testamentowym zmarłego niedawno wuja. Po jego śmierci przenosi się do Nowego Jorku, gdzie przejmuje kontrolę nad olbrzymią medialną korporacją. Wkrótce poznaje Babe (Winona Ryder) - piękną reporterkę, która chce napisać o nim kompromitujący artykuł, jednak z czasem się w nim zakochuje...",
 "overviewEn": "When Longfellow Deeds, a small-town pizzeria owner and poet, inherits $40 billion from his deceased uncle, he quickly begins rolling in a different kind of dough. Moving to the big city, Deeds finds himself besieged by opportunists all gunning for their piece of the pie. Babe, a television tabloid reporter, poses as an innocent small-town girl to do an exposé on Deeds.",
-"popularity": 7.37,
+"popularity": 4.78,
 "ratings": {
 "imdb": 5.8,
 "imdbVotes": 166208,
@@ -18674,6 +19188,44 @@
 "titleEn": "The Town",
 "tmdbId": 23168,
 "trailerKey": "uAjECYnrYks"
+},
+"canalplus:movie:23190:paid": {
+"access": "paid",
+"backdropPath": "/q2zHomyjs3MVjeCRTmmr2XeM724.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:23190:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99,
+10770
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "A gdyby tak wszyscy ludzie na Ziemi zniknęli? Co by się stało ze światem, który stworzyliśmy: z naszymi zwierzętami, budowlami, krajobrazami i ciałami?",
+"overviewEn": "In this special documentary that inspired a two-season television series, scientists and other experts speculate about what the Earth, animal life, and plant life might be like if, suddenly, humanity no longer existed, as well as the effect humanity's disappearance might have on the artificial aspects of civilization.",
+"popularity": 0.59,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 3345,
+"tmdb": 7.0
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Życie po zagładzie ludzkości",
+"titleEn": "Life After People",
+"tmdbId": 23190,
+"trailerKey": "02LHzofl9ic"
 },
 "canalplus:movie:234004:sub": {
 "access": "sub",
@@ -19330,6 +19882,120 @@
 "titleEn": "Captain Marvel",
 "tmdbId": 299537,
 "trailerKey": "JeefCLSZXOo"
+},
+"canalplus:movie:29963:free": {
+"access": "free",
+"backdropPath": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:29963:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Fanny Brawne ma 18 lat, jest olśniewająco piękną i ciekawą świata dziewczyną. Powściągliwa matka dołożyła wszelkich starań by córka wyrosła na rozważną i dobrze wychowaną pannę. Każdy dzień Fanny wypełniony jest niekonwencjonalnymi zajęciami, jak szydełkowanie, bale i długie spacery zawsze w towarzystwie przyzwoitki. Niewinne spotkanie z czarującym młodzieńcem nieoczekiwanie przerodzi się w pierwszą prawdziwą miłość. To nieznane uczucie do niepoprawnego romantyka sprawi, że dziewczyna zrzuci gorset konwenansów i złamie panujące zasady.",
+"overviewEn": "In 1818, high-spirited young Fanny Brawne finds herself increasingly intrigued by the handsome but aloof poet John Keats, who lives next door to her family friends the Dilkes. After reading a book of his poetry, she finds herself even more drawn to the taciturn Keats. Although he agrees to teach her about poetry, Keats cannot act on his reciprocated feelings for Fanny, since as a struggling poet he has no money to support a wife.",
+"popularity": 1.84,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 30096,
+"tmdb": 6.6
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Jaśniejsza od gwiazd",
+"titleEn": "Bright Star",
+"tmdbId": 29963,
+"trailerKey": "K2FkxivSuVg"
+},
+"canalplus:movie:29963:paid": {
+"access": "paid",
+"backdropPath": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:29963:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Fanny Brawne ma 18 lat, jest olśniewająco piękną i ciekawą świata dziewczyną. Powściągliwa matka dołożyła wszelkich starań by córka wyrosła na rozważną i dobrze wychowaną pannę. Każdy dzień Fanny wypełniony jest niekonwencjonalnymi zajęciami, jak szydełkowanie, bale i długie spacery zawsze w towarzystwie przyzwoitki. Niewinne spotkanie z czarującym młodzieńcem nieoczekiwanie przerodzi się w pierwszą prawdziwą miłość. To nieznane uczucie do niepoprawnego romantyka sprawi, że dziewczyna zrzuci gorset konwenansów i złamie panujące zasady.",
+"overviewEn": "In 1818, high-spirited young Fanny Brawne finds herself increasingly intrigued by the handsome but aloof poet John Keats, who lives next door to her family friends the Dilkes. After reading a book of his poetry, she finds herself even more drawn to the taciturn Keats. Although he agrees to teach her about poetry, Keats cannot act on his reciprocated feelings for Fanny, since as a struggling poet he has no money to support a wife.",
+"popularity": 1.84,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 30096,
+"tmdb": 6.6
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Jaśniejsza od gwiazd",
+"titleEn": "Bright Star",
+"tmdbId": 29963,
+"trailerKey": "K2FkxivSuVg"
+},
+"canalplus:movie:29963:sub": {
+"access": "sub",
+"backdropPath": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:29963:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Fanny Brawne ma 18 lat, jest olśniewająco piękną i ciekawą świata dziewczyną. Powściągliwa matka dołożyła wszelkich starań by córka wyrosła na rozważną i dobrze wychowaną pannę. Każdy dzień Fanny wypełniony jest niekonwencjonalnymi zajęciami, jak szydełkowanie, bale i długie spacery zawsze w towarzystwie przyzwoitki. Niewinne spotkanie z czarującym młodzieńcem nieoczekiwanie przerodzi się w pierwszą prawdziwą miłość. To nieznane uczucie do niepoprawnego romantyka sprawi, że dziewczyna zrzuci gorset konwenansów i złamie panujące zasady.",
+"overviewEn": "In 1818, high-spirited young Fanny Brawne finds herself increasingly intrigued by the handsome but aloof poet John Keats, who lives next door to her family friends the Dilkes. After reading a book of his poetry, she finds herself even more drawn to the taciturn Keats. Although he agrees to teach her about poetry, Keats cannot act on his reciprocated feelings for Fanny, since as a struggling poet he has no money to support a wife.",
+"popularity": 1.84,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 30096,
+"tmdb": 6.6
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Jaśniejsza od gwiazd",
+"titleEn": "Bright Star",
+"tmdbId": 29963,
+"trailerKey": "K2FkxivSuVg"
 },
 "canalplus:movie:299796:sub": {
 "access": "sub",
@@ -22125,6 +22791,78 @@
 "titleEn": "The Addams Family",
 "tmdbId": 481084,
 "trailerKey": "62nEPMSb8aM"
+},
+"canalplus:movie:482743:paid": {
+"access": "paid",
+"backdropPath": "/s62wZOCUKzbM0rXQOo8OK9hiOTf.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:482743:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dokument o kontrowersyjnym polityku Vladimirze Mečiarze oraz jego wpływie na słowackie społeczeństwo.",
+"overviewEn": "The film Mečiar is the confession of the young director Tereza Nvotová about Vladimír Mečiar and the influence that this politician had on Slovak society, but also on the life of Tereza herself. When the totalitarian communist regime fell in Czechoslovakia in 1989, Tereza was one year old. The leaders of the Gentle Revolution then decided to hold an audition for the Minister of the Interior, to which Vladimír Mečiar, an unknown business lawyer from the Slovak countryside at the time, applied. After success in bankruptcy, Vladimír Mečiar reaches the political top, from where he rules the country with a series of questionable practices. Against the background of events such as the division of Czechoslovakia or the kidnapping of the son of the president of the Slovak Republic, Tereza and her peers relive their childhood.",
+"popularity": 0.47,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 300
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Mečiar",
+"titleEn": "Mečiar: The Lust For Power",
+"tmdbId": 482743,
+"trailerKey": "PTSKLYQenyQ"
+},
+"canalplus:movie:482743:sub": {
+"access": "sub",
+"backdropPath": "/s62wZOCUKzbM0rXQOo8OK9hiOTf.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:482743:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dokument o kontrowersyjnym polityku Vladimirze Mečiarze oraz jego wpływie na słowackie społeczeństwo.",
+"overviewEn": "The film Mečiar is the confession of the young director Tereza Nvotová about Vladimír Mečiar and the influence that this politician had on Slovak society, but also on the life of Tereza herself. When the totalitarian communist regime fell in Czechoslovakia in 1989, Tereza was one year old. The leaders of the Gentle Revolution then decided to hold an audition for the Minister of the Interior, to which Vladimír Mečiar, an unknown business lawyer from the Slovak countryside at the time, applied. After success in bankruptcy, Vladimír Mečiar reaches the political top, from where he rules the country with a series of questionable practices. Against the background of events such as the division of Czechoslovakia or the kidnapping of the son of the president of the Slovak Republic, Tereza and her peers relive their childhood.",
+"popularity": 0.47,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 300
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Mečiar",
+"titleEn": "Mečiar: The Lust For Power",
+"tmdbId": 482743,
+"trailerKey": "PTSKLYQenyQ"
 },
 "canalplus:movie:48311:free": {
 "access": "free",
@@ -26833,6 +27571,80 @@
 "tmdbId": 785084,
 "trailerKey": "H5ZgOkIujc4"
 },
+"canalplus:movie:78571:paid": {
+"access": "paid",
+"backdropPath": "/cKkYptSq2oO1B5DLFb6C6WEv0ow.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:78571:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Film oparty na podstawie bestsellerowej autobiografii Nicka Flynna, który opisuje w niej swoje kontakty z ojcem Jonathanem. Wiecznie pijany i sprawiający kłopoty, z kartoteką kryminalną, choć niewątpliwie inteligentny człowiek próbujący życia z wielu stron, w końcu bezdomny. Po kilkunastu latach pracujący w schronisku dla bezdomnych syn ma okazję spotkać się z ojcem.",
+"overviewEn": "Working in a Boston homeless shelter, Nick Flynn re-encounters his father, a con man and self-proclaimed poet. Sensing trouble in his own life, Nick wrestles with the notion of reaching out yet again to his dad.",
+"popularity": 1.37,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 18341,
+"tmdb": 6.2
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Być jak Flynn",
+"titleEn": "Being Flynn",
+"tmdbId": 78571,
+"trailerKey": "vKYISEQ18gs"
+},
+"canalplus:movie:78571:sub": {
+"access": "sub",
+"backdropPath": "/cKkYptSq2oO1B5DLFb6C6WEv0ow.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:78571:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Film oparty na podstawie bestsellerowej autobiografii Nicka Flynna, który opisuje w niej swoje kontakty z ojcem Jonathanem. Wiecznie pijany i sprawiający kłopoty, z kartoteką kryminalną, choć niewątpliwie inteligentny człowiek próbujący życia z wielu stron, w końcu bezdomny. Po kilkunastu latach pracujący w schronisku dla bezdomnych syn ma okazję spotkać się z ojcem.",
+"overviewEn": "Working in a Boston homeless shelter, Nick Flynn re-encounters his father, a con man and self-proclaimed poet. Sensing trouble in his own life, Nick wrestles with the notion of reaching out yet again to his dad.",
+"popularity": 1.37,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 18341,
+"tmdb": 6.2
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Być jak Flynn",
+"titleEn": "Being Flynn",
+"tmdbId": 78571,
+"trailerKey": "vKYISEQ18gs"
+},
 "canalplus:movie:788940:paid": {
 "access": "paid",
 "backdropPath": "/89Wgi8Mbj4xfCvZR9OTVVxwpP4F.jpg",
@@ -27310,7 +28122,7 @@
 "origin": "diff",
 "overview": "W drugim rozdziale porywającej trylogii JAK WYTRESOWAĆ SMOKA powracamy do fantastycznego świata Czkawki i Szczerbatka w pięć lat po tym, jak udało im się zjednoczyć smoki i wikingów na wyspie Berk. Podczas gdy Astrid i pozostali biorą udział w wyścigach smoków (nowy najpopularniejszy sport zespołowy na wyspie), nierozłączna para Czkawka i Szczerbatek przemierza niebo, odkrywając nieznane ziemie i nowe światy. Gdy podczas jednej z wypraw natrafiają na tajemną lodową jaskinię, a w niej setki nowych dzikich smoków i tajemniczego Jeźdźca Smoków, dostają się w sam środek wojny o pokój. Czkawka i Szczerbatek zrobią wszystko, by stawić czoła wyzwaniu i odkryją, że tylko wspólnymi siłami mogą zmienić przyszłość zarówno ludzi, jak i smoków.",
 "overviewEn": "Five years after uniting the dragons and Vikings of Berk, Hiccup and Toothless soar beyond their homeland, charting the vast unknown. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons—and a mysterious dragon rider with a startling connection to Hiccup. And as the ruthless conqueror Drago Bludvist rises to seize control of both dragons and people alike, Hiccup must step into his role as a true leader and, alongside his friends and Toothless, protect Berk from a devastating war.",
-"popularity": 14.43,
+"popularity": 11.7,
 "ratings": {
 "imdb": 7.8,
 "imdbVotes": 409337,
@@ -34252,7 +35064,7 @@
 "ratings": {
 "imdb": 3.5,
 "imdbVotes": 205,
-"tmdb": 6.5
+"tmdb": 6.6
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -38412,6 +39224,43 @@
 "tmdbId": 666259,
 "trailerKey": null
 },
+"cda:movie:667464:free": {
+"access": "free",
+"backdropPath": "/e0YOROmknMo72ZqZASfJk7Bhcn0.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:667464:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W bajkowej wsi żyje były legionista Jakubek. Żonę pochował jakiś czas temu i teraz mieszka z dorosłym już, lecz bardzo nieśmiałym synem Janeczkiem. W tej samej wsi mieszkają także trzej towarzysze broni Jakubka: Kotek, Ingatko i Gniewisz. Od pewnego czasu legioniści coraz częściej rozmawiają o umieraniu. Jakubek, najstarszy z nich, ma już przygotowaną piękną trumnę i pragnie śmierci, bo bardzo tęskni za Brzózką, młodzieńczą miłością.",
+"overviewEn": "In a fairy-tale village lives Jakubek, a former legionnaire. He buried his wife some time ago and now lives with his adult but very shy son Janeczek. Three of Jakubek's comrades-in-arms also live in the same village: Kotek, Ingatko, and Gniewisz. For some time now, the legionnaires have been talking more and more about dying. Jakubek, the oldest of them, already has a beautiful coffin prepared and longs for death because he misses Brzózka, his youthful love, very much.",
+"popularity": 0.34,
+"ratings": {
+"imdb": 6.7,
+"imdbVotes": 160
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Szabla od komendanta",
+"titleEn": null,
+"tmdbId": 667464,
+"trailerKey": null
+},
 "cda:movie:669661:paid": {
 "access": "paid",
 "backdropPath": "/kfb5LjuuvMz0xmhMXE9EnUU2Y4L.jpg",
@@ -38943,6 +39792,45 @@
 "tmdbId": 76203,
 "trailerKey": "z02Ie8wKKRg"
 },
+"cda:movie:76812:free": {
+"access": "free",
+"backdropPath": "/tQBJu83JWyP9tEQ4iGLdiErDwnY.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:76812:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+9648,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Położone w górach miasteczko, w którym miała miejsce seria niewyjaśnionych porwań i zabójstw. Jednym z jego mieszkańców jest żyjący na uboczu Paul (Antonio Banderas), sławny niegdyś pisarz, który od dłuższego czasu przeżywa kryzys twórczy. Często też zagląda do kieliszka. Mężczyzna ma nadzieję, że uda mu się stworzyć rewelacyjny scenariusz i tym samym ocalić swoją karierę. Pewnego dnia spotyka na swojej drodze włóczęgę o imieniu Jack (Jonathan Rhys Meyers) i proponuje mu nocleg u siebie w domu. Potężna burza powoduje przerwę w dostawie prądu. Między bohaterami wywiązuje się gra. Co z niej wyniknie?",
+"overviewEn": "Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.",
+"popularity": 2.41,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 16179,
+"tmdb": 6.2
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Czarny Motyl",
+"titleEn": "Black Butterfly",
+"tmdbId": 76812,
+"trailerKey": "USR9JMDPpIY"
+},
 "cda:movie:78215:sub": {
 "access": "sub",
 "backdropPath": "/lLjWX6HuGGxuFJ9aJ9gBcSJzzDt.jpg",
@@ -38981,6 +39869,43 @@
 "titleEn": "Into the White",
 "tmdbId": 78215,
 "trailerKey": "MpcFKka5MEI"
+},
+"cda:movie:78571:paid": {
+"access": "paid",
+"backdropPath": "/cKkYptSq2oO1B5DLFb6C6WEv0ow.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:78571:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Film oparty na podstawie bestsellerowej autobiografii Nicka Flynna, który opisuje w niej swoje kontakty z ojcem Jonathanem. Wiecznie pijany i sprawiający kłopoty, z kartoteką kryminalną, choć niewątpliwie inteligentny człowiek próbujący życia z wielu stron, w końcu bezdomny. Po kilkunastu latach pracujący w schronisku dla bezdomnych syn ma okazję spotkać się z ojcem.",
+"overviewEn": "Working in a Boston homeless shelter, Nick Flynn re-encounters his father, a con man and self-proclaimed poet. Sensing trouble in his own life, Nick wrestles with the notion of reaching out yet again to his dad.",
+"popularity": 1.37,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 18341,
+"tmdb": 6.2
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Być jak Flynn",
+"titleEn": "Being Flynn",
+"tmdbId": 78571,
+"trailerKey": "vKYISEQ18gs"
 },
 "cda:movie:788940:paid": {
 "access": "paid",
@@ -39305,6 +40230,44 @@
 "titleEn": "Murder in the First",
 "tmdbId": 8438,
 "trailerKey": "8X9HG1W-23Y"
+},
+"cda:movie:848985:sub": {
+"access": "sub",
+"backdropPath": "/uznHAHc2i154ltipmPqSJl9AGkC.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:848985:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99,
+10402,
+10770
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "To mark the ten year anniversary of her death, Amy Winehouse's closest family and friends reveal the truth about the music icon and the impact that her loss has had on them. With access to never-before-seen family archives and rare musical performances, this highly personal and powerful account of the life and death of one of Britain’s best-loved musicians offers a new interpretation of her life, her loves and her legacy.",
+"overviewEn": "To mark the ten year anniversary of her death, Amy Winehouse's closest family and friends reveal the truth about the music icon and the impact that her loss has had on them. With access to never-before-seen family archives and rare musical performances, this highly personal and powerful account of the life and death of one of Britain’s best-loved musicians offers a new interpretation of her life, her loves and her legacy.",
+"popularity": 0.84,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 344
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Reclaiming Amy",
+"titleEn": null,
+"tmdbId": 848985,
+"trailerKey": "JAusuLIm8FQ"
 },
 "cda:movie:85435:sub": {
 "access": "sub",
@@ -44747,6 +45710,44 @@
 "tmdbId": 258742,
 "trailerKey": null
 },
+"disney:tv:261647:s1e26:sub": {
+"access": "sub",
+"backdropPath": "/wGeYd7lVxOzZsbJV7iipK8298hT.jpg",
+"confirmedAt": null,
+"date": "2026-11-27",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "disney:tv:261647:s1e26:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 26,
+"episodeTo": 26,
+"genres": [
+10762,
+16,
+10751
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Księżniczka Zosia z Czarlandii zaczyna naukę w nowej szkole – Królewskiej Szkole Magii, gdzie poznaje nowych przyjaciół: księżniczki Laylę i Kamilę, księcia Zane'a i szkolną maskotkę, piesiorożca Zadziorka. Zosia dowiaduje się, że jest najbardziej magiczną księżniczką we Wszechziemiu i odkrywa niesamowity, czarodziejski świat!",
+"overviewEn": "Follow Sofia as she attends The Charmswell School for Royal Magic, where she discovers she is the most magical princess in the realm and must learn how to master her powers while making new royal friends.",
+"popularity": 12.04,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 184
+},
+"serviceKey": "disney",
+"source": "tmdb",
+"status": "announced",
+"title": "Jej Wysokość Zosia: Królewska Szkoła Magii",
+"titleEn": "Sofia the First: Royal Magic",
+"tmdbId": 261647,
+"trailerKey": "9S84arStKj4"
+},
 "disney:tv:273247:s2e6:sub": {
 "access": "sub",
 "backdropPath": "/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
@@ -45160,7 +46161,7 @@
 "ratings": {
 "imdb": 7.7,
 "imdbVotes": 546,
-"tmdb": 8.4
+"tmdb": 8.3
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -45198,7 +46199,7 @@
 "ratings": {
 "imdb": 7.7,
 "imdbVotes": 546,
-"tmdb": 8.4
+"tmdb": 8.3
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -45236,7 +46237,7 @@
 "ratings": {
 "imdb": 7.7,
 "imdbVotes": 546,
-"tmdb": 8.4
+"tmdb": 8.3
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -45274,7 +46275,7 @@
 "ratings": {
 "imdb": 7.7,
 "imdbVotes": 546,
-"tmdb": 8.4
+"tmdb": 8.3
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -45312,7 +46313,7 @@
 "ratings": {
 "imdb": 7.7,
 "imdbVotes": 546,
-"tmdb": 8.4
+"tmdb": 8.3
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -47114,6 +48115,84 @@
 "tmdbId": 101299,
 "trailerKey": "UDu0FKeGd5w"
 },
+"hbomax:movie:1016084:paid": {
+"access": "paid",
+"backdropPath": "/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:1016084:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwóch niedopasowanych przedsiębiorców - innowator Mike Lazaridis i biznesmen Jim Balsillie - połączyło siły w przedsięwzięciu, które miało stać się światowym hitem w nieco ponad dekadę. Historia błyskawicznego wzrostu i katastrofalnego upadku pierwszego na świecie smartfona.",
+"overviewEn": "Two mismatched entrepreneurs – egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie – joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+"popularity": 4.27,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 74173,
+"tmdb": 7.2
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "BlackBerry",
+"titleEn": null,
+"tmdbId": 1016084,
+"trailerKey": "cXL_HDzBQsM"
+},
+"hbomax:movie:1016084:sub": {
+"access": "sub",
+"backdropPath": "/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:1016084:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwóch niedopasowanych przedsiębiorców - innowator Mike Lazaridis i biznesmen Jim Balsillie - połączyło siły w przedsięwzięciu, które miało stać się światowym hitem w nieco ponad dekadę. Historia błyskawicznego wzrostu i katastrofalnego upadku pierwszego na świecie smartfona.",
+"overviewEn": "Two mismatched entrepreneurs – egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie – joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+"popularity": 4.27,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 74173,
+"tmdb": 7.2
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "BlackBerry",
+"titleEn": null,
+"tmdbId": 1016084,
+"trailerKey": "cXL_HDzBQsM"
+},
 "hbomax:movie:1026999:paid": {
 "access": "paid",
 "backdropPath": "/w2zsNG7WKBMH35QqcFYILEAdYDU.jpg",
@@ -48658,6 +49737,44 @@
 "titleEn": null,
 "tmdbId": 1379266,
 "trailerKey": "MKrcitX02k8"
+},
+"hbomax:movie:1403331:paid": {
+"access": "paid",
+"backdropPath": "/2jU5fl5gcTcZsjHbW9xnz0XwGdl.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:1403331:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+9648,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Mężczyzna walczący z biedą coraz bardziej zatraca się moralnie, desperacko dążąc do lepszego życia.",
+"overviewEn": "On the cusp of his 50th birthday, Nacer Belkacem dreams of a better life. Yet, over the years, he has built himself an enviable position in the eyes of all: a loving family man, a happy husband, a model employee, and a respected citizen in his community. But the veneer is cracking. Beneath a seemingly perfect surface, Nacer has racked up expenses, made questionable investments, and is up to his neck in debt. On the brink of ruin, he devises a desperate plan to try to pull himself out of the water. You only have one life to earn your way to heaven...",
+"popularity": 1.26,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 109
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Cena raju",
+"titleEn": "The Cost of Heaven",
+"tmdbId": 1403331,
+"trailerKey": "rhrZNNaE6Sk"
 },
 "hbomax:movie:1403331:sub": {
 "access": "sub",
@@ -50332,6 +51449,42 @@
 "tmdbId": 47626,
 "trailerKey": "mNfjztfcsJA"
 },
+"hbomax:movie:482743:paid": {
+"access": "paid",
+"backdropPath": "/s62wZOCUKzbM0rXQOo8OK9hiOTf.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:482743:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dokument o kontrowersyjnym polityku Vladimirze Mečiarze oraz jego wpływie na słowackie społeczeństwo.",
+"overviewEn": "The film Mečiar is the confession of the young director Tereza Nvotová about Vladimír Mečiar and the influence that this politician had on Slovak society, but also on the life of Tereza herself. When the totalitarian communist regime fell in Czechoslovakia in 1989, Tereza was one year old. The leaders of the Gentle Revolution then decided to hold an audition for the Minister of the Interior, to which Vladimír Mečiar, an unknown business lawyer from the Slovak countryside at the time, applied. After success in bankruptcy, Vladimír Mečiar reaches the political top, from where he rules the country with a series of questionable practices. Against the background of events such as the division of Czechoslovakia or the kidnapping of the son of the president of the Slovak Republic, Tereza and her peers relive their childhood.",
+"popularity": 0.47,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 300
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Mečiar",
+"titleEn": "Mečiar: The Lust For Power",
+"tmdbId": 482743,
+"trailerKey": "PTSKLYQenyQ"
+},
 "hbomax:movie:49542:paid": {
 "access": "paid",
 "backdropPath": "/qxcHdtytptgZrwOwGEbE6eSFLFJ.jpg",
@@ -50849,6 +52002,84 @@
 "titleEn": "Salem's Lot",
 "tmdbId": 748230,
 "trailerKey": "QtVzKkv03ic"
+},
+"hbomax:movie:754067:paid": {
+"access": "paid",
+"backdropPath": "/vo9MRyCMBAdSqZgkI70AfVg8ISI.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:754067:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+10751,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Ośmioletnia Wiki, wraz z tatą, przeprowadza się do małego miasteczka w górach. Choć nowe miejsce jest pełne uroku, Wiki tęskni za dawnym życiem. Pewnego dnia dziewczynka dostaje od sąsiada niezwykły prezent – małego, cudownego szczeniaka. W tajemnicy przed tatą zabiera go do domu. Tak zaczyna się historia niezwykłej przyjaźni z wyjątkowym zwierzęciem.\r Kiedy dziewczynka dowiaduje się, że jej przyjaciel na czterech łapach to nie jest zwykły psiak, a wilcze szczenię, i że nie będzie mogła go zatrzymać, Wiki za nic w świecie nie chce się z tym pogodzić. Jak w obliczu tego niespodziewanego odkrycia potoczą się ich dalsze losy?",
+"overviewEn": "Stéphane decides to move to the beautiful mountains of Cantal in order to reconnect with his 8-year-old daughter, Victoria, who has been silent since her mother's disappearance. During a walk in the forest, a shepherd gives Victoria a puppy named \"Mystery\" who will gradually give her a taste for life. But very quickly, Stéphane discovers that the animal is in reality a wolf… Despite the warnings and the danger of this situation, he cannot bring himself to separate his daughter from this seemingly harmless ball of hair.",
+"popularity": 1.12,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 3184,
+"tmdb": 7.1
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Wiki i jej Sekret",
+"titleEn": "Vicky and Her Mystery",
+"tmdbId": 754067,
+"trailerKey": null
+},
+"hbomax:movie:754067:sub": {
+"access": "sub",
+"backdropPath": "/vo9MRyCMBAdSqZgkI70AfVg8ISI.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:754067:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+10751,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Ośmioletnia Wiki, wraz z tatą, przeprowadza się do małego miasteczka w górach. Choć nowe miejsce jest pełne uroku, Wiki tęskni za dawnym życiem. Pewnego dnia dziewczynka dostaje od sąsiada niezwykły prezent – małego, cudownego szczeniaka. W tajemnicy przed tatą zabiera go do domu. Tak zaczyna się historia niezwykłej przyjaźni z wyjątkowym zwierzęciem.\r Kiedy dziewczynka dowiaduje się, że jej przyjaciel na czterech łapach to nie jest zwykły psiak, a wilcze szczenię, i że nie będzie mogła go zatrzymać, Wiki za nic w świecie nie chce się z tym pogodzić. Jak w obliczu tego niespodziewanego odkrycia potoczą się ich dalsze losy?",
+"overviewEn": "Stéphane decides to move to the beautiful mountains of Cantal in order to reconnect with his 8-year-old daughter, Victoria, who has been silent since her mother's disappearance. During a walk in the forest, a shepherd gives Victoria a puppy named \"Mystery\" who will gradually give her a taste for life. But very quickly, Stéphane discovers that the animal is in reality a wolf… Despite the warnings and the danger of this situation, he cannot bring himself to separate his daughter from this seemingly harmless ball of hair.",
+"popularity": 1.12,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 3184,
+"tmdb": 7.1
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Wiki i jej Sekret",
+"titleEn": "Vicky and Her Mystery",
+"tmdbId": 754067,
+"trailerKey": null
 },
 "hbomax:movie:754334:paid": {
 "access": "paid",
@@ -56891,6 +58122,84 @@
 "tmdbId": 98410,
 "trailerKey": null
 },
+"netflix:movie:10191:paid": {
+"access": "paid",
+"backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:10191:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+14,
+12,
+16
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Producenci \"Shreka\", „Madagaskaru\" i „Kung Fu Pandy\" przedstawiają film na podstawie książki Cressidy Cowell  „Jak wytresować smoka\", której akcja rozgrywa się w świecie Wikingów i dzikich smoków. Bohaterem filmu jest nastoletni Wiking mieszkający na wyspie Berk, gdzie walki ze smokami są codziennością. Zbliża się właśnie czas inicjacji i jedyna szansa na udowodnienie plemieniu i ojcu swojej wartości. Kiedy jednak okazuje się, że zamiast wytresować smoka, nastolatek zaprzyjaźnia się z nim, cały jego świat staje na głowie.",
+"overviewEn": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+"popularity": 14.87,
+"ratings": {
+"imdb": 8.1,
+"imdbVotes": 914059,
+"tmdb": 7.9
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Jak wytresować smoka",
+"titleEn": "How to Train Your Dragon",
+"tmdbId": 10191,
+"trailerKey": "KZtbJ_I9IFM"
+},
+"netflix:movie:10191:sub": {
+"access": "sub",
+"backdropPath": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:10191:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+14,
+12,
+16
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Producenci \"Shreka\", „Madagaskaru\" i „Kung Fu Pandy\" przedstawiają film na podstawie książki Cressidy Cowell  „Jak wytresować smoka\", której akcja rozgrywa się w świecie Wikingów i dzikich smoków. Bohaterem filmu jest nastoletni Wiking mieszkający na wyspie Berk, gdzie walki ze smokami są codziennością. Zbliża się właśnie czas inicjacji i jedyna szansa na udowodnienie plemieniu i ojcu swojej wartości. Kiedy jednak okazuje się, że zamiast wytresować smoka, nastolatek zaprzyjaźnia się z nim, cały jego świat staje na głowie.",
+"overviewEn": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+"popularity": 14.87,
+"ratings": {
+"imdb": 8.1,
+"imdbVotes": 914059,
+"tmdb": 7.9
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Jak wytresować smoka",
+"titleEn": "How to Train Your Dragon",
+"tmdbId": 10191,
+"trailerKey": "KZtbJ_I9IFM"
+},
 "netflix:movie:1019354:paid": {
 "access": "paid",
 "backdropPath": "/95pq8lCUtirZc4RNHHfJPmbq135.jpg",
@@ -57682,8 +58991,9 @@
 "episodeFrom": null,
 "episodeTo": null,
 "genres": [
-18,
-10402
+10402,
+10751,
+18
 ],
 "kind": "movie",
 "season": null,
@@ -57852,6 +59162,120 @@
 "titleEn": "One Year to Live, Buy a Man",
 "tmdbId": 1654940,
 "trailerKey": "WH-RRKQGdJ8"
+},
+"netflix:movie:166428:paid": {
+"access": "paid",
+"backdropPath": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:166428:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+10751,
+12
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Co rozpoczęło się nietypową przyjaźnią między nastoletnim wikingiem a straszliwą Nocną Furią, stało się epicką trylogią, która odmieniła ich życie. W następnym rozdziale, Czkawka i Szczerbatek w końcu odkryją swoje prawdziwe przeznaczenia: wódz wioski jako władca Berk u boku Astrid, i smoczy przywódca swojej rasy. Z biegiem czasu najmroczniejsze zagrożenie, któremu stawią czoła - a także pojawienie się samicy Nocnej Furii - wystawi ich przyjaźń na próbę ciężką jak nigdy dotąd.",
+"overviewEn": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+"popularity": 11.1,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 184801,
+"tmdb": 7.7
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Jak wytresować smoka 3",
+"titleEn": "How to Train Your Dragon: The Hidden World",
+"tmdbId": 166428,
+"trailerKey": "5DEdq57E5ls"
+},
+"netflix:movie:166428:sub": {
+"access": "sub",
+"backdropPath": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:166428:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+10751,
+12
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Co rozpoczęło się nietypową przyjaźnią między nastoletnim wikingiem a straszliwą Nocną Furią, stało się epicką trylogią, która odmieniła ich życie. W następnym rozdziale, Czkawka i Szczerbatek w końcu odkryją swoje prawdziwe przeznaczenia: wódz wioski jako władca Berk u boku Astrid, i smoczy przywódca swojej rasy. Z biegiem czasu najmroczniejsze zagrożenie, któremu stawią czoła - a także pojawienie się samicy Nocnej Furii - wystawi ich przyjaźń na próbę ciężką jak nigdy dotąd.",
+"overviewEn": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+"popularity": 11.1,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 184801,
+"tmdb": 7.7
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Jak wytresować smoka 3",
+"titleEn": "How to Train Your Dragon: The Hidden World",
+"tmdbId": 166428,
+"trailerKey": "5DEdq57E5ls"
+},
+"netflix:movie:1666787:sub": {
+"access": "sub",
+"backdropPath": "/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:1666787:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Richard Avedon's photographs didn't just reflect culture, they shaped it, and continue to do so. The feature documentary AVEDON traces the life and legacy of an artist who used fashion, portraiture, and commercial photography to explore identity, power, fear and beauty. With unprecedented access to Avedon's archive, including never before seen photos, behind the scenes recordings, and interviews with those who knew him best, AVEDON is a visually stunning examination of the mind of an artist who shaped our collective image of the 20th century.",
+"overviewEn": "Richard Avedon's photographs didn't just reflect culture, they shaped it, and continue to do so. The feature documentary AVEDON traces the life and legacy of an artist who used fashion, portraiture, and commercial photography to explore identity, power, fear and beauty. With unprecedented access to Avedon's archive, including never before seen photos, behind the scenes recordings, and interviews with those who knew him best, AVEDON is a visually stunning examination of the mind of an artist who shaped our collective image of the 20th century.",
+"popularity": 6.76,
+"ratings": {
+"imdb": 7.7,
+"imdbVotes": 59
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Avedon",
+"titleEn": null,
+"tmdbId": 1666787,
+"trailerKey": "q5ZYcXzV1L0"
 },
 "netflix:movie:1760311:sub": {
 "access": "sub",
@@ -59597,6 +61021,43 @@
 "tmdbId": 39788,
 "trailerKey": null
 },
+"netflix:movie:413588:sub": {
+"access": "sub",
+"backdropPath": "/sQeT4VlXbhgoGIWDVTZ6I1yLkLo.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:413588:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10402,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The musical drama is a sequel to the 2008 blockbuster 'Rock On' that tells the story of four friends and their passion for music. This time around, the film centers around the regional conflict prevailing in the North Eastern states of India.",
+"overviewEn": "The musical drama is a sequel to the 2008 blockbuster 'Rock On' that tells the story of four friends and their passion for music. This time around, the film centers around the regional conflict prevailing in the North Eastern states of India.",
+"popularity": 0.8,
+"ratings": {
+"imdb": 4.9,
+"imdbVotes": 2424
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "रॉक ऑन २",
+"titleEn": "Rock On 2",
+"tmdbId": 413588,
+"trailerKey": "0IlxnwQyUIQ"
+},
 "netflix:movie:425:paid": {
 "access": "paid",
 "backdropPath": "/tyVAGH1vw9JDgxPyTUQPn91nIYc.jpg",
@@ -61135,6 +62596,84 @@
 "tmdbId": 8211,
 "trailerKey": null
 },
+"netflix:movie:82702:paid": {
+"access": "paid",
+"backdropPath": "/8AAuJtCzaibYkbE0QVHc8EBsELB.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:82702:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+14,
+28,
+12
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W drugim rozdziale porywającej trylogii JAK WYTRESOWAĆ SMOKA powracamy do fantastycznego świata Czkawki i Szczerbatka w pięć lat po tym, jak udało im się zjednoczyć smoki i wikingów na wyspie Berk. Podczas gdy Astrid i pozostali biorą udział w wyścigach smoków (nowy najpopularniejszy sport zespołowy na wyspie), nierozłączna para Czkawka i Szczerbatek przemierza niebo, odkrywając nieznane ziemie i nowe światy. Gdy podczas jednej z wypraw natrafiają na tajemną lodową jaskinię, a w niej setki nowych dzikich smoków i tajemniczego Jeźdźca Smoków, dostają się w sam środek wojny o pokój. Czkawka i Szczerbatek zrobią wszystko, by stawić czoła wyzwaniu i odkryją, że tylko wspólnymi siłami mogą zmienić przyszłość zarówno ludzi, jak i smoków.",
+"overviewEn": "Five years after uniting the dragons and Vikings of Berk, Hiccup and Toothless soar beyond their homeland, charting the vast unknown. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons—and a mysterious dragon rider with a startling connection to Hiccup. And as the ruthless conqueror Drago Bludvist rises to seize control of both dragons and people alike, Hiccup must step into his role as a true leader and, alongside his friends and Toothless, protect Berk from a devastating war.",
+"popularity": 11.7,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 409337,
+"tmdb": 7.7
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Jak wytresować smoka 2",
+"titleEn": "How to Train Your Dragon 2",
+"tmdbId": 82702,
+"trailerKey": "1Y0erVF9cLI"
+},
+"netflix:movie:82702:sub": {
+"access": "sub",
+"backdropPath": "/8AAuJtCzaibYkbE0QVHc8EBsELB.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:82702:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+14,
+28,
+12
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W drugim rozdziale porywającej trylogii JAK WYTRESOWAĆ SMOKA powracamy do fantastycznego świata Czkawki i Szczerbatka w pięć lat po tym, jak udało im się zjednoczyć smoki i wikingów na wyspie Berk. Podczas gdy Astrid i pozostali biorą udział w wyścigach smoków (nowy najpopularniejszy sport zespołowy na wyspie), nierozłączna para Czkawka i Szczerbatek przemierza niebo, odkrywając nieznane ziemie i nowe światy. Gdy podczas jednej z wypraw natrafiają na tajemną lodową jaskinię, a w niej setki nowych dzikich smoków i tajemniczego Jeźdźca Smoków, dostają się w sam środek wojny o pokój. Czkawka i Szczerbatek zrobią wszystko, by stawić czoła wyzwaniu i odkryją, że tylko wspólnymi siłami mogą zmienić przyszłość zarówno ludzi, jak i smoków.",
+"overviewEn": "Five years after uniting the dragons and Vikings of Berk, Hiccup and Toothless soar beyond their homeland, charting the vast unknown. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons—and a mysterious dragon rider with a startling connection to Hiccup. And as the ruthless conqueror Drago Bludvist rises to seize control of both dragons and people alike, Hiccup must step into his role as a true leader and, alongside his friends and Toothless, protect Berk from a devastating war.",
+"popularity": 11.7,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 409337,
+"tmdb": 7.7
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Jak wytresować smoka 2",
+"titleEn": "How to Train Your Dragon 2",
+"tmdbId": 82702,
+"trailerKey": "1Y0erVF9cLI"
+},
 "netflix:movie:82777:sub": {
 "access": "sub",
 "backdropPath": "/bYYl5opcAXtpFe7UZFoCcWhSLzP.jpg",
@@ -62082,7 +63621,7 @@
 "ratings": {
 "imdb": 7.8,
 "imdbVotes": 22543,
-"tmdb": 7.6
+"tmdb": 7.7
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -62995,19 +64534,19 @@
 "tmdbId": 244447,
 "trailerKey": "uZvZfqiAhdQ"
 },
-"netflix:tv:247634:s2e1:sub": {
+"netflix:tv:247634:s2:sub": {
 "access": "sub",
 "backdropPath": "/csmPiAn5MJ0Y8qPDLCBsPbSADEG.jpg",
-"confirmedAt": "2026-11-12T13:44:28Z",
+"confirmedAt": "2026-11-12T21:49:59Z",
 "date": "2026-11-12",
 "dateConfirmed": true,
 "deepLinkId": null,
-"id": "netflix:tv:247634:s2e1:sub",
+"id": "netflix:tv:247634:s2:sub",
 "mediaType": "tv",
 "meta": {
-"allEpisodes": false,
-"episodeFrom": 1,
-"episodeTo": 1,
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
 "genres": [
 10764
 ],
@@ -64230,6 +65769,40 @@
 "tmdbId": 286277,
 "trailerKey": null
 },
+"netflix:tv:291507:s1:sub": {
+"access": "sub",
+"backdropPath": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:291507:s1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+9648
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "W noc Halloween, gdy rytuał inicjacji zamienia się w piekło, żeński zespół taneczny pogrąża się w katolickim poczuciu winy, grzesznych żądzach i upiornych wizjach.",
+"overviewEn": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+"popularity": 63.19,
+"ratings": null,
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Ciało",
+"titleEn": "The Body",
+"tmdbId": 291507,
+"trailerKey": "wl7uj7n7DoY"
+},
 "netflix:tv:291507:sub": {
 "access": "sub",
 "backdropPath": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
@@ -64252,8 +65825,8 @@
 "withAds": false
 },
 "origin": "diff",
-"overview": "Po nieudanym rytuale inicjacyjnym zespołu tanecznego grupa niegrzecznych dziewcząt z katolickiej szkoły zaczyna mieć profetyczne wizje, co doprowadza do wybuchu w ich miasteczku masowej histerii.",
-"overviewEn": "After a dance-team initiation gone wrong, a group of badly behaved Catholic school girls begin having prophetic visions that set off mass hysteria in their town.",
+"overview": "W noc Halloween, gdy rytuał inicjacji zamienia się w piekło, żeński zespół taneczny pogrąża się w katolickim poczuciu winy, grzesznych żądzach i upiornych wizjach.",
+"overviewEn": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
 "popularity": 63.19,
 "ratings": null,
 "serviceKey": "netflix",
@@ -66819,7 +68392,7 @@
 },
 "netflix:tv:322640:s5e21:sub": {
 "access": "sub",
-"backdropPath": "/w6LzGbQh4ZMKjSFUQyO9XnKnMM6.jpg",
+"backdropPath": "/jxWOkskps7VMFCTs0wX8P7ZihFQ.jpg",
 "confirmedAt": "2026-11-10T21:17:45Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
@@ -67866,6 +69439,40 @@
 "tmdbId": 334702,
 "trailerKey": null
 },
+"netflix:tv:336243:s1:sub": {
+"access": "sub",
+"backdropPath": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:336243:s1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+80
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Gdy w muzeum znalezione zostają zwłoki, konsultant sztuki musi wykorzystać swoje umiejętności, by pomóc policji rozwiązać tajemnicę związaną z jego przeszłością.",
+"overviewEn": "After a body is found in a Roman museum, an art expert must apply his instincts and skills to help police solve a mystery connected to his own past.",
+"popularity": 13.52,
+"ratings": null,
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Światłocień",
+"titleEn": "ChiaroScuro",
+"tmdbId": 336243,
+"trailerKey": "DKjB0JPhmYc"
+},
 "netflix:tv:336243:sub": {
 "access": "sub",
 "backdropPath": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg",
@@ -67972,6 +69579,39 @@
 "title": "Doozie's Doghouse",
 "titleEn": null,
 "tmdbId": 336478,
+"trailerKey": null
+},
+"netflix:tv:338562:s1e1:sub": {
+"access": "sub",
+"backdropPath": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:338562:s1e1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 1,
+"episodeTo": 10,
+"genres": [
+18
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Kiedy jej pieczołowicie budowane życie rozpada się na kawałki, Alicia wraca do praktykowania prawa i odkrywa, że zawodowa rewolucja oznacza też rewolucję osobistą.",
+"overviewEn": "After her husband, a Supreme Court Justice Minister, is imprisoned for corruption, Alicia must restart her law career to support her children and pay bills as her world crumbles.",
+"popularity": 13.81,
+"ratings": null,
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Prawo Alicii",
+"titleEn": "Alicia's Law",
+"tmdbId": 338562,
 "trailerKey": null
 },
 "netflix:tv:338562:sub": {
@@ -69522,7 +71162,7 @@
 },
 "netflix:tv:85077:s6e1:sub": {
 "access": "sub",
-"backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+"backdropPath": "/fYmZYHLOpO9x2ruePn3toG2cylX.jpg",
 "confirmedAt": null,
 "date": "2026-11-15",
 "dateConfirmed": true,
@@ -69561,7 +71201,7 @@
 },
 "netflix:tv:85077:s6e4:sub": {
 "access": "sub",
-"backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+"backdropPath": "/fYmZYHLOpO9x2ruePn3toG2cylX.jpg",
 "confirmedAt": null,
 "date": "2026-11-22",
 "dateConfirmed": true,
@@ -69600,7 +71240,7 @@
 },
 "netflix:tv:85077:s6e5:sub": {
 "access": "sub",
-"backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+"backdropPath": "/fYmZYHLOpO9x2ruePn3toG2cylX.jpg",
 "confirmedAt": null,
 "date": "2026-11-29",
 "dateConfirmed": true,
@@ -69781,6 +71421,45 @@
 "titleEn": "Love Is Blind",
 "tmdbId": 99353,
 "trailerKey": "s2eBAFt3L_0"
+},
+"player:movie:1000866:sub": {
+"access": "sub",
+"backdropPath": "/fIbr7oWorx5rOzdjOiIFtfFUXzp.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1000866:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Thibaut to światowej sławy dyrygent, który podróżuje po świecie. Kiedy dowiaduje się, że został adoptowany, odkrywa istnienie brata Jimmy'ego, pracownika szkolnej stołówki, który gra na puzonie w orkiestrze dętej na północy Francji. Podobno dzieli ich wszystko oprócz miłości do muzyki. Wykrywając wyjątkowe zdolności muzyczne swojego brata, Thibaut wyznacza sobie misję naprawienia niesprawiedliwości losu. Jimmy zaczyna marzyć o innym życiu...",
+"overviewEn": "A world-famous orchestra conductor discovers the brother he never knew he had — a school cafeteria worker who plays trombone in a local marching band. Detecting his brother's exceptional musical talent, he takes it upon himself to rectify the injustice of fate.",
+"popularity": 1.53,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 7622,
+"tmdb": 7.3
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Wysokie i niskie tony",
+"titleEn": "The Marching Band",
+"tmdbId": 1000866,
+"trailerKey": "KiXSe3xSVCw"
 },
 "player:movie:1048241:paid": {
 "access": "paid",
@@ -70052,6 +71731,84 @@
 "titleEn": "Moana",
 "tmdbId": 1108427,
 "trailerKey": "EEz5xbzYPKI"
+},
+"player:movie:1124142:paid": {
+"access": "paid",
+"backdropPath": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1124142:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na uboczu prowincjonalnej Ameryki żyje charyzmatyczny outsider, muzyk i lokalny przedsiębiorca, który przewodzi nietuzinkowej społeczności. Gdy po latach do jego życia niespodziewanie wraca przybrana córka, mężczyzna dostrzega szansę na odbudowanie relacji i stworzenie prawdziwego rodzinnego biznesu. Ich wspólna przyszłość szybko jednak staje pod znakiem zapytania - konkurenci zrobią wszystko, by zniszczyć to, co było budowane przez lata. W świecie, gdzie granica między dobrem a złem jest niejasna, a lojalność ma swoją cenę, nowo odbudowana rodzina będzie musiała zawalczyć nie tylko o przetrwanie, ale i o siebie nawzajem.",
+"overviewEn": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+"popularity": 8.98,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 9212,
+"tmdb": 6.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Wszyscy moi wrogowie",
+"titleEn": "The Rivals of Amziah King",
+"tmdbId": 1124142,
+"trailerKey": "GwSvAyaMGMo"
+},
+"player:movie:1124142:sub": {
+"access": "sub",
+"backdropPath": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1124142:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Na uboczu prowincjonalnej Ameryki żyje charyzmatyczny outsider, muzyk i lokalny przedsiębiorca, który przewodzi nietuzinkowej społeczności. Gdy po latach do jego życia niespodziewanie wraca przybrana córka, mężczyzna dostrzega szansę na odbudowanie relacji i stworzenie prawdziwego rodzinnego biznesu. Ich wspólna przyszłość szybko jednak staje pod znakiem zapytania - konkurenci zrobią wszystko, by zniszczyć to, co było budowane przez lata. W świecie, gdzie granica między dobrem a złem jest niejasna, a lojalność ma swoją cenę, nowo odbudowana rodzina będzie musiała zawalczyć nie tylko o przetrwanie, ale i o siebie nawzajem.",
+"overviewEn": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+"popularity": 8.98,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 9212,
+"tmdb": 6.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Wszyscy moi wrogowie",
+"titleEn": "The Rivals of Amziah King",
+"tmdbId": 1124142,
+"trailerKey": "GwSvAyaMGMo"
 },
 "player:movie:1129104:paid": {
 "access": "paid",
@@ -70595,6 +72352,84 @@
 "tmdbId": 1195506,
 "trailerKey": "L63vbrf8cNc"
 },
+"player:movie:1211472:paid": {
+"access": "paid",
+"backdropPath": "/s1PW2xCJPehFP4J5YNkg8GecBU7.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1211472:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Podczas Igrzysk Olimpijskich w Monachium w 1972 roku amerykańska ekipa komentatorska musiała zrelacjonować kryzys związany z zakładnikami, w który zaangażowani byli izraelscy sportowcy.",
+"overviewEn": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
+"popularity": 3.74,
+"ratings": {
+"imdb": 7.1,
+"imdbVotes": 39562,
+"tmdb": 7.0
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "5 września",
+"titleEn": "September 5",
+"tmdbId": 1211472,
+"trailerKey": "Azud40CQ3IE"
+},
+"player:movie:1211472:sub": {
+"access": "sub",
+"backdropPath": "/s1PW2xCJPehFP4J5YNkg8GecBU7.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1211472:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Podczas Igrzysk Olimpijskich w Monachium w 1972 roku amerykańska ekipa komentatorska musiała zrelacjonować kryzys związany z zakładnikami, w który zaangażowani byli izraelscy sportowcy.",
+"overviewEn": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
+"popularity": 3.74,
+"ratings": {
+"imdb": 7.1,
+"imdbVotes": 39562,
+"tmdb": 7.0
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "5 września",
+"titleEn": "September 5",
+"tmdbId": 1211472,
+"trailerKey": "Azud40CQ3IE"
+},
 "player:movie:1223663:paid": {
 "access": "paid",
 "backdropPath": "/GpdtBihDzlDBs56XJPbEV95Jkx.jpg",
@@ -70861,6 +72696,82 @@
 "titleEn": "Heart of the Beast",
 "tmdbId": 1263337,
 "trailerKey": "UkMuGKqAux4"
+},
+"player:movie:1266800:paid": {
+"access": "paid",
+"backdropPath": "/raTby3MY67GCHiF1S0VSwq01fds.jpg",
+"confirmedAt": null,
+"date": "2026-11-13",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1266800:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+10751
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Dwunastoletnia Sun wyrusza na Saharę, by rozwikłać sekret starej legendy opowiadanej przez dziadka. Na miejscu poznaje prawdziwe losy chłopca, który w wieku dwóch lat zaginął podczas potężnej burzy piaskowej. Pozostawiony na pastwę pustyni, zostaje cudownie ocalony przez stadko strusi. Spędza z nimi następne dziesięć lat, ucząc się przetrwania i dorastając z dala od ludzi. Jego największym przyjacielem i towarzyszem zabaw jest fenek – wielkouchy lisek pustyni. Chłopiec uczy się komunikować ze zwierzętami, a dzika natura staje się jego domem. To opowieść o niezwykłej więzi, która potrafi narodzić się nawet w najbardziej nieoczekiwanych miejscach.",
+"overviewEn": "14-year-old Sun has written and successfully published a story based on an incredible story told by her late grandfather about a wild child called Hadara, who is saved by a group of ostriches when he becomes separated from his family in a storm, and is then raised in the desert amid a host of wild animals, including his best friend, a desert fox. When Sun is invited to travel to the Sahara by a local community who has heard about her book, she meets Kharouba, a Nomad girl of her own age, and realizes there may be much more to Hadara than just a character in a bedtime story.",
+"popularity": 4.47,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 405,
+"tmdb": 7.3
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "Księga pustyni",
+"titleEn": "The Desert Child",
+"tmdbId": 1266800,
+"trailerKey": "dCDmE8aaOZg"
+},
+"player:movie:1266800:sub": {
+"access": "sub",
+"backdropPath": "/raTby3MY67GCHiF1S0VSwq01fds.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1266800:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+10751
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwunastoletnia Sun wyrusza na Saharę, by rozwikłać sekret starej legendy opowiadanej przez dziadka. Na miejscu poznaje prawdziwe losy chłopca, który w wieku dwóch lat zaginął podczas potężnej burzy piaskowej. Pozostawiony na pastwę pustyni, zostaje cudownie ocalony przez stadko strusi. Spędza z nimi następne dziesięć lat, ucząc się przetrwania i dorastając z dala od ludzi. Jego największym przyjacielem i towarzyszem zabaw jest fenek – wielkouchy lisek pustyni. Chłopiec uczy się komunikować ze zwierzętami, a dzika natura staje się jego domem. To opowieść o niezwykłej więzi, która potrafi narodzić się nawet w najbardziej nieoczekiwanych miejscach.",
+"overviewEn": "14-year-old Sun has written and successfully published a story based on an incredible story told by her late grandfather about a wild child called Hadara, who is saved by a group of ostriches when he becomes separated from his family in a storm, and is then raised in the desert amid a host of wild animals, including his best friend, a desert fox. When Sun is invited to travel to the Sahara by a local community who has heard about her book, she meets Kharouba, a Nomad girl of her own age, and realizes there may be much more to Hadara than just a character in a bedtime story.",
+"popularity": 4.47,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 405,
+"tmdb": 7.3
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Księga pustyni",
+"titleEn": "The Desert Child",
+"tmdbId": 1266800,
+"trailerKey": "dCDmE8aaOZg"
 },
 "player:movie:1267905:paid": {
 "access": "paid",
@@ -71250,7 +73161,7 @@
 },
 "player:movie:1317288:paid": {
 "access": "paid",
-"backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+"backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
 "confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
@@ -72850,6 +74761,44 @@
 "tmdbId": 345914,
 "trailerKey": "f-SP8iSCbKM"
 },
+"player:movie:36264:sub": {
+"access": "sub",
+"backdropPath": "/nJCJzBribIsi1l9wEHm38X1LQ0H.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:36264:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jest rok 1918. Do małego garnizonu, gdzieś na węgierskiej prowincji, przybywa nowy zastępca dowódcy - porucznik von Nogay. To typ fanatyka i sadystycznego służbisty. Jego zadaniem jest przekształcenie wielonarodowościowej zbieraniny dekowników w zdyscyplinowane wojsko cesarsko-królewskie. Szczególną uwagę zwraca na pięciu zawadiaków: Polaka, Czecha, Żyda, Węgra i Włocha, którzy przygotowują plan ucieczki.",
+"overviewEn": "Set in 1918, this World War I drama follows a group of Austro-Hungarian soldiers—Czechs, Jews, Italians, and others—confined in a provincial barracks under German officers. Subjected to the cruelty of a sadistic lieutenant, they rebel, humiliate him, and later attempt escape. Disguised as guards for veterinary surgeons in Budapest, the deserters are eventually recaptured and returned for court-martial, forced once more to face their tormentor.",
+"popularity": 0.48,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 1417,
+"tmdb": 7.0
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "C.K. Dezerterzy",
+"titleEn": "H.M. Deserters",
+"tmdbId": 36264,
+"trailerKey": null
+},
 "player:movie:38031:sub": {
 "access": "sub",
 "backdropPath": "/etTUz6C0jTC6uRwTJCYM7NOGidw.jpg",
@@ -73966,6 +75915,84 @@
 "tmdbId": 602158,
 "trailerKey": null
 },
+"player:movie:62835:paid": {
+"access": "paid",
+"backdropPath": "/aoof4GKwyUBN07tRN2HJXm6mSco.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:62835:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zoe Saldana („Avatar” i „Star Trek”) w filmie reżysera „Transportera 3”! Cataleya Restrepo jako mała dziewczynka była świadkiem brutalnego morderstwa rodziców. Teraz, kiedy jest już dorosła, staje się zawodowym zabójcą. Jest piękna, silna i zdeterminowana. Jako płatna morderczyni, z zimną krwią wykonuje kolejne egzekucje. Obsesyjnie tropi i eliminuje osoby powiązane ze śmiercią swoich rodziców. Z każdym kolejnym zabójstwem Cataleya zbliża się do upragnionego celu – zabicia gangstera, który był odpowiedzialny za zamordowanie najbliższych. Film powstał na podstawie scenariusza Luca Bessona",
+"overviewEn": "After witnessing her parents’ murder as a child in Bogota, Cataleya Restrepo grows up to be a stone-cold assassin. She works for her uncle as a hitman by day, but her personal time is spent engaging in vigilante murders that she hopes will lead her to her ultimate target: the mobster responsible for her parents' death.",
+"popularity": 5.29,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 116118,
+"tmdb": 6.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Colombiana",
+"titleEn": null,
+"tmdbId": 62835,
+"trailerKey": "HCxPLlFWdFo"
+},
+"player:movie:62835:sub": {
+"access": "sub",
+"backdropPath": "/aoof4GKwyUBN07tRN2HJXm6mSco.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:62835:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zoe Saldana („Avatar” i „Star Trek”) w filmie reżysera „Transportera 3”! Cataleya Restrepo jako mała dziewczynka była świadkiem brutalnego morderstwa rodziców. Teraz, kiedy jest już dorosła, staje się zawodowym zabójcą. Jest piękna, silna i zdeterminowana. Jako płatna morderczyni, z zimną krwią wykonuje kolejne egzekucje. Obsesyjnie tropi i eliminuje osoby powiązane ze śmiercią swoich rodziców. Z każdym kolejnym zabójstwem Cataleya zbliża się do upragnionego celu – zabicia gangstera, który był odpowiedzialny za zamordowanie najbliższych. Film powstał na podstawie scenariusza Luca Bessona",
+"overviewEn": "After witnessing her parents’ murder as a child in Bogota, Cataleya Restrepo grows up to be a stone-cold assassin. She works for her uncle as a hitman by day, but her personal time is spent engaging in vigilante murders that she hopes will lead her to her ultimate target: the mobster responsible for her parents' death.",
+"popularity": 5.29,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 116118,
+"tmdb": 6.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Colombiana",
+"titleEn": null,
+"tmdbId": 62835,
+"trailerKey": "HCxPLlFWdFo"
+},
 "player:movie:667538:paid": {
 "access": "paid",
 "backdropPath": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
@@ -74457,6 +76484,45 @@
 "titleEn": "The Perfect Guy for My Girlfriend",
 "tmdbId": 81230,
 "trailerKey": null
+},
+"player:movie:816904:sub": {
+"access": "sub",
+"backdropPath": "/xVFpOIVdVn5ZUq1QIf0UJcZWjO2.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:816904:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+12,
+14
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W Egipcie, głęboko pod ziemią, znajduje się liczące sobie 3000 lat miasto mumii. Zgodnie z królewskim rozkazem księżniczka Nefer musi wyjść za mąż za Thuta, ale żadne z tych dwojga się do tego nie pali. Nefer pragnie wolności, a Thut na wszelkie zobowiązania reaguje alergicznie. Przed wolą bogów nie ma jednak ucieczki. Thut będzie musiał ożenić się z Nefer już za siedem dni. Musi też przynieść na ślub starożytny pierścień, który wręczył mu sam faraon.",
+"overviewEn": "Through a series of unfortunate events, three mummies end up in present-day London and embark on a wacky and hilarious journey in search of an old ring belonging to the Royal Family, stolen by ambitious archaeologist Lord Carnaby.",
+"popularity": 2.88,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 10563,
+"tmdb": 6.9
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Mumie",
+"titleEn": "Mummies",
+"tmdbId": 816904,
+"trailerKey": "X6rNGDAiFjQ"
 },
 "player:movie:821493:paid": {
 "access": "paid",
@@ -75444,6 +77510,39 @@
 "title": "Nagi instynkt przetrwania: Brazylia",
 "titleEn": "Naked and Afraid Brazil",
 "tmdbId": 137940,
+"trailerKey": null
+},
+"player:tv:138333:s6e1:sub": {
+"access": "sub",
+"backdropPath": "/zDn0JnHBFlASxDINeiu3QDTmlRo.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-11",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:138333:s6e1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 1,
+"episodeTo": 1,
+"genres": [
+99
+],
+"kind": "doc_series",
+"season": 6,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Historia Hiszpanii kryje w sobie tysiące opowieści o UFO, od prehistorycznych mitów po całkiem nowe zdarzenia. Eksperci uważnie szukają dowodów.",
+"overviewEn": "Series of reports declassified in 1992 by the Ministry of Defense and that document in detail multiple sightings of unidentified objects within Spanish airspace, mostly carried out by the military. These papers talk about circumstances that really give food for thought: from mere sightings to the vision of crew members inside those objects.",
+"popularity": 0.6,
+"ratings": null,
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Obcy są wśród nas: Hiszpania",
+"titleEn": "Aliens: They Are Among Us",
+"tmdbId": 138333,
 "trailerKey": null
 },
 "player:tv:14750:s26e36:sub": {
@@ -81871,6 +83970,84 @@
 "tmdbId": 101299,
 "trailerKey": "UDu0FKeGd5w"
 },
+"polsatboxgo:movie:1016084:paid": {
+"access": "paid",
+"backdropPath": "/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1016084:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwóch niedopasowanych przedsiębiorców - innowator Mike Lazaridis i biznesmen Jim Balsillie - połączyło siły w przedsięwzięciu, które miało stać się światowym hitem w nieco ponad dekadę. Historia błyskawicznego wzrostu i katastrofalnego upadku pierwszego na świecie smartfona.",
+"overviewEn": "Two mismatched entrepreneurs – egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie – joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+"popularity": 4.27,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 74173,
+"tmdb": 7.2
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "BlackBerry",
+"titleEn": null,
+"tmdbId": 1016084,
+"trailerKey": "cXL_HDzBQsM"
+},
+"polsatboxgo:movie:1016084:sub": {
+"access": "sub",
+"backdropPath": "/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1016084:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwóch niedopasowanych przedsiębiorców - innowator Mike Lazaridis i biznesmen Jim Balsillie - połączyło siły w przedsięwzięciu, które miało stać się światowym hitem w nieco ponad dekadę. Historia błyskawicznego wzrostu i katastrofalnego upadku pierwszego na świecie smartfona.",
+"overviewEn": "Two mismatched entrepreneurs – egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie – joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+"popularity": 4.27,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 74173,
+"tmdb": 7.2
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "BlackBerry",
+"titleEn": null,
+"tmdbId": 1016084,
+"trailerKey": "cXL_HDzBQsM"
+},
 "polsatboxgo:movie:10316:paid": {
 "access": "paid",
 "backdropPath": "/bfKtxw6HTxkZ6C5XU3BFYodHLug.jpg",
@@ -83618,7 +85795,7 @@
 },
 "polsatboxgo:movie:1317288:sub": {
 "access": "sub",
-"backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+"backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
 "confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
@@ -84066,6 +86243,44 @@
 "tmdbId": 1385223,
 "trailerKey": null
 },
+"polsatboxgo:movie:1403331:paid": {
+"access": "paid",
+"backdropPath": "/2jU5fl5gcTcZsjHbW9xnz0XwGdl.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1403331:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+9648,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Mężczyzna walczący z biedą coraz bardziej zatraca się moralnie, desperacko dążąc do lepszego życia.",
+"overviewEn": "On the cusp of his 50th birthday, Nacer Belkacem dreams of a better life. Yet, over the years, he has built himself an enviable position in the eyes of all: a loving family man, a happy husband, a model employee, and a respected citizen in his community. But the veneer is cracking. Beneath a seemingly perfect surface, Nacer has racked up expenses, made questionable investments, and is up to his neck in debt. On the brink of ruin, he devises a desperate plan to try to pull himself out of the water. You only have one life to earn your way to heaven...",
+"popularity": 1.26,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 109
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Cena raju",
+"titleEn": "The Cost of Heaven",
+"tmdbId": 1403331,
+"trailerKey": "rhrZNNaE6Sk"
+},
 "polsatboxgo:movie:1403331:sub": {
 "access": "sub",
 "backdropPath": "/2jU5fl5gcTcZsjHbW9xnz0XwGdl.jpg",
@@ -84505,6 +86720,84 @@
 "tmdbId": 1567465,
 "trailerKey": null
 },
+"polsatboxgo:movie:157336:paid": {
+"access": "paid",
+"backdropPath": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:157336:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+18,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Ziemia w niedalekiej przyszłości. Planeta jest sukcesywnie niszczona przez klęski suszy, a ludziom grozi wyginięcie. Nieoczekiwanie naukowcy odkrywają możliwość podróżowania poza granice Układu Słonecznego. Grupa astronautów wyrusza w najważniejszą w dziejach ludzkości podróż – muszą znaleźć miejsce, gdzie nasz gatunek będzie mógł przetrwać. Na czele załogi staje Cooper, były pilot NASA, który obecnie zajmuje się uprawą roli.",
+"overviewEn": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+"popularity": 53.14,
+"ratings": {
+"imdb": 8.7,
+"imdbVotes": 2633099,
+"tmdb": 8.5
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Interstellar",
+"titleEn": null,
+"tmdbId": 157336,
+"trailerKey": "S2qkp4h0qlQ"
+},
+"polsatboxgo:movie:157336:sub": {
+"access": "sub",
+"backdropPath": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:157336:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+18,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Ziemia w niedalekiej przyszłości. Planeta jest sukcesywnie niszczona przez klęski suszy, a ludziom grozi wyginięcie. Nieoczekiwanie naukowcy odkrywają możliwość podróżowania poza granice Układu Słonecznego. Grupa astronautów wyrusza w najważniejszą w dziejach ludzkości podróż – muszą znaleźć miejsce, gdzie nasz gatunek będzie mógł przetrwać. Na czele załogi staje Cooper, były pilot NASA, który obecnie zajmuje się uprawą roli.",
+"overviewEn": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+"popularity": 53.14,
+"ratings": {
+"imdb": 8.7,
+"imdbVotes": 2633099,
+"tmdb": 8.5
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Interstellar",
+"titleEn": null,
+"tmdbId": 157336,
+"trailerKey": "S2qkp4h0qlQ"
+},
 "polsatboxgo:movie:1624183:sub": {
 "access": "sub",
 "backdropPath": "/3m4jsYrVGx5hZCofSaUd6eNWzXD.jpg",
@@ -84800,6 +87093,120 @@
 "tmdbId": 197796,
 "trailerKey": "wRCrJz5OpFU"
 },
+"polsatboxgo:movie:2022:paid": {
+"access": "paid",
+"backdropPath": "/7P3VyWQTnZOYIQnk5seM0YQ9ucg.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:2022:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Longfellow Deeds (Adam Sandler), mieszkaniec małego miasteczka w stanie New Hampshire, pewnego dnia dowiaduje się, że jest jedynym spadkobiercą testamentowym zmarłego niedawno wuja. Po jego śmierci przenosi się do Nowego Jorku, gdzie przejmuje kontrolę nad olbrzymią medialną korporacją. Wkrótce poznaje Babe (Winona Ryder) - piękną reporterkę, która chce napisać o nim kompromitujący artykuł, jednak z czasem się w nim zakochuje...",
+"overviewEn": "When Longfellow Deeds, a small-town pizzeria owner and poet, inherits $40 billion from his deceased uncle, he quickly begins rolling in a different kind of dough. Moving to the big city, Deeds finds himself besieged by opportunists all gunning for their piece of the pie. Babe, a television tabloid reporter, poses as an innocent small-town girl to do an exposé on Deeds.",
+"popularity": 4.78,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 166208,
+"tmdb": 5.9
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Mr. Deeds - Milioner z przypadku",
+"titleEn": "Mr. Deeds",
+"tmdbId": 2022,
+"trailerKey": "ASw47FiEhes"
+},
+"polsatboxgo:movie:209247:paid": {
+"access": "paid",
+"backdropPath": "/vzAOHT5z3J6xL5UebQPEnjqLpxD.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:209247:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Crunch Calhoun, brawurowy motocyklista i prawie-nawrócony złodziej dzieł sztuki, godzi się wrócić do przestępczej gry i wziąć udział w jeszcze jednej, niezwykle zyskownej kradzieży, razem ze swoim nieodpowiedzialnym bratem Nickym. Crunch zbiera stary zespół i opracowuje plan kradzieży bezcennego starodruku. Jednak udany skok prowadzi do kolejnego, daleko bardziej ryzykownego planu autorstwa Nicky'ego. To z czego bracia nie zdają sobie sprawy to fakt, że każdy chce osiągnąć inny cel, a plan idzie nie po ich myśli.",
+"overviewEn": "Crunch Calhoun, a third-rate motorcycle daredevil and part-time art thief, teams up with his snaky brother to steal one of the most valuable books in the world. But it's not just about the book for Crunch — he's keen to rewrite some chapters of his own past as well.",
+"popularity": 2.45,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 27476,
+"tmdb": 6.2
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Sztuka kradzieży",
+"titleEn": "The Art of the Steal",
+"tmdbId": 209247,
+"trailerKey": "qe0OU2ZibFI"
+},
+"polsatboxgo:movie:209247:sub": {
+"access": "sub",
+"backdropPath": "/vzAOHT5z3J6xL5UebQPEnjqLpxD.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:209247:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Crunch Calhoun, brawurowy motocyklista i prawie-nawrócony złodziej dzieł sztuki, godzi się wrócić do przestępczej gry i wziąć udział w jeszcze jednej, niezwykle zyskownej kradzieży, razem ze swoim nieodpowiedzialnym bratem Nickym. Crunch zbiera stary zespół i opracowuje plan kradzieży bezcennego starodruku. Jednak udany skok prowadzi do kolejnego, daleko bardziej ryzykownego planu autorstwa Nicky'ego. To z czego bracia nie zdają sobie sprawy to fakt, że każdy chce osiągnąć inny cel, a plan idzie nie po ich myśli.",
+"overviewEn": "Crunch Calhoun, a third-rate motorcycle daredevil and part-time art thief, teams up with his snaky brother to steal one of the most valuable books in the world. But it's not just about the book for Crunch — he's keen to rewrite some chapters of his own past as well.",
+"popularity": 2.45,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 27476,
+"tmdb": 6.2
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Sztuka kradzieży",
+"titleEn": "The Art of the Steal",
+"tmdbId": 209247,
+"trailerKey": "qe0OU2ZibFI"
+},
 "polsatboxgo:movie:218:free": {
 "access": "free",
 "backdropPath": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
@@ -85072,6 +87479,44 @@
 "titleEn": "Inception",
 "tmdbId": 27205,
 "trailerKey": "cdx31ak4KbQ"
+},
+"polsatboxgo:movie:29963:paid": {
+"access": "paid",
+"backdropPath": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:29963:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Fanny Brawne ma 18 lat, jest olśniewająco piękną i ciekawą świata dziewczyną. Powściągliwa matka dołożyła wszelkich starań by córka wyrosła na rozważną i dobrze wychowaną pannę. Każdy dzień Fanny wypełniony jest niekonwencjonalnymi zajęciami, jak szydełkowanie, bale i długie spacery zawsze w towarzystwie przyzwoitki. Niewinne spotkanie z czarującym młodzieńcem nieoczekiwanie przerodzi się w pierwszą prawdziwą miłość. To nieznane uczucie do niepoprawnego romantyka sprawi, że dziewczyna zrzuci gorset konwenansów i złamie panujące zasady.",
+"overviewEn": "In 1818, high-spirited young Fanny Brawne finds herself increasingly intrigued by the handsome but aloof poet John Keats, who lives next door to her family friends the Dilkes. After reading a book of his poetry, she finds herself even more drawn to the taciturn Keats. Although he agrees to teach her about poetry, Keats cannot act on his reciprocated feelings for Fanny, since as a struggling poet he has no money to support a wife.",
+"popularity": 1.84,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 30096,
+"tmdb": 6.6
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Jaśniejsza od gwiazd",
+"titleEn": "Bright Star",
+"tmdbId": 29963,
+"trailerKey": "K2FkxivSuVg"
 },
 "polsatboxgo:movie:304357:paid": {
 "access": "paid",
@@ -86937,6 +89382,82 @@
 "tmdbId": 660033,
 "trailerKey": "sA2HS-UCltk"
 },
+"polsatboxgo:movie:68718:paid": {
+"access": "paid",
+"backdropPath": "/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:68718:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+37
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Rok 1858, południe Stanów Zjednoczonych. Niewolnik Django spotyka na swojej drodze doktora Kinga Schultza, pochodzącego z Niemiec łowcę nagród. Ten, obiecuje mu wolność i zapłatę w zamian za pomoc w odnalezieniu poszukiwanych przez prawo braci Brittle. Django zgadza się i wkrótce obaj wykonują robotę. Po wszystkim zawiązują spółkę. Schultz wprowadza Django w tajniki zawodu łowcy nagród. Ponadto, poruszony historią swojego nowego przyjaciela, postanawia pomóc mu w odszukaniu żony Broomhildy. Okazuje się, że znajduje się ona na niesławnej plantacji należącej do Calvina Candie, odrażającego dżentelmena pasjonującego się walkami niewolników.",
+"overviewEn": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+"popularity": 21.11,
+"ratings": {
+"imdb": 8.5,
+"imdbVotes": 1926222,
+"tmdb": 8.2
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Django",
+"titleEn": "Django Unchained",
+"tmdbId": 68718,
+"trailerKey": "_iH0UBYDI4g"
+},
+"polsatboxgo:movie:68718:sub": {
+"access": "sub",
+"backdropPath": "/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:68718:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+37
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Rok 1858, południe Stanów Zjednoczonych. Niewolnik Django spotyka na swojej drodze doktora Kinga Schultza, pochodzącego z Niemiec łowcę nagród. Ten, obiecuje mu wolność i zapłatę w zamian za pomoc w odnalezieniu poszukiwanych przez prawo braci Brittle. Django zgadza się i wkrótce obaj wykonują robotę. Po wszystkim zawiązują spółkę. Schultz wprowadza Django w tajniki zawodu łowcy nagród. Ponadto, poruszony historią swojego nowego przyjaciela, postanawia pomóc mu w odszukaniu żony Broomhildy. Okazuje się, że znajduje się ona na niesławnej plantacji należącej do Calvina Candie, odrażającego dżentelmena pasjonującego się walkami niewolników.",
+"overviewEn": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+"popularity": 21.11,
+"ratings": {
+"imdb": 8.5,
+"imdbVotes": 1926222,
+"tmdb": 8.2
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Django",
+"titleEn": "Django Unchained",
+"tmdbId": 68718,
+"trailerKey": "_iH0UBYDI4g"
+},
 "polsatboxgo:movie:70160:paid": {
 "access": "paid",
 "backdropPath": "/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
@@ -88236,6 +90757,44 @@
 "tmdbId": 256695,
 "trailerKey": null
 },
+"polsatboxgo:tv:261647:s1e26:sub": {
+"access": "sub",
+"backdropPath": "/wGeYd7lVxOzZsbJV7iipK8298hT.jpg",
+"confirmedAt": null,
+"date": "2026-11-26",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:tv:261647:s1e26:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 26,
+"episodeTo": 26,
+"genres": [
+10762,
+16,
+10751
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Księżniczka Zosia z Czarlandii zaczyna naukę w nowej szkole – Królewskiej Szkole Magii, gdzie poznaje nowych przyjaciół: księżniczki Laylę i Kamilę, księcia Zane'a i szkolną maskotkę, piesiorożca Zadziorka. Zosia dowiaduje się, że jest najbardziej magiczną księżniczką we Wszechziemiu i odkrywa niesamowity, czarodziejski świat!",
+"overviewEn": "Follow Sofia as she attends The Charmswell School for Royal Magic, where she discovers she is the most magical princess in the realm and must learn how to master her powers while making new royal friends.",
+"popularity": 12.04,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 184
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "announced",
+"title": "Jej Wysokość Zosia: Królewska Szkoła Magii",
+"titleEn": "Sofia the First: Royal Magic",
+"tmdbId": 261647,
+"trailerKey": "9S84arStKj4"
+},
 "polsatboxgo:tv:274388:s1e71:sub": {
 "access": "sub",
 "backdropPath": "/tHWW3xDD49UZuoirqzUQT046dWi.jpg",
@@ -88803,6 +91362,45 @@
 "titleEn": "Dead Talents Society",
 "tmdbId": 1006724,
 "trailerKey": "YrWJ_jVa0ys"
+},
+"prime:movie:1016084:sub": {
+"access": "sub",
+"backdropPath": "/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1016084:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwóch niedopasowanych przedsiębiorców - innowator Mike Lazaridis i biznesmen Jim Balsillie - połączyło siły w przedsięwzięciu, które miało stać się światowym hitem w nieco ponad dekadę. Historia błyskawicznego wzrostu i katastrofalnego upadku pierwszego na świecie smartfona.",
+"overviewEn": "Two mismatched entrepreneurs – egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie – joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+"popularity": 4.27,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 74173,
+"tmdb": 7.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "BlackBerry",
+"titleEn": null,
+"tmdbId": 1016084,
+"trailerKey": "cXL_HDzBQsM"
 },
 "prime:movie:1030049:paid": {
 "access": "paid",
@@ -90905,7 +93503,7 @@
 },
 "prime:movie:1317288:sub": {
 "access": "sub",
-"backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+"backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
 "confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
@@ -91726,6 +94324,39 @@
 "tmdbId": 1452662,
 "trailerKey": null
 },
+"prime:movie:1458352:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1458352:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.73,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "La noche de los tres fuegos",
+"titleEn": null,
+"tmdbId": 1458352,
+"trailerKey": null
+},
 "prime:movie:14620:paid": {
 "access": "paid",
 "backdropPath": "/woUBg7Se10brZajZjg2uBklwXlM.jpg",
@@ -92208,6 +94839,42 @@
 "titleEn": "Ong Bak 2",
 "tmdbId": 16353,
 "trailerKey": "Bx08Cumv-wc"
+},
+"prime:movie:1639561:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1639561:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "A chance encounter. An undeniable connection. Natalie Conner never expected a simple meeting to change the course of her life. But when she crosses paths with Luke Williams, their instant connection quickly turns into something neither of them can ignore. As their relationship deepens, Natalie discovers that Luke is hiding a secret that could change everything. Together, they must navigate the challenges that come with opening their hearts and trusting in a love neither saw coming. Come Away With Me is a heartfelt romance about taking a chance on love, embracing the unexpected, and finding the person who feels like home.",
+"overviewEn": "A chance encounter. An undeniable connection. Natalie Conner never expected a simple meeting to change the course of her life. But when she crosses paths with Luke Williams, their instant connection quickly turns into something neither of them can ignore. As their relationship deepens, Natalie discovers that Luke is hiding a secret that could change everything. Together, they must navigate the challenges that come with opening their hearts and trusting in a love neither saw coming. Come Away With Me is a heartfelt romance about taking a chance on love, embracing the unexpected, and finding the person who feels like home.",
+"popularity": 0.94,
+"ratings": {
+"imdb": 4.9,
+"imdbVotes": 41
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Come Away With Me",
+"titleEn": null,
+"tmdbId": 1639561,
+"trailerKey": null
 },
 "prime:movie:16535:paid": {
 "access": "paid",
@@ -94189,6 +96856,45 @@
 "titleEn": "Lake Placid vs. Anaconda",
 "tmdbId": 336560,
 "trailerKey": "u_AIV9c0FWc"
+},
+"prime:movie:339103:sub": {
+"access": "sub",
+"backdropPath": "/2ONQC1jV5ucuNmbJjd4JtGx5NFp.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:339103:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Historia życia Johna Gottiego, przywódcy mafijnej rodziny Gambino - jednej z najpotężniejszych i najbardziej bezlitosnych grup przestępczych w historii Ameryki. Gangster znany z brutalności i pogardy dla prawa, dzięki urokowi osobistemu i elegancji stał się ulubieńcem mediów.",
+"overviewEn": "John Gotti rises to the top of the New York underworld to become the boss of the Gambino crime family. His life takes a tumultuous turn as he faces tragedy, multiple trials and a prison sentence.",
+"popularity": 2.02,
+"ratings": {
+"imdb": 4.8,
+"imdbVotes": 18770,
+"tmdb": 5.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Gotti",
+"titleEn": null,
+"tmdbId": 339103,
+"trailerKey": "m290GmN-Q7Q"
 },
 "prime:movie:345914:sub": {
 "access": "sub",
@@ -96488,6 +99194,45 @@
 "tmdbId": 578189,
 "trailerKey": "-GnZc3Y4mMk"
 },
+"prime:movie:579828:sub": {
+"access": "sub",
+"backdropPath": "/4ehqtwnjbYby9Brk6B1ECtmSiWu.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:579828:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+878,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "12 262 metrów pod ziemią odkryli coś, o czym świat miał się nie dowiedzieć. Teraz, za wszelką cenę, muszą zatrzymać to pod powierzchnią… Pełen napięcia, inspirowany prawdziwymi wydarzeniami, thriller sci-fi, który zabiera widza w tajemniczy świat godny słynnego H. P. Lovecrafta. Grupa naukowców z radzieckiej stacji badawczej w 1984 roku schodzi pod powierzchnię ziemi, by sprawdzić, co kryje najgłębszy odwiert na świecie. Misja przebiega zgodnie z planem, aż do czasu, gdy 12 262 metrów pod ziemią natrafiają na przerażające dźwięki. Teraz muszą jak najszybciej wydostać się na zewnątrz i zatrzymać pod powierzchnią coś, co może zagrażać przyszłości ludzkiej rasy…",
+"overviewEn": "In 1984, a Russian research team goes below the surface to find out what secret the world's deepest borehole is hiding. On their expedition, something unexpectedly gruesome awaits the researchers.",
+"popularity": 2.39,
+"ratings": {
+"imdb": 4.9,
+"imdbVotes": 6967,
+"tmdb": 5.9
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Otchłań",
+"titleEn": "Superdeep",
+"tmdbId": 579828,
+"trailerKey": "2vfmCzuTsaY"
+},
 "prime:movie:59436:paid": {
 "access": "paid",
 "backdropPath": "/b5bcKhvN6VP82U5ztNdPfOLiolD.jpg",
@@ -97533,6 +100278,45 @@
 "titleEn": "Everything's Gonna Be Great",
 "tmdbId": 81549,
 "trailerKey": null
+},
+"prime:movie:816904:sub": {
+"access": "sub",
+"backdropPath": "/xVFpOIVdVn5ZUq1QIf0UJcZWjO2.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:816904:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+12,
+14
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W Egipcie, głęboko pod ziemią, znajduje się liczące sobie 3000 lat miasto mumii. Zgodnie z królewskim rozkazem księżniczka Nefer musi wyjść za mąż za Thuta, ale żadne z tych dwojga się do tego nie pali. Nefer pragnie wolności, a Thut na wszelkie zobowiązania reaguje alergicznie. Przed wolą bogów nie ma jednak ucieczki. Thut będzie musiał ożenić się z Nefer już za siedem dni. Musi też przynieść na ślub starożytny pierścień, który wręczył mu sam faraon.",
+"overviewEn": "Through a series of unfortunate events, three mummies end up in present-day London and embark on a wacky and hilarious journey in search of an old ring belonging to the Royal Family, stolen by ambitious archaeologist Lord Carnaby.",
+"popularity": 2.88,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 10563,
+"tmdb": 6.9
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Mumie",
+"titleEn": "Mummies",
+"tmdbId": 816904,
+"trailerKey": "X6rNGDAiFjQ"
 },
 "prime:movie:818192:paid": {
 "access": "paid",
@@ -99209,158 +101993,6 @@
 "serviceKey": "prime",
 "source": "tmdb",
 "status": "live",
-"title": "Mistrz kija",
-"titleEn": "Stick",
-"tmdbId": 248830,
-"trailerKey": "72oB_zVF_6o"
-},
-"prime:tv:248830:s2e3:free": {
-"access": "free",
-"backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-"confirmedAt": "2026-11-09T23:46:08Z",
-"date": "2026-11-10",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:tv:248830:s2e3:free",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 3,
-"episodeTo": 3,
-"genres": [
-35,
-18
-],
-"kind": "series",
-"season": 2,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Pryce Cahill zmierzał ku golfowej wielkości, gdy załamanie nerwowe na polu golfowym zakończyło jego karierę. Teraz, walcząc o utrzymanie się na powierzchni, poświęca się całkowicie, by zostać mentorem Santiego, nastoletniego golfisty o ogromnym potencjale, i może przy tym uratować samego siebie.",
-"overviewEn": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
-"popularity": 43.97,
-"ratings": {
-"imdb": 7.2,
-"imdbVotes": 21245,
-"tmdb": 7.3
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "live",
-"title": "Mistrz kija",
-"titleEn": "Stick",
-"tmdbId": 248830,
-"trailerKey": "72oB_zVF_6o"
-},
-"prime:tv:248830:s2e4:free": {
-"access": "free",
-"backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-"confirmedAt": null,
-"date": "2026-11-17",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:tv:248830:s2e4:free",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 4,
-"episodeTo": 4,
-"genres": [
-35,
-18
-],
-"kind": "series",
-"season": 2,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Pryce Cahill zmierzał ku golfowej wielkości, gdy załamanie nerwowe na polu golfowym zakończyło jego karierę. Teraz, walcząc o utrzymanie się na powierzchni, poświęca się całkowicie, by zostać mentorem Santiego, nastoletniego golfisty o ogromnym potencjale, i może przy tym uratować samego siebie.",
-"overviewEn": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
-"popularity": 43.97,
-"ratings": {
-"imdb": 7.2,
-"imdbVotes": 21245,
-"tmdb": 7.3
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "announced",
-"title": "Mistrz kija",
-"titleEn": "Stick",
-"tmdbId": 248830,
-"trailerKey": "72oB_zVF_6o"
-},
-"prime:tv:248830:s2e5:free": {
-"access": "free",
-"backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-"confirmedAt": null,
-"date": "2026-11-24",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:tv:248830:s2e5:free",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 5,
-"episodeTo": 5,
-"genres": [
-35,
-18
-],
-"kind": "series",
-"season": 2,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Pryce Cahill zmierzał ku golfowej wielkości, gdy załamanie nerwowe na polu golfowym zakończyło jego karierę. Teraz, walcząc o utrzymanie się na powierzchni, poświęca się całkowicie, by zostać mentorem Santiego, nastoletniego golfisty o ogromnym potencjale, i może przy tym uratować samego siebie.",
-"overviewEn": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
-"popularity": 43.97,
-"ratings": {
-"imdb": 7.2,
-"imdbVotes": 21245,
-"tmdb": 7.3
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "announced",
-"title": "Mistrz kija",
-"titleEn": "Stick",
-"tmdbId": 248830,
-"trailerKey": "72oB_zVF_6o"
-},
-"prime:tv:248830:s2e6:free": {
-"access": "free",
-"backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-"confirmedAt": null,
-"date": "2026-12-01",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:tv:248830:s2e6:free",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 6,
-"episodeTo": 6,
-"genres": [
-35,
-18
-],
-"kind": "series",
-"season": 2,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Pryce Cahill zmierzał ku golfowej wielkości, gdy załamanie nerwowe na polu golfowym zakończyło jego karierę. Teraz, walcząc o utrzymanie się na powierzchni, poświęca się całkowicie, by zostać mentorem Santiego, nastoletniego golfisty o ogromnym potencjale, i może przy tym uratować samego siebie.",
-"overviewEn": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
-"popularity": 43.97,
-"ratings": {
-"imdb": 7.2,
-"imdbVotes": 21245,
-"tmdb": 7.3
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "announced",
 "title": "Mistrz kija",
 "titleEn": "Stick",
 "tmdbId": 248830,
@@ -101946,7 +104578,7 @@
 },
 "prime:tv:85077:s6e1:sub": {
 "access": "sub",
-"backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+"backdropPath": "/fYmZYHLOpO9x2ruePn3toG2cylX.jpg",
 "confirmedAt": null,
 "date": "2026-11-15",
 "dateConfirmed": true,
@@ -101985,7 +104617,7 @@
 },
 "prime:tv:85077:s6e4:sub": {
 "access": "sub",
-"backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+"backdropPath": "/fYmZYHLOpO9x2ruePn3toG2cylX.jpg",
 "confirmedAt": null,
 "date": "2026-11-22",
 "dateConfirmed": true,
@@ -102024,7 +104656,7 @@
 },
 "prime:tv:85077:s6e5:sub": {
 "access": "sub",
-"backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+"backdropPath": "/fYmZYHLOpO9x2ruePn3toG2cylX.jpg",
 "confirmedAt": null,
 "date": "2026-11-29",
 "dateConfirmed": true,
@@ -102060,6 +104692,45 @@
 "titleEn": null,
 "tmdbId": 85077,
 "trailerKey": "5CVj41dtkIA"
+},
+"rakuten:movie:1016084:sub": {
+"access": "sub",
+"backdropPath": "/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1016084:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwóch niedopasowanych przedsiębiorców - innowator Mike Lazaridis i biznesmen Jim Balsillie - połączyło siły w przedsięwzięciu, które miało stać się światowym hitem w nieco ponad dekadę. Historia błyskawicznego wzrostu i katastrofalnego upadku pierwszego na świecie smartfona.",
+"overviewEn": "Two mismatched entrepreneurs – egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie – joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+"popularity": 4.27,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 74173,
+"tmdb": 7.2
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "BlackBerry",
+"titleEn": null,
+"tmdbId": 1016084,
+"trailerKey": "cXL_HDzBQsM"
 },
 "rakuten:movie:1073865:free": {
 "access": "free",
@@ -103220,7 +105891,7 @@
 },
 "rakuten:movie:1317288:paid": {
 "access": "paid",
-"backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+"backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
 "confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
@@ -105651,6 +108322,84 @@
 "tmdbId": 760204,
 "trailerKey": "ebjFxaZfrQw"
 },
+"rakuten:movie:76812:free": {
+"access": "free",
+"backdropPath": "/tQBJu83JWyP9tEQ4iGLdiErDwnY.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:76812:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+9648,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Położone w górach miasteczko, w którym miała miejsce seria niewyjaśnionych porwań i zabójstw. Jednym z jego mieszkańców jest żyjący na uboczu Paul (Antonio Banderas), sławny niegdyś pisarz, który od dłuższego czasu przeżywa kryzys twórczy. Często też zagląda do kieliszka. Mężczyzna ma nadzieję, że uda mu się stworzyć rewelacyjny scenariusz i tym samym ocalić swoją karierę. Pewnego dnia spotyka na swojej drodze włóczęgę o imieniu Jack (Jonathan Rhys Meyers) i proponuje mu nocleg u siebie w domu. Potężna burza powoduje przerwę w dostawie prądu. Między bohaterami wywiązuje się gra. Co z niej wyniknie?",
+"overviewEn": "Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.",
+"popularity": 2.41,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 16179,
+"tmdb": 6.2
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Czarny Motyl",
+"titleEn": "Black Butterfly",
+"tmdbId": 76812,
+"trailerKey": "USR9JMDPpIY"
+},
+"rakuten:movie:816904:sub": {
+"access": "sub",
+"backdropPath": "/xVFpOIVdVn5ZUq1QIf0UJcZWjO2.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:816904:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+12,
+14
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W Egipcie, głęboko pod ziemią, znajduje się liczące sobie 3000 lat miasto mumii. Zgodnie z królewskim rozkazem księżniczka Nefer musi wyjść za mąż za Thuta, ale żadne z tych dwojga się do tego nie pali. Nefer pragnie wolności, a Thut na wszelkie zobowiązania reaguje alergicznie. Przed wolą bogów nie ma jednak ucieczki. Thut będzie musiał ożenić się z Nefer już za siedem dni. Musi też przynieść na ślub starożytny pierścień, który wręczył mu sam faraon.",
+"overviewEn": "Through a series of unfortunate events, three mummies end up in present-day London and embark on a wacky and hilarious journey in search of an old ring belonging to the Royal Family, stolen by ambitious archaeologist Lord Carnaby.",
+"popularity": 2.88,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 10563,
+"tmdb": 6.9
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Mumie",
+"titleEn": "Mummies",
+"tmdbId": 816904,
+"trailerKey": "X6rNGDAiFjQ"
+},
 "rakuten:movie:860901:sub": {
 "access": "sub",
 "backdropPath": "/3tlpvkOnBEuXwF5GDYqbCQYaRLM.jpg",
@@ -105917,6 +108666,44 @@
 "titleEn": "Leave",
 "tmdbId": 983526,
 "trailerKey": "cKQxHfug6BU"
+},
+"skyshowtime:movie:1028180:sub": {
+"access": "sub",
+"backdropPath": "/7Z8mJu6L3ikUe5mHVy5kaAlVGTA.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:movie:1028180:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10770,
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Film opowiada o tym, jak Darcy wraca do domu, aby spędzić święta Bożego Narodzenia ze swoją siostrą i siostrzenicą. Niespodziewanie zostaje trenerką szkolnego chóru razem ze swoim dawnym rywalem, Adamem.",
+"overviewEn": "When pop star Darcy returns home to spend Christmas with her sister and niece, she unexpectedly finds herself coaching the high school choir with her onetime rival, Adam.",
+"popularity": 1.21,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 1048
+},
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "live",
+"title": "Kolędowa rywalizacja",
+"titleEn": "In Merry Measure",
+"tmdbId": 1028180,
+"trailerKey": "hGcCJfTD79k"
 },
 "skyshowtime:movie:1035218:sub": {
 "access": "sub",
@@ -109914,7 +112701,7 @@
 },
 "tvpvod:movie:1317288:paid": {
 "access": "paid",
-"backdropPath": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+"backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
 "confirmedAt": "2026-11-09T23:46:08Z",
 "date": "2026-11-10",
 "dateConfirmed": true,
@@ -110394,6 +113181,39 @@
 "title": "Tajemnica Gwiaździstej Eskadry",
 "titleEn": "Mystery of the Starry Squadron",
 "tmdbId": 1556575,
+"trailerKey": null
+},
+"tvpvod:movie:1577806:free": {
+"access": "free",
+"backdropPath": "/FIeCNiX6xnV2YJGiTt1o3TNzEA.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1577806:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Internet to nie tylko wirtualna przestrzeń, lecz także skomplikowana i narażona na ataki fizyczna infrastruktura: centra danych, miliony serwerów, kable poprowadzone po dnach mórz. Dokument wyjaśnia, kto kontroluje tę cyfrową sieć i jak łatwo może dojść do zakłóceń w jej działaniu - od przerw w dostawie prądu do cyberataków.",
+"overviewEn": null,
+"popularity": 0.41,
+"ratings": null,
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Cyfrowa bomba zegarowa",
+"titleEn": "Droht der digitale Blackout? - KI und Internet am Limit",
+"tmdbId": 1577806,
 "trailerKey": null
 },
 "tvpvod:movie:1604303:free": {
@@ -110952,6 +113772,44 @@
 "titleEn": "Me Before You",
 "tmdbId": 296096,
 "trailerKey": "ffIwBzZzGng"
+},
+"tvpvod:movie:29963:paid": {
+"access": "paid",
+"backdropPath": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:29963:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Fanny Brawne ma 18 lat, jest olśniewająco piękną i ciekawą świata dziewczyną. Powściągliwa matka dołożyła wszelkich starań by córka wyrosła na rozważną i dobrze wychowaną pannę. Każdy dzień Fanny wypełniony jest niekonwencjonalnymi zajęciami, jak szydełkowanie, bale i długie spacery zawsze w towarzystwie przyzwoitki. Niewinne spotkanie z czarującym młodzieńcem nieoczekiwanie przerodzi się w pierwszą prawdziwą miłość. To nieznane uczucie do niepoprawnego romantyka sprawi, że dziewczyna zrzuci gorset konwenansów i złamie panujące zasady.",
+"overviewEn": "In 1818, high-spirited young Fanny Brawne finds herself increasingly intrigued by the handsome but aloof poet John Keats, who lives next door to her family friends the Dilkes. After reading a book of his poetry, she finds herself even more drawn to the taciturn Keats. Although he agrees to teach her about poetry, Keats cannot act on his reciprocated feelings for Fanny, since as a struggling poet he has no money to support a wife.",
+"popularity": 1.84,
+"ratings": {
+"imdb": 6.9,
+"imdbVotes": 30096,
+"tmdb": 6.6
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Jaśniejsza od gwiazd",
+"titleEn": "Bright Star",
+"tmdbId": 29963,
+"trailerKey": "K2FkxivSuVg"
 },
 "tvpvod:movie:30588:free": {
 "access": "free",
@@ -111916,6 +114774,80 @@
 "tmdbId": 642538,
 "trailerKey": "sVzb6TFyPyk"
 },
+"tvpvod:movie:667464:free": {
+"access": "free",
+"backdropPath": "/e0YOROmknMo72ZqZASfJk7Bhcn0.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:667464:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W bajkowej wsi żyje były legionista Jakubek. Żonę pochował jakiś czas temu i teraz mieszka z dorosłym już, lecz bardzo nieśmiałym synem Janeczkiem. W tej samej wsi mieszkają także trzej towarzysze broni Jakubka: Kotek, Ingatko i Gniewisz. Od pewnego czasu legioniści coraz częściej rozmawiają o umieraniu. Jakubek, najstarszy z nich, ma już przygotowaną piękną trumnę i pragnie śmierci, bo bardzo tęskni za Brzózką, młodzieńczą miłością.",
+"overviewEn": "In a fairy-tale village lives Jakubek, a former legionnaire. He buried his wife some time ago and now lives with his adult but very shy son Janeczek. Three of Jakubek's comrades-in-arms also live in the same village: Kotek, Ingatko, and Gniewisz. For some time now, the legionnaires have been talking more and more about dying. Jakubek, the oldest of them, already has a beautiful coffin prepared and longs for death because he misses Brzózka, his youthful love, very much.",
+"popularity": 0.34,
+"ratings": {
+"imdb": 6.7,
+"imdbVotes": 160
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Szabla od komendanta",
+"titleEn": null,
+"tmdbId": 667464,
+"trailerKey": null
+},
+"tvpvod:movie:667464:sub": {
+"access": "sub",
+"backdropPath": "/e0YOROmknMo72ZqZASfJk7Bhcn0.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:667464:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W bajkowej wsi żyje były legionista Jakubek. Żonę pochował jakiś czas temu i teraz mieszka z dorosłym już, lecz bardzo nieśmiałym synem Janeczkiem. W tej samej wsi mieszkają także trzej towarzysze broni Jakubka: Kotek, Ingatko i Gniewisz. Od pewnego czasu legioniści coraz częściej rozmawiają o umieraniu. Jakubek, najstarszy z nich, ma już przygotowaną piękną trumnę i pragnie śmierci, bo bardzo tęskni za Brzózką, młodzieńczą miłością.",
+"overviewEn": "In a fairy-tale village lives Jakubek, a former legionnaire. He buried his wife some time ago and now lives with his adult but very shy son Janeczek. Three of Jakubek's comrades-in-arms also live in the same village: Kotek, Ingatko, and Gniewisz. For some time now, the legionnaires have been talking more and more about dying. Jakubek, the oldest of them, already has a beautiful coffin prepared and longs for death because he misses Brzózka, his youthful love, very much.",
+"popularity": 0.34,
+"ratings": {
+"imdb": 6.7,
+"imdbVotes": 160
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Szabla od komendanta",
+"titleEn": null,
+"tmdbId": 667464,
+"trailerKey": null
+},
 "tvpvod:movie:682270:free": {
 "access": "free",
 "backdropPath": "/adTekh5vp9g1X1jDWhfEzefHR4c.jpg",
@@ -112020,6 +114952,123 @@
 "titleEn": "Zlota Street",
 "tmdbId": 717841,
 "trailerKey": null
+},
+"tvpvod:movie:76812:free": {
+"access": "free",
+"backdropPath": "/tQBJu83JWyP9tEQ4iGLdiErDwnY.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:76812:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+9648,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Położone w górach miasteczko, w którym miała miejsce seria niewyjaśnionych porwań i zabójstw. Jednym z jego mieszkańców jest żyjący na uboczu Paul (Antonio Banderas), sławny niegdyś pisarz, który od dłuższego czasu przeżywa kryzys twórczy. Często też zagląda do kieliszka. Mężczyzna ma nadzieję, że uda mu się stworzyć rewelacyjny scenariusz i tym samym ocalić swoją karierę. Pewnego dnia spotyka na swojej drodze włóczęgę o imieniu Jack (Jonathan Rhys Meyers) i proponuje mu nocleg u siebie w domu. Potężna burza powoduje przerwę w dostawie prądu. Między bohaterami wywiązuje się gra. Co z niej wyniknie?",
+"overviewEn": "Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.",
+"popularity": 2.41,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 16179,
+"tmdb": 6.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Czarny Motyl",
+"titleEn": "Black Butterfly",
+"tmdbId": 76812,
+"trailerKey": "USR9JMDPpIY"
+},
+"tvpvod:movie:76812:paid": {
+"access": "paid",
+"backdropPath": "/tQBJu83JWyP9tEQ4iGLdiErDwnY.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:76812:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+9648,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Położone w górach miasteczko, w którym miała miejsce seria niewyjaśnionych porwań i zabójstw. Jednym z jego mieszkańców jest żyjący na uboczu Paul (Antonio Banderas), sławny niegdyś pisarz, który od dłuższego czasu przeżywa kryzys twórczy. Często też zagląda do kieliszka. Mężczyzna ma nadzieję, że uda mu się stworzyć rewelacyjny scenariusz i tym samym ocalić swoją karierę. Pewnego dnia spotyka na swojej drodze włóczęgę o imieniu Jack (Jonathan Rhys Meyers) i proponuje mu nocleg u siebie w domu. Potężna burza powoduje przerwę w dostawie prądu. Między bohaterami wywiązuje się gra. Co z niej wyniknie?",
+"overviewEn": "Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.",
+"popularity": 2.41,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 16179,
+"tmdb": 6.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Czarny Motyl",
+"titleEn": "Black Butterfly",
+"tmdbId": 76812,
+"trailerKey": "USR9JMDPpIY"
+},
+"tvpvod:movie:76812:sub": {
+"access": "sub",
+"backdropPath": "/tQBJu83JWyP9tEQ4iGLdiErDwnY.jpg",
+"confirmedAt": "2026-11-12T21:49:59Z",
+"date": "2026-11-12",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:76812:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+9648,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Położone w górach miasteczko, w którym miała miejsce seria niewyjaśnionych porwań i zabójstw. Jednym z jego mieszkańców jest żyjący na uboczu Paul (Antonio Banderas), sławny niegdyś pisarz, który od dłuższego czasu przeżywa kryzys twórczy. Często też zagląda do kieliszka. Mężczyzna ma nadzieję, że uda mu się stworzyć rewelacyjny scenariusz i tym samym ocalić swoją karierę. Pewnego dnia spotyka na swojej drodze włóczęgę o imieniu Jack (Jonathan Rhys Meyers) i proponuje mu nocleg u siebie w domu. Potężna burza powoduje przerwę w dostawie prądu. Między bohaterami wywiązuje się gra. Co z niej wyniknie?",
+"overviewEn": "Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.",
+"popularity": 2.41,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 16179,
+"tmdb": 6.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Czarny Motyl",
+"titleEn": "Black Butterfly",
+"tmdbId": 76812,
+"trailerKey": "USR9JMDPpIY"
 },
 "tvpvod:movie:847685:paid": {
 "access": "paid",
@@ -114454,7 +117503,7 @@
 },
 "tvpvod:tv:85077:s6e1:free": {
 "access": "free",
-"backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+"backdropPath": "/fYmZYHLOpO9x2ruePn3toG2cylX.jpg",
 "confirmedAt": null,
 "date": "2026-11-15",
 "dateConfirmed": true,
@@ -114493,7 +117542,7 @@
 },
 "tvpvod:tv:85077:s6e4:free": {
 "access": "free",
-"backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+"backdropPath": "/fYmZYHLOpO9x2ruePn3toG2cylX.jpg",
 "confirmedAt": null,
 "date": "2026-11-22",
 "dateConfirmed": true,
@@ -114532,7 +117581,7 @@
 },
 "tvpvod:tv:85077:s6e5:free": {
 "access": "free",
-"backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+"backdropPath": "/fYmZYHLOpO9x2ruePn3toG2cylX.jpg",
 "confirmedAt": null,
 "date": "2026-11-29",
 "dateConfirmed": true,
