@@ -1009,45 +1009,6 @@
 "tmdbId": 1263337,
 "trailerKey": "UkMuGKqAux4"
 },
-"appletv:movie:1267905:paid": {
-"access": "paid",
-"backdropPath": "/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
-"confirmedAt": null,
-"date": "2026-11-20",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "appletv:movie:1267905:paid",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-35,
-18,
-10749
-],
-"kind": "movie",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Życie pary jak z obrazka, Ivy i Theo, wydaje się łatwe: udane kariery, kochające małżeństwo, wspaniałe dzieci. Ale pod fasadą ich rzekomo idealnego życia zbiera się burza – gdy kariera Theo chyli się ku upadkowi, a ambicje Ivy rosną w siłę, rozpala się iskra zaciekłej rywalizacji i ukrytej urazy.",
-"overviewEn": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
-"popularity": 5.18,
-"ratings": {
-"imdb": 6.6,
-"imdbVotes": 63916,
-"tmdb": 6.6
-},
-"serviceKey": "appletv",
-"source": "tmdb",
-"status": "announced",
-"title": "Państwo Rose",
-"titleEn": "The Roses",
-"tmdbId": 1267905,
-"trailerKey": "rb3x45F6mrQ"
-},
 "appletv:movie:1272149:sub": {
 "access": "sub",
 "backdropPath": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
@@ -1459,6 +1420,45 @@
 "tmdbId": 134441,
 "trailerKey": null
 },
+"appletv:movie:13479:free": {
+"access": "free",
+"backdropPath": "/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:13479:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+35,
+10751
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.",
+"overviewEn": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.",
+"popularity": 3.71,
+"ratings": {
+"imdb": 7.7,
+"imdbVotes": 14307,
+"tmdb": 7.3
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Dzień Dziękczynienia Charliego Browna",
+"titleEn": "A Charlie Brown Thanksgiving",
+"tmdbId": 13479,
+"trailerKey": "WSDLdq3FDtk"
+},
 "appletv:movie:1358579:paid": {
 "access": "paid",
 "backdropPath": "/y18jH3YG9aAUT1nPLh1JcJA6Si1.jpg",
@@ -1738,8 +1738,7 @@
 "episodeFrom": null,
 "episodeTo": null,
 "genres": [
-35,
-10751
+35
 ],
 "kind": "movie",
 "season": null,
@@ -3423,6 +3422,45 @@
 "titleEn": null,
 "tmdbId": 1822282,
 "trailerKey": null
+},
+"appletv:movie:1832:sub": {
+"access": "sub",
+"backdropPath": "/nljRWpjfmqh5qYxcblFoazU5eYY.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1832:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+14,
+35,
+12
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwaj upadli aniołowie zostają wykopani z Nieba i skazani na wieczny pobyt na ziemi padole. Do władz niebieskich docierają jednak słuchy, że banici będą próbowali użyć podstępu, by sforsować bramę Św. Piotra. Na ziemi pojawia się więc wysłannik niebios, by oznajmić nie bardzo bogobojnej Bethany, iż została wybrana by powstrzymać parę skrzydlatych łotrów przed powrotem do raju. Bethany wyrusza więc ich śladem. Na swej drodze spotka mnóstwo zakręconych typów nieziemskiego pochodzenia: dwójkę wyluzowanych proroków (Jay i Cichy Bob), trzynastego apostoła, nadgorliwego demona i niebiańską piękność. Tymczasem aniołowie zaczynają rozrabiać.",
+"overviewEn": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and re-enter Heaven.",
+"popularity": 5.93,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 244183,
+"tmdb": 6.9
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Dogma",
+"titleEn": null,
+"tmdbId": 1832,
+"trailerKey": "rwSRribTgdA"
 },
 "appletv:movie:191121:sub": {
 "access": "sub",
@@ -7757,6 +7795,80 @@
 "titleEn": "Beautiful Disaster",
 "tmdbId": 1016121,
 "trailerKey": "lqOfLij4rFE"
+},
+"canalplus:movie:1019354:paid": {
+"access": "paid",
+"backdropPath": "/95pq8lCUtirZc4RNHHfJPmbq135.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1019354:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Melowi jak zwykle nic nie wychodzi. Zbieg okoliczności sprawia, że staje się bohaterem mimo woli, a jego nie zawsze kryształowy charakter znowu zostaje wystawiony na próbę. Wojciech, który nie czuje wszechobecnej radosnej atmosfery, spotyka na swojej drodze kogoś, kto zmienia jego świąteczne plany. Z kolei Karina i Szczepan uwikłają się w walkę o spadek, który może poróżnić nawet najbliższych. Przekonają się, czy z rodziną rzeczywiście dobrze wychodzi się tylko na zdjęciach.",
+"overviewEn": "Wojciech, who does not feel the ubiquitous joyful atmosphere, meets someone who changes his holiday plans. In turn, Karina and Szczepan get embroiled in a fight for an inheritance that may divide even their loved ones. They will see if the only thing that comes out well with the family is in the photos.",
+"popularity": 0.51,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 532
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M. 5",
+"titleEn": "Letters to Santa 5",
+"tmdbId": 1019354,
+"trailerKey": "IiXxXeY_MiU"
+},
+"canalplus:movie:1019354:sub": {
+"access": "sub",
+"backdropPath": "/95pq8lCUtirZc4RNHHfJPmbq135.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1019354:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Melowi jak zwykle nic nie wychodzi. Zbieg okoliczności sprawia, że staje się bohaterem mimo woli, a jego nie zawsze kryształowy charakter znowu zostaje wystawiony na próbę. Wojciech, który nie czuje wszechobecnej radosnej atmosfery, spotyka na swojej drodze kogoś, kto zmienia jego świąteczne plany. Z kolei Karina i Szczepan uwikłają się w walkę o spadek, który może poróżnić nawet najbliższych. Przekonają się, czy z rodziną rzeczywiście dobrze wychodzi się tylko na zdjęciach.",
+"overviewEn": "Wojciech, who does not feel the ubiquitous joyful atmosphere, meets someone who changes his holiday plans. In turn, Karina and Szczepan get embroiled in a fight for an inheritance that may divide even their loved ones. They will see if the only thing that comes out well with the family is in the photos.",
+"popularity": 0.51,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 532
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Listy do M. 5",
+"titleEn": "Letters to Santa 5",
+"tmdbId": 1019354,
+"trailerKey": "IiXxXeY_MiU"
 },
 "canalplus:movie:10193:sub": {
 "access": "sub",
@@ -13601,6 +13713,84 @@
 "tmdbId": 1224374,
 "trailerKey": "Or3EYO2bQF4"
 },
+"canalplus:movie:1226699:paid": {
+"access": "paid",
+"backdropPath": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1226699:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+80,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwoje współuzależnionych przyjaciół, żyjących od wypłaty do wypłaty i zarabiających krocie, wpada w pułapkę pomyłki co do tożsamości, która wprowadza chaos w ich życie.",
+"overviewEn": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+"popularity": 2.32,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 2645,
+"tmdb": 5.9
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "The Wrong Girls",
+"titleEn": null,
+"tmdbId": 1226699,
+"trailerKey": "zrcg8YHSys8"
+},
+"canalplus:movie:1226699:sub": {
+"access": "sub",
+"backdropPath": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1226699:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+80,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dwoje współuzależnionych przyjaciół, żyjących od wypłaty do wypłaty i zarabiających krocie, wpada w pułapkę pomyłki co do tożsamości, która wprowadza chaos w ich życie.",
+"overviewEn": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+"popularity": 2.32,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 2645,
+"tmdb": 5.9
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "The Wrong Girls",
+"titleEn": null,
+"tmdbId": 1226699,
+"trailerKey": "zrcg8YHSys8"
+},
 "canalplus:movie:1226863:paid": {
 "access": "paid",
 "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
@@ -15123,6 +15313,43 @@
 "tmdbId": 1259983,
 "trailerKey": "18dcAAAQoZ4"
 },
+"canalplus:movie:1261049:paid": {
+"access": "paid",
+"backdropPath": "/oo7Wqf8pfwlBtuR2HsEovthwZIm.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1261049:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10402
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Pierwszy taki film w historii kina – najpiękniejsza historia miłosna świata w kostiumach Dolce & Gabbana i operowym entourage’u. Magnetyzujące doświadczenie dla miłośników muzyki, filmu i mody. Prawdziwa uczta dla zmysłów. Uwspółcześniona wersja mitu greckiego o miłości Orfeusza i Eurydyki opowiedziana tak, aby widzowie mogli usłyszeć słynne arie operowe m. in. Vivaldiego, Pucciniego, Verdiego. Całość skąpana w surrealistycznej, niesamowitej scenografii jak z obrazów Salvadora Dali.",
+"overviewEn": "A sudden gunshot shatters the dream of two lovers on their wedding day. The fate of Orpheus and Eurydice is cruel: on the very day they sought to seal their love, EurydiceΆs soul embarks on its journey to the underworld. Heartbroken, Orpheus embarks on a perilous journey to bring his beloved back from Hades. A journey that will lead the fearless hero to confront the depths of his emotions and face his greatest fears. This journey will take him through strange worlds and into encounters with some of the greatest musical pieces and arias in the history of music. Will love triumph over death?",
+"popularity": 0.8,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 198
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Opera!",
+"titleEn": "The Opera! Arias for an Eclipse",
+"tmdbId": 1261049,
+"trailerKey": null
+},
 "canalplus:movie:1262310:sub": {
 "access": "sub",
 "backdropPath": "/8aEQHFvRWZjsVryKc3h4LLuk1bi.jpg",
@@ -15309,45 +15536,6 @@
 "titleEn": "The Desert Child",
 "tmdbId": 1266800,
 "trailerKey": "dCDmE8aaOZg"
-},
-"canalplus:movie:1267905:paid": {
-"access": "paid",
-"backdropPath": "/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
-"confirmedAt": null,
-"date": "2026-11-20",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "canalplus:movie:1267905:paid",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-35,
-18,
-10749
-],
-"kind": "movie",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Życie pary jak z obrazka, Ivy i Theo, wydaje się łatwe: udane kariery, kochające małżeństwo, wspaniałe dzieci. Ale pod fasadą ich rzekomo idealnego życia zbiera się burza – gdy kariera Theo chyli się ku upadkowi, a ambicje Ivy rosną w siłę, rozpala się iskra zaciekłej rywalizacji i ukrytej urazy.",
-"overviewEn": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
-"popularity": 5.18,
-"ratings": {
-"imdb": 6.6,
-"imdbVotes": 63916,
-"tmdb": 6.6
-},
-"serviceKey": "canalplus",
-"source": "tmdb",
-"status": "announced",
-"title": "Państwo Rose",
-"titleEn": "The Roses",
-"tmdbId": 1267905,
-"trailerKey": "rb3x45F6mrQ"
 },
 "canalplus:movie:1272149:sub": {
 "access": "sub",
@@ -16523,6 +16711,43 @@
 "titleEn": "Bolt",
 "tmdbId": 13053,
 "trailerKey": "IBsg00NnzGg"
+},
+"canalplus:movie:1307051:paid": {
+"access": "paid",
+"backdropPath": "/3NMrg2rAQ5BUWY7giJ1UfqAvmGN.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1307051:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dla rodziny Nathalie (Valérie Bonneton) i Antonina (Kad Merad) Wigilia co roku zamienia się w koszmar. Przekonana, że ​​padła ofiarą klątwy, Nathalie podejmuje radykalną decyzję: w tym roku nie będziemy tego świętować! Nawet nie licząc na to, że Antonin i jego dzieci postanowią wziąć sprawy w swoje ręce i zaprosić Nicole (Noémie Lvovsky), siostrę Nathalie, którą straciła z oczu. Pomiędzy ukrytą rywalizacją a nagromadzonymi frustracjami, ten sylwester stanie się najokrutniejszym i najbardziej wybuchowym ze wszystkich!",
+"overviewEn": "Every year, Christmas Eve turns into a nightmare for Nathalie and Antonin's family. Convinced that she is the victim of a curse, Nathalie makes a radical decision: this year we won't be celebrating! But Antonin and his children take matters into their own hands by inviting Nicole, Nathalie's long-lost sister. Will they finally escape disaster this year?",
+"popularity": 0.87,
+"ratings": {
+"imdb": 4.2,
+"imdbVotes": 225,
+"tmdb": 4.8
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Bombki świąteczne",
+"titleEn": "Les Boules de Noël",
+"tmdbId": 1307051,
+"trailerKey": null
 },
 "canalplus:movie:1308767:paid": {
 "access": "paid",
@@ -19413,8 +19638,7 @@
 "episodeFrom": null,
 "episodeTo": null,
 "genres": [
-35,
-10751
+35
 ],
 "kind": "movie",
 "season": null,
@@ -25349,6 +25573,45 @@
 "tmdbId": 329682,
 "trailerKey": "rDLP_rmvovs"
 },
+"canalplus:movie:332210:sub": {
+"access": "sub",
+"backdropPath": "/3dhuShnYmB0UOQrn8v8gT9DBf0T.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:332210:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+16,
+35
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Bociany przynoszą dzieci... A przynajmniej tak było kiedyś. Teraz bowiem zajmują się dostarczaniem przesyłek dla światowego giganta sprzedaży internetowej Cornerstore.com. Junior to najlepszy kurier w firmie, który na dodatek spodziewa się awansu. Przypadkowo jednak uruchamia Maszynę Produkującą Dzieci. W efekcie na świat zupełnie bezprawnie przychodzi śliczna dziewczynka. Junior nie ma wyjścia — musi podrzucić komuś ten kłopotliwy prezent, zanim szef się zorientuje. Wraz z Tulipem, jedynym człowiekiem na Bocianiej Górze, wyrusza na pierwszą w życiu misję \"narodziny\". Szalona podróż może sprawić, że powiększy się niejedna rodzina, a bociany odzyskają właściwą rolę w świecie.",
+"overviewEn": "Storks deliver babies…or at least they used to. Now they deliver packages for a global internet retail giant. Junior, the company’s top delivery stork, is about to be promoted when he accidentally activates the Baby Making Machine, producing an adorable and wholly unauthorized baby girl...",
+"popularity": 4.97,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 73907,
+"tmdb": 6.7
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Bociany",
+"titleEn": "Storks",
+"tmdbId": 332210,
+"trailerKey": "O3W90X_O3JE"
+},
 "canalplus:movie:333339:sub": {
 "access": "sub",
 "backdropPath": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
@@ -29968,6 +30231,45 @@
 "tmdbId": 524635,
 "trailerKey": "Og1hVn5umZI"
 },
+"canalplus:movie:5255:sub": {
+"access": "sub",
+"backdropPath": "/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:5255:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+16,
+10751
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Historia 8-letniego chłopca, który zaczyna tracić wiarę w istnienie Świętego Mikołaja. W Wigilię Bożego Narodzenia zostaje obudzony przez nadjeżdżający pociąg. Osobliwy pan Konduktor zaprasza chłopca w niezwykłą podróż na sam Biegun Północny. Podczas podróży poznaje on trójkę nowych przyjaciół, z którymi przeżyje wiele niezwykłych przygód i, co najważniejsze - odzyska wiarę w Mikołaja.",
+"overviewEn": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
+"popularity": 12.64,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 275510,
+"tmdb": 6.7
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Ekspres Polarny",
+"titleEn": "The Polar Express",
+"tmdbId": 5255,
+"trailerKey": "f0oyHtZiJJs"
+},
 "canalplus:movie:527774:sub": {
 "access": "sub",
 "backdropPath": "/zmX7ObPaRfiCmY6LMalUb1bJDKj.jpg",
@@ -30924,6 +31226,44 @@
 "titleEn": null,
 "tmdbId": 590387,
 "trailerKey": "6BqrMWxMnnw"
+},
+"canalplus:movie:5924:paid": {
+"access": "paid",
+"backdropPath": "/fmd17jnQxHanXC6wqqXRLocm60O.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:5924:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Oparta na autentycznych wydarzeniach historia Henri Charriera (Steve McQueen), znanego również jako Papillon (Motylek). Ten drobny paryski przestępca zostaje omyłkowo skazany na dożywocie za zbrodnię, której nie popełnił. Trafia do kolonii karnej w Gujanie Francuskiej. Więzienie na Diabelskiej Wyspie słynie z tego, że ucieczka z niego jest niemożliwa. A jednak Papillon próbuje kilkakrotnie uciec – bez względu na minimalne szanse powodzenia i surowość kar, jakie musi później ponosić. Wolność jest dla niego ważniejsza, niż przeżycie.",
+"overviewEn": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
+"popularity": 5.27,
+"ratings": {
+"imdb": 8.0,
+"imdbVotes": 147553,
+"tmdb": 7.8
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Motylek",
+"titleEn": "Papillon",
+"tmdbId": 5924,
+"trailerKey": "uJ3BOD7bcRc"
 },
 "canalplus:movie:5924:sub": {
 "access": "sub",
@@ -32148,6 +32488,44 @@
 "titleEn": null,
 "tmdbId": 677179,
 "trailerKey": "xTaIZo8OJYE"
+},
+"canalplus:movie:680770:paid": {
+"access": "paid",
+"backdropPath": "/hyQPfCbALQmi0FQc2vLFyfENpHM.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:680770:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+12,
+35
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Historia 12-letniego chłopca o imieniu Lauri, który w wyniku nieszczęśliwego wypadku traci zdolność chodzenia. Życie chłopca diametralnie się zmienia, gdy z dnia na dzień musi zrezygować ze wszystkiego, co dotychczas sprawiało mu radość. Gdy chłopiec przebywa w szpitalu niespodziewanie odwiedza go futrzasty stwór – Fleak. Razem przenoszą się do krainy wyobraźni gdzie chłopiec i jego nowy przyjaciel przeżywają wiele niesamowitych przygód.",
+"overviewEn": "When 12-year-old Lauri tries too hard to get his older siblings’ attention he falls badly and loses his ability to walk. Now Lauri is stuck at home, lonelier than he ever was. Just then a helpful furry creature from another dimension appears and takes him on a fantasy adventure. In the other dimension Lauri trades his shadow for being able to walk again, but the shadow becomes a goofy, all-eating monster who follows Lauri back to his world. To beat the monster Lauri needs to team up with his siblings and give up his ability to walk. However, Lauri is now determined to learn to walk again and he has his siblings beside him - and that’s what really matters.",
+"popularity": 1.35,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 203
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Fleak. Futrzak i ja",
+"titleEn": "Fleak",
+"tmdbId": 680770,
+"trailerKey": "88I5MRS3f8c"
 },
 "canalplus:movie:682589:sub": {
 "access": "sub",
@@ -34190,7 +34568,7 @@
 "origin": "diff",
 "overview": "Dziennikarz Ward James ( Matthew McConaughey) po latach powraca do rodzinnego miasteczka na Florydzie, aby zbadać sprawę więźnia Hillary Van Wettera (John Cusack). Wina Hillary'ego budzi w Wardzie wiele wątpliwości. Wraz z bratem Jackiem (Zac Efron) i narzeczoną skazańca Charlotte (Nicole Kidman) prowadzą śledztwo, które ma doprowadzić do uniewinnienia więźnia. W świetle nowych faktów, bracia próbują doprowadzić do ponownego procesu. Sytuacja zaczyna się komplikować, gdy Jack zakochuje się w Charlotte.",
 "overviewEn": "A reporter returns to his Florida hometown to investigate a case involving a death row inmate.",
-"popularity": 2.52,
+"popularity": 2.17,
 "ratings": {
 "imdb": 5.7,
 "imdbVotes": 42259,
@@ -34781,6 +35159,84 @@
 "tmdbId": 843527,
 "trailerKey": "fORLylgpTLE"
 },
+"canalplus:movie:845781:paid": {
+"access": "paid",
+"backdropPath": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:845781:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+12,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy Święty Mikołaj – kryptonim: CZERWONA JEDYNKA – zostaje porwany, szef ochrony bieguna północnego musi podjąć współpracę z owianym najgorszą na świecie sławą łowcą nagród. Ich pełne akcji zadanie zabierze ich w podróż po świecie, a wszystko po to, by uratować Boże Narodzenie.",
+"overviewEn": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+"popularity": 13.91,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 162991,
+"tmdb": 6.9
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Czerwona jedynka",
+"titleEn": "Red One",
+"tmdbId": 845781,
+"trailerKey": "TlOY5p6jPLA"
+},
+"canalplus:movie:845781:sub": {
+"access": "sub",
+"backdropPath": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:845781:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+12,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy Święty Mikołaj – kryptonim: CZERWONA JEDYNKA – zostaje porwany, szef ochrony bieguna północnego musi podjąć współpracę z owianym najgorszą na świecie sławą łowcą nagród. Ich pełne akcji zadanie zabierze ich w podróż po świecie, a wszystko po to, by uratować Boże Narodzenie.",
+"overviewEn": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+"popularity": 13.91,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 162991,
+"tmdb": 6.9
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Czerwona jedynka",
+"titleEn": "Red One",
+"tmdbId": 845781,
+"trailerKey": "TlOY5p6jPLA"
+},
 "canalplus:movie:846892:sub": {
 "access": "sub",
 "backdropPath": "/55A6U9ywDkoV2GxezvbaMwBpeGT.jpg",
@@ -35225,6 +35681,44 @@
 "titleEn": null,
 "tmdbId": 862,
 "trailerKey": "CxwTLktovTU"
+},
+"canalplus:movie:86618:paid": {
+"access": "paid",
+"backdropPath": "/ui8aJTuwfdo5XLugTPO6sDqyIhV.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:86618:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10752,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "In the Warsau ghetto of 1943, one man's struggle to keep his family together leads him to the ultimate crisis of faith and one final chance at redemption.",
+"overviewEn": "In the Warsau ghetto of 1943, one man's struggle to keep his family together leads him to the ultimate crisis of faith and one final chance at redemption.",
+"popularity": 0.89,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 389
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "In the Presence of Mine Enemies",
+"titleEn": null,
+"tmdbId": 86618,
+"trailerKey": null
 },
 "canalplus:movie:86825:sub": {
 "access": "sub",
@@ -36517,6 +37011,44 @@
 "titleEn": "Click",
 "tmdbId": 9339,
 "trailerKey": "APUqyhgtCfk"
+},
+"canalplus:movie:934559:paid": {
+"access": "paid",
+"backdropPath": "/n569s8HOGmnISqisZqBMrVxI2ES.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:934559:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jesse (Brittany Snow) nie tak wyobrażała sobie nadchodzące Święta. Kilka dni przed Bożym Narodzeniem jej chłopak, Shawn (Alex Moffat), oznajmia, że ich związek nie ma przyszłości i muszą się rozstać. Jakby tego było mało, zatroskani rodzice byłego zapraszają ją do siebie na Gwiazdkę. Mimo obaw – wszak może być niezręcznie - Jesse przystaje jednak na osobliwą propozycję i wyrusza do rodzinnego miasteczka Shawna. Oprócz rodziny Campbellów na miejscu zjawia się ktoś jeszcze. Niezapowiedzianą wizytę krewnym składa bowiem David (Justin Long) – czarujący kuzyn Shawna, który od razu wpada kobiecie w oko.",
+"overviewEn": "When Jesse is dumped right before the holidays by her boyfriend, Shawn, his parents convince her to still spend Christmas with them, and Shawn's handsome cousin, while Shawn is away.",
+"popularity": 1.57,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 2570,
+"tmdb": 5.6
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Jak nie zwariować w Święta",
+"titleEn": "Christmas with the Campbells",
+"tmdbId": 934559,
+"trailerKey": "v3Biau5QEW4"
 },
 "canalplus:movie:934866:sub": {
 "access": "sub",
@@ -39561,6 +40093,43 @@
 "tmdbId": 1153475,
 "trailerKey": null
 },
+"cda:movie:1156333:free": {
+"access": "free",
+"backdropPath": "/7Xn2eBgbAUO7yhpHSfs82V2SC2b.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1156333:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99,
+36
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "A portrait of French filmmaker Michel Gondry, creator, for three decades, of an imperfect, astonishing, fascinating, damaged and poetic work.",
+"overviewEn": "A portrait of French filmmaker Michel Gondry, creator, for three decades, of an imperfect, astonishing, fascinating, damaged and poetic work.",
+"popularity": 0.87,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 243
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Michel Gondry: Do It Yourself",
+"titleEn": null,
+"tmdbId": 1156333,
+"trailerKey": null
+},
 "cda:movie:1161617:sub": {
 "access": "sub",
 "backdropPath": "/b4uAD5kqB3cJ9Wdka5qlod5BHwW.jpg",
@@ -40200,6 +40769,82 @@
 "titleEn": "Bed & Breakfast",
 "tmdbId": 1248899,
 "trailerKey": null
+},
+"cda:movie:1270766:paid": {
+"access": "paid",
+"backdropPath": "/dH30FACIOekM1i8kTrTsot5WRp5.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1270766:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+28,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zbuntowany maturzysta i magnetyczna romska dziewczyna przeżywają burzliwy romans w mieście wstrząsanym wojną gangów.",
+"overviewEn": "Eighteen-year-old Kosa is the best skater in Wrocław. He has a beautiful girlfriend, great friends, an adored grandfather and a clear plan for the future - he wants to win a prestigious skateboarding competition with a lot of money at stake and a trip to Los Angeles. Everything changes dramatically when, during a carefree vacation, Kosa meets Zora - a magnetic Romani girl, with whom magic and a passionate feeling that he has never experienced before enters the boy's life.",
+"popularity": 0.63,
+"ratings": {
+"imdb": 5.2,
+"imdbVotes": 234
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Wrooklyn Zoo",
+"titleEn": null,
+"tmdbId": 1270766,
+"trailerKey": "ZSgUQNneroE"
+},
+"cda:movie:1270766:sub": {
+"access": "sub",
+"backdropPath": "/dH30FACIOekM1i8kTrTsot5WRp5.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1270766:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+28,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zbuntowany maturzysta i magnetyczna romska dziewczyna przeżywają burzliwy romans w mieście wstrząsanym wojną gangów.",
+"overviewEn": "Eighteen-year-old Kosa is the best skater in Wrocław. He has a beautiful girlfriend, great friends, an adored grandfather and a clear plan for the future - he wants to win a prestigious skateboarding competition with a lot of money at stake and a trip to Los Angeles. Everything changes dramatically when, during a carefree vacation, Kosa meets Zora - a magnetic Romani girl, with whom magic and a passionate feeling that he has never experienced before enters the boy's life.",
+"popularity": 0.63,
+"ratings": {
+"imdb": 5.2,
+"imdbVotes": 234
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Wrooklyn Zoo",
+"titleEn": null,
+"tmdbId": 1270766,
+"trailerKey": "ZSgUQNneroE"
 },
 "cda:movie:1272586:sub": {
 "access": "sub",
@@ -40955,6 +41600,44 @@
 "tmdbId": 13949,
 "trailerKey": null
 },
+"cda:movie:1396980:sub": {
+"access": "sub",
+"backdropPath": "/ouvxGRtKkR6VkFzvmz4da8Ppa9R.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1396980:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10770,
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Emma Rivera musi dotrzeć na Antarktydę, by uratować swojego ojca Iana, eksperta od pingwinów. Zakrada się na płynący tam statek badawczy. Nieoczekiwanie poznaje inżyniera Andy'ego Jacksona. Podczas pełnej wyzwań podróży zakochują się w sobie. Niespodziewany zwrot akcji dotyczący losów Iana grozi jednak zniweczeniem zarówno ich misji, jak i łączącego ich uczucia.",
+"overviewEn": "Emma needs to get to Antarctica to reach her father and travels to South America but can't get on a boat for the last leg. She sneaks onto a cruise ship and meets engineer Andy.",
+"popularity": 0.97,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 1078
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Bieguny miłości",
+"titleEn": "Polar Opposites",
+"tmdbId": 1396980,
+"trailerKey": "g_qbSxfkddA"
+},
 "cda:movie:14254:paid": {
 "access": "paid",
 "backdropPath": "/yGsKygpcJl7WXn2UfGFoi1Mdrze.jpg",
@@ -41104,6 +41787,43 @@
 "titleEn": "The Heir Apparent: Largo Winch",
 "tmdbId": 14400,
 "trailerKey": "swgom5tFwWI"
+},
+"cda:movie:1449553:sub": {
+"access": "sub",
+"backdropPath": "/lc5zbSIjJ4VhxJnjeRVEso906AE.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1449553:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10770,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Szukając nowego początku, Charlotte i jej mąż Joel porzucają wielkomiejskie życie i przenoszą się na przedmieścia. Trafia im się niesamowita okazja – kupują piękną posiadłość za ułamek jej wartości. Radość z przeprowadzki nie trwa jednak długo, gdy wychodzi na jaw, że ich wymarzone miejsce to osławiony „dom morderstwa”.",
+"overviewEn": "Seeking a fresh start, Charlotte and her husband, Joel, pack up their lives in the big city and head to the suburbs, where they find an incredible deal on a beautiful home. Yet all is not what it seems. Their house is “the murder house”, and Charlotte soon finds clues left by the former resident before her murder, making her question which one of their neighbors knew all along and have been covering it up.",
+"popularity": 0.97,
+"ratings": {
+"imdb": 5.0,
+"imdbVotes": 210
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Dom naznaczony zbrodnią",
+"titleEn": "The Last Woman Who Lived Here",
+"tmdbId": 1449553,
+"trailerKey": "OJiYfpFSKMU"
 },
 "cda:movie:14536:free": {
 "access": "free",
@@ -45354,6 +46074,45 @@
 "tmdbId": 460071,
 "trailerKey": "1BHPGudlLuc"
 },
+"cda:movie:46261:sub": {
+"access": "sub",
+"backdropPath": "/wJgVvjUOo8NCPoH6oDQ17mL1RhN.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:46261:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+14,
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Sally (Bailee Madison) przyjeżdża do Rhode Island, zamieszkać ze swoim ojcem (Guy Pearce) i jego nową narzeczoną Kim (Katie Holmes). Ojciec pochłonięty jest remontem, a z macochą trudno jej się porozumieć. Mimo przestróg, dziewczynka sama zwiedza starą wiktoriańską willę. Ciekawość prowadzi ją w głąb posiadłości do ukrytej piwnicy. Ponad sto lat temu, w tajemniczych okolicznościach, zginął w niej pan domu. Sally słyszy głosy wołające o pomoc i nieświadoma zagrożenia uwalnia coś, co od wieków było zamknięte pod ziemią. Zło wypełnia dom. Sally wie, co kryje się w mroku, ale kto uwierzy małej dziewczynce, która boi się ciemności?",
+"overviewEn": "A young girl sent to live with her father and his new girlfriend discovers creatures in her new home who want to claim her as one of their own.",
+"popularity": 2.87,
+"ratings": {
+"imdb": 5.5,
+"imdbVotes": 52799,
+"tmdb": 5.9
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Nie bój się ciemności",
+"titleEn": "Don't Be Afraid of the Dark",
+"tmdbId": 46261,
+"trailerKey": "3kLU13UN7Zo"
+},
 "cda:movie:464818:sub": {
 "access": "sub",
 "backdropPath": "/7q2vGF327XKHMfzyYZheK4nHvUs.jpg",
@@ -47559,7 +48318,7 @@
 "origin": "diff",
 "overview": "Dziennikarz Ward James ( Matthew McConaughey) po latach powraca do rodzinnego miasteczka na Florydzie, aby zbadać sprawę więźnia Hillary Van Wettera (John Cusack). Wina Hillary'ego budzi w Wardzie wiele wątpliwości. Wraz z bratem Jackiem (Zac Efron) i narzeczoną skazańca Charlotte (Nicole Kidman) prowadzą śledztwo, które ma doprowadzić do uniewinnienia więźnia. W świetle nowych faktów, bracia próbują doprowadzić do ponownego procesu. Sytuacja zaczyna się komplikować, gdy Jack zakochuje się w Charlotte.",
 "overviewEn": "A reporter returns to his Florida hometown to investigate a case involving a death row inmate.",
-"popularity": 2.52,
+"popularity": 2.17,
 "ratings": {
 "imdb": 5.7,
 "imdbVotes": 42259,
@@ -50630,45 +51389,6 @@
 "titleEn": "Four Christmases",
 "tmdbId": 12193,
 "trailerKey": "6veo6Js7HUE"
-},
-"disney:movie:1267905:sub": {
-"access": "sub",
-"backdropPath": "/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
-"confirmedAt": null,
-"date": "2026-11-20",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "disney:movie:1267905:sub",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-35,
-18,
-10749
-],
-"kind": "movie",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Życie pary jak z obrazka, Ivy i Theo, wydaje się łatwe: udane kariery, kochające małżeństwo, wspaniałe dzieci. Ale pod fasadą ich rzekomo idealnego życia zbiera się burza – gdy kariera Theo chyli się ku upadkowi, a ambicje Ivy rosną w siłę, rozpala się iskra zaciekłej rywalizacji i ukrytej urazy.",
-"overviewEn": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
-"popularity": 5.18,
-"ratings": {
-"imdb": 6.6,
-"imdbVotes": 63916,
-"tmdb": 6.6
-},
-"serviceKey": "disney",
-"source": "tmdb",
-"status": "announced",
-"title": "Państwo Rose",
-"titleEn": "The Roses",
-"tmdbId": 1267905,
-"trailerKey": "rb3x45F6mrQ"
 },
 "disney:movie:1358943:sub": {
 "access": "sub",
@@ -58900,8 +59620,7 @@
 "episodeFrom": null,
 "episodeTo": null,
 "genres": [
-35,
-10751
+35
 ],
 "kind": "movie",
 "season": null,
@@ -62874,6 +63593,150 @@
 "tmdbId": 14750,
 "trailerKey": null
 },
+"hbomax:tv:14750:s26e48:sub": {
+"access": "sub",
+"backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+"confirmedAt": null,
+"date": "2026-11-23",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:14750:s26e48:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 48,
+"episodeTo": 48,
+"genres": [
+10766
+],
+"kind": "series",
+"season": 26,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Mieszkańcy ulicy Wspólnej w Warszawie mierzą się z codziennymi problemami, miłością, zdradą i życiowymi wyborami, które splatają ich losy w nieoczekiwany sposób.",
+"overviewEn": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
+"popularity": 36.78,
+"ratings": {
+"imdb": 3.2,
+"imdbVotes": 320
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Na Wspólnej",
+"titleEn": null,
+"tmdbId": 14750,
+"trailerKey": null
+},
+"hbomax:tv:14750:s26e49:sub": {
+"access": "sub",
+"backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+"confirmedAt": null,
+"date": "2026-11-24",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:14750:s26e49:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 49,
+"episodeTo": 49,
+"genres": [
+10766
+],
+"kind": "series",
+"season": 26,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Mieszkańcy ulicy Wspólnej w Warszawie mierzą się z codziennymi problemami, miłością, zdradą i życiowymi wyborami, które splatają ich losy w nieoczekiwany sposób.",
+"overviewEn": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
+"popularity": 36.78,
+"ratings": {
+"imdb": 3.2,
+"imdbVotes": 320
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Na Wspólnej",
+"titleEn": null,
+"tmdbId": 14750,
+"trailerKey": null
+},
+"hbomax:tv:14750:s26e50:sub": {
+"access": "sub",
+"backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+"confirmedAt": null,
+"date": "2026-11-25",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:14750:s26e50:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 50,
+"episodeTo": 50,
+"genres": [
+10766
+],
+"kind": "series",
+"season": 26,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Mieszkańcy ulicy Wspólnej w Warszawie mierzą się z codziennymi problemami, miłością, zdradą i życiowymi wyborami, które splatają ich losy w nieoczekiwany sposób.",
+"overviewEn": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
+"popularity": 36.78,
+"ratings": {
+"imdb": 3.2,
+"imdbVotes": 320
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Na Wspólnej",
+"titleEn": null,
+"tmdbId": 14750,
+"trailerKey": null
+},
+"hbomax:tv:14750:s26e51:sub": {
+"access": "sub",
+"backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+"confirmedAt": null,
+"date": "2026-11-26",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:14750:s26e51:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 51,
+"episodeTo": 51,
+"genres": [
+10766
+],
+"kind": "series",
+"season": 26,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Mieszkańcy ulicy Wspólnej w Warszawie mierzą się z codziennymi problemami, miłością, zdradą i życiowymi wyborami, które splatają ich losy w nieoczekiwany sposób.",
+"overviewEn": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
+"popularity": 36.78,
+"ratings": {
+"imdb": 3.2,
+"imdbVotes": 320
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Na Wspólnej",
+"titleEn": null,
+"tmdbId": 14750,
+"trailerKey": null
+},
 "hbomax:tv:197899:s8e5:sub": {
 "access": "sub",
 "backdropPath": "/dHGrSOtReBK0QK05R4mXThxZWYl.jpg",
@@ -63575,6 +64438,78 @@
 "allEpisodes": false,
 "episodeFrom": 48,
 "episodeTo": 48,
+"genres": [
+10764
+],
+"kind": "series",
+"season": 13,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "W hotelu na magicznej wyspie Bali kilkunastu singli podejmie niebezpieczną grę, w której stawką będą miłość i pieniądze. Celem jest znalezienie pary i pozostanie w programie jak najdłużej. Nie będzie to jednak łatwe, bo strategia i rywalizacja przeplatają się z lojalnością i prawdziwymi uczuciami. Karty w tym miłosnym pokerze rozdaje Klaudia El Dursi. Prowadząca nie zamierza ułatwiać uczestnikom pobytu na rajskiej wyspie.",
+"overviewEn": null,
+"popularity": 4.11,
+"ratings": {
+"imdb": 4.2,
+"imdbVotes": 54
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Hotel Paradise",
+"titleEn": null,
+"tmdbId": 211656,
+"trailerKey": null
+},
+"hbomax:tv:211656:s13e49:sub": {
+"access": "sub",
+"backdropPath": "/lF7A08C7hDC1RbhHPpLMjsS317C.jpg",
+"confirmedAt": null,
+"date": "2026-11-19",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:211656:s13e49:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 49,
+"episodeTo": 49,
+"genres": [
+10764
+],
+"kind": "series",
+"season": 13,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "W hotelu na magicznej wyspie Bali kilkunastu singli podejmie niebezpieczną grę, w której stawką będą miłość i pieniądze. Celem jest znalezienie pary i pozostanie w programie jak najdłużej. Nie będzie to jednak łatwe, bo strategia i rywalizacja przeplatają się z lojalnością i prawdziwymi uczuciami. Karty w tym miłosnym pokerze rozdaje Klaudia El Dursi. Prowadząca nie zamierza ułatwiać uczestnikom pobytu na rajskiej wyspie.",
+"overviewEn": null,
+"popularity": 4.11,
+"ratings": {
+"imdb": 4.2,
+"imdbVotes": 54
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Hotel Paradise",
+"titleEn": null,
+"tmdbId": 211656,
+"trailerKey": null
+},
+"hbomax:tv:211656:s13e50:sub": {
+"access": "sub",
+"backdropPath": "/lF7A08C7hDC1RbhHPpLMjsS317C.jpg",
+"confirmedAt": null,
+"date": "2026-11-23",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:211656:s13e50:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 50,
+"episodeTo": 50,
 "genres": [
 10764
 ],
@@ -67467,6 +68402,142 @@
 "tmdbId": 341837,
 "trailerKey": null
 },
+"hbomax:tv:341950:s1e1:sub": {
+"access": "sub",
+"backdropPath": "/lE116QoDQZTAVsRvSafIJtYnqDG.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-13",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:341950:s1e1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 1,
+"episodeTo": 1,
+"genres": [
+99,
+80
+],
+"kind": "doc_series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.",
+"overviewEn": "A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.",
+"popularity": 1.63,
+"ratings": null,
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Clangold",
+"titleEn": null,
+"tmdbId": 341950,
+"trailerKey": null
+},
+"hbomax:tv:341950:s1e2:sub": {
+"access": "sub",
+"backdropPath": "/lE116QoDQZTAVsRvSafIJtYnqDG.jpg",
+"confirmedAt": null,
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:341950:s1e2:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 2,
+"episodeTo": 2,
+"genres": [
+99,
+80
+],
+"kind": "doc_series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.",
+"overviewEn": "A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.",
+"popularity": 1.63,
+"ratings": null,
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Clangold",
+"titleEn": null,
+"tmdbId": 341950,
+"trailerKey": null
+},
+"hbomax:tv:341950:s1e3:sub": {
+"access": "sub",
+"backdropPath": "/lE116QoDQZTAVsRvSafIJtYnqDG.jpg",
+"confirmedAt": null,
+"date": "2026-11-27",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:341950:s1e3:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 3,
+"episodeTo": 3,
+"genres": [
+99,
+80
+],
+"kind": "doc_series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.",
+"overviewEn": "A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.",
+"popularity": 1.63,
+"ratings": null,
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Clangold",
+"titleEn": null,
+"tmdbId": 341950,
+"trailerKey": null
+},
+"hbomax:tv:341950:s1e4:sub": {
+"access": "sub",
+"backdropPath": "/lE116QoDQZTAVsRvSafIJtYnqDG.jpg",
+"confirmedAt": null,
+"date": "2026-12-04",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:341950:s1e4:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 4,
+"episodeTo": 4,
+"genres": [
+99,
+80
+],
+"kind": "doc_series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.",
+"overviewEn": "A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.",
+"popularity": 1.63,
+"ratings": null,
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Clangold",
+"titleEn": null,
+"tmdbId": 341950,
+"trailerKey": null
+},
 "hbomax:tv:341950:sub": {
 "access": "sub",
 "backdropPath": "/lE116QoDQZTAVsRvSafIJtYnqDG.jpg",
@@ -68698,7 +69769,7 @@
 "origin": "diff",
 "overview": "Melowi jak zwykle nic nie wychodzi. Zbieg okoliczności sprawia, że staje się bohaterem mimo woli, a jego nie zawsze kryształowy charakter znowu zostaje wystawiony na próbę. Wojciech, który nie czuje wszechobecnej radosnej atmosfery, spotyka na swojej drodze kogoś, kto zmienia jego świąteczne plany. Z kolei Karina i Szczepan uwikłają się w walkę o spadek, który może poróżnić nawet najbliższych. Przekonają się, czy z rodziną rzeczywiście dobrze wychodzi się tylko na zdjęciach.",
 "overviewEn": "Wojciech, who does not feel the ubiquitous joyful atmosphere, meets someone who changes his holiday plans. In turn, Karina and Szczepan get embroiled in a fight for an inheritance that may divide even their loved ones. They will see if the only thing that comes out well with the family is in the photos.",
-"popularity": 0.59,
+"popularity": 0.51,
 "ratings": {
 "imdb": 5.3,
 "imdbVotes": 532
@@ -68735,7 +69806,7 @@
 "origin": "diff",
 "overview": "Melowi jak zwykle nic nie wychodzi. Zbieg okoliczności sprawia, że staje się bohaterem mimo woli, a jego nie zawsze kryształowy charakter znowu zostaje wystawiony na próbę. Wojciech, który nie czuje wszechobecnej radosnej atmosfery, spotyka na swojej drodze kogoś, kto zmienia jego świąteczne plany. Z kolei Karina i Szczepan uwikłają się w walkę o spadek, który może poróżnić nawet najbliższych. Przekonają się, czy z rodziną rzeczywiście dobrze wychodzi się tylko na zdjęciach.",
 "overviewEn": "Wojciech, who does not feel the ubiquitous joyful atmosphere, meets someone who changes his holiday plans. In turn, Karina and Szczepan get embroiled in a fight for an inheritance that may divide even their loved ones. They will see if the only thing that comes out well with the family is in the photos.",
-"popularity": 0.59,
+"popularity": 0.51,
 "ratings": {
 "imdb": 5.3,
 "imdbVotes": 532
@@ -69202,6 +70273,44 @@
 "tmdbId": 138078,
 "trailerKey": null
 },
+"netflix:movie:1389379:sub": {
+"access": "sub",
+"backdropPath": "/xpImgnsxuqb3VOp0QRtXTS5uBRi.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-13",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:1389379:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+28,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
+"overviewEn": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
+"popularity": 40.11,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 6328
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "రణబాలి",
+"titleEn": "Ranabaali",
+"tmdbId": 1389379,
+"trailerKey": "4AejYUbJiDs"
+},
 "netflix:movie:1399287:paid": {
 "access": "paid",
 "backdropPath": "/nmlFLD6kwezReQHoLb94SDR5kOQ.jpg",
@@ -69375,7 +70484,7 @@
 "ratings": {
 "imdb": 5.6,
 "imdbVotes": 342,
-"tmdb": 5.4
+"tmdb": 5.6
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -69596,7 +70705,7 @@
 "withAds": false
 },
 "origin": "schedule",
-"overview": "Najlepszy przyjaciel Peteya z dzieciństwa, kosmita o imieniu Allen, zniknął bez słowa pożegnania. Dwie dekady później Allen powraca z tajemnicą, która może odmienić świat, zmuszając Peteya do ostatecznego dorastania i udzielenia pomocy w jego ocaleniu.",
+"overview": "Choć od spotkania z kosmitą minęło 20 lat, Petey wciąż żyje przeszłością. Teraz jego dawny przyjaciel powraca, a powód ku temu jest skomplikowany — i bardzo zaskakujący.",
 "overviewEn": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
 "popularity": 73.0,
 "ratings": {
@@ -69708,7 +70817,7 @@
 "ratings": {
 "imdb": 5.6,
 "imdbVotes": 833,
-"tmdb": 7.2
+"tmdb": 7.0
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -70201,7 +71310,7 @@
 "ratings": {
 "imdb": 5.4,
 "imdbVotes": 471,
-"tmdb": 6.4
+"tmdb": 6.5
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -78204,7 +79313,7 @@
 "ratings": {
 "imdb": 7.5,
 "imdbVotes": 1246,
-"tmdb": 9.0
+"tmdb": 8.9
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -78243,7 +79352,7 @@
 "ratings": {
 "imdb": 7.5,
 "imdbVotes": 1246,
-"tmdb": 9.0
+"tmdb": 8.9
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -78282,7 +79391,7 @@
 "ratings": {
 "imdb": 7.5,
 "imdbVotes": 1246,
-"tmdb": 9.0
+"tmdb": 8.9
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -78321,7 +79430,7 @@
 "ratings": {
 "imdb": 7.5,
 "imdbVotes": 1246,
-"tmdb": 9.0
+"tmdb": 8.9
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -84850,6 +85959,45 @@
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
+"player:movie:1140521:free": {
+"access": "free",
+"backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1140521:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+10751,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy rodzeństwo Beth, Fran i Joe niechętnie przeprowadzają się z rodzicami na wieś, dla rodziny rozpoczyna się wyjątkowa przygoda. W pobliskim, tajemniczym lesie dzieci odkrywają magiczne drzewo: Drzewo Krainy Czarów, które sięga chmur i jest domem dla niezwykłych stworzeń. Szybko zaprzyjaźniają się z mieszkańcami drzewa, Wróżką Jedwabnowłosą, Panią Wash i Księżycową Twarzą, które zabierają je do fantastycznych światów. Razem przeżywają bajkowe przygody — aż do momentu, gdy podczas jednej ze swoich podróży są zmuszeni do awaryjnego lądowania w mrocznym świecie budzącej grozę dyrektorki, Madame Klaps. W domu sprawy również nie idą zgodnie z planem, jeśli chodzi o nowy rodzinny interes… Czy uda im się wyrwać z rąk Madame Klaps i uratować plantację pomidorów rodziców? Czy Jedwabnowłosa i Księżycowa Twarz przekonają rodzeństwo, że cuda są możliwe, jeśli tylko wystarczająco mocno w nie uwierzymy?",
+"overviewEn": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+"popularity": 11.42,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 7061,
+"tmdb": 6.8
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Drzewo magii",
+"titleEn": "The Magic Faraway Tree",
+"tmdbId": 1140521,
+"trailerKey": "PAUEwUhAjzg"
+},
 "player:movie:1140521:paid": {
 "access": "paid",
 "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
@@ -85932,45 +87080,6 @@
 "tmdbId": 1266800,
 "trailerKey": "dCDmE8aaOZg"
 },
-"player:movie:1267905:paid": {
-"access": "paid",
-"backdropPath": "/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
-"confirmedAt": null,
-"date": "2026-11-20",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "player:movie:1267905:paid",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-35,
-18,
-10749
-],
-"kind": "movie",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Życie pary jak z obrazka, Ivy i Theo, wydaje się łatwe: udane kariery, kochające małżeństwo, wspaniałe dzieci. Ale pod fasadą ich rzekomo idealnego życia zbiera się burza – gdy kariera Theo chyli się ku upadkowi, a ambicje Ivy rosną w siłę, rozpala się iskra zaciekłej rywalizacji i ukrytej urazy.",
-"overviewEn": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
-"popularity": 5.18,
-"ratings": {
-"imdb": 6.6,
-"imdbVotes": 63916,
-"tmdb": 6.6
-},
-"serviceKey": "player",
-"source": "tmdb",
-"status": "announced",
-"title": "Państwo Rose",
-"titleEn": "The Roses",
-"tmdbId": 1267905,
-"trailerKey": "rb3x45F6mrQ"
-},
 "player:movie:1272149:sub": {
 "access": "sub",
 "backdropPath": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
@@ -86241,6 +87350,44 @@
 "titleEn": "Practical Magic 2",
 "tmdbId": 1302904,
 "trailerKey": "Ho10_4IX1jE"
+},
+"player:movie:1306884:free": {
+"access": "free",
+"backdropPath": "/vdEBPtIH2NtD1ddVNuxm7DbG3Ab.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1306884:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+53,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jest rok 1939. Świat pogrąża się w chaosie. Tysiące Polaków, przetrzymywanych przez Rosjan w dawnym klasztorze, poddawane są brutalnej indoktrynacji. Ambitny agent wroga stawia sobie za punkt honoru złamanie oporu jednego z nich. To młody pianista światowej sławy, cieszący się szacunkiem współosadzonych. Jego kapitulacja może skutkować przeciągnięciem wielu innych na stronę przeciwnika. Rozpoczyna się podstępna gra, pełna wyrafinowanych manipulacji, gróźb i obietnic. Czy młody artysta, kochający ojciec i mąż, może wygrać pojedynek z agentem, za którym stoi potęga i perfidia rosyjskiego systemu?",
+"overviewEn": "The year is 1939. The world is falling into chaos. Thousands of Poles, held by the Russians in a former monastery, are subjected to brutal indoctrination. An ambitious enemy agent makes it a point of honour to break the resistance of one of them. He is a young, world-famous pianist, respected by his fellow prisoners. His capitulation may result in winning many others over to the enemy's side. An insidious game begins, full of sophisticated manipulation, threats and promises. Can the young artist, a loving father and husband, win a duel with an agent backed by the power and perfidy of the Russian system?",
+"popularity": 1.24,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 368
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Pojedynek",
+"titleEn": "Gorky Resort",
+"tmdbId": 1306884,
+"trailerKey": "tJaMzEyBq48"
 },
 "player:movie:1308767:paid": {
 "access": "paid",
@@ -86549,6 +87696,44 @@
 "titleEn": "Obsession",
 "tmdbId": 1339713,
 "trailerKey": "gMC8kkwbIQQ"
+},
+"player:movie:1340206:free": {
+"access": "free",
+"backdropPath": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1340206:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Utalentowany stroiciel fortepianów, zmagający się z nadwrażliwością słuchową, niespodziewanie odkrywa w sobie talent do otwierania sejfów, co całkowicie wywraca jego życie do góry nogami.",
+"overviewEn": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+"popularity": 14.25,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 41144,
+"tmdb": 7.6
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Stroiciel sejfów",
+"titleEn": "Tuner",
+"tmdbId": 1340206,
+"trailerKey": "HYxzyLVJORA"
 },
 "player:movie:1341137:paid": {
 "access": "paid",
@@ -87008,6 +88193,44 @@
 "tmdbId": 1423191,
 "trailerKey": "mNd1gb19A-c"
 },
+"player:movie:1433367:paid": {
+"access": "paid",
+"backdropPath": "/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1433367:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Owen i romantyczka Allie szukają prawdziwej miłości, lecz seria pomyłek komplikuje ich relację, prowadząc ich do odkrycia, że szczęście jest bliżej, niż myślą.",
+"overviewEn": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+"popularity": 11.27,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 18991,
+"tmdb": 6.4
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Tylko jedna noc",
+"titleEn": "One Night Only",
+"tmdbId": 1433367,
+"trailerKey": "AvKoSR3O4NQ"
+},
 "player:movie:1440050:paid": {
 "access": "paid",
 "backdropPath": "/dgqBcgTzaUiSLvKJPDF9AbdFEMO.jpg",
@@ -87022,8 +88245,7 @@
 "episodeFrom": null,
 "episodeTo": null,
 "genres": [
-35,
-10751
+35
 ],
 "kind": "movie",
 "season": null,
@@ -88453,6 +89675,80 @@
 "tmdbId": 384243,
 "trailerKey": null
 },
+"player:movie:38869:paid": {
+"access": "paid",
+"backdropPath": "/kXoHXII5X4xf8tJrRABDee97YMS.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:38869:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Prowincjonalne miasteczko z początku lat osiemdziesiątych. Wśród jego mieszkańców jest rodzina Kolędów. Pani Kolędowa jest energicznym naczelnikiem gminy, jej mąż safanduła zajmuje się domową hodowlą kaczek i uprawą kwiatów w \"tunelach\". Ich córka Dorota jest panną ładną i niepracującą. Intryga zaczyna się w momencie, gdy pani naczelnik dowiaduje się, że ma zostać babcią. Strach przed utratą autorytetu, skandalem i kompromitacją podsuwają jej iście piekielny pomysł - trzeba kupić narzeczonego z opłaconym rozwodem.",
+"overviewEn": "A provincial town in the early 1980s. Among its residents is the Kolęda family. Mrs. Kolęda is an energetic community leader, her husband, a gentle soul, takes care of raising ducks and cultivating flowers in \"tunnels\" at home. Their daughter, Dorota, is a pretty and unemployed young woman. The intrigue begins when the community leader finds out that she is going to become a grandmother. Fear of losing authority, scandal, and embarrassment inspires her to come up with a truly diabolical idea - they need to buy a fiancé for Dorota with a pre-arranged divorce.",
+"popularity": 0.37,
+"ratings": {
+"imdb": 6.7,
+"imdbVotes": 592,
+"tmdb": 6.8
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Wyjście awaryjne",
+"titleEn": "The Emergency Exit",
+"tmdbId": 38869,
+"trailerKey": null
+},
+"player:movie:38869:sub": {
+"access": "sub",
+"backdropPath": "/kXoHXII5X4xf8tJrRABDee97YMS.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:38869:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Prowincjonalne miasteczko z początku lat osiemdziesiątych. Wśród jego mieszkańców jest rodzina Kolędów. Pani Kolędowa jest energicznym naczelnikiem gminy, jej mąż safanduła zajmuje się domową hodowlą kaczek i uprawą kwiatów w \"tunelach\". Ich córka Dorota jest panną ładną i niepracującą. Intryga zaczyna się w momencie, gdy pani naczelnik dowiaduje się, że ma zostać babcią. Strach przed utratą autorytetu, skandalem i kompromitacją podsuwają jej iście piekielny pomysł - trzeba kupić narzeczonego z opłaconym rozwodem.",
+"overviewEn": "A provincial town in the early 1980s. Among its residents is the Kolęda family. Mrs. Kolęda is an energetic community leader, her husband, a gentle soul, takes care of raising ducks and cultivating flowers in \"tunnels\" at home. Their daughter, Dorota, is a pretty and unemployed young woman. The intrigue begins when the community leader finds out that she is going to become a grandmother. Fear of losing authority, scandal, and embarrassment inspires her to come up with a truly diabolical idea - they need to buy a fiancé for Dorota with a pre-arranged divorce.",
+"popularity": 0.37,
+"ratings": {
+"imdb": 6.7,
+"imdbVotes": 592,
+"tmdb": 6.8
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Wyjście awaryjne",
+"titleEn": "The Emergency Exit",
+"tmdbId": 38869,
+"trailerKey": null
+},
 "player:movie:38872:paid": {
 "access": "paid",
 "backdropPath": "/7xhhGceFmuJh4nmmCakbhOcMTGQ.jpg",
@@ -88864,7 +90160,7 @@
 "origin": "diff",
 "overview": "Jest wczesny poranek w samym sercu Nowego Jorku. W położonym na 21 piętrze oknie luksusowego hotelu pojawia się mężczyzna. Wszystko wskazuje na to, że zamierza popełnić samobójstwo. Gdy na miejscu zjawia się policja, mężczyzna oświadcza, że będzie rozmawiał tylko z wybraną negocjatorką. Tymczasem w położonym po sąsiedzku budynku Nowojorskiej Giełdy Diamentów niezauważona przez nikogo dwójka włamywaczy zmierza po bezcenny diament. Kim jest mężczyzna szykujący się do skoku? Czy łączy go coś z włamywaczami? Dlaczego kilku wysoko postawionych policjantów, odkrywszy tożsamość samobójcy wpada w panikę?",
 "overviewEn": "An ex-cop turned con threatens to jump to his death from a Manhattan hotel rooftop. The NYPD dispatch a female police psychologist to talk him down. However, unbeknownst to the police on the scene, the suicide attempt is a cover for the biggest diamond heist ever pulled.",
-"popularity": 5.85,
+"popularity": 3.62,
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 163239,
@@ -88903,7 +90199,7 @@
 "origin": "diff",
 "overview": "Jest wczesny poranek w samym sercu Nowego Jorku. W położonym na 21 piętrze oknie luksusowego hotelu pojawia się mężczyzna. Wszystko wskazuje na to, że zamierza popełnić samobójstwo. Gdy na miejscu zjawia się policja, mężczyzna oświadcza, że będzie rozmawiał tylko z wybraną negocjatorką. Tymczasem w położonym po sąsiedzku budynku Nowojorskiej Giełdy Diamentów niezauważona przez nikogo dwójka włamywaczy zmierza po bezcenny diament. Kim jest mężczyzna szykujący się do skoku? Czy łączy go coś z włamywaczami? Dlaczego kilku wysoko postawionych policjantów, odkrywszy tożsamość samobójcy wpada w panikę?",
 "overviewEn": "An ex-cop turned con threatens to jump to his death from a Manhattan hotel rooftop. The NYPD dispatch a female police psychologist to talk him down. However, unbeknownst to the police on the scene, the suicide attempt is a cover for the biggest diamond heist ever pulled.",
-"popularity": 5.85,
+"popularity": 3.62,
 "ratings": {
 "imdb": 6.6,
 "imdbVotes": 163239,
@@ -90512,6 +91808,84 @@
 "tmdbId": 821493,
 "trailerKey": "iqtVoCj1sQk"
 },
+"player:movie:82390:paid": {
+"access": "paid",
+"backdropPath": "/qrRugDSIN9i9u0ClGP7X193Akjf.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:82390:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+18,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dziennikarz Ward James ( Matthew McConaughey) po latach powraca do rodzinnego miasteczka na Florydzie, aby zbadać sprawę więźnia Hillary Van Wettera (John Cusack). Wina Hillary'ego budzi w Wardzie wiele wątpliwości. Wraz z bratem Jackiem (Zac Efron) i narzeczoną skazańca Charlotte (Nicole Kidman) prowadzą śledztwo, które ma doprowadzić do uniewinnienia więźnia. W świetle nowych faktów, bracia próbują doprowadzić do ponownego procesu. Sytuacja zaczyna się komplikować, gdy Jack zakochuje się w Charlotte.",
+"overviewEn": "A reporter returns to his Florida hometown to investigate a case involving a death row inmate.",
+"popularity": 2.17,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 42259,
+"tmdb": 5.5
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Pokusa",
+"titleEn": "The Paperboy",
+"tmdbId": 82390,
+"trailerKey": "Um-JcpaEwEo"
+},
+"player:movie:82390:sub": {
+"access": "sub",
+"backdropPath": "/qrRugDSIN9i9u0ClGP7X193Akjf.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:82390:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+18,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dziennikarz Ward James ( Matthew McConaughey) po latach powraca do rodzinnego miasteczka na Florydzie, aby zbadać sprawę więźnia Hillary Van Wettera (John Cusack). Wina Hillary'ego budzi w Wardzie wiele wątpliwości. Wraz z bratem Jackiem (Zac Efron) i narzeczoną skazańca Charlotte (Nicole Kidman) prowadzą śledztwo, które ma doprowadzić do uniewinnienia więźnia. W świetle nowych faktów, bracia próbują doprowadzić do ponownego procesu. Sytuacja zaczyna się komplikować, gdy Jack zakochuje się w Charlotte.",
+"overviewEn": "A reporter returns to his Florida hometown to investigate a case involving a death row inmate.",
+"popularity": 2.17,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 42259,
+"tmdb": 5.5
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Pokusa",
+"titleEn": "The Paperboy",
+"tmdbId": 82390,
+"trailerKey": "Um-JcpaEwEo"
+},
 "player:movie:849777:paid": {
 "access": "paid",
 "backdropPath": "/y79qNHJidiJQIChuf04znIDRase.jpg",
@@ -90859,6 +92233,44 @@
 "tmdbId": 939243,
 "trailerKey": "Up8d3yWiStc"
 },
+"player:movie:961077:paid": {
+"access": "paid",
+"backdropPath": "/vzIKxaav4Q5KBDDfYpphMzRQEOG.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:961077:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Fatima jest najmłodsza w rodzinie algierskich imigrantów. Po ukończeniu podmiejskiego liceum zapisała się do eleganckiej klasy przygotowawczej. Fatima będzie musiała zmierzyć się ze swoimi rozmaitymi tożsamościami, przekraczając granice społeczne, pragnąc kobiet, których nie potrafi zaakceptować, i wyznając wiarę muzułmańską, która temu przeczy. Kiedy odchodzi od rodzinnej tradycji i rozpoczyna nowe życie jako młoda kobieta, odkrywa nowe zasady.",
+"overviewEn": "When Fatima leaves her close-knit suburban family to study philosophy in Paris, she finds herself caught between her religious upbringing and the freedom of student life in the city.",
+"popularity": 1.44,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 2104,
+"tmdb": 6.6
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Młodsza siostra",
+"titleEn": "The Little Sister",
+"tmdbId": 961077,
+"trailerKey": "aHntkAmfiNs"
+},
 "player:movie:964849:paid": {
 "access": "paid",
 "backdropPath": "/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
@@ -91049,6 +92461,45 @@
 "titleEn": null,
 "tmdbId": 974635,
 "trailerKey": "uoSlbklJuC0"
+},
+"player:movie:976734:free": {
+"access": "free",
+"backdropPath": "/5IIFJxwRzmkhczQidIhpoaolpZY.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:976734:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Avery Graves jest szantażowana przez terrorystów, zmuszając ją do zdrady własnego kraju w zamian za uratowanie porwanego męża.",
+"overviewEn": "Top level CIA agent Avery Graves is blackmailed by terrorists into betraying her own country to save her kidnapped husband. Cut off from her team, she turns to her underworld contacts to survive and help locate the coveted intelligence that the kidnappers want.",
+"popularity": 3.28,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 14673,
+"tmdb": 6.2
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Niezniszczalna",
+"titleEn": "Canary Black",
+"tmdbId": 976734,
+"trailerKey": "tSaw2HTVSsA"
 },
 "player:movie:983526:sub": {
 "access": "sub",
@@ -92043,6 +93494,150 @@
 "tmdbId": 14750,
 "trailerKey": null
 },
+"player:tv:14750:s26e48:sub": {
+"access": "sub",
+"backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+"confirmedAt": null,
+"date": "2026-11-23",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:14750:s26e48:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 48,
+"episodeTo": 48,
+"genres": [
+10766
+],
+"kind": "series",
+"season": 26,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Mieszkańcy ulicy Wspólnej w Warszawie mierzą się z codziennymi problemami, miłością, zdradą i życiowymi wyborami, które splatają ich losy w nieoczekiwany sposób.",
+"overviewEn": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
+"popularity": 36.78,
+"ratings": {
+"imdb": 3.2,
+"imdbVotes": 320
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "Na Wspólnej",
+"titleEn": null,
+"tmdbId": 14750,
+"trailerKey": null
+},
+"player:tv:14750:s26e49:sub": {
+"access": "sub",
+"backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+"confirmedAt": null,
+"date": "2026-11-24",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:14750:s26e49:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 49,
+"episodeTo": 49,
+"genres": [
+10766
+],
+"kind": "series",
+"season": 26,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Mieszkańcy ulicy Wspólnej w Warszawie mierzą się z codziennymi problemami, miłością, zdradą i życiowymi wyborami, które splatają ich losy w nieoczekiwany sposób.",
+"overviewEn": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
+"popularity": 36.78,
+"ratings": {
+"imdb": 3.2,
+"imdbVotes": 320
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "Na Wspólnej",
+"titleEn": null,
+"tmdbId": 14750,
+"trailerKey": null
+},
+"player:tv:14750:s26e50:sub": {
+"access": "sub",
+"backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+"confirmedAt": null,
+"date": "2026-11-25",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:14750:s26e50:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 50,
+"episodeTo": 50,
+"genres": [
+10766
+],
+"kind": "series",
+"season": 26,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Mieszkańcy ulicy Wspólnej w Warszawie mierzą się z codziennymi problemami, miłością, zdradą i życiowymi wyborami, które splatają ich losy w nieoczekiwany sposób.",
+"overviewEn": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
+"popularity": 36.78,
+"ratings": {
+"imdb": 3.2,
+"imdbVotes": 320
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "Na Wspólnej",
+"titleEn": null,
+"tmdbId": 14750,
+"trailerKey": null
+},
+"player:tv:14750:s26e51:sub": {
+"access": "sub",
+"backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+"confirmedAt": null,
+"date": "2026-11-26",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:14750:s26e51:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 51,
+"episodeTo": 51,
+"genres": [
+10766
+],
+"kind": "series",
+"season": 26,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Mieszkańcy ulicy Wspólnej w Warszawie mierzą się z codziennymi problemami, miłością, zdradą i życiowymi wyborami, które splatają ich losy w nieoczekiwany sposób.",
+"overviewEn": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
+"popularity": 36.78,
+"ratings": {
+"imdb": 3.2,
+"imdbVotes": 320
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "Na Wspólnej",
+"titleEn": null,
+"tmdbId": 14750,
+"trailerKey": null
+},
 "player:tv:17937:s28e6:sub": {
 "access": "sub",
 "backdropPath": "/u64huzTnF3jEYUXJ4BDlpHy2L3K.jpg",
@@ -92709,6 +94304,78 @@
 "allEpisodes": false,
 "episodeFrom": 48,
 "episodeTo": 48,
+"genres": [
+10764
+],
+"kind": "series",
+"season": 13,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "W hotelu na magicznej wyspie Bali kilkunastu singli podejmie niebezpieczną grę, w której stawką będą miłość i pieniądze. Celem jest znalezienie pary i pozostanie w programie jak najdłużej. Nie będzie to jednak łatwe, bo strategia i rywalizacja przeplatają się z lojalnością i prawdziwymi uczuciami. Karty w tym miłosnym pokerze rozdaje Klaudia El Dursi. Prowadząca nie zamierza ułatwiać uczestnikom pobytu na rajskiej wyspie.",
+"overviewEn": null,
+"popularity": 4.11,
+"ratings": {
+"imdb": 4.2,
+"imdbVotes": 54
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "Hotel Paradise",
+"titleEn": null,
+"tmdbId": 211656,
+"trailerKey": null
+},
+"player:tv:211656:s13e49:sub": {
+"access": "sub",
+"backdropPath": "/lF7A08C7hDC1RbhHPpLMjsS317C.jpg",
+"confirmedAt": null,
+"date": "2026-11-19",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:211656:s13e49:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 49,
+"episodeTo": 49,
+"genres": [
+10764
+],
+"kind": "series",
+"season": 13,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "W hotelu na magicznej wyspie Bali kilkunastu singli podejmie niebezpieczną grę, w której stawką będą miłość i pieniądze. Celem jest znalezienie pary i pozostanie w programie jak najdłużej. Nie będzie to jednak łatwe, bo strategia i rywalizacja przeplatają się z lojalnością i prawdziwymi uczuciami. Karty w tym miłosnym pokerze rozdaje Klaudia El Dursi. Prowadząca nie zamierza ułatwiać uczestnikom pobytu na rajskiej wyspie.",
+"overviewEn": null,
+"popularity": 4.11,
+"ratings": {
+"imdb": 4.2,
+"imdbVotes": 54
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "Hotel Paradise",
+"titleEn": null,
+"tmdbId": 211656,
+"trailerKey": null
+},
+"player:tv:211656:s13e50:sub": {
+"access": "sub",
+"backdropPath": "/lF7A08C7hDC1RbhHPpLMjsS317C.jpg",
+"confirmedAt": null,
+"date": "2026-11-23",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:211656:s13e50:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 50,
+"episodeTo": 50,
 "genres": [
 10764
 ],
@@ -97809,7 +99476,7 @@
 },
 "player:tv:84773:s3e1:sub": {
 "access": "sub",
-"backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+"backdropPath": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
 "confirmedAt": "2026-11-11T12:41:28Z",
 "date": "2026-11-11",
 "dateConfirmed": true,
@@ -97847,7 +99514,7 @@
 },
 "player:tv:84773:s3e5:sub": {
 "access": "sub",
-"backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+"backdropPath": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
 "confirmedAt": null,
 "date": "2026-11-18",
 "dateConfirmed": true,
@@ -97885,7 +99552,7 @@
 },
 "player:tv:84773:s3e7:sub": {
 "access": "sub",
-"backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+"backdropPath": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
 "confirmedAt": null,
 "date": "2026-11-25",
 "dateConfirmed": true,
@@ -99301,6 +100968,45 @@
 "titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
+},
+"polsatboxgo:movie:1140521:free": {
+"access": "free",
+"backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1140521:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+10751,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy rodzeństwo Beth, Fran i Joe niechętnie przeprowadzają się z rodzicami na wieś, dla rodziny rozpoczyna się wyjątkowa przygoda. W pobliskim, tajemniczym lesie dzieci odkrywają magiczne drzewo: Drzewo Krainy Czarów, które sięga chmur i jest domem dla niezwykłych stworzeń. Szybko zaprzyjaźniają się z mieszkańcami drzewa, Wróżką Jedwabnowłosą, Panią Wash i Księżycową Twarzą, które zabierają je do fantastycznych światów. Razem przeżywają bajkowe przygody — aż do momentu, gdy podczas jednej ze swoich podróży są zmuszeni do awaryjnego lądowania w mrocznym świecie budzącej grozę dyrektorki, Madame Klaps. W domu sprawy również nie idą zgodnie z planem, jeśli chodzi o nowy rodzinny interes… Czy uda im się wyrwać z rąk Madame Klaps i uratować plantację pomidorów rodziców? Czy Jedwabnowłosa i Księżycowa Twarz przekonają rodzeństwo, że cuda są możliwe, jeśli tylko wystarczająco mocno w nie uwierzymy?",
+"overviewEn": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+"popularity": 11.42,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 7061,
+"tmdb": 6.8
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Drzewo magii",
+"titleEn": "The Magic Faraway Tree",
+"tmdbId": 1140521,
+"trailerKey": "PAUEwUhAjzg"
 },
 "polsatboxgo:movie:1140521:sub": {
 "access": "sub",
@@ -100825,6 +102531,44 @@
 "tmdbId": 1295479,
 "trailerKey": "Kcjcy1vFxGw"
 },
+"polsatboxgo:movie:1306884:free": {
+"access": "free",
+"backdropPath": "/vdEBPtIH2NtD1ddVNuxm7DbG3Ab.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1306884:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+53,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jest rok 1939. Świat pogrąża się w chaosie. Tysiące Polaków, przetrzymywanych przez Rosjan w dawnym klasztorze, poddawane są brutalnej indoktrynacji. Ambitny agent wroga stawia sobie za punkt honoru złamanie oporu jednego z nich. To młody pianista światowej sławy, cieszący się szacunkiem współosadzonych. Jego kapitulacja może skutkować przeciągnięciem wielu innych na stronę przeciwnika. Rozpoczyna się podstępna gra, pełna wyrafinowanych manipulacji, gróźb i obietnic. Czy młody artysta, kochający ojciec i mąż, może wygrać pojedynek z agentem, za którym stoi potęga i perfidia rosyjskiego systemu?",
+"overviewEn": "The year is 1939. The world is falling into chaos. Thousands of Poles, held by the Russians in a former monastery, are subjected to brutal indoctrination. An ambitious enemy agent makes it a point of honour to break the resistance of one of them. He is a young, world-famous pianist, respected by his fellow prisoners. His capitulation may result in winning many others over to the enemy's side. An insidious game begins, full of sophisticated manipulation, threats and promises. Can the young artist, a loving father and husband, win a duel with an agent backed by the power and perfidy of the Russian system?",
+"popularity": 1.24,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 368
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Pojedynek",
+"titleEn": "Gorky Resort",
+"tmdbId": 1306884,
+"trailerKey": "tJaMzEyBq48"
+},
 "polsatboxgo:movie:1308618:sub": {
 "access": "sub",
 "backdropPath": "/s2jfSL3O1tmDV4FiruB48LWr0ul.jpg",
@@ -101239,6 +102983,44 @@
 "titleEn": "The Kidnapping of Arabella",
 "tmdbId": 1339666,
 "trailerKey": "siZB56IHSUE"
+},
+"polsatboxgo:movie:1340206:free": {
+"access": "free",
+"backdropPath": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1340206:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Utalentowany stroiciel fortepianów, zmagający się z nadwrażliwością słuchową, niespodziewanie odkrywa w sobie talent do otwierania sejfów, co całkowicie wywraca jego życie do góry nogami.",
+"overviewEn": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+"popularity": 14.25,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 41144,
+"tmdb": 7.6
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Stroiciel sejfów",
+"titleEn": "Tuner",
+"tmdbId": 1340206,
+"trailerKey": "HYxzyLVJORA"
 },
 "polsatboxgo:movie:1341137:sub": {
 "access": "sub",
@@ -101933,8 +103715,7 @@
 "episodeFrom": null,
 "episodeTo": null,
 "genres": [
-35,
-10751
+35
 ],
 "kind": "movie",
 "season": null,
@@ -105890,6 +107671,39 @@
 "tmdbId": 854363,
 "trailerKey": null
 },
+"polsatboxgo:movie:865635:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:865635:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Set in the early 1950s, FISHEYE is inspired by the classic suspense thrillers of Alfred Hitchcock with an animated twist. The story is about the line between obsession and madness as an oddball writer is compelled to note down everything his neighbours do, no matter what.",
+"overviewEn": "Set in the early 1950s, FISHEYE is inspired by the classic suspense thrillers of Alfred Hitchcock with an animated twist. The story is about the line between obsession and madness as an oddball writer is compelled to note down everything his neighbours do, no matter what.",
+"popularity": 0.08,
+"ratings": null,
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Fisheye",
+"titleEn": null,
+"tmdbId": 865635,
+"trailerKey": null
+},
 "polsatboxgo:movie:87101:paid": {
 "access": "paid",
 "backdropPath": "/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
@@ -108517,6 +110331,45 @@
 "tmdbId": 1136349,
 "trailerKey": "idPW4TZ9QOs"
 },
+"prime:movie:1140521:free": {
+"access": "free",
+"backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1140521:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+10751,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy rodzeństwo Beth, Fran i Joe niechętnie przeprowadzają się z rodzicami na wieś, dla rodziny rozpoczyna się wyjątkowa przygoda. W pobliskim, tajemniczym lesie dzieci odkrywają magiczne drzewo: Drzewo Krainy Czarów, które sięga chmur i jest domem dla niezwykłych stworzeń. Szybko zaprzyjaźniają się z mieszkańcami drzewa, Wróżką Jedwabnowłosą, Panią Wash i Księżycową Twarzą, które zabierają je do fantastycznych światów. Razem przeżywają bajkowe przygody — aż do momentu, gdy podczas jednej ze swoich podróży są zmuszeni do awaryjnego lądowania w mrocznym świecie budzącej grozę dyrektorki, Madame Klaps. W domu sprawy również nie idą zgodnie z planem, jeśli chodzi o nowy rodzinny interes… Czy uda im się wyrwać z rąk Madame Klaps i uratować plantację pomidorów rodziców? Czy Jedwabnowłosa i Księżycowa Twarz przekonają rodzeństwo, że cuda są możliwe, jeśli tylko wystarczająco mocno w nie uwierzymy?",
+"overviewEn": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+"popularity": 11.42,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 7061,
+"tmdb": 6.8
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Drzewo magii",
+"titleEn": "The Magic Faraway Tree",
+"tmdbId": 1140521,
+"trailerKey": "PAUEwUhAjzg"
+},
 "prime:movie:1140521:paid": {
 "access": "paid",
 "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
@@ -109133,6 +110986,44 @@
 "titleEn": "Legend",
 "tmdbId": 11976,
 "trailerKey": "ybnoJErfDas"
+},
+"prime:movie:1207093:free": {
+"access": "free",
+"backdropPath": "/4cXp3RnWKwjF6tdfPSGC3ZYxvhs.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1207093:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Życie prowincjonalnego listonosza nabiera rumieńców, gdy pojawia się w nim nowa sąsiadka oraz dziadek, z którym nigdy wcześniej nie miał kontaktu.",
+"overviewEn": "Remek Wróbel is a mailman and an enthusiastic member of an amateur football team. He’s pushing on forty, living the life of a bachelor. One day, everything changes – his neat, tidy life is turned upside down by the appearance of Grandpa, whom he hadn’t met before, and his new chatty neighbour, Marzenka.",
+"popularity": 0.54,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 232
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Wróbel",
+"titleEn": null,
+"tmdbId": 1207093,
+"trailerKey": "pDyZbNuuli0"
 },
 "prime:movie:12100:free": {
 "access": "free",
@@ -109974,45 +111865,6 @@
 "tmdbId": 1266800,
 "trailerKey": "dCDmE8aaOZg"
 },
-"prime:movie:1267905:paid": {
-"access": "paid",
-"backdropPath": "/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
-"confirmedAt": null,
-"date": "2026-11-20",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:movie:1267905:paid",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-35,
-18,
-10749
-],
-"kind": "movie",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Życie pary jak z obrazka, Ivy i Theo, wydaje się łatwe: udane kariery, kochające małżeństwo, wspaniałe dzieci. Ale pod fasadą ich rzekomo idealnego życia zbiera się burza – gdy kariera Theo chyli się ku upadkowi, a ambicje Ivy rosną w siłę, rozpala się iskra zaciekłej rywalizacji i ukrytej urazy.",
-"overviewEn": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
-"popularity": 5.18,
-"ratings": {
-"imdb": 6.6,
-"imdbVotes": 63916,
-"tmdb": 6.6
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "announced",
-"title": "Państwo Rose",
-"titleEn": "The Roses",
-"tmdbId": 1267905,
-"trailerKey": "rb3x45F6mrQ"
-},
 "prime:movie:1272149:sub": {
 "access": "sub",
 "backdropPath": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
@@ -110424,6 +112276,44 @@
 "tmdbId": 1302904,
 "trailerKey": "Ho10_4IX1jE"
 },
+"prime:movie:1306884:free": {
+"access": "free",
+"backdropPath": "/vdEBPtIH2NtD1ddVNuxm7DbG3Ab.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1306884:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+53,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jest rok 1939. Świat pogrąża się w chaosie. Tysiące Polaków, przetrzymywanych przez Rosjan w dawnym klasztorze, poddawane są brutalnej indoktrynacji. Ambitny agent wroga stawia sobie za punkt honoru złamanie oporu jednego z nich. To młody pianista światowej sławy, cieszący się szacunkiem współosadzonych. Jego kapitulacja może skutkować przeciągnięciem wielu innych na stronę przeciwnika. Rozpoczyna się podstępna gra, pełna wyrafinowanych manipulacji, gróźb i obietnic. Czy młody artysta, kochający ojciec i mąż, może wygrać pojedynek z agentem, za którym stoi potęga i perfidia rosyjskiego systemu?",
+"overviewEn": "The year is 1939. The world is falling into chaos. Thousands of Poles, held by the Russians in a former monastery, are subjected to brutal indoctrination. An ambitious enemy agent makes it a point of honour to break the resistance of one of them. He is a young, world-famous pianist, respected by his fellow prisoners. His capitulation may result in winning many others over to the enemy's side. An insidious game begins, full of sophisticated manipulation, threats and promises. Can the young artist, a loving father and husband, win a duel with an agent backed by the power and perfidy of the Russian system?",
+"popularity": 1.24,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 368
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Pojedynek",
+"titleEn": "Gorky Resort",
+"tmdbId": 1306884,
+"trailerKey": "tJaMzEyBq48"
+},
 "prime:movie:1317149:sub": {
 "access": "sub",
 "backdropPath": "/4mKczHAW4XPDXGk7V5k7Ui3dgUk.jpg",
@@ -110651,6 +112541,44 @@
 "tmdbId": 1339713,
 "trailerKey": "gMC8kkwbIQQ"
 },
+"prime:movie:1340206:free": {
+"access": "free",
+"backdropPath": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1340206:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Utalentowany stroiciel fortepianów, zmagający się z nadwrażliwością słuchową, niespodziewanie odkrywa w sobie talent do otwierania sejfów, co całkowicie wywraca jego życie do góry nogami.",
+"overviewEn": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+"popularity": 14.25,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 41144,
+"tmdb": 7.6
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Stroiciel sejfów",
+"titleEn": "Tuner",
+"tmdbId": 1340206,
+"trailerKey": "HYxzyLVJORA"
+},
 "prime:movie:1341137:paid": {
 "access": "paid",
 "backdropPath": "/iQodpfb5trczzmqxAgnsUYPw2rv.jpg",
@@ -110721,6 +112649,84 @@
 "titleEn": "The Last Jew from Drohobych",
 "tmdbId": 134441,
 "trailerKey": null
+},
+"prime:movie:13479:free": {
+"access": "free",
+"backdropPath": "/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:13479:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+35,
+10751
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.",
+"overviewEn": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.",
+"popularity": 3.71,
+"ratings": {
+"imdb": 7.7,
+"imdbVotes": 14307,
+"tmdb": 7.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Dzień Dziękczynienia Charliego Browna",
+"titleEn": "A Charlie Brown Thanksgiving",
+"tmdbId": 13479,
+"trailerKey": "WSDLdq3FDtk"
+},
+"prime:movie:13479:sub": {
+"access": "sub",
+"backdropPath": "/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:13479:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+35,
+10751
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.",
+"overviewEn": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.",
+"popularity": 3.71,
+"ratings": {
+"imdb": 7.7,
+"imdbVotes": 14307,
+"tmdb": 7.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Dzień Dziękczynienia Charliego Browna",
+"titleEn": "A Charlie Brown Thanksgiving",
+"tmdbId": 13479,
+"trailerKey": "WSDLdq3FDtk"
 },
 "prime:movie:13531:sub": {
 "access": "sub",
@@ -111376,8 +113382,7 @@
 "episodeFrom": null,
 "episodeTo": null,
 "genres": [
-35,
-10751
+35
 ],
 "kind": "movie",
 "season": null,
@@ -112456,43 +114461,6 @@
 "titleEn": "It Boy",
 "tmdbId": 173185,
 "trailerKey": "AZFP0oIUit4"
-},
-"prime:movie:1756543:sub": {
-"access": "sub",
-"backdropPath": "/jUwaAscUDiJNyIIgopLRdQMCRVt.jpg",
-"confirmedAt": null,
-"date": "2026-12-01",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:movie:1756543:sub",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-99,
-53
-],
-"kind": "documentary",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "British paranormal investigators explore a Hollywood mansion, uncovering true story of couple Daniel and Arthur, whose journey from homelessness to Hollywood history explores LGBTQ identity, resilience, and unexplained supernatural events.",
-"overviewEn": "British paranormal investigators explore a Hollywood mansion, uncovering true story of couple Daniel and Arthur, whose journey from homelessness to Hollywood history explores LGBTQ identity, resilience, and unexplained supernatural events.",
-"popularity": 0.29,
-"ratings": {
-"imdb": 3.3,
-"imdbVotes": 34
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "announced",
-"title": "Paranormal Hollywood Haunting",
-"titleEn": null,
-"tmdbId": 1756543,
-"trailerKey": "9pQeEBQojIk"
 },
 "prime:movie:1804183:paid": {
 "access": "paid",
@@ -116405,6 +118373,45 @@
 "tmdbId": 492616,
 "trailerKey": "aqzgDB1CMI4"
 },
+"prime:movie:49527:paid": {
+"access": "paid",
+"backdropPath": "/zB2NdJ75xpZRJhFtU7dUVAgD0cW.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:49527:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jest wczesny poranek w samym sercu Nowego Jorku. W położonym na 21 piętrze oknie luksusowego hotelu pojawia się mężczyzna. Wszystko wskazuje na to, że zamierza popełnić samobójstwo. Gdy na miejscu zjawia się policja, mężczyzna oświadcza, że będzie rozmawiał tylko z wybraną negocjatorką. Tymczasem w położonym po sąsiedzku budynku Nowojorskiej Giełdy Diamentów niezauważona przez nikogo dwójka włamywaczy zmierza po bezcenny diament. Kim jest mężczyzna szykujący się do skoku? Czy łączy go coś z włamywaczami? Dlaczego kilku wysoko postawionych policjantów, odkrywszy tożsamość samobójcy wpada w panikę?",
+"overviewEn": "An ex-cop turned con threatens to jump to his death from a Manhattan hotel rooftop. The NYPD dispatch a female police psychologist to talk him down. However, unbeknownst to the police on the scene, the suicide attempt is a cover for the biggest diamond heist ever pulled.",
+"popularity": 3.62,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 163239,
+"tmdb": 6.4
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Człowiek na krawędzi",
+"titleEn": "Man on a Ledge",
+"tmdbId": 49527,
+"trailerKey": "sBJSfqdhyTg"
+},
 "prime:movie:49804:paid": {
 "access": "paid",
 "backdropPath": "/mugVHtGhT8YpNfvVNW3b5F2m0Al.jpg",
@@ -119055,6 +121062,44 @@
 "titleEn": "Open Water",
 "tmdbId": 83,
 "trailerKey": "Z9q1qJi1nMs"
+},
+"prime:movie:8456:sub": {
+"access": "sub",
+"backdropPath": "/5XlOI0yFHIdAMKJBoN2hMHAZqay.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:8456:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Po przeprowadzce z Iowa na Florydę, Jake (Sean Faris) przeciera oczy na widok posiadłości wartych dziesiątki milionów dolarów i najdroższych samochodów, jakimi rozbijają się jego szkolni koledzy. Dla nich życie jest nieprzerwaną imprezą. W tym środowisku Jack jest outsiderem. Z towarzyskiego niebytu wyrywa go piękna koleżanka z klasy – Baja (Amber Heard). Za jej sprawą chłopak trafi na imprezę, na której zostaje wmanewrowany w walkę z miejscowym zabijaką Ryan'em (Cam Gigandet). Po sromotnej porażce, Jake postanawia szkolić się w sztuce walki znanej jako MMA. Chłopak będzie potrzebował wiele cierpliwości i samodyscypliny, aby w kolejnej walce udowodnić światu ile jest wart.",
+"overviewEn": "Jake, full of anger after his father's death, is just starting to find a place for himself at his new Orlando high school - until Ryan, head of an underground MMA fight club, picks Jake out as a prime opponent. After being trounced by Ryan in front of the entire school, Jake begins training under the firm, moral guidance of a MMA master, where he learns how to fight... and how to avoid a fight. But it becomes obvious that a rematch will be inevitable if Jake wants to stop Ryan and his bullying, once and for all.",
+"popularity": 6.42,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 112790,
+"tmdb": 6.8
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Po Prostu Walcz!",
+"titleEn": "Never Back Down",
+"tmdbId": 8456,
+"trailerKey": "7X8O-OBJY4g"
 },
 "prime:movie:845783:paid": {
 "access": "paid",
@@ -122981,19 +125026,19 @@
 "tmdbId": 328010,
 "trailerKey": "fB4EfJcItPE"
 },
-"prime:tv:332683:s1e1:sub": {
+"prime:tv:332683:s1:sub": {
 "access": "sub",
 "backdropPath": "/cKM4DnFGFRrQghqLK9uzPEcEkWD.jpg",
-"confirmedAt": "2026-11-13T21:25:30Z",
+"confirmedAt": "2026-11-15T20:23:02Z",
 "date": "2026-11-13",
 "dateConfirmed": true,
 "deepLinkId": null,
-"id": "prime:tv:332683:s1e1:sub",
+"id": "prime:tv:332683:s1:sub",
 "mediaType": "tv",
 "meta": {
-"allEpisodes": false,
-"episodeFrom": 1,
-"episodeTo": 6,
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
 "genres": [
 18
 ],
@@ -124005,7 +126050,7 @@
 },
 "prime:tv:84773:s3e1:sub": {
 "access": "sub",
-"backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+"backdropPath": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
 "confirmedAt": "2026-11-11T12:41:28Z",
 "date": "2026-11-11",
 "dateConfirmed": true,
@@ -124043,7 +126088,7 @@
 },
 "prime:tv:84773:s3e5:sub": {
 "access": "sub",
-"backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+"backdropPath": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
 "confirmedAt": null,
 "date": "2026-11-18",
 "dateConfirmed": true,
@@ -124081,7 +126126,7 @@
 },
 "prime:tv:84773:s3e7:sub": {
 "access": "sub",
-"backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+"backdropPath": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
 "confirmedAt": null,
 "date": "2026-11-25",
 "dateConfirmed": true,
@@ -124620,6 +126665,45 @@
 "titleEn": "Flavia",
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
+},
+"rakuten:movie:1140521:free": {
+"access": "free",
+"backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1140521:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+10751,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy rodzeństwo Beth, Fran i Joe niechętnie przeprowadzają się z rodzicami na wieś, dla rodziny rozpoczyna się wyjątkowa przygoda. W pobliskim, tajemniczym lesie dzieci odkrywają magiczne drzewo: Drzewo Krainy Czarów, które sięga chmur i jest domem dla niezwykłych stworzeń. Szybko zaprzyjaźniają się z mieszkańcami drzewa, Wróżką Jedwabnowłosą, Panią Wash i Księżycową Twarzą, które zabierają je do fantastycznych światów. Razem przeżywają bajkowe przygody — aż do momentu, gdy podczas jednej ze swoich podróży są zmuszeni do awaryjnego lądowania w mrocznym świecie budzącej grozę dyrektorki, Madame Klaps. W domu sprawy również nie idą zgodnie z planem, jeśli chodzi o nowy rodzinny interes… Czy uda im się wyrwać z rąk Madame Klaps i uratować plantację pomidorów rodziców? Czy Jedwabnowłosa i Księżycowa Twarz przekonają rodzeństwo, że cuda są możliwe, jeśli tylko wystarczająco mocno w nie uwierzymy?",
+"overviewEn": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+"popularity": 11.42,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 7061,
+"tmdb": 6.8
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Drzewo magii",
+"titleEn": "The Magic Faraway Tree",
+"tmdbId": 1140521,
+"trailerKey": "PAUEwUhAjzg"
 },
 "rakuten:movie:1140521:paid": {
 "access": "paid",
@@ -125432,45 +127516,6 @@
 "tmdbId": 1266800,
 "trailerKey": "dCDmE8aaOZg"
 },
-"rakuten:movie:1267905:paid": {
-"access": "paid",
-"backdropPath": "/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
-"confirmedAt": null,
-"date": "2026-11-20",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "rakuten:movie:1267905:paid",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-35,
-18,
-10749
-],
-"kind": "movie",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Życie pary jak z obrazka, Ivy i Theo, wydaje się łatwe: udane kariery, kochające małżeństwo, wspaniałe dzieci. Ale pod fasadą ich rzekomo idealnego życia zbiera się burza – gdy kariera Theo chyli się ku upadkowi, a ambicje Ivy rosną w siłę, rozpala się iskra zaciekłej rywalizacji i ukrytej urazy.",
-"overviewEn": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
-"popularity": 5.18,
-"ratings": {
-"imdb": 6.6,
-"imdbVotes": 63916,
-"tmdb": 6.6
-},
-"serviceKey": "rakuten",
-"source": "tmdb",
-"status": "announced",
-"title": "Państwo Rose",
-"titleEn": "The Roses",
-"tmdbId": 1267905,
-"trailerKey": "rb3x45F6mrQ"
-},
 "rakuten:movie:1272149:sub": {
 "access": "sub",
 "backdropPath": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
@@ -125704,6 +127749,44 @@
 "tmdbId": 1302904,
 "trailerKey": "Ho10_4IX1jE"
 },
+"rakuten:movie:1306884:free": {
+"access": "free",
+"backdropPath": "/vdEBPtIH2NtD1ddVNuxm7DbG3Ab.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1306884:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+53,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jest rok 1939. Świat pogrąża się w chaosie. Tysiące Polaków, przetrzymywanych przez Rosjan w dawnym klasztorze, poddawane są brutalnej indoktrynacji. Ambitny agent wroga stawia sobie za punkt honoru złamanie oporu jednego z nich. To młody pianista światowej sławy, cieszący się szacunkiem współosadzonych. Jego kapitulacja może skutkować przeciągnięciem wielu innych na stronę przeciwnika. Rozpoczyna się podstępna gra, pełna wyrafinowanych manipulacji, gróźb i obietnic. Czy młody artysta, kochający ojciec i mąż, może wygrać pojedynek z agentem, za którym stoi potęga i perfidia rosyjskiego systemu?",
+"overviewEn": "The year is 1939. The world is falling into chaos. Thousands of Poles, held by the Russians in a former monastery, are subjected to brutal indoctrination. An ambitious enemy agent makes it a point of honour to break the resistance of one of them. He is a young, world-famous pianist, respected by his fellow prisoners. His capitulation may result in winning many others over to the enemy's side. An insidious game begins, full of sophisticated manipulation, threats and promises. Can the young artist, a loving father and husband, win a duel with an agent backed by the power and perfidy of the Russian system?",
+"popularity": 1.24,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 368
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Pojedynek",
+"titleEn": "Gorky Resort",
+"tmdbId": 1306884,
+"trailerKey": "tJaMzEyBq48"
+},
 "rakuten:movie:1317149:sub": {
 "access": "sub",
 "backdropPath": "/4mKczHAW4XPDXGk7V5k7Ui3dgUk.jpg",
@@ -125817,6 +127900,44 @@
 "titleEn": "Obsession",
 "tmdbId": 1339713,
 "trailerKey": "gMC8kkwbIQQ"
+},
+"rakuten:movie:1340206:free": {
+"access": "free",
+"backdropPath": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1340206:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Utalentowany stroiciel fortepianów, zmagający się z nadwrażliwością słuchową, niespodziewanie odkrywa w sobie talent do otwierania sejfów, co całkowicie wywraca jego życie do góry nogami.",
+"overviewEn": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+"popularity": 14.25,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 41144,
+"tmdb": 7.6
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Stroiciel sejfów",
+"titleEn": "Tuner",
+"tmdbId": 1340206,
+"trailerKey": "HYxzyLVJORA"
 },
 "rakuten:movie:1341137:paid": {
 "access": "paid",
@@ -126327,8 +128448,7 @@
 "episodeFrom": null,
 "episodeTo": null,
 "genres": [
-35,
-10751
+35
 ],
 "kind": "movie",
 "season": null,
@@ -128901,6 +131021,45 @@
 "tmdbId": 969681,
 "trailerKey": "P3uI5sLosKU"
 },
+"rakuten:movie:976734:free": {
+"access": "free",
+"backdropPath": "/5IIFJxwRzmkhczQidIhpoaolpZY.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:976734:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Avery Graves jest szantażowana przez terrorystów, zmuszając ją do zdrady własnego kraju w zamian za uratowanie porwanego męża.",
+"overviewEn": "Top level CIA agent Avery Graves is blackmailed by terrorists into betraying her own country to save her kidnapped husband. Cut off from her team, she turns to her underworld contacts to survive and help locate the coveted intelligence that the kidnappers want.",
+"popularity": 3.28,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 14673,
+"tmdb": 6.2
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Niezniszczalna",
+"titleEn": "Canary Black",
+"tmdbId": 976734,
+"trailerKey": "tSaw2HTVSsA"
+},
 "rakuten:movie:983526:sub": {
 "access": "sub",
 "backdropPath": "/elH2ZWRHOKpjUNHROvpTCZIvuO7.jpg",
@@ -129083,6 +131242,123 @@
 "titleEn": "Breached",
 "tmdbId": 1073865,
 "trailerKey": "hu3B63xOQXA"
+},
+"skyshowtime:movie:1155324:paid": {
+"access": "paid",
+"backdropPath": "/lUvZ5DbcmPBFuTxLFEnSbsscpOe.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:movie:1155324:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Gdy syn policjanta z Tulsy uzależnia się od fentanylu to wraz z partnerami postanawia on ukarać tych, którzy są odpowiedzialni za rozprowadzanie",
+"overviewEn": "Based on extensive research involving law enforcement and gang members, a never-before-seen, authentic look inside the underworld of fentanyl trafficking from gangs inside the Oklahoma State Penitentiary at McAlester a.k.a. \"Big Mac.\"",
+"popularity": 1.78,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 2394,
+"tmdb": 6.9
+},
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "live",
+"title": "King Ivory",
+"titleEn": null,
+"tmdbId": 1155324,
+"trailerKey": "bC5WoBWImTI"
+},
+"skyshowtime:movie:1155324:sub": {
+"access": "sub",
+"backdropPath": "/lUvZ5DbcmPBFuTxLFEnSbsscpOe.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:movie:1155324:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Gdy syn policjanta z Tulsy uzależnia się od fentanylu to wraz z partnerami postanawia on ukarać tych, którzy są odpowiedzialni za rozprowadzanie",
+"overviewEn": "Based on extensive research involving law enforcement and gang members, a never-before-seen, authentic look inside the underworld of fentanyl trafficking from gangs inside the Oklahoma State Penitentiary at McAlester a.k.a. \"Big Mac.\"",
+"popularity": 1.78,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 2394,
+"tmdb": 6.9
+},
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "live",
+"title": "King Ivory",
+"titleEn": null,
+"tmdbId": 1155324,
+"trailerKey": "bC5WoBWImTI"
+},
+"skyshowtime:movie:1226863:paid": {
+"access": "paid",
+"backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:movie:1226863:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+35,
+12
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Mario i Luigi spotykają i szybko zaprzyjaźniają się z Yoshim, po czym wyruszają wraz z Księżniczką Peach i Toadem na przygodę w kosmosie i całej galaktyce. Stają naprzeciwko syna Bowsera, Bowsera Juniora, i poznają Rosalinę.",
+"overviewEn": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+"popularity": 33.35,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 79345,
+"tmdb": 8.2
+},
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "live",
+"title": "Super Mario  Galaxy Film",
+"titleEn": "The Super Mario Galaxy Movie",
+"tmdbId": 1226863,
+"trailerKey": "hEQW_fOnbpc"
 },
 "skyshowtime:movie:1226863:sub": {
 "access": "sub",
@@ -132283,6 +134559,45 @@
 "tmdbId": 1129104,
 "trailerKey": "IXZMB2cSnls"
 },
+"tvpvod:movie:1140521:free": {
+"access": "free",
+"backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1140521:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+10751,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy rodzeństwo Beth, Fran i Joe niechętnie przeprowadzają się z rodzicami na wieś, dla rodziny rozpoczyna się wyjątkowa przygoda. W pobliskim, tajemniczym lesie dzieci odkrywają magiczne drzewo: Drzewo Krainy Czarów, które sięga chmur i jest domem dla niezwykłych stworzeń. Szybko zaprzyjaźniają się z mieszkańcami drzewa, Wróżką Jedwabnowłosą, Panią Wash i Księżycową Twarzą, które zabierają je do fantastycznych światów. Razem przeżywają bajkowe przygody — aż do momentu, gdy podczas jednej ze swoich podróży są zmuszeni do awaryjnego lądowania w mrocznym świecie budzącej grozę dyrektorki, Madame Klaps. W domu sprawy również nie idą zgodnie z planem, jeśli chodzi o nowy rodzinny interes… Czy uda im się wyrwać z rąk Madame Klaps i uratować plantację pomidorów rodziców? Czy Jedwabnowłosa i Księżycowa Twarz przekonają rodzeństwo, że cuda są możliwe, jeśli tylko wystarczająco mocno w nie uwierzymy?",
+"overviewEn": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+"popularity": 11.42,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 7061,
+"tmdb": 6.8
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Drzewo magii",
+"titleEn": "The Magic Faraway Tree",
+"tmdbId": 1140521,
+"trailerKey": "PAUEwUhAjzg"
+},
 "tvpvod:movie:1140521:paid": {
 "access": "paid",
 "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
@@ -132436,6 +134751,43 @@
 "titleEn": "Mighty Aphrodite",
 "tmdbId": 11448,
 "trailerKey": "6hsIc9reo7k"
+},
+"tvpvod:movie:1156333:sub": {
+"access": "sub",
+"backdropPath": "/7Xn2eBgbAUO7yhpHSfs82V2SC2b.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1156333:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99,
+36
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "A portrait of French filmmaker Michel Gondry, creator, for three decades, of an imperfect, astonishing, fascinating, damaged and poetic work.",
+"overviewEn": "A portrait of French filmmaker Michel Gondry, creator, for three decades, of an imperfect, astonishing, fascinating, damaged and poetic work.",
+"popularity": 0.87,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 243
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Michel Gondry: Do It Yourself",
+"titleEn": null,
+"tmdbId": 1156333,
+"trailerKey": null
 },
 "tvpvod:movie:1159206:paid": {
 "access": "paid",
@@ -132668,6 +135020,82 @@
 "titleEn": "Match Point",
 "tmdbId": 116,
 "trailerKey": "yIC7Ygsy0Cg"
+},
+"tvpvod:movie:1207093:free": {
+"access": "free",
+"backdropPath": "/4cXp3RnWKwjF6tdfPSGC3ZYxvhs.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1207093:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Życie prowincjonalnego listonosza nabiera rumieńców, gdy pojawia się w nim nowa sąsiadka oraz dziadek, z którym nigdy wcześniej nie miał kontaktu.",
+"overviewEn": "Remek Wróbel is a mailman and an enthusiastic member of an amateur football team. He’s pushing on forty, living the life of a bachelor. One day, everything changes – his neat, tidy life is turned upside down by the appearance of Grandpa, whom he hadn’t met before, and his new chatty neighbour, Marzenka.",
+"popularity": 0.54,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 232
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Wróbel",
+"titleEn": null,
+"tmdbId": 1207093,
+"trailerKey": "pDyZbNuuli0"
+},
+"tvpvod:movie:1207093:sub": {
+"access": "sub",
+"backdropPath": "/4cXp3RnWKwjF6tdfPSGC3ZYxvhs.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1207093:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Życie prowincjonalnego listonosza nabiera rumieńców, gdy pojawia się w nim nowa sąsiadka oraz dziadek, z którym nigdy wcześniej nie miał kontaktu.",
+"overviewEn": "Remek Wróbel is a mailman and an enthusiastic member of an amateur football team. He’s pushing on forty, living the life of a bachelor. One day, everything changes – his neat, tidy life is turned upside down by the appearance of Grandpa, whom he hadn’t met before, and his new chatty neighbour, Marzenka.",
+"popularity": 0.54,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 232
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Wróbel",
+"titleEn": null,
+"tmdbId": 1207093,
+"trailerKey": "pDyZbNuuli0"
 },
 "tvpvod:movie:12100:free": {
 "access": "free",
@@ -133801,6 +136229,44 @@
 "tmdbId": 1291887,
 "trailerKey": null
 },
+"tvpvod:movie:1306884:free": {
+"access": "free",
+"backdropPath": "/vdEBPtIH2NtD1ddVNuxm7DbG3Ab.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1306884:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+53,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jest rok 1939. Świat pogrąża się w chaosie. Tysiące Polaków, przetrzymywanych przez Rosjan w dawnym klasztorze, poddawane są brutalnej indoktrynacji. Ambitny agent wroga stawia sobie za punkt honoru złamanie oporu jednego z nich. To młody pianista światowej sławy, cieszący się szacunkiem współosadzonych. Jego kapitulacja może skutkować przeciągnięciem wielu innych na stronę przeciwnika. Rozpoczyna się podstępna gra, pełna wyrafinowanych manipulacji, gróźb i obietnic. Czy młody artysta, kochający ojciec i mąż, może wygrać pojedynek z agentem, za którym stoi potęga i perfidia rosyjskiego systemu?",
+"overviewEn": "The year is 1939. The world is falling into chaos. Thousands of Poles, held by the Russians in a former monastery, are subjected to brutal indoctrination. An ambitious enemy agent makes it a point of honour to break the resistance of one of them. He is a young, world-famous pianist, respected by his fellow prisoners. His capitulation may result in winning many others over to the enemy's side. An insidious game begins, full of sophisticated manipulation, threats and promises. Can the young artist, a loving father and husband, win a duel with an agent backed by the power and perfidy of the Russian system?",
+"popularity": 1.24,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 368
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Pojedynek",
+"titleEn": "Gorky Resort",
+"tmdbId": 1306884,
+"trailerKey": "tJaMzEyBq48"
+},
 "tvpvod:movie:1317288:paid": {
 "access": "paid",
 "backdropPath": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
@@ -133838,6 +136304,44 @@
 "titleEn": "Marty Supreme",
 "tmdbId": 1317288,
 "trailerKey": "Z8rDPyKBy3k"
+},
+"tvpvod:movie:1340206:free": {
+"access": "free",
+"backdropPath": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1340206:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Utalentowany stroiciel fortepianów, zmagający się z nadwrażliwością słuchową, niespodziewanie odkrywa w sobie talent do otwierania sejfów, co całkowicie wywraca jego życie do góry nogami.",
+"overviewEn": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+"popularity": 14.25,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 41144,
+"tmdb": 7.6
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Stroiciel sejfów",
+"titleEn": "Tuner",
+"tmdbId": 1340206,
+"trailerKey": "HYxzyLVJORA"
 },
 "tvpvod:movie:1365683:paid": {
 "access": "paid",
@@ -137315,6 +139819,72 @@
 "titleEn": null,
 "tmdbId": 847685,
 "trailerKey": null
+},
+"tvpvod:movie:869637:free": {
+"access": "free",
+"backdropPath": null,
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:869637:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Five teenagers communicate via an online chatroom about their hopes fears and frustrations. One day, Jim enters the chat and opens up about feeling suicidal. From there the group is split into those who want to help and those who want to exploit.",
+"overviewEn": "Five teenagers communicate via an online chatroom about their hopes fears and frustrations. One day, Jim enters the chat and opens up about feeling suicidal. From there the group is split into those who want to help and those who want to exploit.",
+"popularity": 0.16,
+"ratings": null,
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Chatroom",
+"titleEn": null,
+"tmdbId": 869637,
+"trailerKey": "4lbRoNNN0Ok"
+},
+"tvpvod:movie:869637:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-15T20:23:02Z",
+"date": "2026-11-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:869637:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Five teenagers communicate via an online chatroom about their hopes fears and frustrations. One day, Jim enters the chat and opens up about feeling suicidal. From there the group is split into those who want to help and those who want to exploit.",
+"overviewEn": "Five teenagers communicate via an online chatroom about their hopes fears and frustrations. One day, Jim enters the chat and opens up about feeling suicidal. From there the group is split into those who want to help and those who want to exploit.",
+"popularity": 0.16,
+"ratings": null,
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Chatroom",
+"titleEn": null,
+"tmdbId": 869637,
+"trailerKey": "4lbRoNNN0Ok"
 },
 "tvpvod:movie:87061:free": {
 "access": "free",

@@ -390,7 +390,7 @@
 }
 },
 "movie:1019354": {
-"at": "2026-11-10T21:17:45.608247+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/95pq8lCUtirZc4RNHHfJPmbq135.jpg",
 "genres": [
@@ -401,7 +401,7 @@
 "kind": "movie",
 "overview": "Melowi jak zwykle nic nie wychodzi. Zbieg okoliczności sprawia, że staje się bohaterem mimo woli, a jego nie zawsze kryształowy charakter znowu zostaje wystawiony na próbę. Wojciech, który nie czuje wszechobecnej radosnej atmosfery, spotyka na swojej drodze kogoś, kto zmienia jego świąteczne plany. Z kolei Karina i Szczepan uwikłają się w walkę o spadek, który może poróżnić nawet najbliższych. Przekonają się, czy z rodziną rzeczywiście dobrze wychodzi się tylko na zdjęciach.",
 "overviewEn": "Wojciech, who does not feel the ubiquitous joyful atmosphere, meets someone who changes his holiday plans. In turn, Karina and Szczepan get embroiled in a fight for an inheritance that may divide even their loved ones. They will see if the only thing that comes out well with the family is in the photos.",
-"popularity": 0.59,
+"popularity": 0.51,
 "title": "Listy do M. 5",
 "titleEn": "Letters to Santa 5",
 "tmdbRating": null,
@@ -1096,7 +1096,7 @@
 }
 },
 "movie:1050981": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
 "genres": [
@@ -1950,7 +1950,7 @@
 }
 },
 "movie:1101383": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
 "genres": [
@@ -2027,7 +2027,7 @@
 }
 },
 "movie:1103437": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/qd2YZfTAlI31CPpIIWovVyKhRzD.jpg",
 "genres": [
@@ -2606,7 +2606,7 @@
 }
 },
 "movie:1129188": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/d162vjYEHGEGw2XqxH487bnEkfG.jpg",
 "genres": [
@@ -2830,7 +2830,7 @@
 }
 },
 "movie:1140521": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
 "genres": [
@@ -3060,6 +3060,25 @@
 "trailerKey": "q4m5k5LloFE"
 }
 },
+"movie:1156333": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/7Xn2eBgbAUO7yhpHSfs82V2SC2b.jpg",
+"genres": [
+99,
+36
+],
+"imdbId": "tt26768067",
+"kind": "documentary",
+"overview": "A portrait of French filmmaker Michel Gondry, creator, for three decades, of an imperfect, astonishing, fascinating, damaged and poetic work.",
+"overviewEn": "A portrait of French filmmaker Michel Gondry, creator, for three decades, of an imperfect, astonishing, fascinating, damaged and poetic work.",
+"popularity": 0.87,
+"title": "Michel Gondry: Do It Yourself",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:1157869": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -3137,7 +3156,7 @@
 }
 },
 "movie:1161617": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/b4uAD5kqB3cJ9Wdka5qlod5BHwW.jpg",
 "genres": [
@@ -3215,7 +3234,7 @@
 }
 },
 "movie:1165369": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg",
 "genres": [
@@ -3590,7 +3609,7 @@
 }
 },
 "movie:1185806": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
 "genres": [
@@ -3840,6 +3859,26 @@
 "trailerKey": "2slDG_4cGkU"
 }
 },
+"movie:1207093": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/4cXp3RnWKwjF6tdfPSGC3ZYxvhs.jpg",
+"genres": [
+18,
+35,
+14
+],
+"imdbId": "tt27991616",
+"kind": "movie",
+"overview": "Życie prowincjonalnego listonosza nabiera rumieńców, gdy pojawia się w nim nowa sąsiadka oraz dziadek, z którym nigdy wcześniej nie miał kontaktu.",
+"overviewEn": "Remek Wróbel is a mailman and an enthusiastic member of an amateur football team. He’s pushing on forty, living the life of a bachelor. One day, everything changes – his neat, tidy life is turned upside down by the appearance of Grandpa, whom he hadn’t met before, and his new chatty neighbour, Marzenka.",
+"popularity": 0.54,
+"title": "Wróbel",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": "pDyZbNuuli0"
+}
+},
 "movie:1207447": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -4071,7 +4110,7 @@
 }
 },
 "movie:1215889": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/rbwmf04kpX1o3zbbOS6Y7woF2Ku.jpg",
 "genres": [
@@ -4308,7 +4347,7 @@
 }
 },
 "movie:1226863": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
 "genres": [
@@ -4600,7 +4639,7 @@
 }
 },
 "movie:1235304": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/b28RiKlALbdC2Dmnndt93MBt76h.jpg",
 "genres": [
@@ -4911,7 +4950,7 @@
 }
 },
 "movie:1248226": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
 "genres": [
@@ -5133,6 +5172,25 @@
 "trailerKey": null
 }
 },
+"movie:1261049": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/oo7Wqf8pfwlBtuR2HsEovthwZIm.jpg",
+"genres": [
+18,
+10402
+],
+"imdbId": "tt27797557",
+"kind": "movie",
+"overview": "Pierwszy taki film w historii kina – najpiękniejsza historia miłosna świata w kostiumach Dolce & Gabbana i operowym entourage’u. Magnetyzujące doświadczenie dla miłośników muzyki, filmu i mody. Prawdziwa uczta dla zmysłów. Uwspółcześniona wersja mitu greckiego o miłości Orfeusza i Eurydyki opowiedziana tak, aby widzowie mogli usłyszeć słynne arie operowe m. in. Vivaldiego, Pucciniego, Verdiego. Całość skąpana w surrealistycznej, niesamowitej scenografii jak z obrazów Salvadora Dali.",
+"overviewEn": "A sudden gunshot shatters the dream of two lovers on their wedding day. The fate of Orpheus and Eurydice is cruel: on the very day they sought to seal their love, EurydiceΆs soul embarks on its journey to the underworld. Heartbroken, Orpheus embarks on a perilous journey to bring his beloved back from Hades. A journey that will lead the fearless hero to confront the depths of his emotions and face his greatest fears. This journey will take him through strange worlds and into encounters with some of the greatest musical pieces and arias in the history of music. Will love triumph over death?",
+"popularity": 0.8,
+"title": "Opera!",
+"titleEn": "The Opera! Arias for an Eclipse",
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:1261825": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -5190,7 +5248,7 @@
 }
 },
 "movie:1263337": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
 "genres": [
@@ -5227,7 +5285,7 @@
 }
 },
 "movie:1266800": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/raTby3MY67GCHiF1S0VSwq01fds.jpg",
 "genres": [
@@ -5263,6 +5321,26 @@
 "titleEn": "The Roses",
 "tmdbRating": 6.6,
 "trailerKey": "rb3x45F6mrQ"
+}
+},
+"movie:1270766": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/dH30FACIOekM1i8kTrTsot5WRp5.jpg",
+"genres": [
+10749,
+28,
+18
+],
+"imdbId": "tt27971488",
+"kind": "movie",
+"overview": "Zbuntowany maturzysta i magnetyczna romska dziewczyna przeżywają burzliwy romans w mieście wstrząsanym wojną gangów.",
+"overviewEn": "Eighteen-year-old Kosa is the best skater in Wrocław. He has a beautiful girlfriend, great friends, an adored grandfather and a clear plan for the future - he wants to win a prestigious skateboarding competition with a lot of money at stake and a trip to Los Angeles. Everything changes dramatically when, during a carefree vacation, Kosa meets Zora - a magnetic Romani girl, with whom magic and a passionate feeling that he has never experienced before enters the boy's life.",
+"popularity": 0.63,
+"title": "Wrooklyn Zoo",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": "ZSgUQNneroE"
 }
 },
 "movie:1272149": {
@@ -5687,7 +5765,7 @@
 }
 },
 "movie:1291595": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
 "genres": [
@@ -5725,7 +5803,7 @@
 }
 },
 "movie:1292695": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg",
 "genres": [
@@ -5917,6 +5995,44 @@
 "trailerKey": "IBsg00NnzGg"
 }
 },
+"movie:1306884": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/vdEBPtIH2NtD1ddVNuxm7DbG3Ab.jpg",
+"genres": [
+36,
+53,
+10752
+],
+"imdbId": "tt32869207",
+"kind": "movie",
+"overview": "Jest rok 1939. Świat pogrąża się w chaosie. Tysiące Polaków, przetrzymywanych przez Rosjan w dawnym klasztorze, poddawane są brutalnej indoktrynacji. Ambitny agent wroga stawia sobie za punkt honoru złamanie oporu jednego z nich. To młody pianista światowej sławy, cieszący się szacunkiem współosadzonych. Jego kapitulacja może skutkować przeciągnięciem wielu innych na stronę przeciwnika. Rozpoczyna się podstępna gra, pełna wyrafinowanych manipulacji, gróźb i obietnic. Czy młody artysta, kochający ojciec i mąż, może wygrać pojedynek z agentem, za którym stoi potęga i perfidia rosyjskiego systemu?",
+"overviewEn": "The year is 1939. The world is falling into chaos. Thousands of Poles, held by the Russians in a former monastery, are subjected to brutal indoctrination. An ambitious enemy agent makes it a point of honour to break the resistance of one of them. He is a young, world-famous pianist, respected by his fellow prisoners. His capitulation may result in winning many others over to the enemy's side. An insidious game begins, full of sophisticated manipulation, threats and promises. Can the young artist, a loving father and husband, win a duel with an agent backed by the power and perfidy of the Russian system?",
+"popularity": 1.24,
+"title": "Pojedynek",
+"titleEn": "Gorky Resort",
+"tmdbRating": null,
+"trailerKey": "tJaMzEyBq48"
+}
+},
+"movie:1307051": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/3NMrg2rAQ5BUWY7giJ1UfqAvmGN.jpg",
+"genres": [
+35
+],
+"imdbId": "tt33396608",
+"kind": "movie",
+"overview": "Dla rodziny Nathalie (Valérie Bonneton) i Antonina (Kad Merad) Wigilia co roku zamienia się w koszmar. Przekonana, że ​​padła ofiarą klątwy, Nathalie podejmuje radykalną decyzję: w tym roku nie będziemy tego świętować! Nawet nie licząc na to, że Antonin i jego dzieci postanowią wziąć sprawy w swoje ręce i zaprosić Nicole (Noémie Lvovsky), siostrę Nathalie, którą straciła z oczu. Pomiędzy ukrytą rywalizacją a nagromadzonymi frustracjami, ten sylwester stanie się najokrutniejszym i najbardziej wybuchowym ze wszystkich!",
+"overviewEn": "Every year, Christmas Eve turns into a nightmare for Nathalie and Antonin's family. Convinced that she is the victim of a curse, Nathalie makes a radical decision: this year we won't be celebrating! But Antonin and his children take matters into their own hands by inviting Nicole, Nathalie's long-lost sister. Will they finally escape disaster this year?",
+"popularity": 0.87,
+"title": "Bombki świąteczne",
+"titleEn": "Les Boules de Noël",
+"tmdbRating": 4.8,
+"trailerKey": null
+}
+},
 "movie:1307649": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -5936,7 +6052,7 @@
 }
 },
 "movie:1308618": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/s2jfSL3O1tmDV4FiruB48LWr0ul.jpg",
 "genres": [
@@ -6225,7 +6341,7 @@
 }
 },
 "movie:1319951": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/6m3K1hizm5yoguOsAcIjNSECn5b.jpg",
 "genres": [
@@ -6534,7 +6650,7 @@
 }
 },
 "movie:1339713": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
 "genres": [
@@ -6550,6 +6666,25 @@
 "titleEn": "Obsession",
 "tmdbRating": 8.2,
 "trailerKey": "gMC8kkwbIQQ"
+}
+},
+"movie:1340206": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+"genres": [
+80,
+53
+],
+"imdbId": "tt33296751",
+"kind": "movie",
+"overview": "Utalentowany stroiciel fortepianów, zmagający się z nadwrażliwością słuchową, niespodziewanie odkrywa w sobie talent do otwierania sejfów, co całkowicie wywraca jego życie do góry nogami.",
+"overviewEn": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+"popularity": 14.25,
+"title": "Stroiciel sejfów",
+"titleEn": "Tuner",
+"tmdbRating": 7.6,
+"trailerKey": "HYxzyLVJORA"
 }
 },
 "movie:1341137": {
@@ -6587,6 +6722,27 @@
 "titleEn": "The Last Jew from Drohobych",
 "tmdbRating": null,
 "trailerKey": null
+}
+},
+"movie:13479": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+"genres": [
+16,
+35,
+10751,
+10770
+],
+"imdbId": "tt0068359",
+"kind": "animation",
+"overview": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.",
+"overviewEn": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.",
+"popularity": 3.71,
+"title": "Dzień Dziękczynienia Charliego Browna",
+"titleEn": "A Charlie Brown Thanksgiving",
+"tmdbRating": 7.3,
+"trailerKey": "WSDLdq3FDtk"
 }
 },
 "movie:134826": {
@@ -6666,7 +6822,7 @@
 }
 },
 "movie:1358579": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/y18jH3YG9aAUT1nPLh1JcJA6Si1.jpg",
 "genres": [
@@ -7311,6 +7467,26 @@
 "trailerKey": "O7vKuVadFmo"
 }
 },
+"movie:1389379": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/xpImgnsxuqb3VOp0QRtXTS5uBRi.jpg",
+"genres": [
+36,
+28,
+18
+],
+"imdbId": "tt32324552",
+"kind": "movie",
+"overview": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
+"overviewEn": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
+"popularity": 40.11,
+"title": "రణబాలి",
+"titleEn": "Ranabaali",
+"tmdbRating": null,
+"trailerKey": "4AejYUbJiDs"
+}
+},
 "movie:13944": {
 "at": "2026-11-07T11:43:12.383621+00:00",
 "meta": {
@@ -7350,6 +7526,26 @@
 "titleEn": "Persuasion",
 "tmdbRating": 7.2,
 "trailerKey": null
+}
+},
+"movie:1396980": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/ouvxGRtKkR6VkFzvmz4da8Ppa9R.jpg",
+"genres": [
+10770,
+35,
+10749
+],
+"imdbId": "tt34937026",
+"kind": "movie",
+"overview": "Emma Rivera musi dotrzeć na Antarktydę, by uratować swojego ojca Iana, eksperta od pingwinów. Zakrada się na płynący tam statek badawczy. Nieoczekiwanie poznaje inżyniera Andy'ego Jacksona. Podczas pełnej wyzwań podróży zakochują się w sobie. Niespodziewany zwrot akcji dotyczący losów Iana grozi jednak zniweczeniem zarówno ich misji, jak i łączącego ich uczucia.",
+"overviewEn": "Emma needs to get to Antarctica to reach her father and travels to South America but can't get on a boat for the last leg. She sneaks onto a cruise ship and meets engineer Andy.",
+"popularity": 0.97,
+"title": "Bieguny miłości",
+"titleEn": "Polar Opposites",
+"tmdbRating": null,
+"trailerKey": "g_qbSxfkddA"
 }
 },
 "movie:1397364": {
@@ -7484,7 +7680,7 @@
 }
 },
 "movie:1404684": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/l1fhfzNclQcp4oBz550KMY0CTre.jpg",
 "genres": [
@@ -7623,7 +7819,7 @@
 }
 },
 "movie:1418709": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/w4ISfPkFLdG0ew07XcrlQSB4O4q.jpg",
 "genres": [
@@ -7638,12 +7834,12 @@
 "popularity": 18.58,
 "title": "Bagarre",
 "titleEn": "Brawlers",
-"tmdbRating": 5.4,
+"tmdbRating": 5.6,
 "trailerKey": null
 }
 },
 "movie:1419036": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/x54Apuuj38C3aPv82BH34TQt8Um.jpg",
 "genres": [
@@ -7719,7 +7915,7 @@
 }
 },
 "movie:1423191": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
 "genres": [
@@ -7816,7 +8012,7 @@
 }
 },
 "movie:1433367": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
 "genres": [
@@ -7894,12 +8090,11 @@
 }
 },
 "movie:1440050": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/dgqBcgTzaUiSLvKJPDF9AbdFEMO.jpg",
 "genres": [
-35,
-10751
+35
 ],
 "imdbId": "tt34459219",
 "kind": "movie",
@@ -8028,6 +8223,25 @@
 "trailerKey": "ykrxpIiiOQs"
 }
 },
+"movie:1449553": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/lc5zbSIjJ4VhxJnjeRVEso906AE.jpg",
+"genres": [
+10770,
+53
+],
+"imdbId": "tt35326016",
+"kind": "movie",
+"overview": "Szukając nowego początku, Charlotte i jej mąż Joel porzucają wielkomiejskie życie i przenoszą się na przedmieścia. Trafia im się niesamowita okazja – kupują piękną posiadłość za ułamek jej wartości. Radość z przeprowadzki nie trwa jednak długo, gdy wychodzi na jaw, że ich wymarzone miejsce to osławiony „dom morderstwa”.",
+"overviewEn": "Seeking a fresh start, Charlotte and her husband, Joel, pack up their lives in the big city and head to the suburbs, where they find an incredible deal on a beautiful home. Yet all is not what it seems. Their house is “the murder house”, and Charlotte soon finds clues left by the former resident before her murder, making her question which one of their neighbors knew all along and have been covering it up.",
+"popularity": 0.97,
+"title": "Dom naznaczony zbrodnią",
+"titleEn": "The Last Woman Who Lived Here",
+"tmdbRating": null,
+"trailerKey": "OJiYfpFSKMU"
+}
+},
 "movie:1451028": {
 "at": "2026-11-08T19:40:20.654914+00:00",
 "meta": {
@@ -8045,7 +8259,7 @@
 }
 },
 "movie:1451117": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/inXlEuRLZXYqHiyZ0UOcNEQZipE.jpg",
 "genres": [
@@ -8251,7 +8465,7 @@
 }
 },
 "movie:1464883": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
 "genres": [
@@ -8363,7 +8577,7 @@
 }
 },
 "movie:1474226": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/ftfnS4ABocBNkwrvkIjkkxaBjgH.jpg",
 "genres": [
@@ -8686,7 +8900,7 @@
 }
 },
 "movie:1493400": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
 "genres": [
@@ -8941,7 +9155,7 @@
 }
 },
 "movie:1518204": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
 "genres": [
@@ -8951,7 +9165,7 @@
 ],
 "imdbId": "tt37675123",
 "kind": "movie",
-"overview": "Najlepszy przyjaciel Peteya z dzieciństwa, kosmita o imieniu Allen, zniknął bez słowa pożegnania. Dwie dekady później Allen powraca z tajemnicą, która może odmienić świat, zmuszając Peteya do ostatecznego dorastania i udzielenia pomocy w jego ocaleniu.",
+"overview": "Choć od spotkania z kosmitą minęło 20 lat, Petey wciąż żyje przeszłością. Teraz jego dawny przyjaciel powraca, a powód ku temu jest skomplikowany — i bardzo zaskakujący.",
 "overviewEn": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
 "popularity": 73.0,
 "title": "Allen",
@@ -9128,7 +9342,7 @@
 }
 },
 "movie:1543469": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
 "genres": [
@@ -9142,7 +9356,7 @@
 "popularity": 82.85,
 "title": "Heartland",
 "titleEn": null,
-"tmdbRating": 7.2,
+"tmdbRating": 7.0,
 "trailerKey": "ziIz59enN1c"
 }
 },
@@ -9184,7 +9398,7 @@
 }
 },
 "movie:1549234": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/8eX8DgrIlZKt46y8lck1jqbSd98.jpg",
 "genres": [
@@ -9702,7 +9916,7 @@
 }
 },
 "movie:1590613": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/9rZVlvA5Nk3SA4GJk1ySUbZLtTg.jpg",
 "genres": [
@@ -9739,7 +9953,7 @@
 }
 },
 "movie:1594914": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
 "genres": [
@@ -9926,7 +10140,7 @@
 }
 },
 "movie:1616687": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
 "genres": [
@@ -10212,7 +10426,7 @@
 }
 },
 "movie:1654566": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/paZuQDNYwuD0WBwZERfvgSNQZDz.jpg",
 "genres": [
@@ -10351,7 +10565,7 @@
 }
 },
 "movie:1665406": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": null,
 "genres": [
@@ -10537,7 +10751,7 @@
 }
 },
 "movie:1705729": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/jEvff0AJue5DtzNd2rvFDgSNVuH.jpg",
 "genres": [
@@ -10818,7 +11032,7 @@
 }
 },
 "movie:1737740": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/19OqRmY4zc6oDLsEODGi9RSmt2I.jpg",
 "genres": [
@@ -11017,7 +11231,7 @@
 }
 },
 "movie:1757174": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
 "genres": [
@@ -11031,7 +11245,7 @@
 "popularity": 38.23,
 "title": "Tylko na święta",
 "titleEn": "The Christmas Switch",
-"tmdbRating": 6.4,
+"tmdbRating": 6.5,
 "trailerKey": null
 }
 },
@@ -11628,6 +11842,26 @@
 "titleEn": "Lord of War",
 "tmdbRating": 7.4,
 "trailerKey": "AL8jpJkKUnM"
+}
+},
+"movie:1832": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/nljRWpjfmqh5qYxcblFoazU5eYY.jpg",
+"genres": [
+14,
+35,
+12
+],
+"imdbId": "tt0120655",
+"kind": "movie",
+"overview": "Dwaj upadli aniołowie zostają wykopani z Nieba i skazani na wieczny pobyt na ziemi padole. Do władz niebieskich docierają jednak słuchy, że banici będą próbowali użyć podstępu, by sforsować bramę Św. Piotra. Na ziemi pojawia się więc wysłannik niebios, by oznajmić nie bardzo bogobojnej Bethany, iż została wybrana by powstrzymać parę skrzydlatych łotrów przed powrotem do raju. Bethany wyrusza więc ich śladem. Na swej drodze spotka mnóstwo zakręconych typów nieziemskiego pochodzenia: dwójkę wyluzowanych proroków (Jay i Cichy Bob), trzynastego apostoła, nadgorliwego demona i niebiańską piękność. Tymczasem aniołowie zaczynają rozrabiać.",
+"overviewEn": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and re-enter Heaven.",
+"popularity": 5.93,
+"title": "Dogma",
+"titleEn": null,
+"tmdbRating": 6.9,
+"trailerKey": "rwSRribTgdA"
 }
 },
 "movie:184931": {
@@ -15418,6 +15652,24 @@
 "trailerKey": "AXXzwy7lDtI"
 }
 },
+"movie:38869": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/kXoHXII5X4xf8tJrRABDee97YMS.jpg",
+"genres": [
+35
+],
+"imdbId": "tt0084923",
+"kind": "movie",
+"overview": "Prowincjonalne miasteczko z początku lat osiemdziesiątych. Wśród jego mieszkańców jest rodzina Kolędów. Pani Kolędowa jest energicznym naczelnikiem gminy, jej mąż safanduła zajmuje się domową hodowlą kaczek i uprawą kwiatów w \"tunelach\". Ich córka Dorota jest panną ładną i niepracującą. Intryga zaczyna się w momencie, gdy pani naczelnik dowiaduje się, że ma zostać babcią. Strach przed utratą autorytetu, skandalem i kompromitacją podsuwają jej iście piekielny pomysł - trzeba kupić narzeczonego z opłaconym rozwodem.",
+"overviewEn": "A provincial town in the early 1980s. Among its residents is the Kolęda family. Mrs. Kolęda is an energetic community leader, her husband, a gentle soul, takes care of raising ducks and cultivating flowers in \"tunnels\" at home. Their daughter, Dorota, is a pretty and unemployed young woman. The intrigue begins when the community leader finds out that she is going to become a grandmother. Fear of losing authority, scandal, and embarrassment inspires her to come up with a truly diabolical idea - they need to buy a fiancé for Dorota with a pre-arranged divorce.",
+"popularity": 0.37,
+"title": "Wyjście awaryjne",
+"titleEn": "The Emergency Exit",
+"tmdbRating": 6.8,
+"trailerKey": null
+}
+},
 "movie:38872": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -16819,6 +17071,26 @@
 "trailerKey": "0fgTH-gaQ5I"
 }
 },
+"movie:46261": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/wJgVvjUOo8NCPoH6oDQ17mL1RhN.jpg",
+"genres": [
+14,
+27,
+53
+],
+"imdbId": "tt1270761",
+"kind": "movie",
+"overview": "Sally (Bailee Madison) przyjeżdża do Rhode Island, zamieszkać ze swoim ojcem (Guy Pearce) i jego nową narzeczoną Kim (Katie Holmes). Ojciec pochłonięty jest remontem, a z macochą trudno jej się porozumieć. Mimo przestróg, dziewczynka sama zwiedza starą wiktoriańską willę. Ciekawość prowadzi ją w głąb posiadłości do ukrytej piwnicy. Ponad sto lat temu, w tajemniczych okolicznościach, zginął w niej pan domu. Sally słyszy głosy wołające o pomoc i nieświadoma zagrożenia uwalnia coś, co od wieków było zamknięte pod ziemią. Zło wypełnia dom. Sally wie, co kryje się w mroku, ale kto uwierzy małej dziewczynce, która boi się ciemności?",
+"overviewEn": "A young girl sent to live with her father and his new girlfriend discovers creatures in her new home who want to claim her as one of their own.",
+"popularity": 2.87,
+"title": "Nie bój się ciemności",
+"titleEn": "Don't Be Afraid of the Dark",
+"tmdbRating": 5.9,
+"trailerKey": "3kLU13UN7Zo"
+}
+},
 "movie:464052": {
 "at": "2026-11-04T07:49:21.242741+00:00",
 "meta": {
@@ -17511,7 +17783,7 @@
 }
 },
 "movie:49527": {
-"at": "2026-11-05T21:27:54.342808+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/zB2NdJ75xpZRJhFtU7dUVAgD0cW.jpg",
 "genres": [
@@ -17523,7 +17795,7 @@
 "kind": "movie",
 "overview": "Jest wczesny poranek w samym sercu Nowego Jorku. W położonym na 21 piętrze oknie luksusowego hotelu pojawia się mężczyzna. Wszystko wskazuje na to, że zamierza popełnić samobójstwo. Gdy na miejscu zjawia się policja, mężczyzna oświadcza, że będzie rozmawiał tylko z wybraną negocjatorką. Tymczasem w położonym po sąsiedzku budynku Nowojorskiej Giełdy Diamentów niezauważona przez nikogo dwójka włamywaczy zmierza po bezcenny diament. Kim jest mężczyzna szykujący się do skoku? Czy łączy go coś z włamywaczami? Dlaczego kilku wysoko postawionych policjantów, odkrywszy tożsamość samobójcy wpada w panikę?",
 "overviewEn": "An ex-cop turned con threatens to jump to his death from a Manhattan hotel rooftop. The NYPD dispatch a female police psychologist to talk him down. However, unbeknownst to the police on the scene, the suicide attempt is a cover for the biggest diamond heist ever pulled.",
-"popularity": 5.85,
+"popularity": 3.62,
 "title": "Człowiek na krawędzi",
 "titleEn": "Man on a Ledge",
 "tmdbRating": 6.4,
@@ -18199,7 +18471,7 @@
 }
 },
 "movie:524635": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/vTiI8auKiV8KnewOqySCZkXB19t.jpg",
 "genres": [
@@ -20592,6 +20864,28 @@
 "trailerKey": "FwN8Crl_DxQ"
 }
 },
+"movie:680770": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/hyQPfCbALQmi0FQc2vLFyfENpHM.jpg",
+"genres": [
+16,
+12,
+35,
+10751,
+14
+],
+"imdbId": "tt14813764",
+"kind": "animation",
+"overview": "Historia 12-letniego chłopca o imieniu Lauri, który w wyniku nieszczęśliwego wypadku traci zdolność chodzenia. Życie chłopca diametralnie się zmienia, gdy z dnia na dzień musi zrezygować ze wszystkiego, co dotychczas sprawiało mu radość. Gdy chłopiec przebywa w szpitalu niespodziewanie odwiedza go futrzasty stwór – Fleak. Razem przenoszą się do krainy wyobraźni gdzie chłopiec i jego nowy przyjaciel przeżywają wiele niesamowitych przygód.",
+"overviewEn": "When 12-year-old Lauri tries too hard to get his older siblings’ attention he falls badly and loses his ability to walk. Now Lauri is stuck at home, lonelier than he ever was. Just then a helpful furry creature from another dimension appears and takes him on a fantasy adventure. In the other dimension Lauri trades his shadow for being able to walk again, but the shadow becomes a goofy, all-eating monster who follows Lauri back to his world. To beat the monster Lauri needs to team up with his siblings and give up his ability to walk. However, Lauri is now determined to learn to walk again and he has his siblings beside him - and that’s what really matters.",
+"popularity": 1.35,
+"title": "Fleak. Futrzak i ja",
+"titleEn": "Fleak",
+"tmdbRating": null,
+"trailerKey": "88I5MRS3f8c"
+}
+},
 "movie:682270": {
 "at": "2026-11-07T19:24:27.193597+00:00",
 "meta": {
@@ -22410,7 +22704,7 @@
 }
 },
 "movie:82390": {
-"at": "2026-11-06T20:52:16.000365+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/qrRugDSIN9i9u0ClGP7X193Akjf.jpg",
 "genres": [
@@ -22422,7 +22716,7 @@
 "kind": "movie",
 "overview": "Dziennikarz Ward James ( Matthew McConaughey) po latach powraca do rodzinnego miasteczka na Florydzie, aby zbadać sprawę więźnia Hillary Van Wettera (John Cusack). Wina Hillary'ego budzi w Wardzie wiele wątpliwości. Wraz z bratem Jackiem (Zac Efron) i narzeczoną skazańca Charlotte (Nicole Kidman) prowadzą śledztwo, które ma doprowadzić do uniewinnienia więźnia. W świetle nowych faktów, bracia próbują doprowadzić do ponownego procesu. Sytuacja zaczyna się komplikować, gdy Jack zakochuje się w Charlotte.",
 "overviewEn": "A reporter returns to his Florida hometown to investigate a case involving a death row inmate.",
-"popularity": 2.52,
+"popularity": 2.17,
 "title": "Pokusa",
 "titleEn": "The Paperboy",
 "tmdbRating": 5.5,
@@ -22801,6 +23095,46 @@
 "trailerKey": "8X9HG1W-23Y"
 }
 },
+"movie:8456": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/5XlOI0yFHIdAMKJBoN2hMHAZqay.jpg",
+"genres": [
+18,
+28
+],
+"imdbId": "tt1023111",
+"kind": "movie",
+"overview": "Po przeprowadzce z Iowa na Florydę, Jake (Sean Faris) przeciera oczy na widok posiadłości wartych dziesiątki milionów dolarów i najdroższych samochodów, jakimi rozbijają się jego szkolni koledzy. Dla nich życie jest nieprzerwaną imprezą. W tym środowisku Jack jest outsiderem. Z towarzyskiego niebytu wyrywa go piękna koleżanka z klasy – Baja (Amber Heard). Za jej sprawą chłopak trafi na imprezę, na której zostaje wmanewrowany w walkę z miejscowym zabijaką Ryan'em (Cam Gigandet). Po sromotnej porażce, Jake postanawia szkolić się w sztuce walki znanej jako MMA. Chłopak będzie potrzebował wiele cierpliwości i samodyscypliny, aby w kolejnej walce udowodnić światu ile jest wart.",
+"overviewEn": "Jake, full of anger after his father's death, is just starting to find a place for himself at his new Orlando high school - until Ryan, head of an underground MMA fight club, picks Jake out as a prime opponent. After being trounced by Ryan in front of the entire school, Jake begins training under the firm, moral guidance of a MMA master, where he learns how to fight... and how to avoid a fight. But it becomes obvious that a rematch will be inevitable if Jake wants to stop Ryan and his bullying, once and for all.",
+"popularity": 6.42,
+"title": "Po Prostu Walcz!",
+"titleEn": "Never Back Down",
+"tmdbRating": 6.8,
+"trailerKey": "7X8O-OBJY4g"
+}
+},
+"movie:845781": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+"genres": [
+28,
+12,
+35,
+14
+],
+"imdbId": "tt14948432",
+"kind": "movie",
+"overview": "Kiedy Święty Mikołaj – kryptonim: CZERWONA JEDYNKA – zostaje porwany, szef ochrony bieguna północnego musi podjąć współpracę z owianym najgorszą na świecie sławą łowcą nagród. Ich pełne akcji zadanie zabierze ich w podróż po świecie, a wszystko po to, by uratować Boże Narodzenie.",
+"overviewEn": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+"popularity": 13.91,
+"title": "Czerwona jedynka",
+"titleEn": "Red One",
+"tmdbRating": 6.9,
+"trailerKey": "TlOY5p6jPLA"
+}
+},
 "movie:845783": {
 "at": "2026-11-14T19:55:12.346051+00:00",
 "meta": {
@@ -23140,6 +23474,44 @@
 "trailerKey": "wXj7IRAAGb4"
 }
 },
+"movie:865635": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": null,
+"genres": [
+16
+],
+"imdbId": null,
+"kind": "animation",
+"overview": "Set in the early 1950s, FISHEYE is inspired by the classic suspense thrillers of Alfred Hitchcock with an animated twist. The story is about the line between obsession and madness as an oddball writer is compelled to note down everything his neighbours do, no matter what.",
+"overviewEn": "Set in the early 1950s, FISHEYE is inspired by the classic suspense thrillers of Alfred Hitchcock with an animated twist. The story is about the line between obsession and madness as an oddball writer is compelled to note down everything his neighbours do, no matter what.",
+"popularity": 0.08,
+"title": "Fisheye",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
+"movie:86618": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/ui8aJTuwfdo5XLugTPO6sDqyIhV.jpg",
+"genres": [
+18,
+10752,
+10770
+],
+"imdbId": "tt0116625",
+"kind": "movie",
+"overview": "In the Warsau ghetto of 1943, one man's struggle to keep his family together leads him to the ultimate crisis of faith and one final chance at redemption.",
+"overviewEn": "In the Warsau ghetto of 1943, one man's struggle to keep his family together leads him to the ultimate crisis of faith and one final chance at redemption.",
+"popularity": 0.89,
+"title": "In the Presence of Mine Enemies",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:86825": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -23197,6 +23569,24 @@
 "titleEn": "Cuckoo",
 "tmdbRating": 5.7,
 "trailerKey": "yufRFEtup6w"
+}
+},
+"movie:869637": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": null,
+"genres": [
+18
+],
+"imdbId": null,
+"kind": "movie",
+"overview": "Five teenagers communicate via an online chatroom about their hopes fears and frustrations. One day, Jim enters the chat and opens up about feeling suicidal. From there the group is split into those who want to help and those who want to exploit.",
+"overviewEn": "Five teenagers communicate via an online chatroom about their hopes fears and frustrations. One day, Jim enters the chat and opens up about feeling suicidal. From there the group is split into those who want to help and those who want to exploit.",
+"popularity": 0.16,
+"title": "Chatroom",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": "4lbRoNNN0Ok"
 }
 },
 "movie:8698": {
@@ -23916,6 +24306,25 @@
 "trailerKey": "APUqyhgtCfk"
 }
 },
+"movie:934559": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/n569s8HOGmnISqisZqBMrVxI2ES.jpg",
+"genres": [
+35,
+10749
+],
+"imdbId": "tt17542540",
+"kind": "movie",
+"overview": "Jesse (Brittany Snow) nie tak wyobrażała sobie nadchodzące Święta. Kilka dni przed Bożym Narodzeniem jej chłopak, Shawn (Alex Moffat), oznajmia, że ich związek nie ma przyszłości i muszą się rozstać. Jakby tego było mało, zatroskani rodzice byłego zapraszają ją do siebie na Gwiazdkę. Mimo obaw – wszak może być niezręcznie - Jesse przystaje jednak na osobliwą propozycję i wyrusza do rodzinnego miasteczka Shawna. Oprócz rodziny Campbellów na miejscu zjawia się ktoś jeszcze. Niezapowiedzianą wizytę krewnym składa bowiem David (Justin Long) – czarujący kuzyn Shawna, który od razu wpada kobiecie w oko.",
+"overviewEn": "When Jesse is dumped right before the holidays by her boyfriend, Shawn, his parents convince her to still spend Christmas with them, and Shawn's handsome cousin, while Shawn is away.",
+"popularity": 1.57,
+"title": "Jak nie zwariować w Święta",
+"titleEn": "Christmas with the Campbells",
+"tmdbRating": 5.6,
+"trailerKey": "v3Biau5QEW4"
+}
+},
 "movie:934866": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -23936,7 +24345,7 @@
 }
 },
 "movie:936075": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
 "genres": [
@@ -24388,7 +24797,7 @@
 }
 },
 "movie:964849": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
 "genres": [
@@ -24444,7 +24853,7 @@
 }
 },
 "movie:969681": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
 "genres": [
@@ -24658,6 +25067,26 @@
 "titleEn": "Elemental",
 "tmdbRating": 7.6,
 "trailerKey": "S5B_F8lf5os"
+}
+},
+"movie:976734": {
+"at": "2026-11-15T20:23:02.056756+00:00",
+"meta": {
+"backdropPath": "/5IIFJxwRzmkhczQidIhpoaolpZY.jpg",
+"genres": [
+28,
+53,
+80
+],
+"imdbId": "tt20048582",
+"kind": "movie",
+"overview": "Avery Graves jest szantażowana przez terrorystów, zmuszając ją do zdrady własnego kraju w zamian za uratowanie porwanego męża.",
+"overviewEn": "Top level CIA agent Avery Graves is blackmailed by terrorists into betraying her own country to save her kidnapped husband. Cut off from her team, she turns to her underworld contacts to survive and help locate the coveted intelligence that the kidnappers want.",
+"popularity": 3.28,
+"title": "Niezniszczalna",
+"titleEn": "Canary Black",
+"tmdbRating": 6.2,
+"trailerKey": "tSaw2HTVSsA"
 }
 },
 "movie:978073": {
@@ -24966,7 +25395,7 @@
 }
 },
 "tv:103540": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
 "genres": [
@@ -24987,7 +25416,7 @@
 }
 },
 "tv:105009": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
 "genres": [
@@ -25026,7 +25455,7 @@
 }
 },
 "tv:112745": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/peOoKDVMbXdBMwZd9SeOxtOfCXD.jpg",
 "genres": [
@@ -25045,7 +25474,7 @@
 }
 },
 "tv:114656": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/vKk3womxcGLqOZLiGZ2aXA2PtOV.jpg",
 "genres": [],
@@ -25061,7 +25490,7 @@
 }
 },
 "tv:117488": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
 "genres": [
@@ -25136,7 +25565,7 @@
 }
 },
 "tv:123591": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/znf5Z1LSFYFOsRGClXwclqIhf83.jpg",
 "genres": [
@@ -25176,7 +25605,7 @@
 }
 },
 "tv:125935": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/s3owzvmihtDrunVxB2DyGjn9iJt.jpg",
 "genres": [
@@ -25213,7 +25642,7 @@
 }
 },
 "tv:126824": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/kP7pCxfml6erWC9aB72ALtNawJq.jpg",
 "genres": [
@@ -25234,7 +25663,7 @@
 }
 },
 "tv:12786": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/hYmHyUlJMQgeazELoHnORrEQ0vE.jpg",
 "genres": [
@@ -25253,7 +25682,7 @@
 }
 },
 "tv:128822": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
 "genres": [
@@ -25289,7 +25718,7 @@
 }
 },
 "tv:130853": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/yj8g84iczcJVg3zCxVGpfdEMMxg.jpg",
 "genres": [
@@ -25308,7 +25737,7 @@
 }
 },
 "tv:131488": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
 "genres": [
@@ -25326,7 +25755,7 @@
 }
 },
 "tv:134299": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/yq6lhr7SpjTiOi14nzFYDV9oAdc.jpg",
 "genres": [],
@@ -25360,7 +25789,7 @@
 }
 },
 "tv:137940": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/k2ag5yV3TsmPjQILesOPiQmg8UY.jpg",
 "genres": [
@@ -25396,7 +25825,7 @@
 }
 },
 "tv:139434": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/5iOySYfc1vV8nDvmqWQ0sHk7q2q.jpg",
 "genres": [
@@ -25415,7 +25844,7 @@
 }
 },
 "tv:1416": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
 "genres": [
@@ -25433,7 +25862,7 @@
 }
 },
 "tv:14447": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/jZhbWvp8tNrCA1zTyQQGPh0kabG.jpg",
 "genres": [
@@ -25451,7 +25880,7 @@
 }
 },
 "tv:14750": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
 "genres": [
@@ -25469,7 +25898,7 @@
 }
 },
 "tv:153312": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
 "genres": [
@@ -25489,7 +25918,7 @@
 }
 },
 "tv:154521": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
 "genres": [
@@ -25507,7 +25936,7 @@
 }
 },
 "tv:1549": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/mWIyoSdVQxdr1bA423tObJwJSR.jpg",
 "genres": [
@@ -25543,7 +25972,7 @@
 }
 },
 "tv:157061": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/31XWoLd3AHW6MLy9i2DSbFZOPuH.jpg",
 "genres": [
@@ -25583,7 +26012,7 @@
 }
 },
 "tv:1711": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/d1MtRbMampXOZ7il2dDF6fDTTNU.jpg",
 "genres": [
@@ -25714,7 +26143,7 @@
 }
 },
 "tv:201596": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/zys6h8TehDtnL5YQSldSYlVkNY1.jpg",
 "genres": [
@@ -25771,7 +26200,7 @@
 }
 },
 "tv:205272": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/5Nu95w2oWsbmDeAjG2NJF4x33Ud.jpg",
 "genres": [
@@ -25823,7 +26252,7 @@
 }
 },
 "tv:207347": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
 "genres": [
@@ -25842,7 +26271,7 @@
 }
 },
 "tv:207484": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
 "genres": [
@@ -25880,7 +26309,7 @@
 }
 },
 "tv:208921": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/vPw5Gpg0YEEk1VsE8QlmyTxIJuU.jpg",
 "genres": [
@@ -25898,7 +26327,7 @@
 }
 },
 "tv:210062": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
 "genres": [
@@ -25917,7 +26346,7 @@
 }
 },
 "tv:211288": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
 "genres": [
@@ -25936,7 +26365,7 @@
 }
 },
 "tv:211656": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/lF7A08C7hDC1RbhHPpLMjsS317C.jpg",
 "genres": [
@@ -25954,7 +26383,7 @@
 }
 },
 "tv:212440": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/vwP8lTgiscnRzbaTucRRzXHpy4G.jpg",
 "genres": [
@@ -25973,7 +26402,7 @@
 }
 },
 "tv:213194": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/a4FHdQfPGT1T2w4DYUEGgRMxSgZ.jpg",
 "genres": [
@@ -26029,7 +26458,7 @@
 }
 },
 "tv:214582": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
 "genres": [
@@ -26085,7 +26514,7 @@
 }
 },
 "tv:216467": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/xlMVEbNl7ZBGFyhX2WEhQ8Kifm4.jpg",
 "genres": [
@@ -26143,7 +26572,7 @@
 }
 },
 "tv:218347": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
 "genres": [
@@ -26215,7 +26644,7 @@
 }
 },
 "tv:223397": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/KvlbwzWi5ldhfPFRzOZy67rsKz.jpg",
 "genres": [
@@ -26254,7 +26683,7 @@
 }
 },
 "tv:224330": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/dVo7ITxL3jrMXVsBlqnkJsmVTP8.jpg",
 "genres": [
@@ -26347,7 +26776,7 @@
 }
 },
 "tv:230915": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/qILdlzSLkxFXFHhY50Pa42MyrU7.jpg",
 "genres": [
@@ -26367,7 +26796,7 @@
 }
 },
 "tv:231034": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/m4XRxZu4c0ImDwpRB2vPtsMdypd.jpg",
 "genres": [
@@ -26387,7 +26816,7 @@
 }
 },
 "tv:231082": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/rZNPOAJLqFu1VQsQxZOhHc66PzY.jpg",
 "genres": [
@@ -26405,7 +26834,7 @@
 }
 },
 "tv:231730": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/cHznGpISn6Uxy9EyLel5eX7WrXG.jpg",
 "genres": [
@@ -26423,7 +26852,7 @@
 }
 },
 "tv:231801": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
 "genres": [
@@ -26460,7 +26889,7 @@
 }
 },
 "tv:234310": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
 "genres": [
@@ -26497,7 +26926,7 @@
 }
 },
 "tv:235904": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/tWunElWzuQKWCkJcyXk3QQ3b3i2.jpg",
 "genres": [
@@ -26534,7 +26963,7 @@
 }
 },
 "tv:237241": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": null,
 "genres": [
@@ -26552,7 +26981,7 @@
 }
 },
 "tv:238820": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/jvsQkpUJhv6db9uCB0bZzoDgdPN.jpg",
 "genres": [
@@ -26604,7 +27033,7 @@
 }
 },
 "tv:243875": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/h927CLfeAjiy0MNKRxWZgEq7bHR.jpg",
 "genres": [
@@ -26622,7 +27051,7 @@
 }
 },
 "tv:244447": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
 "genres": [
@@ -26641,7 +27070,7 @@
 }
 },
 "tv:244978": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/5vcVf5hDtnKQVmHj9RSIaVwwvlx.jpg",
 "genres": [
@@ -26661,7 +27090,7 @@
 }
 },
 "tv:245841": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/doIUOsdeCKkRNQxMvV4MKp0uoTT.jpg",
 "genres": [
@@ -26698,7 +27127,7 @@
 }
 },
 "tv:247634": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/csmPiAn5MJ0Y8qPDLCBsPbSADEG.jpg",
 "genres": [
@@ -26716,7 +27145,7 @@
 }
 },
 "tv:247718": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
 "genres": [
@@ -26735,7 +27164,7 @@
 }
 },
 "tv:247769": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/w8L2oVjsSRZdZ1Wcszot9cKZMRO.jpg",
 "genres": [
@@ -26754,7 +27183,7 @@
 }
 },
 "tv:248830": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
 "genres": [
@@ -26773,7 +27202,7 @@
 }
 },
 "tv:249565": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
 "genres": [
@@ -26810,7 +27239,7 @@
 }
 },
 "tv:251842": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/o1ak41zRPYCQ6WCWSsUfuq26jdB.jpg",
 "genres": [
@@ -26828,7 +27257,7 @@
 }
 },
 "tv:253666": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/5EAW4TamNAckZPNBy3ZI6ii7Ng9.jpg",
 "genres": [],
@@ -26844,7 +27273,7 @@
 }
 },
 "tv:253811": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
 "genres": [
@@ -26882,7 +27311,7 @@
 }
 },
 "tv:254514": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/9mDlwBdCu501924dXnzz2Gtc8XI.jpg",
 "genres": [
@@ -26918,7 +27347,7 @@
 }
 },
 "tv:254630": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
 "genres": [
@@ -26938,7 +27367,7 @@
 }
 },
 "tv:255055": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
 "genres": [
@@ -26956,7 +27385,7 @@
 }
 },
 "tv:255570": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
 "genres": [
@@ -26991,7 +27420,7 @@
 }
 },
 "tv:256155": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/1vWeDCMw86QnpAOJgAAqICNastZ.jpg",
 "genres": [
@@ -27011,7 +27440,7 @@
 }
 },
 "tv:256695": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/43Tu4TnFO57R6eK6XUBFGJrazrZ.jpg",
 "genres": [
@@ -27032,7 +27461,7 @@
 }
 },
 "tv:256711": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
 "genres": [
@@ -27090,7 +27519,7 @@
 }
 },
 "tv:258742": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/7t55fTjn0KRqCGPOSXM9RUk0zny.jpg",
 "genres": [
@@ -27127,7 +27556,7 @@
 }
 },
 "tv:259140": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
 "genres": [
@@ -27148,7 +27577,7 @@
 }
 },
 "tv:259909": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
 "genres": [
@@ -27206,7 +27635,7 @@
 }
 },
 "tv:261647": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/wGeYd7lVxOzZsbJV7iipK8298hT.jpg",
 "genres": [
@@ -27226,7 +27655,7 @@
 }
 },
 "tv:262873": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/uovHUzEcCnSNVFAxpmYXgEhgvt4.jpg",
 "genres": [
@@ -27281,7 +27710,7 @@
 }
 },
 "tv:273247": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
 "genres": [
@@ -27320,7 +27749,7 @@
 }
 },
 "tv:2734": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
 "genres": [
@@ -27340,7 +27769,7 @@
 }
 },
 "tv:273801": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/hbWqmgF9NYU2ATBWqvhLnOCeW2V.jpg",
 "genres": [
@@ -27378,7 +27807,7 @@
 }
 },
 "tv:274388": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/tHWW3xDD49UZuoirqzUQT046dWi.jpg",
 "genres": [
@@ -27398,7 +27827,7 @@
 }
 },
 "tv:275139": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/roUD5m2nj6k88azMFsiqBae29cr.jpg",
 "genres": [
@@ -27418,7 +27847,7 @@
 }
 },
 "tv:275204": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/2QsmesFzm5WaP70pRmCbVBzvXDA.jpg",
 "genres": [
@@ -27495,7 +27924,7 @@
 }
 },
 "tv:279246": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
 "genres": [
@@ -27514,7 +27943,7 @@
 }
 },
 "tv:2808": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/gbmN2y9Dqm6XKEev1kd8GkGLLn.jpg",
 "genres": [
@@ -27535,7 +27964,7 @@
 }
 },
 "tv:280880": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/xWTgLbS1HLr2sqwZH9sD6zO16Jj.jpg",
 "genres": [
@@ -27554,7 +27983,7 @@
 }
 },
 "tv:283428": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
 "genres": [
@@ -27591,7 +28020,7 @@
 }
 },
 "tv:284838": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/ubqZEVCDp86myrZwJpyNwocLrce.jpg",
 "genres": [
@@ -27681,7 +28110,7 @@
 }
 },
 "tv:286277": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
 "genres": [
@@ -27736,7 +28165,7 @@
 }
 },
 "tv:289214": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/dpdmbawI8S3ZqFAoByuIp5JRvlC.jpg",
 "genres": [
@@ -27754,7 +28183,7 @@
 }
 },
 "tv:289560": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
 "genres": [
@@ -27773,7 +28202,7 @@
 }
 },
 "tv:290564": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/u33XkP4bARiOCW72AvrQU2MT6ls.jpg",
 "genres": [
@@ -27791,7 +28220,7 @@
 }
 },
 "tv:290856": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
 "genres": [
@@ -27920,7 +28349,7 @@
 }
 },
 "tv:292741": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
 "genres": [
@@ -27940,7 +28369,7 @@
 }
 },
 "tv:293607": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
 "genres": [
@@ -27959,7 +28388,7 @@
 }
 },
 "tv:293610": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
 "genres": [
@@ -27974,7 +28403,7 @@
 "popularity": 66.33,
 "title": "Doctor X",
 "titleEn": "Doctor X: Mafia in White",
-"tmdbRating": 9.0,
+"tmdbRating": 8.9,
 "trailerKey": "v6KNnhkLnnY"
 }
 },
@@ -28013,7 +28442,7 @@
 }
 },
 "tv:294637": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/mWzn4Mg7FbuDMg7CKR88dKlWAwg.jpg",
 "genres": [
@@ -28032,7 +28461,7 @@
 }
 },
 "tv:295778": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
 "genres": [
@@ -28087,7 +28516,7 @@
 }
 },
 "tv:302030": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/9fCnUBYHIuB6I5LtU3a2y6BGlSP.jpg",
 "genres": [
@@ -28124,7 +28553,7 @@
 }
 },
 "tv:303182": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
 "genres": [
@@ -28163,7 +28592,7 @@
 }
 },
 "tv:303745": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
 "genres": [
@@ -28184,7 +28613,7 @@
 }
 },
 "tv:305245": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/bbCCaAlzJkCv8C8AFr8l1rBWJyt.jpg",
 "genres": [
@@ -28220,7 +28649,7 @@
 }
 },
 "tv:305551": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
 "genres": [
@@ -28239,7 +28668,7 @@
 }
 },
 "tv:306179": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/1csFLrwh28PrWyWyeUXzgyt4930.jpg",
 "genres": [
@@ -28257,7 +28686,7 @@
 }
 },
 "tv:306553": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/viuBeQoE8JMsYmuf4S7350UoM5c.jpg",
 "genres": [
@@ -28275,7 +28704,7 @@
 }
 },
 "tv:307478": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
 "genres": [
@@ -28295,7 +28724,7 @@
 }
 },
 "tv:310133": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
 "genres": [
@@ -28314,7 +28743,7 @@
 }
 },
 "tv:311955": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/iWeUBHcVZANmKptWXAwm7BG2q5K.jpg",
 "genres": [
@@ -28350,7 +28779,7 @@
 }
 },
 "tv:312359": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
 "genres": [
@@ -28370,7 +28799,7 @@
 }
 },
 "tv:312661": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
 "genres": [
@@ -28388,7 +28817,7 @@
 }
 },
 "tv:312758": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/tLTveaFz0o4IddqJyKlPGSEhnpM.jpg",
 "genres": [
@@ -28427,7 +28856,7 @@
 }
 },
 "tv:314360": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
 "genres": [
@@ -28520,7 +28949,7 @@
 }
 },
 "tv:316702": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
 "genres": [
@@ -28538,7 +28967,7 @@
 }
 },
 "tv:31991": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/2ugy3IP3yvdRdEepHDOml82TKFT.jpg",
 "genres": [
@@ -28595,7 +29024,7 @@
 }
 },
 "tv:320507": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/ztlemjhfgbj6wtYosghkUjBOj8o.jpg",
 "genres": [
@@ -28613,7 +29042,7 @@
 }
 },
 "tv:320935": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/82F7t5uoI9eYb6RyZvO6USNgcqF.jpg",
 "genres": [
@@ -28632,7 +29061,7 @@
 }
 },
 "tv:320936": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg",
 "genres": [
@@ -28651,7 +29080,7 @@
 }
 },
 "tv:321421": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/9BTe8tU3OSA29Gn5487bVEGK44b.jpg",
 "genres": [
@@ -28725,7 +29154,7 @@
 }
 },
 "tv:323480": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/huFDzC269NUTrnXQCItNxNZv288.jpg",
 "genres": [
@@ -28747,7 +29176,7 @@
 }
 },
 "tv:323660": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/2JECUzaIiv8EIm2kKSLdkFk1tf9.jpg",
 "genres": [
@@ -28765,7 +29194,7 @@
 }
 },
 "tv:324326": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
 "genres": [
@@ -28785,7 +29214,7 @@
 }
 },
 "tv:325762": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/b86uanEjgbU12B0hbN81dXmIU5C.jpg",
 "genres": [
@@ -28804,7 +29233,7 @@
 }
 },
 "tv:328010": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/fA6eLsm6xEBK90IK3UNWoVPZBn7.jpg",
 "genres": [
@@ -28840,7 +29269,7 @@
 }
 },
 "tv:329490": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/blB4qv0LlOUriouoPqkFJlLe6Ki.jpg",
 "genres": [
@@ -28874,7 +29303,7 @@
 }
 },
 "tv:33101": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/smbz1w5ehquV8zDaVvgtwJpVI7.jpg",
 "genres": [
@@ -28892,7 +29321,7 @@
 }
 },
 "tv:332261": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/7xTvFsxac5k3xIH0cTOkNsEDcm1.jpg",
 "genres": [
@@ -28911,7 +29340,7 @@
 }
 },
 "tv:332649": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/uNk5pCHUNgxGoe4bJuMYjAAuKFf.jpg",
 "genres": [
@@ -28930,7 +29359,7 @@
 }
 },
 "tv:332683": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/cKM4DnFGFRrQghqLK9uzPEcEkWD.jpg",
 "genres": [
@@ -28948,7 +29377,7 @@
 }
 },
 "tv:332713": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
 "genres": [
@@ -28966,7 +29395,7 @@
 }
 },
 "tv:333400": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/gg06gfnRxgYiE6bfNdha4BXf0Qz.jpg",
 "genres": [
@@ -29002,7 +29431,7 @@
 }
 },
 "tv:334208": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/bL5ctzA2StPIiyzv32MGCbcal5F.jpg",
 "genres": [
@@ -29074,7 +29503,7 @@
 }
 },
 "tv:334887": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
 "genres": [
@@ -29092,7 +29521,7 @@
 }
 },
 "tv:335594": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/2QV4gUm3obKZD60i8XmIORk9k1o.jpg",
 "genres": [
@@ -29110,7 +29539,7 @@
 }
 },
 "tv:33587": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/njOnS6rOVtOECsoCtZjYBEcd28p.jpg",
 "genres": [
@@ -29167,7 +29596,7 @@
 }
 },
 "tv:337370": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/h0wTEyEJaPT8Gf1YSrJt8FFSUAZ.jpg",
 "genres": [
@@ -29186,7 +29615,7 @@
 }
 },
 "tv:337373": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/n5hMYGvfvPSXfrZsBsjzQoIPalr.jpg",
 "genres": [
@@ -29204,7 +29633,7 @@
 }
 },
 "tv:337374": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/kyZo0aSPbZXtyP8BfDhoVCkfDxO.jpg",
 "genres": [
@@ -29223,7 +29652,7 @@
 }
 },
 "tv:338292": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/5Wp70btcm3zuVyrv1lMqzW8r6NO.jpg",
 "genres": [
@@ -29241,7 +29670,7 @@
 }
 },
 "tv:338411": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/aBKeOs4TEGlYk4YnuX48MEkADa6.jpg",
 "genres": [
@@ -29312,7 +29741,7 @@
 }
 },
 "tv:339697": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/r5ecc4Wjejsp6B507GdZXOPTNMo.jpg",
 "genres": [
@@ -29367,7 +29796,7 @@
 }
 },
 "tv:34045": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/bpD0l55NTyHzIGX0QdTdogTk1ro.jpg",
 "genres": [
@@ -29387,7 +29816,7 @@
 }
 },
 "tv:340728": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/uzPfZrkwHvJ8g7Jxhxwg4hiKkql.jpg",
 "genres": [
@@ -29421,7 +29850,7 @@
 }
 },
 "tv:341027": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/4pEekXslUec02y6zo9Y0IxvF6PA.jpg",
 "genres": [
@@ -29542,7 +29971,7 @@
 }
 },
 "tv:341603": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg",
 "genres": [
@@ -29611,7 +30040,7 @@
 }
 },
 "tv:341950": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/lE116QoDQZTAVsRvSafIJtYnqDG.jpg",
 "genres": [
@@ -29650,7 +30079,7 @@
 }
 },
 "tv:34634": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
 "genres": [
@@ -29668,7 +30097,7 @@
 }
 },
 "tv:36576": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/k1CVpoBglraB3R7EKcyyXEDuNlh.jpg",
 "genres": [
@@ -29688,7 +30117,7 @@
 }
 },
 "tv:387": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
 "genres": [
@@ -29746,7 +30175,7 @@
 }
 },
 "tv:41956": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",
 "genres": [
@@ -29806,7 +30235,7 @@
 }
 },
 "tv:44006": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
 "genres": [
@@ -29824,7 +30253,7 @@
 }
 },
 "tv:44996": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/FEh9W3KUDFo1RmvDUNqPqE2mxq.jpg",
 "genres": [
@@ -29842,7 +30271,7 @@
 }
 },
 "tv:45099": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/bWLi7MqbA2iTcAUNb83o56mxQze.jpg",
 "genres": [
@@ -29860,7 +30289,7 @@
 }
 },
 "tv:456": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
 "genres": [
@@ -29879,7 +30308,7 @@
 }
 },
 "tv:45790": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
 "genres": [
@@ -29899,7 +30328,7 @@
 }
 },
 "tv:4614": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/rHKRZCBpDFSNc45kzyf665LJYp3.jpg",
 "genres": [
@@ -29937,7 +30366,7 @@
 }
 },
 "tv:4656": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
 "genres": [
@@ -29975,7 +30404,7 @@
 }
 },
 "tv:46923": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
 "genres": [
@@ -30015,7 +30444,7 @@
 }
 },
 "tv:48175": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/dlbfhHqBIPtqnQ09Rc2GPfaivn3.jpg",
 "genres": [
@@ -30086,7 +30515,7 @@
 }
 },
 "tv:49394": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/wYGqCZuBdYeL7OLQTDxVA1AnuUl.jpg",
 "genres": [
@@ -30142,7 +30571,7 @@
 }
 },
 "tv:549": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
 "genres": [
@@ -30161,7 +30590,7 @@
 }
 },
 "tv:55808": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/mmRm55pCBRUmWGscuLncdfcVmGm.jpg",
 "genres": [
@@ -30199,7 +30628,7 @@
 }
 },
 "tv:58841": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/18KSsDgcGQds7yOMC6MVRTbVJwt.jpg",
 "genres": [
@@ -30218,7 +30647,7 @@
 }
 },
 "tv:60694": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/q31EEBycbOyX7GGJP4GTPI5WJRO.jpg",
 "genres": [
@@ -30258,7 +30687,7 @@
 }
 },
 "tv:62650": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/fFgVoJuSBewZWlzgaoUWGm8MvD4.jpg",
 "genres": [
@@ -30331,7 +30760,7 @@
 }
 },
 "tv:65334": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
 "genres": [
@@ -30430,7 +30859,7 @@
 }
 },
 "tv:72482": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/wOEbMvVfcvMGevu3snwSSL2J8qv.jpg",
 "genres": [
@@ -30450,7 +30879,7 @@
 }
 },
 "tv:73758": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/psHBCVewTbNTvgvCiV5GruZ51V9.jpg",
 "genres": [
@@ -30486,7 +30915,7 @@
 }
 },
 "tv:74274": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/rhZFMS8iGbNX0yQVU4MpZFdg1Xs.jpg",
 "genres": [
@@ -30525,7 +30954,7 @@
 }
 },
 "tv:75219": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/5QJtEzMR7NxRxBBEdB7JfM1l7Oj.jpg",
 "genres": [
@@ -30545,7 +30974,7 @@
 }
 },
 "tv:76168": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/ohuV85PKdBed6aF1wgLE2qYzEjp.jpg",
 "genres": [],
@@ -30620,7 +31049,7 @@
 }
 },
 "tv:80587": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/vVGmv5mle6lCrgnx8lNv5Q1vZPw.jpg",
 "genres": [
@@ -30640,7 +31069,7 @@
 }
 },
 "tv:80748": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/j9nU0GHNakbQhoFCDE61OrvMjTC.jpg",
 "genres": [
@@ -30660,7 +31089,7 @@
 }
 },
 "tv:81723": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/afUVsProh46h31w2EvL7qyHXrqj.jpg",
 "genres": [
@@ -30678,7 +31107,7 @@
 }
 },
 "tv:83524": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/uvbiwdJ2Ja27O4G3kUOS0Uk7N5C.jpg",
 "genres": [
@@ -30714,9 +31143,9 @@
 }
 },
 "tv:84773": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
-"backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+"backdropPath": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
 "genres": [
 10759,
 10765
@@ -30733,7 +31162,7 @@
 }
 },
 "tv:85077": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
 "genres": [
@@ -30790,7 +31219,7 @@
 }
 },
 "tv:89341": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/8y1K2Q2YvikLiIgH6whgwzbviK4.jpg",
 "genres": [
@@ -30809,7 +31238,7 @@
 }
 },
 "tv:90046": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/9jmxvWOt5xTjrJ03FNmViZCuZ5f.jpg",
 "genres": [
@@ -30827,7 +31256,7 @@
 }
 },
 "tv:90439": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/dO6cCpjcYd4HVBwMZT6cbT0Flfo.jpg",
 "genres": [
@@ -30846,7 +31275,7 @@
 }
 },
 "tv:93449": {
-"at": "2026-11-15T12:43:14.285584+00:00",
+"at": "2026-11-15T20:23:02.056756+00:00",
 "meta": {
 "backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
 "genres": [
