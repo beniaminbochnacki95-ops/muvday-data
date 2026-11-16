@@ -174,6 +174,42 @@
 "tmdbId": 1050981,
 "trailerKey": "CQp2pUXLvJk"
 },
+"appletv:movie:1085726:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1085726:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "A genius with no money, no job and no street smarts...And that's the least of his problems.",
+"overviewEn": "A genius with no money, no job and no street smarts...And that's the least of his problems.",
+"popularity": 0.17,
+"ratings": {
+"imdb": 3.3,
+"imdbVotes": 47
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "I Got Problemz",
+"titleEn": null,
+"tmdbId": 1085726,
+"trailerKey": null
+},
 "appletv:movie:1098336:free": {
 "access": "free",
 "backdropPath": "/22KEJR6bnGbUX9edOOyDXYDtuqs.jpg",
@@ -472,6 +508,44 @@
 "titleEn": null,
 "tmdbId": 1155324,
 "trailerKey": "bC5WoBWImTI"
+},
+"appletv:movie:1160020:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1160020:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Three former college buddies who reunite for a backpacking trip on Mount Shasta to heal old wounds and improve their mental health. The weekend descends into madness and a quest for alien contact after one of them introduces hallucinogens into the mix.",
+"overviewEn": "Three former college buddies who reunite for a backpacking trip on Mount Shasta to heal old wounds and improve their mental health. The weekend descends into madness and a quest for alien contact after one of them introduces hallucinogens into the mix.",
+"popularity": 0.81,
+"ratings": {
+"imdb": 9.2,
+"imdbVotes": 71
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "The Lemurian Candidate",
+"titleEn": null,
+"tmdbId": 1160020,
+"trailerKey": "U_5pbW5htv0"
 },
 "appletv:movie:1187326:paid": {
 "access": "paid",
@@ -1126,7 +1200,7 @@
 "appletv:movie:1273221:paid": {
 "access": "paid",
 "backdropPath": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -1154,7 +1228,7 @@
 },
 "serviceKey": "appletv",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Straszny film",
 "titleEn": "Scary Movie",
 "tmdbId": 1273221,
@@ -1422,6 +1496,44 @@
 "titleEn": null,
 "tmdbId": 1320422,
 "trailerKey": "OT7lsU7FbEk"
+},
+"appletv:movie:1323625:sub": {
+"access": "sub",
+"backdropPath": "/vHvVt2Lovn4G6of9u3pHEQE2CxI.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1323625:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Policjant z Los Angeles odkrywa, że ​​lokalna grupa specjalna skrywa tajemnicę, która naraża na niebezpieczeństwo mieszkańców dzielnicy, w której dorastał.",
+"overviewEn": "An L.A. cop discovers a local task force is hiding a secret that puts the residents of his childhood neighborhood in danger.",
+"popularity": 2.88,
+"ratings": {
+"imdb": 4.3,
+"imdbVotes": 3716,
+"tmdb": 5.0
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Nocny Patrol",
+"titleEn": "Night Patrol",
+"tmdbId": 1323625,
+"trailerKey": "8J_pMGZScB8"
 },
 "appletv:movie:1339713:paid": {
 "access": "paid",
@@ -1801,8 +1913,8 @@
 "appletv:movie:1433367:paid": {
 "access": "paid",
 "backdropPath": "/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-"confirmedAt": "2026-11-12T13:44:28Z",
-"date": "2026-11-13",
+"confirmedAt": null,
+"date": "2026-12-04",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "appletv:movie:1433367:paid",
@@ -1830,7 +1942,7 @@
 },
 "serviceKey": "appletv",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Tylko jedna noc",
 "titleEn": "One Night Only",
 "tmdbId": 1433367,
@@ -2127,6 +2239,78 @@
 "titleEn": null,
 "tmdbId": 1518725,
 "trailerKey": null
+},
+"appletv:movie:1533222:paid": {
+"access": "paid",
+"backdropPath": "/yWMnvMUiWlN1bbP4Em1psNjhyXd.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1533222:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy bezrobotny reporter zostaje zahipnotyzowany w ramach regresji do poprzedniego życia, budzi się nie ze wspomnieniami życia jako członek rodziny królewskiej czy inna atrakcyjna osoba, lecz zaczynają go prześladować wspomnienia seryjnego mordercy.",
+"overviewEn": "When an unemployed reporter is hypnotized as part of a past life regression event, he wakes not with memories of life as royalty or some other glamorous person, but instead finds himself haunted by the memories of a serial killer.",
+"popularity": 0.93,
+"ratings": {
+"imdb": 4.6,
+"imdbVotes": 233
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Poprzednie wcielenie",
+"titleEn": "Past Life",
+"tmdbId": 1533222,
+"trailerKey": "-BXM3z0CGQ4"
+},
+"appletv:movie:1533222:sub": {
+"access": "sub",
+"backdropPath": "/yWMnvMUiWlN1bbP4Em1psNjhyXd.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1533222:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy bezrobotny reporter zostaje zahipnotyzowany w ramach regresji do poprzedniego życia, budzi się nie ze wspomnieniami życia jako członek rodziny królewskiej czy inna atrakcyjna osoba, lecz zaczynają go prześladować wspomnienia seryjnego mordercy.",
+"overviewEn": "When an unemployed reporter is hypnotized as part of a past life regression event, he wakes not with memories of life as royalty or some other glamorous person, but instead finds himself haunted by the memories of a serial killer.",
+"popularity": 0.93,
+"ratings": {
+"imdb": 4.6,
+"imdbVotes": 233
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Poprzednie wcielenie",
+"titleEn": "Past Life",
+"tmdbId": 1533222,
+"trailerKey": "-BXM3z0CGQ4"
 },
 "appletv:movie:1535413:paid": {
 "access": "paid",
@@ -2552,6 +2736,78 @@
 "tmdbId": 1607711,
 "trailerKey": null
 },
+"appletv:movie:1629367:free": {
+"access": "free",
+"backdropPath": "/3Ml4LmoZLxAE2ns359A1KuYavEw.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1629367:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "When the World Cup landed in the U.S. in 1994, it arrived in a country with no league, no culture, and no clue. A ragtag group of players faced an impossible task: don't embarrass their nation in front of the entire world.",
+"overviewEn": "When the World Cup landed in the U.S. in 1994, it arrived in a country with no league, no culture, and no clue. A ragtag group of players faced an impossible task: don't embarrass their nation in front of the entire world.",
+"popularity": 0.69,
+"ratings": {
+"imdb": 8.2,
+"imdbVotes": 61
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Summer of '94",
+"titleEn": null,
+"tmdbId": 1629367,
+"trailerKey": null
+},
+"appletv:movie:1629367:paid": {
+"access": "paid",
+"backdropPath": "/3Ml4LmoZLxAE2ns359A1KuYavEw.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1629367:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "When the World Cup landed in the U.S. in 1994, it arrived in a country with no league, no culture, and no clue. A ragtag group of players faced an impossible task: don't embarrass their nation in front of the entire world.",
+"overviewEn": "When the World Cup landed in the U.S. in 1994, it arrived in a country with no league, no culture, and no clue. A ragtag group of players faced an impossible task: don't embarrass their nation in front of the entire world.",
+"popularity": 0.69,
+"ratings": {
+"imdb": 8.2,
+"imdbVotes": 61
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Summer of '94",
+"titleEn": null,
+"tmdbId": 1629367,
+"trailerKey": null
+},
 "appletv:movie:1637617:paid": {
 "access": "paid",
 "backdropPath": null,
@@ -2584,6 +2840,42 @@
 "titleEn": null,
 "tmdbId": 1637617,
 "trailerKey": null
+},
+"appletv:movie:1650789:paid": {
+"access": "paid",
+"backdropPath": "/3BALVpCd2bDbKPhQLhydZPEX9AH.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1650789:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The Story of Everything is a cinematic exploration of the cosmos that reveals the hidden hand behind our universe. From the precise laws that govern the stars to the intricate patterns found in every living cell, the film traces evidence of intentional design throughout nature. Whether examining distant star-forming clouds or the spiral structure of DNA, we discover a consistent signature woven into the fabric of existence.",
+"overviewEn": "The Story of Everything is a cinematic exploration of the cosmos that reveals the hidden hand behind our universe. From the precise laws that govern the stars to the intricate patterns found in every living cell, the film traces evidence of intentional design throughout nature. Whether examining distant star-forming clouds or the spiral structure of DNA, we discover a consistent signature woven into the fabric of existence.",
+"popularity": 1.48,
+"ratings": {
+"imdb": 5.6,
+"imdbVotes": 651
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "The Story of Everything",
+"titleEn": null,
+"tmdbId": 1650789,
+"trailerKey": "pwL3ZKlwEoc"
 },
 "appletv:movie:16535:sub": {
 "access": "sub",
@@ -2658,6 +2950,44 @@
 "titleEn": null,
 "tmdbId": 1662787,
 "trailerKey": "wpCtjtpb7Lc"
+},
+"appletv:movie:1700532:paid": {
+"access": "paid",
+"backdropPath": "/gKjnvovCZr38HhXfSMLVKh5uNeF.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1700532:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+36,
+99,
+10752
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The B-17 Flying Fortress became an icon of American air power in World War II, but its legacy is written by the stories of the crews who flew it. Today, of the more than 100,000 veterans who flew on board of B-17 bombers during the war, there are only a handful remaining-but through years of searching, a few of the final survivors were brought together to tell this story one more time.",
+"overviewEn": "The B-17 Flying Fortress became an icon of American air power in World War II, but its legacy is written by the stories of the crews who flew it. Today, of the more than 100,000 veterans who flew on board of B-17 bombers during the war, there are only a handful remaining-but through years of searching, a few of the final survivors were brought together to tell this story one more time.",
+"popularity": 0.55,
+"ratings": {
+"imdb": 9.7,
+"imdbVotes": 80
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "10 Good Men",
+"titleEn": null,
+"tmdbId": 1700532,
+"trailerKey": null
 },
 "appletv:movie:1711787:paid": {
 "access": "paid",
@@ -2988,8 +3318,8 @@
 "appletv:movie:1780407:sub": {
 "access": "sub",
 "backdropPath": "/a3DzS9AUB6AgYiELaeTn2n8EfNz.jpg",
-"confirmedAt": "2026-11-16T13:36:17Z",
-"date": "2026-11-13",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "appletv:movie:1780407:sub",
@@ -3006,7 +3336,7 @@
 "season": null,
 "withAds": false
 },
-"origin": "schedule",
+"origin": "diff",
 "overview": "Snoopy stara się być jak najmilszy i robi wszystko, co może, aby Mikołaj usunął go z listy niegrzecznych.",
 "overviewEn": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
 "popularity": 33.21,
@@ -3129,6 +3459,111 @@
 "titleEn": null,
 "tmdbId": 1800532,
 "trailerKey": null
+},
+"appletv:movie:1808393:free": {
+"access": "free",
+"backdropPath": "/aDtEhFObnUnwdjdlSOZ5lTQAIE1.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1808393:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "They wear our faces, shape our destiny, and have waited through the ages for the perfect moment to rise, igniting a spiritual battle for our future.",
+"overviewEn": "They wear our faces, shape our destiny, and have waited through the ages for the perfect moment to rise, igniting a spiritual battle for our future.",
+"popularity": 0.67,
+"ratings": {
+"imdb": 2.7,
+"imdbVotes": 42
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Reptilians: They Walk Among Us",
+"titleEn": null,
+"tmdbId": 1808393,
+"trailerKey": "X3Xti5gsnZ4"
+},
+"appletv:movie:1808393:paid": {
+"access": "paid",
+"backdropPath": "/aDtEhFObnUnwdjdlSOZ5lTQAIE1.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1808393:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "They wear our faces, shape our destiny, and have waited through the ages for the perfect moment to rise, igniting a spiritual battle for our future.",
+"overviewEn": "They wear our faces, shape our destiny, and have waited through the ages for the perfect moment to rise, igniting a spiritual battle for our future.",
+"popularity": 0.67,
+"ratings": {
+"imdb": 2.7,
+"imdbVotes": 42
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Reptilians: They Walk Among Us",
+"titleEn": null,
+"tmdbId": 1808393,
+"trailerKey": "X3Xti5gsnZ4"
+},
+"appletv:movie:1808411:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1808411:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "A cinematic journey into the overlooked miracles of everyday existence.",
+"overviewEn": "A cinematic journey into the overlooked miracles of everyday existence.",
+"popularity": 0.57,
+"ratings": null,
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Magic in the Mundane",
+"titleEn": null,
+"tmdbId": 1808411,
+"trailerKey": "MDP8gLEJY2s"
 },
 "appletv:movie:1814761:paid": {
 "access": "paid",
@@ -3570,6 +4005,78 @@
 "title": "Der letzte Dalai Lama",
 "titleEn": null,
 "tmdbId": 1822282,
+"trailerKey": null
+},
+"appletv:movie:1825319:free": {
+"access": "free",
+"backdropPath": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1825319:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The misadventures of an Indian film director as he attempts to make the leap from Bollywood to Hollywood.",
+"overviewEn": "The misadventures of an Indian film director as he attempts to make the leap from Bollywood to Hollywood.",
+"popularity": 0.03,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 58
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Flim: The Movie",
+"titleEn": null,
+"tmdbId": 1825319,
+"trailerKey": null
+},
+"appletv:movie:1825319:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1825319:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "The misadventures of an Indian film director as he attempts to make the leap from Bollywood to Hollywood.",
+"overviewEn": "The misadventures of an Indian film director as he attempts to make the leap from Bollywood to Hollywood.",
+"popularity": 0.03,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 58
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Flim: The Movie",
+"titleEn": null,
+"tmdbId": 1825319,
 "trailerKey": null
 },
 "appletv:movie:1832:sub": {
@@ -4710,6 +5217,80 @@
 "tmdbId": 467649,
 "trailerKey": "NrnyxMdIOpU"
 },
+"appletv:movie:506730:free": {
+"access": "free",
+"backdropPath": "/xwWFDp16kVc7mDS09qYqEne5WJi.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:506730:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Neat is a documentary that dives into the rich and storied world of bourbon. Exploring its colorful history, charismatic characters, and uniquely American process, the film is a celebration of the time, artistry, and relationships that make for America's only native spirit.",
+"overviewEn": "Neat is a documentary that dives into the rich and storied world of bourbon. Exploring its colorful history, charismatic characters, and uniquely American process, the film is a celebration of the time, artistry, and relationships that make for America's only native spirit.",
+"popularity": 0.66,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 873,
+"tmdb": 7.1
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Neat: The Story of Bourbon",
+"titleEn": null,
+"tmdbId": 506730,
+"trailerKey": "FJHBLEaNZ3c"
+},
+"appletv:movie:506730:paid": {
+"access": "paid",
+"backdropPath": "/xwWFDp16kVc7mDS09qYqEne5WJi.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:506730:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Neat is a documentary that dives into the rich and storied world of bourbon. Exploring its colorful history, charismatic characters, and uniquely American process, the film is a celebration of the time, artistry, and relationships that make for America's only native spirit.",
+"overviewEn": "Neat is a documentary that dives into the rich and storied world of bourbon. Exploring its colorful history, charismatic characters, and uniquely American process, the film is a celebration of the time, artistry, and relationships that make for America's only native spirit.",
+"popularity": 0.66,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 873,
+"tmdb": 7.1
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Neat: The Story of Bourbon",
+"titleEn": null,
+"tmdbId": 506730,
+"trailerKey": "FJHBLEaNZ3c"
+},
 "appletv:movie:508791:free": {
 "access": "free",
 "backdropPath": "/3CFuFIwtSSQU4Fyd5NnmHnNZq9w.jpg",
@@ -5344,6 +5925,43 @@
 "titleEn": null,
 "tmdbId": 649657,
 "trailerKey": null
+},
+"appletv:movie:651439:paid": {
+"access": "paid",
+"backdropPath": "/vz87lGC5PS0LkSMNbDYgHssuiAJ.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:651439:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "When a mysterious planet appears in the sky, a young father must choose between the life he loves and an ancient call to save the world.",
+"overviewEn": "When a mysterious planet appears in the sky, a young father must choose between the life he loves and an ancient call to save the world.",
+"popularity": 0.82,
+"ratings": {
+"imdb": 5.8,
+"imdbVotes": 217
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Saturn",
+"titleEn": null,
+"tmdbId": 651439,
+"trailerKey": "6l5MV-hT2q0"
 },
 "appletv:movie:667538:sub": {
 "access": "sub",
@@ -6026,8 +6644,8 @@
 "appletv:movie:969681:paid": {
 "access": "paid",
 "backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-"confirmedAt": "2026-11-13T13:04:20Z",
-"date": "2026-11-13",
+"confirmedAt": null,
+"date": "2026-11-26",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "appletv:movie:969681:paid",
@@ -6056,7 +6674,7 @@
 },
 "serviceKey": "appletv",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Spider-Man: Całkiem nowy dzień",
 "titleEn": "Spider-Man: Brand New Day",
 "tmdbId": 969681,
@@ -6180,6 +6798,44 @@
 "allEpisodes": false,
 "episodeFrom": 1,
 "episodeTo": 1,
+"genres": [
+35,
+80
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Były detektyw, a obecnie kontroler w branży gastronomicznej na południowej Florydzie zostaje wciągnięty w świat pełen chciwości i korupcji, gdy turysta znajduje odcięte ramię podczas wędkowania. Pojawia się też małpa.",
+"overviewEn": "A detective turned restaurant inspector in Southern Florida is pulled into a world of greed and corruption after a tourist finds a severed arm while fishing. And yes, there's a monkey.",
+"popularity": 15.3,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 31123,
+"tmdb": 7.2
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "announced",
+"title": "Małpi biznes",
+"titleEn": "Bad Monkey",
+"tmdbId": 130853,
+"trailerKey": "cXdNTiQBdlI"
+},
+"appletv:tv:130853:s2e2:sub": {
+"access": "sub",
+"backdropPath": "/yj8g84iczcJVg3zCxVGpfdEMMxg.jpg",
+"confirmedAt": null,
+"date": "2026-12-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:tv:130853:s2e2:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 2,
+"episodeTo": 2,
 "genres": [
 35,
 80
@@ -6512,7 +7168,7 @@
 "appletv:tv:248830:s2e4:sub": {
 "access": "sub",
 "backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -6541,7 +7197,7 @@
 },
 "serviceKey": "appletv",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Mistrz kija",
 "titleEn": "Stick",
 "tmdbId": 248830,
@@ -6598,6 +7254,44 @@
 "allEpisodes": false,
 "episodeFrom": 6,
 "episodeTo": 6,
+"genres": [
+35,
+18
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Pryce Cahill zmierzał ku golfowej wielkości, gdy załamanie nerwowe na polu golfowym zakończyło jego karierę. Teraz, walcząc o utrzymanie się na powierzchni, poświęca się całkowicie, by zostać mentorem Santiego, nastoletniego golfisty o ogromnym potencjale, i może przy tym uratować samego siebie.",
+"overviewEn": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
+"popularity": 46.97,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 21523,
+"tmdb": 7.3
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "announced",
+"title": "Mistrz kija",
+"titleEn": "Stick",
+"tmdbId": 248830,
+"trailerKey": "72oB_zVF_6o"
+},
+"appletv:tv:248830:s2e7:sub": {
+"access": "sub",
+"backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
+"confirmedAt": null,
+"date": "2026-12-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:tv:248830:s2e7:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 7,
+"episodeTo": 7,
 "genres": [
 35,
 18
@@ -6959,7 +7653,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 4024,
-"tmdb": 7.5
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -6998,7 +7692,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 4024,
-"tmdb": 7.5
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -7037,7 +7731,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 4024,
-"tmdb": 7.5
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -7076,7 +7770,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 4024,
-"tmdb": 7.5
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -7115,7 +7809,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 4024,
-"tmdb": 7.5
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -10162,6 +10856,43 @@
 "tmdbId": 1101383,
 "trailerKey": "u4tgctWuHc0"
 },
+"canalplus:movie:1101412:paid": {
+"access": "paid",
+"backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-14",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1101412:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Przyjaciółki Grace Caroline Currey i Virginia Gardner ponownie wcielają się w swoje role. Ich umiejętności wspinaczkowe i determinacja do przetrwania zostają wystawione na próbę w ryzykownych sytuacjach na szczycie pustej, 600-metrowej wieży radiowej.\r Przytłoczona śmiercią siostry Hunter, Jax (Slater) nawiązuje kontakt z Luce (Thomas), nieustraszoną przyjaciółką Hunter. Aby się zregenerować, próbują pokonać słynną trasę po desce na górze Kwan w Tajlandii. Po nagłym osuwisku, który pozostawia ich na kruchej desce 900 metrów nad ziemią, Jax musi zmierzyć się ze swoimi najgłębszymi lękami i walczyć o przetrwanie, by znaleźć ukojenie.",
+"overviewEn": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+"popularity": 130.29,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 15417,
+"tmdb": 7.2
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Nie patrz w dół 2",
+"titleEn": "Fall 2: Deadpoint",
+"tmdbId": 1101412,
+"trailerKey": "Krs0VDIjhmE"
+},
 "canalplus:movie:1101412:sub": {
 "access": "sub",
 "backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
@@ -10185,11 +10916,11 @@
 "origin": "diff",
 "overview": "Przyjaciółki Grace Caroline Currey i Virginia Gardner ponownie wcielają się w swoje role. Ich umiejętności wspinaczkowe i determinacja do przetrwania zostają wystawione na próbę w ryzykownych sytuacjach na szczycie pustej, 600-metrowej wieży radiowej.\r Przytłoczona śmiercią siostry Hunter, Jax (Slater) nawiązuje kontakt z Luce (Thomas), nieustraszoną przyjaciółką Hunter. Aby się zregenerować, próbują pokonać słynną trasę po desce na górze Kwan w Tajlandii. Po nagłym osuwisku, który pozostawia ich na kruchej desce 900 metrów nad ziemią, Jax musi zmierzyć się ze swoimi najgłębszymi lękami i walczyć o przetrwanie, by znaleźć ukojenie.",
 "overviewEn": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-"popularity": 177.99,
+"popularity": 130.29,
 "ratings": {
 "imdb": 5.3,
 "imdbVotes": 15417,
-"tmdb": 7.3
+"tmdb": 7.2
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
@@ -13196,6 +13927,39 @@
 "tmdbId": 1206089,
 "trailerKey": "2slDG_4cGkU"
 },
+"canalplus:movie:1207069:paid": {
+"access": "paid",
+"backdropPath": "/oa8Dib6ah4myeFS6T6woF4kUMLA.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1207069:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Skutkiem ubocznym eksploracji kosmosu są śmieci krążące wokół Ziemi. Fragmenty zużytych rakiet stanowią zagrożenie dla satelitów, misji załogowych i systemów komunikacyjnych.",
+"overviewEn": "Today, hundreds of kilometers above our heads, millions of pieces of trash are orbiting randomly at breakneck speed. Scientists are now warning that, if nothing is done, the exploration outside our planet, and communications systems within, will be almost impossible within 30 years. How can we collect the space trash and avoid future disasters?",
+"popularity": 0.38,
+"ratings": null,
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Śmieci na orbicie",
+"titleEn": "Space Trash",
+"tmdbId": 1207069,
+"trailerKey": null
+},
 "canalplus:movie:1207447:sub": {
 "access": "sub",
 "backdropPath": "/sevQ8HksPZY5VbKdS90fVA659lj.jpg",
@@ -15845,7 +16609,7 @@
 "canalplus:movie:1273221:paid": {
 "access": "paid",
 "backdropPath": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -15873,7 +16637,7 @@
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Straszny film",
 "titleEn": "Scary Movie",
 "tmdbId": 1273221,
@@ -19932,8 +20696,8 @@
 "canalplus:movie:1433367:paid": {
 "access": "paid",
 "backdropPath": "/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-"confirmedAt": "2026-11-13T21:25:30Z",
-"date": "2026-11-13",
+"confirmedAt": null,
+"date": "2026-12-04",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "canalplus:movie:1433367:paid",
@@ -19961,7 +20725,7 @@
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Tylko jedna noc",
 "titleEn": "One Night Only",
 "tmdbId": 1433367,
@@ -20151,6 +20915,42 @@
 "titleEn": "Truth & Treason",
 "tmdbId": 1443940,
 "trailerKey": "lEF-9cZd3ss"
+},
+"canalplus:movie:1451117:sub": {
+"access": "sub",
+"backdropPath": "/inXlEuRLZXYqHiyZ0UOcNEQZipE.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-14",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1451117:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Piętnastoletnia Lea spędza lato w ośrodku zdrowia otoczonym lasem i plażą. Lea jest zdeterminowana, by schudnąć i pragnie być jak jej przyjaciółka Sasha, nowa współlokatorka na obozie: wesoła, energiczna i nie bojąca się zajmować miejsca w świecie. Podczas gdy Sasha zabiega o uwagę miejscowych chłopaków, serce Lei jest zwrócone ku Rune, czarującemu instruktorowi z obozu. Kiedy Rune odwzajemnia jej zainteresowanie, w Lei budzi się coś nieznanego, a zarazem ekscytującego pragnienia.",
+"overviewEn": "Fifteen-year-old Lea is spending her summer at a health camp tucked between the forest and the sea. Her new roommate, Sasha, is everything Lea wishes she could be: bold, magnetic, and unafraid to take up space in the world. While Sasha flirts with the local boys, Lea’s gaze is fixed on Rune, the camp’s charming instructor. When Rune reciprocates her attention, something awakens within Lea; an unfamiliar yet thrilling desire.",
+"popularity": 1.58,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 208
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Nieważkość",
+"titleEn": "Weightless",
+"tmdbId": 1451117,
+"trailerKey": null
 },
 "canalplus:movie:1455079:paid": {
 "access": "paid",
@@ -26373,6 +27173,43 @@
 "tmdbId": 340059,
 "trailerKey": null
 },
+"canalplus:movie:347328:paid": {
+"access": "paid",
+"backdropPath": "/u2AmciyHZNioN0WEq2dKD2zYVVF.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:347328:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Danny jest zdumiony, gdy dowiaduje się, że jest zabójczym robotem. Z odnowionymi nadziejami i siłami robotów, a także z pomocą swojego szefa macho i małego żydowskiego „R2D2”, Danny wyrusza na ratunek miłości swojego życia.",
+"overviewEn": "Danny gets dumped by Noa, who finds it difficult to bear his sensibilities. Devastated about her ignoring his calls, he inadvertently discovers that he is not a human being, but in fact, an engineered robot. As he gains confidence to confront her, he finds out that Noa has been kidnapped - and that they're both entangled in a high-tech conspiracy hoping to utilize robot-humans for violence.",
+"popularity": 0.48,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 1039
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Ratunku! Jestem robotem!",
+"titleEn": "OMG, I'm a Robot!",
+"tmdbId": 347328,
+"trailerKey": "xS5LK87feNw"
+},
 "canalplus:movie:351044:sub": {
 "access": "sub",
 "backdropPath": "/q9hnJ9SzwcF30seRtXEzLd5l1gw.jpg",
@@ -26665,7 +27502,7 @@
 "origin": "diff",
 "overview": "Grinch znów powraca, by zepsuć wszystkim ten szczególny świąteczny czas. Mieszkańcy Ktosiowa z niecierpliwością oczekują Białego Bożego Narodzenia, najpiękniejszego czasu w roku. I tylko on, zielony stwór Grinch, nie znosi świąt i zrobi wszystko, by je zepsuć.",
 "overviewEn": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
-"popularity": 18.19,
+"popularity": 21.43,
 "ratings": {
 "imdb": 6.4,
 "imdbVotes": 116555,
@@ -31266,6 +32103,84 @@
 "titleEn": null,
 "tmdbId": 575265,
 "trailerKey": "iUtE29BGczM"
+},
+"canalplus:movie:57825:paid": {
+"access": "paid",
+"backdropPath": "/dxAeLMQC7M4Xp0dxrkL3rPq4vpf.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:57825:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Współczesne Indie. Hinduska matrona, pani Bakshi, ma w życiu jeden cel - chce jak najkorzystniej wydać za mąż cztery córki. Znakomitą okazją do polowania na zięciów jest zbliżająca się uroczystość zaślubin. Na przyjęciu pojawiają się przybyły z Ameryki drużba, Balraj Bingley, i jego przyjaciel, amerykański biznesmen William Darcy. Uwagę Balraja przyciąga Jaya, Darcy'emu w oko wpada Lalita. Po weselu Lalita i Will spotykają się kilkakrotnie, ale za każdym razem dochodzi do kłótni. Niebawem staje między nimi przystojny Anglik, Johnny Wickham.",
+"overviewEn": "Mrs. Bakshi is eager to find suitors for her four unmarried daughters when a family friend introduces them to handsome American Will Darcy. A Bollywood-style modern adaptation of Jane Austen's classic novel.",
+"popularity": 2.17,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 22899,
+"tmdb": 6.5
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Duma i uprzedzenie",
+"titleEn": "Bride & Prejudice",
+"tmdbId": 57825,
+"trailerKey": "nFYwqts1_TI"
+},
+"canalplus:movie:57825:sub": {
+"access": "sub",
+"backdropPath": "/dxAeLMQC7M4Xp0dxrkL3rPq4vpf.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:57825:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Współczesne Indie. Hinduska matrona, pani Bakshi, ma w życiu jeden cel - chce jak najkorzystniej wydać za mąż cztery córki. Znakomitą okazją do polowania na zięciów jest zbliżająca się uroczystość zaślubin. Na przyjęciu pojawiają się przybyły z Ameryki drużba, Balraj Bingley, i jego przyjaciel, amerykański biznesmen William Darcy. Uwagę Balraja przyciąga Jaya, Darcy'emu w oko wpada Lalita. Po weselu Lalita i Will spotykają się kilkakrotnie, ale za każdym razem dochodzi do kłótni. Niebawem staje między nimi przystojny Anglik, Johnny Wickham.",
+"overviewEn": "Mrs. Bakshi is eager to find suitors for her four unmarried daughters when a family friend introduces them to handsome American Will Darcy. A Bollywood-style modern adaptation of Jane Austen's classic novel.",
+"popularity": 2.17,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 22899,
+"tmdb": 6.5
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Duma i uprzedzenie",
+"titleEn": "Bride & Prejudice",
+"tmdbId": 57825,
+"trailerKey": "nFYwqts1_TI"
 },
 "canalplus:movie:58224:sub": {
 "access": "sub",
@@ -37417,7 +38332,7 @@
 "origin": "diff",
 "overview": "Goniący za karierą architekt otrzymuje od nowo poznanego sprzedawcy pilota, dzięki któremu może kontrolować różne części swojego życia.",
 "overviewEn": "A married workaholic, Michael Newman doesn't have time for his wife and children, not if he's to impress his ungrateful boss and earn a well-deserved promotion. So when he meets Morty, a loopy sales clerk, he gets the answer to his prayers: a magical remote that allows him to bypass life's little distractions with increasingly hysterical results.",
-"popularity": 8.52,
+"popularity": 7.73,
 "ratings": {
 "imdb": 6.5,
 "imdbVotes": 394966,
@@ -38195,8 +39110,8 @@
 "canalplus:movie:969681:paid": {
 "access": "paid",
 "backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-"confirmedAt": "2026-11-13T13:04:20Z",
-"date": "2026-11-13",
+"confirmedAt": null,
+"date": "2026-11-26",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "canalplus:movie:969681:paid",
@@ -38225,7 +39140,7 @@
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Spider-Man: Całkiem nowy dzień",
 "titleEn": "Spider-Man: Brand New Day",
 "tmdbId": 969681,
@@ -39798,6 +40713,84 @@
 "titleEn": "A Missing Part",
 "tmdbId": 1021643,
 "trailerKey": "kB1izvUEDrQ"
+},
+"cda:movie:1024546:paid": {
+"access": "paid",
+"backdropPath": "/6YRQ8l93ZEs6x4rZojWoHIWdguK.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1024546:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Miasto szykuje się do Halloween, a w powietrzu unosi się niepokojący zapach zbrodni. Podczas jednego z napadów zamaskowani złodzieje ciężko ranią funkcjonariusza, a detektyw Knight poprzysięga pomścić swojego partnera. W pogoni za bandytami udaje się do Nowego Jorku, gdzie aktualne śledztwo krzyżuje się z mroczną przeszłością Jamesa.",
+"overviewEn": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.",
+"popularity": 2.44,
+"ratings": {
+"imdb": 3.9,
+"imdbVotes": 2656,
+"tmdb": 6.0
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Detektyw Knight: Łotr",
+"titleEn": "Detective Knight: Rogue",
+"tmdbId": 1024546,
+"trailerKey": "9pwnB3zLAFw"
+},
+"cda:movie:1024546:sub": {
+"access": "sub",
+"backdropPath": "/6YRQ8l93ZEs6x4rZojWoHIWdguK.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1024546:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Miasto szykuje się do Halloween, a w powietrzu unosi się niepokojący zapach zbrodni. Podczas jednego z napadów zamaskowani złodzieje ciężko ranią funkcjonariusza, a detektyw Knight poprzysięga pomścić swojego partnera. W pogoni za bandytami udaje się do Nowego Jorku, gdzie aktualne śledztwo krzyżuje się z mroczną przeszłością Jamesa.",
+"overviewEn": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.",
+"popularity": 2.44,
+"ratings": {
+"imdb": 3.9,
+"imdbVotes": 2656,
+"tmdb": 6.0
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Detektyw Knight: Łotr",
+"titleEn": "Detective Knight: Rogue",
+"tmdbId": 1024546,
+"trailerKey": "9pwnB3zLAFw"
 },
 "cda:movie:1025527:paid": {
 "access": "paid",
@@ -41825,6 +42818,45 @@
 "tmdbId": 1356875,
 "trailerKey": null
 },
+"cda:movie:1359867:sub": {
+"access": "sub",
+"backdropPath": "/i0xXEW49jmEKksCsS18r8H6qfGy.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1359867:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10770,
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Ostrożna bibliotekarka, wychowana przez ekspertów od systemów zabezpieczeń, zostaje wplątana w prawdziwą przygodę, gdy pomyłka podczas randki w ciemno prowadzi ją do tajnej operacji FBI. Zmuszona do udawania dziewczyny agenta specjalnego Josha, pomaga mu wytropić złodzieja dzieł sztuki, który ma na celowniku Rubin Świętego Mikołaja podczas charytatywnego balu w Wigilię Bożego Narodzenia.",
+"overviewEn": "A cautious librarian raised by home security experts finds herself in a real-life adventure when a blind date mix-up leads her into an undercover FBI operation. Forced to pose as the girlfriend of Special Agent Josh, she helps him track down an art thief targeting the Saint Nicholas Ruby at a Christmas Eve charity ball.",
+"popularity": 1.18,
+"ratings": {
+"imdb": 6.7,
+"imdbVotes": 1936,
+"tmdb": 6.7
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Świątajni agenci",
+"titleEn": "The Christmas Charade",
+"tmdbId": 1359867,
+"trailerKey": null
+},
 "cda:movie:137145:sub": {
 "access": "sub",
 "backdropPath": "/tIHNc6240dif2H8lzsuahPTCvxo.jpg",
@@ -42637,6 +43669,42 @@
 "tmdbId": 15262,
 "trailerKey": "4FBrn8VW3bE"
 },
+"cda:movie:1533222:paid": {
+"access": "paid",
+"backdropPath": "/yWMnvMUiWlN1bbP4Em1psNjhyXd.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1533222:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy bezrobotny reporter zostaje zahipnotyzowany w ramach regresji do poprzedniego życia, budzi się nie ze wspomnieniami życia jako członek rodziny królewskiej czy inna atrakcyjna osoba, lecz zaczynają go prześladować wspomnienia seryjnego mordercy.",
+"overviewEn": "When an unemployed reporter is hypnotized as part of a past life regression event, he wakes not with memories of life as royalty or some other glamorous person, but instead finds himself haunted by the memories of a serial killer.",
+"popularity": 0.93,
+"ratings": {
+"imdb": 4.6,
+"imdbVotes": 233
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Poprzednie wcielenie",
+"titleEn": "Past Life",
+"tmdbId": 1533222,
+"trailerKey": "-BXM3z0CGQ4"
+},
 "cda:movie:1551878:paid": {
 "access": "paid",
 "backdropPath": "/rQM1Ynm2AERjw0QBJEfZbFYmkkU.jpg",
@@ -43184,6 +44252,40 @@
 "titleEn": "The Awakening",
 "tmdbId": 1657630,
 "trailerKey": "hj6Cer6bJUI"
+},
+"cda:movie:1665962:sub": {
+"access": "sub",
+"backdropPath": "/zS7Msr9Ui0rexOqE0T87UmleeAP.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:1665962:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10770,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.67,
+"ratings": null,
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Meurtres en Pays Catalan",
+"titleEn": null,
+"tmdbId": 1665962,
+"trailerKey": null
 },
 "cda:movie:1668413:sub": {
 "access": "sub",
@@ -45196,6 +46298,43 @@
 "tmdbId": 342472,
 "trailerKey": "LFB0NqjfpBo"
 },
+"cda:movie:347328:paid": {
+"access": "paid",
+"backdropPath": "/u2AmciyHZNioN0WEq2dKD2zYVVF.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:347328:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Danny jest zdumiony, gdy dowiaduje się, że jest zabójczym robotem. Z odnowionymi nadziejami i siłami robotów, a także z pomocą swojego szefa macho i małego żydowskiego „R2D2”, Danny wyrusza na ratunek miłości swojego życia.",
+"overviewEn": "Danny gets dumped by Noa, who finds it difficult to bear his sensibilities. Devastated about her ignoring his calls, he inadvertently discovers that he is not a human being, but in fact, an engineered robot. As he gains confidence to confront her, he finds out that Noa has been kidnapped - and that they're both entangled in a high-tech conspiracy hoping to utilize robot-humans for violence.",
+"popularity": 0.48,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 1039
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Ratunku! Jestem robotem!",
+"titleEn": "OMG, I'm a Robot!",
+"tmdbId": 347328,
+"trailerKey": "xS5LK87feNw"
+},
 "cda:movie:348668:sub": {
 "access": "sub",
 "backdropPath": "/vDSDu2okecJy1gcmPf26bJBMhhV.jpg",
@@ -46951,6 +48090,43 @@
 "tmdbId": 524251,
 "trailerKey": "k72fdSYHHvQ"
 },
+"cda:movie:528096:paid": {
+"access": "paid",
+"backdropPath": "/we9dDA5uNXt0s25HpFr85wsNVUq.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:528096:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jake przemierza nago wybrzeże Australii dla miłości i charytatywnej misji. Niespodziewanie spotkanie z tajemniczą turystką odmienia jego podróż.",
+"overviewEn": "A heartbroken young man decides to walk 4000km up the coast of Western Australia naked, for charity, with the secret goal of making his ex-girlfriend jealous.",
+"popularity": 0.59,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 900
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Nagi podróżnik",
+"titleEn": "The Naked Wanderer",
+"tmdbId": 528096,
+"trailerKey": "LLR2KkeWLs0"
+},
 "cda:movie:536176:paid": {
 "access": "paid",
 "backdropPath": "/eVLiY6ThGcgTa19dmOa8MtPQSLH.jpg",
@@ -47214,6 +48390,45 @@
 "titleEn": null,
 "tmdbId": 574852,
 "trailerKey": null
+},
+"cda:movie:57825:paid": {
+"access": "paid",
+"backdropPath": "/dxAeLMQC7M4Xp0dxrkL3rPq4vpf.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:57825:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Współczesne Indie. Hinduska matrona, pani Bakshi, ma w życiu jeden cel - chce jak najkorzystniej wydać za mąż cztery córki. Znakomitą okazją do polowania na zięciów jest zbliżająca się uroczystość zaślubin. Na przyjęciu pojawiają się przybyły z Ameryki drużba, Balraj Bingley, i jego przyjaciel, amerykański biznesmen William Darcy. Uwagę Balraja przyciąga Jaya, Darcy'emu w oko wpada Lalita. Po weselu Lalita i Will spotykają się kilkakrotnie, ale za każdym razem dochodzi do kłótni. Niebawem staje między nimi przystojny Anglik, Johnny Wickham.",
+"overviewEn": "Mrs. Bakshi is eager to find suitors for her four unmarried daughters when a family friend introduces them to handsome American Will Darcy. A Bollywood-style modern adaptation of Jane Austen's classic novel.",
+"popularity": 2.17,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 22899,
+"tmdb": 6.5
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Duma i uprzedzenie",
+"titleEn": "Bride & Prejudice",
+"tmdbId": 57825,
+"trailerKey": "nFYwqts1_TI"
 },
 "cda:movie:585245:paid": {
 "access": "paid",
@@ -49123,6 +50338,44 @@
 "tmdbId": 871082,
 "trailerKey": "Vim-ucFCAmI"
 },
+"cda:movie:87496:free": {
+"access": "free",
+"backdropPath": "/bG1FUzeF5GxtAuHLwzoqOO848Rl.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:87496:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jim Grant (Robert Redford) jest wdowcem, samotnie wychowującym córkę. Pracuje jako prawnik na przedmieściach Nowego Jorku. Pewnego dnia jego świat wywraca się do góry nogami. Młody ambitny dziennikarz, Ben Shepard (Shia LaBeouf), odkrywa jego prawdziwą tożsamość. Okazuje się, że w latach 70. Jim był aktywistą radykalnego lewicowego ruchu studenckiego. Oskarżony o morderstwo, od 30 lat ukrywa się przed wymiarem sprawiedliwości. Teraz Jim musi uciekać - a jednocześnie ujawniając pewne wydarzenia z przeszłości, próbować odzyskać swoje dobre imię.  [opis dystrybutora dvd]",
+"overviewEn": "A former Weather Underground activist goes on the run from a journalist who discovers his identity.",
+"popularity": 3.13,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 37793,
+"tmdb": 6.2
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Reguła Milczenia",
+"titleEn": "The Company You Keep",
+"tmdbId": 87496,
+"trailerKey": "FZ4CTyDwoPM"
+},
 "cda:movie:878607:paid": {
 "access": "paid",
 "backdropPath": "/gAVt41nTbna5aNHQqfcyOqSTg9X.jpg",
@@ -50600,6 +51853,44 @@
 "titleEn": null,
 "tmdbId": 272418,
 "trailerKey": "SDfWMSNQEJc"
+},
+"cda:tv:272947:s2e1:sub": {
+"access": "sub",
+"backdropPath": "/rTtg4ENjDclbvYP0w5nygSaCEYN.jpg",
+"confirmedAt": null,
+"date": "2026-12-07",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:tv:272947:s2e1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 1,
+"episodeTo": 2,
+"genres": [
+80,
+18
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Kochający sztukę inspektor Mick Palmer (Moyer) i bezpośrednia policjantka Shazia Malik (Nina Singh – \"Virdee\", \"The Lazarus Project\") wspólnie rozwiązują sprawy morderstw związanych ze światem sztuki i antyków, od obrazów starych mistrzów po sztukę uliczną Banksy'ego, średniowieczne rękopisy i kolekcjonerskie winyle.",
+"overviewEn": "In the Metropolitan Police's smallest department, the Heritage Crime Unit, an art-loving detective tackles cases connected to the world of art, antiques, collectibles and cultural heritage.",
+"popularity": 4.72,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 2384,
+"tmdb": 6.8
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "announced",
+"title": "Zabójcze arcydzieła",
+"titleEn": "Art Detectives",
+"tmdbId": 272947,
+"trailerKey": "0SlIrMdndWw"
 },
 "cda:tv:273916:sub": {
 "access": "sub",
@@ -52389,7 +53680,7 @@
 "origin": "diff",
 "overview": "Grinch znów powraca, by zepsuć wszystkim ten szczególny świąteczny czas. Mieszkańcy Ktosiowa z niecierpliwością oczekują Białego Bożego Narodzenia, najpiękniejszego czasu w roku. I tylko on, zielony stwór Grinch, nie znosi świąt i zrobi wszystko, by je zepsuć.",
 "overviewEn": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
-"popularity": 18.19,
+"popularity": 21.43,
 "ratings": {
 "imdb": 6.4,
 "imdbVotes": 116555,
@@ -52428,7 +53719,7 @@
 "origin": "diff",
 "overview": "Grinch znów powraca, by zepsuć wszystkim ten szczególny świąteczny czas. Mieszkańcy Ktosiowa z niecierpliwością oczekują Białego Bożego Narodzenia, najpiękniejszego czasu w roku. I tylko on, zielony stwór Grinch, nie znosi świąt i zrobi wszystko, by je zepsuć.",
 "overviewEn": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
-"popularity": 18.19,
+"popularity": 21.43,
 "ratings": {
 "imdb": 6.4,
 "imdbVotes": 116555,
@@ -53830,40 +55121,6 @@
 "tmdbId": 105009,
 "trailerKey": "idlLFNNpZiI"
 },
-"disney:tv:114656:s7e6:sub": {
-"access": "sub",
-"backdropPath": "/vKk3womxcGLqOZLiGZ2aXA2PtOV.jpg",
-"confirmedAt": "2026-11-14T12:08:53Z",
-"date": "2026-11-14",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "disney:tv:114656:s7e6:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 6,
-"episodeTo": 6,
-"genres": [],
-"kind": "series",
-"season": 7,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Hosted by Pat Sajak and Vanna White, celebrity contestants spin the wheel and solve word puzzles for a chance to win up to one million dollars for charity.",
-"overviewEn": "Hosted by Pat Sajak and Vanna White, celebrity contestants spin the wheel and solve word puzzles for a chance to win up to one million dollars for charity.",
-"popularity": 13.73,
-"ratings": {
-"imdb": 6.9,
-"imdbVotes": 372
-},
-"serviceKey": "disney",
-"source": "tmdb",
-"status": "live",
-"title": "Celebrity Wheel of Fortune",
-"titleEn": null,
-"tmdbId": 114656,
-"trailerKey": null
-},
 "disney:tv:114656:s7e7:sub": {
 "access": "sub",
 "backdropPath": "/vKk3womxcGLqOZLiGZ2aXA2PtOV.jpg",
@@ -54419,10 +55676,48 @@
 "tmdbId": 211288,
 "trailerKey": "Hw6RlFyPbNM"
 },
+"disney:tv:211288:s4e9:sub": {
+"access": "sub",
+"backdropPath": "/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
+"confirmedAt": null,
+"date": "2026-12-07",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "disney:tv:211288:s4e9:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 9,
+"episodeTo": 9,
+"genres": [
+18,
+80
+],
+"kind": "series",
+"season": 4,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Colter Shaw podróżuje po kraju swoim oldschoolowym kamperem, pomagając policji i prywatnym obywatelom w rozwiązywaniu przestępstw.",
+"overviewEn": "Lone-wolf survivalist Colter Shaw roams the country as a “reward seeker,” using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
+"popularity": 53.1,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 32256,
+"tmdb": 7.6
+},
+"serviceKey": "disney",
+"source": "tmdb",
+"status": "announced",
+"title": "Tropiciel",
+"titleEn": "Tracker",
+"tmdbId": 211288,
+"trailerKey": "Hw6RlFyPbNM"
+},
 "disney:tv:212440:s4e3:sub": {
 "access": "sub",
 "backdropPath": "/vwP8lTgiscnRzbaTucRRzXHpy4G.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -54450,7 +55745,7 @@
 },
 "serviceKey": "disney",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Wojna widziana z powietrza",
 "titleEn": "World War II: Secrets from Above",
 "tmdbId": 212440,
@@ -54506,6 +55801,43 @@
 "allEpisodes": false,
 "episodeFrom": 5,
 "episodeTo": 5,
+"genres": [
+10768,
+99
+],
+"kind": "doc_series",
+"season": 4,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Rok 1945. Stalin prowadzi z hitlerowskimi Niemcami wojnę na wyniszczenie. Na froncie wschodnim przeszło milionowa radziecka armia zmierza w kierunku Berlina. Aby osiągnąć cel, musi jednak pokonać wiele zgrupowań wojsk nieprzyjaciela. Poznaj przebieg bitew, w których sowiecka potęga wojskowa mierzyła się z niemiecką myślą techniczną i strategią.",
+"overviewEn": "As we fly above the infamous battle sites of D-Day and Dunkirk, soar over hidden Nazi bunkers, and glide across lost battleships and sunken shipwrecks – this new series exposes secrets of World War Two - in a brand-new way.",
+"popularity": 2.09,
+"ratings": {
+"imdb": 7.6,
+"imdbVotes": 148
+},
+"serviceKey": "disney",
+"source": "tmdb",
+"status": "announced",
+"title": "Wojna widziana z powietrza",
+"titleEn": "World War II: Secrets from Above",
+"tmdbId": 212440,
+"trailerKey": "fAnIW-f0ibc"
+},
+"disney:tv:212440:s4e6:sub": {
+"access": "sub",
+"backdropPath": "/vwP8lTgiscnRzbaTucRRzXHpy4G.jpg",
+"confirmedAt": null,
+"date": "2026-12-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "disney:tv:212440:s4e6:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
 "genres": [
 10768,
 99
@@ -54894,7 +56226,7 @@
 "ratings": {
 "imdb": 3.7,
 "imdbVotes": 13341,
-"tmdb": 4.9
+"tmdb": 5.0
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -54932,7 +56264,7 @@
 "ratings": {
 "imdb": 3.7,
 "imdbVotes": 13341,
-"tmdb": 4.9
+"tmdb": 5.0
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -54970,7 +56302,7 @@
 "ratings": {
 "imdb": 3.7,
 "imdbVotes": 13341,
-"tmdb": 4.9
+"tmdb": 5.0
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -55134,44 +56466,6 @@
 "titleEn": "Law & Order: Special Victims Unit",
 "tmdbId": 2734,
 "trailerKey": "O53wYUc_fA4"
-},
-"disney:tv:274388:s1e71:sub": {
-"access": "sub",
-"backdropPath": "/tHWW3xDD49UZuoirqzUQT046dWi.jpg",
-"confirmedAt": "2026-11-14T12:08:53Z",
-"date": "2026-11-14",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "disney:tv:274388:s1e71:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 71,
-"episodeTo": 72,
-"genres": [
-16,
-10762,
-10765
-],
-"kind": "series",
-"season": 1,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Iron Man i super ekipa Marvela to serial o przygodach najlepszych przyjaciół, którzy wspólnie, w genialne sposoby rozwiązują problemy i chronią swoje miasto.",
-"overviewEn": "Follow the adventures (and misadventures) of best friends and super geniuses, Tony Stark, Riri Williams and Amadeus Cho as they work together to solve problems both big and small and protect their city.",
-"popularity": 11.61,
-"ratings": {
-"imdb": 4.7,
-"imdbVotes": 214
-},
-"serviceKey": "disney",
-"source": "tmdb",
-"status": "live",
-"title": "Iron Man i super ekipa",
-"titleEn": "Iron Man and His Awesome Friends",
-"tmdbId": 274388,
-"trailerKey": "JYLQcnHxBBs"
 },
 "disney:tv:274388:s1e73:sub": {
 "access": "sub",
@@ -56159,7 +57453,7 @@
 "disney:tv:334887:s1e7:sub": {
 "access": "sub",
 "backdropPath": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -56186,7 +57480,7 @@
 },
 "serviceKey": "disney",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Mafia",
 "titleEn": "The Mob",
 "tmdbId": 334887,
@@ -57999,7 +59293,7 @@
 "hbomax:movie:1129188:sub": {
 "access": "sub",
 "backdropPath": "/d162vjYEHGEGw2XqxH487bnEkfG.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -58026,7 +59320,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Wyzwolenie",
 "titleEn": "The Optimist",
 "tmdbId": 1129188,
@@ -62105,6 +63399,45 @@
 "tmdbId": 524635,
 "trailerKey": "Og1hVn5umZI"
 },
+"hbomax:movie:57825:paid": {
+"access": "paid",
+"backdropPath": "/dxAeLMQC7M4Xp0dxrkL3rPq4vpf.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:57825:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Współczesne Indie. Hinduska matrona, pani Bakshi, ma w życiu jeden cel - chce jak najkorzystniej wydać za mąż cztery córki. Znakomitą okazją do polowania na zięciów jest zbliżająca się uroczystość zaślubin. Na przyjęciu pojawiają się przybyły z Ameryki drużba, Balraj Bingley, i jego przyjaciel, amerykański biznesmen William Darcy. Uwagę Balraja przyciąga Jaya, Darcy'emu w oko wpada Lalita. Po weselu Lalita i Will spotykają się kilkakrotnie, ale za każdym razem dochodzi do kłótni. Niebawem staje między nimi przystojny Anglik, Johnny Wickham.",
+"overviewEn": "Mrs. Bakshi is eager to find suitors for her four unmarried daughters when a family friend introduces them to handsome American Will Darcy. A Bollywood-style modern adaptation of Jane Austen's classic novel.",
+"popularity": 2.17,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 22899,
+"tmdb": 6.5
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Duma i uprzedzenie",
+"titleEn": "Bride & Prejudice",
+"tmdbId": 57825,
+"trailerKey": "nFYwqts1_TI"
+},
 "hbomax:movie:585530:paid": {
 "access": "paid",
 "backdropPath": "/nycTuZi6aUt2PJ2eFbUBYUCuidA.jpg",
@@ -63794,7 +65127,7 @@
 "hbomax:tv:14750:s26e45:sub": {
 "access": "sub",
 "backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -63821,7 +65154,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Na Wspólnej",
 "titleEn": null,
 "tmdbId": 14750,
@@ -64189,7 +65522,7 @@
 "hbomax:tv:210062:s9e10:sub": {
 "access": "sub",
 "backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -64217,7 +65550,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Celnicy na straży Szwecji",
 "titleEn": "Border Control: Sweden",
 "tmdbId": 210062,
@@ -64273,6 +65606,43 @@
 "allEpisodes": false,
 "episodeFrom": 12,
 "episodeTo": 12,
+"genres": [
+10764,
+80
+],
+"kind": "series",
+"season": 9,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Funkcjonariusze szwedzkich służb granicznych i celnych nieustannie podejmują próby, by powstrzymywać przemyt nielegalnych dóbr do kraju. Ich praca nigdy się nie kończy.",
+"overviewEn": "Thousands of people cross Sweden's borders every day. We follow customs officers, investigators, scouts and dog handlers who daily secure Sweden's borders, ports and airports.",
+"popularity": 1.89,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 120
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Celnicy na straży Szwecji",
+"titleEn": "Border Control: Sweden",
+"tmdbId": 210062,
+"trailerKey": null
+},
+"hbomax:tv:210062:s9e13:sub": {
+"access": "sub",
+"backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
+"confirmedAt": null,
+"date": "2026-12-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:210062:s9e13:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 13,
+"episodeTo": 13,
 "genres": [
 10764,
 80
@@ -64662,7 +66032,7 @@
 "hbomax:tv:211656:s13e47:sub": {
 "access": "sub",
 "backdropPath": "/lF7A08C7hDC1RbhHPpLMjsS317C.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -64689,7 +66059,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Hotel Paradise",
 "titleEn": null,
 "tmdbId": 211656,
@@ -66910,10 +68280,46 @@
 "tmdbId": 289214,
 "trailerKey": null
 },
-"hbomax:tv:290564:s2e7:sub": {
+"hbomax:tv:290564:s2e10:sub": {
 "access": "sub",
 "backdropPath": "/u33XkP4bARiOCW72AvrQU2MT6ls.jpg",
 "confirmedAt": null,
+"date": "2026-12-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:290564:s2e10:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 10,
+"episodeTo": 10,
+"genres": [
+10764
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Ósemka singli po przejściach spotyka się z grupą potencjalnych partnerów w rajskiej scenerii Tulum w Meksyku. Jak zakończą się poszukiwania miłości?",
+"overviewEn": "Features eight singles from the 90 Day universe who are ready to embark on a quest for love once again, joined by fresh, new faces and romantic hopefuls.",
+"popularity": 2.66,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 225
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Wiza na miłość: single na polowaniu",
+"titleEn": "90 Day: Hunt for Love",
+"tmdbId": 290564,
+"trailerKey": "5oeNWIfS2AQ"
+},
+"hbomax:tv:290564:s2e7:sub": {
+"access": "sub",
+"backdropPath": "/u33XkP4bARiOCW72AvrQU2MT6ls.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -66940,7 +68346,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Wiza na miłość: single na polowaniu",
 "titleEn": "90 Day: Hunt for Love",
 "tmdbId": 290564,
@@ -68707,43 +70113,6 @@
 "tmdbId": 34415,
 "trailerKey": "OkbfvPeH3G0"
 },
-"hbomax:tv:34634:s17e7:sub": {
-"access": "sub",
-"backdropPath": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
-"confirmedAt": "2026-11-14T12:08:53Z",
-"date": "2026-11-14",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "hbomax:tv:34634:s17e7:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 7,
-"episodeTo": 7,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 17,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "W obliczu stygnącej gospodarki rodzina Hoffmanów bierze sprawy w swoje ręce - dosłownie. Wyposażeni w narzędzia będą szukać nowych granic - pod ziemią. \"Gorączka złota\" pokaże sylwetkę głowy rodziny, Todda Hoffmana, i jego rodziny, którzy wspólnie podejmują ogromne ryzyko. Mając nadzieję na wysoki zarobek, kupują dwieście akrów ziemi w północnej Alasce. To kraina o legendarnych wręcz bogactwach, ale ukrytych głęboko w ziemi. Wielka fortuna czeka tych, którzy przezwyciężą własny lęk przed ciemnością i ciasnymi korytarzami, a na bok odłożą przyzwyczajenie do czystości. Górnicy, wydobywający złote samorodki, to ludzie skłonni poświęcić wiele. Będziemy świadkami wielu wyzwań: zawodzący sprzęt, uparta natura, ludzkie słabości, no i nieufność okolicznych mieszkańców - którzy także szukają szczęścia na Alasce. Czy rodzinę Hoffmanów spotka fortuna? A może stracą oszczędności życia?",
-"overviewEn": "Follow the lives of ambitious miners as they head north in pursuit of gold. With new miners, new claims, new machines and new ways to pull gold out of the ground, the stakes are higher than ever. But will big risks lead to an even bigger pay out?",
-"popularity": 41.05,
-"ratings": {
-"imdb": 7.3,
-"imdbVotes": 6232,
-"tmdb": 7.2
-},
-"serviceKey": "hbomax",
-"source": "tmdb",
-"status": "live",
-"title": "Gorączka Złota",
-"titleEn": "Gold Rush",
-"tmdbId": 34634,
-"trailerKey": "ZxnqvqQN3Cs"
-},
 "hbomax:tv:34634:s17e8:sub": {
 "access": "sub",
 "backdropPath": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
@@ -68929,7 +70298,7 @@
 "hbomax:tv:49394:s48e12:sub": {
 "access": "sub",
 "backdropPath": "/wYGqCZuBdYeL7OLQTDxVA1AnuUl.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -68956,7 +70325,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Kuba Wojewódzki",
 "titleEn": null,
 "tmdbId": 49394,
@@ -69338,7 +70707,7 @@
 },
 "hbomax:tv:80027:s10e5:sub": {
 "access": "sub",
-"backdropPath": "/jYi2C3GMeneIlRSQSMIKEXKH3zR.jpg",
+"backdropPath": "/tXI7QAgv2vs2WL6gWFIUbyiWJrK.jpg",
 "confirmedAt": "2026-11-08T11:54:44Z",
 "date": "2026-11-07",
 "dateConfirmed": true,
@@ -69361,7 +70730,42 @@
 "origin": "schedule",
 "overview": "W Hiszpanii policyjny numer alarmowy to 091. Wyposażeni w kamery zamocowane na mundurach funkcjonariusze Policia Nacional biorą udział w interwencjach i zatrzymaniach. Widzowie mogą obserwować pracę policjantów z ich perspektywy, co wpływa na pełniejsze zrozumienie ryzyka, które towarzyszy im na co dzień.",
 "overviewEn": null,
-"popularity": 1.05,
+"popularity": 0.89,
+"ratings": null,
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Alarmowy 091 - policjanci z Hiszpanii",
+"titleEn": "091: Alerta Policía",
+"tmdbId": 80027,
+"trailerKey": null
+},
+"hbomax:tv:80027:s10e6:sub": {
+"access": "sub",
+"backdropPath": "/tXI7QAgv2vs2WL6gWFIUbyiWJrK.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-14",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:80027:s10e6:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
+"genres": [
+99,
+80,
+10764
+],
+"kind": "doc_series",
+"season": 10,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "W Hiszpanii policyjny numer alarmowy to 091. Wyposażeni w kamery zamocowane na mundurach funkcjonariusze Policia Nacional biorą udział w interwencjach i zatrzymaniach. Widzowie mogą obserwować pracę policjantów z ich perspektywy, co wpływa na pełniejsze zrozumienie ryzyka, które towarzyszy im na co dzień.",
+"overviewEn": null,
+"popularity": 0.89,
 "ratings": null,
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -73120,6 +74524,84 @@
 "tmdbId": 345914,
 "trailerKey": "f-SP8iSCbKM"
 },
+"netflix:movie:360920:paid": {
+"access": "paid",
+"backdropPath": "/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:360920:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+35,
+10751
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Grinch znów powraca, by zepsuć wszystkim ten szczególny świąteczny czas. Mieszkańcy Ktosiowa z niecierpliwością oczekują Białego Bożego Narodzenia, najpiękniejszego czasu w roku. I tylko on, zielony stwór Grinch, nie znosi świąt i zrobi wszystko, by je zepsuć.",
+"overviewEn": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
+"popularity": 21.43,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 116555,
+"tmdb": 6.9
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Grinch",
+"titleEn": "The Grinch",
+"tmdbId": 360920,
+"trailerKey": "_UOh0UX3alI"
+},
+"netflix:movie:360920:sub": {
+"access": "sub",
+"backdropPath": "/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:360920:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+35,
+10751
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Grinch znów powraca, by zepsuć wszystkim ten szczególny świąteczny czas. Mieszkańcy Ktosiowa z niecierpliwością oczekują Białego Bożego Narodzenia, najpiękniejszego czasu w roku. I tylko on, zielony stwór Grinch, nie znosi świąt i zrobi wszystko, by je zepsuć.",
+"overviewEn": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
+"popularity": 21.43,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 116555,
+"tmdb": 6.9
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Grinch",
+"titleEn": "The Grinch",
+"tmdbId": 360920,
+"trailerKey": "_UOh0UX3alI"
+},
 "netflix:movie:370291:paid": {
 "access": "paid",
 "backdropPath": "/hoJC8IUBg26pjR58MoYtTW8XSwG.jpg",
@@ -76044,6 +77526,44 @@
 "tmdbId": 950,
 "trailerKey": "SNMXO74bw9M"
 },
+"netflix:movie:953233:paid": {
+"access": "paid",
+"backdropPath": "/15I9LAVZyx2PZjzfar9NxWcQo5b.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:953233:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy naukowczyni o złamanym sercu wraca na Podhale, by zacząć od nowa, jej chytry brat usiłuje przekonać ją do sprzedaży ziemi, zatrudniając przystojnego nieznajomego.",
+"overviewEn": "When a heartbroken scientist moves back home to start over, her scheming brother hires a handsome stranger to convince her to sell their land.",
+"popularity": 1.42,
+"ratings": {
+"imdb": 4.7,
+"imdbVotes": 1578,
+"tmdb": 5.4
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Poskromienie złośnicy",
+"titleEn": "The Taming of the Shrewd",
+"tmdbId": 953233,
+"trailerKey": "cbaNVn6hKaE"
+},
 "netflix:movie:9969:free": {
 "access": "free",
 "backdropPath": "/lVSj3d2dvTaK3qO9K2aD1W4L7R0.jpg",
@@ -77215,7 +78735,7 @@
 "netflix:tv:214582:s3e6:sub": {
 "access": "sub",
 "backdropPath": "/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -77243,7 +78763,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Diabelski plan",
 "titleEn": "The Devil's Plan",
 "tmdbId": 214582,
@@ -79151,7 +80671,8 @@
 "popularity": 35.59,
 "ratings": {
 "imdb": 8.4,
-"imdbVotes": 979
+"imdbVotes": 979,
+"tmdb": 8.6
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -79188,7 +80709,8 @@
 "popularity": 35.59,
 "ratings": {
 "imdb": 8.4,
-"imdbVotes": 979
+"imdbVotes": 979,
+"tmdb": 8.6
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -79225,7 +80747,8 @@
 "popularity": 35.59,
 "ratings": {
 "imdb": 8.4,
-"imdbVotes": 979
+"imdbVotes": 979,
+"tmdb": 8.6
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -79262,7 +80785,8 @@
 "popularity": 35.59,
 "ratings": {
 "imdb": 8.4,
-"imdbVotes": 979
+"imdbVotes": 979,
+"tmdb": 8.6
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -79299,7 +80823,8 @@
 "popularity": 35.59,
 "ratings": {
 "imdb": 8.4,
-"imdbVotes": 979
+"imdbVotes": 979,
+"tmdb": 8.6
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -79336,7 +80861,8 @@
 "popularity": 35.59,
 "ratings": {
 "imdb": 8.4,
-"imdbVotes": 979
+"imdbVotes": 979,
+"tmdb": 8.6
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -79373,7 +80899,8 @@
 "popularity": 35.59,
 "ratings": {
 "imdb": 8.4,
-"imdbVotes": 979
+"imdbVotes": 979,
+"tmdb": 8.6
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -79410,7 +80937,8 @@
 "popularity": 35.59,
 "ratings": {
 "imdb": 8.4,
-"imdbVotes": 979
+"imdbVotes": 979,
+"tmdb": 8.6
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -79447,7 +80975,8 @@
 "popularity": 35.59,
 "ratings": {
 "imdb": 8.4,
-"imdbVotes": 979
+"imdbVotes": 979,
+"tmdb": 8.6
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -79956,7 +81485,7 @@
 "netflix:tv:294637:s2e31:sub": {
 "access": "sub",
 "backdropPath": "/mWzn4Mg7FbuDMg7CKR88dKlWAwg.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -79981,7 +81510,7 @@
 "ratings": null,
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Młode gliny",
 "titleEn": null,
 "tmdbId": 294637,
@@ -81497,7 +83026,7 @@
 "netflix:tv:31991:s20e46:sub": {
 "access": "sub",
 "backdropPath": "/2ugy3IP3yvdRdEepHDOml82TKFT.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -81527,7 +83056,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "WWE NXT",
 "titleEn": null,
 "tmdbId": 31991,
@@ -81585,6 +83114,45 @@
 "allEpisodes": false,
 "episodeFrom": 48,
 "episodeTo": 48,
+"genres": [
+10759,
+18,
+10764
+],
+"kind": "series",
+"season": 20,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+"overviewEn": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+"popularity": 123.14,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 2664,
+"tmdb": 6.6
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "WWE NXT",
+"titleEn": null,
+"tmdbId": 31991,
+"trailerKey": null
+},
+"netflix:tv:31991:s20e49:sub": {
+"access": "sub",
+"backdropPath": "/2ugy3IP3yvdRdEepHDOml82TKFT.jpg",
+"confirmedAt": null,
+"date": "2026-12-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:31991:s20e49:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 49,
+"episodeTo": 49,
 "genres": [
 10759,
 18,
@@ -81882,7 +83450,7 @@
 "netflix:tv:321421:s1e883:sub": {
 "access": "sub",
 "backdropPath": "/9BTe8tU3OSA29Gn5487bVEGK44b.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -81906,7 +83474,7 @@
 "ratings": null,
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Behind the Bastards",
 "titleEn": null,
 "tmdbId": 321421,
@@ -83392,6 +84960,80 @@
 "titleEn": null,
 "tmdbId": 33587,
 "trailerKey": "Eqzf6FZONKE"
+},
+"netflix:tv:335981:s1e2:sub": {
+"access": "sub",
+"backdropPath": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+"confirmedAt": null,
+"date": "2026-11-19",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:335981:s1e2:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 2,
+"episodeTo": 2,
+"genres": [
+35,
+99
+],
+"kind": "doc_series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "W tym przewrotnym serialu dokumentalnym Philomena Cunk wyrusza w pełną rozmachu podróż przez historię kina, wprawiając po drodze w konsternację ekspertów filmowych.",
+"overviewEn": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
+"popularity": 19.22,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 320
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "Kino oczami Cunk",
+"titleEn": "Cunk on Cinema",
+"tmdbId": 335981,
+"trailerKey": "_qD_dLCMa3w"
+},
+"netflix:tv:335981:s1e3:sub": {
+"access": "sub",
+"backdropPath": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+"confirmedAt": null,
+"date": "2026-11-26",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:335981:s1e3:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 3,
+"episodeTo": 3,
+"genres": [
+35,
+99
+],
+"kind": "doc_series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "W tym przewrotnym serialu dokumentalnym Philomena Cunk wyrusza w pełną rozmachu podróż przez historię kina, wprawiając po drodze w konsternację ekspertów filmowych.",
+"overviewEn": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
+"popularity": 19.22,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 320
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "Kino oczami Cunk",
+"titleEn": "Cunk on Cinema",
+"tmdbId": 335981,
+"trailerKey": "_qD_dLCMa3w"
 },
 "netflix:tv:335981:sub": {
 "access": "sub",
@@ -85547,7 +87189,7 @@
 },
 "netflix:tv:85077:s6e1:sub": {
 "access": "sub",
-"backdropPath": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+"backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "confirmedAt": "2026-11-15T12:43:14Z",
 "date": "2026-11-15",
 "dateConfirmed": true,
@@ -85586,7 +87228,7 @@
 },
 "netflix:tv:85077:s6e4:sub": {
 "access": "sub",
-"backdropPath": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+"backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "confirmedAt": null,
 "date": "2026-11-22",
 "dateConfirmed": true,
@@ -85625,7 +87267,7 @@
 },
 "netflix:tv:85077:s6e5:sub": {
 "access": "sub",
-"backdropPath": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+"backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "confirmedAt": null,
 "date": "2026-11-29",
 "dateConfirmed": true,
@@ -85664,7 +87306,7 @@
 },
 "netflix:tv:85077:s6e6:sub": {
 "access": "sub",
-"backdropPath": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+"backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "confirmedAt": null,
 "date": "2026-12-06",
 "dateConfirmed": true,
@@ -85884,6 +87526,45 @@
 "titleEn": "The Marching Band",
 "tmdbId": 1000866,
 "trailerKey": "KiXSe3xSVCw"
+},
+"player:movie:1024546:sub": {
+"access": "sub",
+"backdropPath": "/6YRQ8l93ZEs6x4rZojWoHIWdguK.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1024546:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Miasto szykuje się do Halloween, a w powietrzu unosi się niepokojący zapach zbrodni. Podczas jednego z napadów zamaskowani złodzieje ciężko ranią funkcjonariusza, a detektyw Knight poprzysięga pomścić swojego partnera. W pogoni za bandytami udaje się do Nowego Jorku, gdzie aktualne śledztwo krzyżuje się z mroczną przeszłością Jamesa.",
+"overviewEn": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.",
+"popularity": 2.44,
+"ratings": {
+"imdb": 3.9,
+"imdbVotes": 2656,
+"tmdb": 6.0
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Detektyw Knight: Łotr",
+"titleEn": "Detective Knight: Rogue",
+"tmdbId": 1024546,
+"trailerKey": "9pwnB3zLAFw"
 },
 "player:movie:1048241:paid": {
 "access": "paid",
@@ -86116,6 +87797,43 @@
 "titleEn": "The End of Oak Street",
 "tmdbId": 1101383,
 "trailerKey": "u4tgctWuHc0"
+},
+"player:movie:1101412:paid": {
+"access": "paid",
+"backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-14",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1101412:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Przyjaciółki Grace Caroline Currey i Virginia Gardner ponownie wcielają się w swoje role. Ich umiejętności wspinaczkowe i determinacja do przetrwania zostają wystawione na próbę w ryzykownych sytuacjach na szczycie pustej, 600-metrowej wieży radiowej.\r Przytłoczona śmiercią siostry Hunter, Jax (Slater) nawiązuje kontakt z Luce (Thomas), nieustraszoną przyjaciółką Hunter. Aby się zregenerować, próbują pokonać słynną trasę po desce na górze Kwan w Tajlandii. Po nagłym osuwisku, który pozostawia ich na kruchej desce 900 metrów nad ziemią, Jax musi zmierzyć się ze swoimi najgłębszymi lękami i walczyć o przetrwanie, by znaleźć ukojenie.",
+"overviewEn": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+"popularity": 130.29,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 15417,
+"tmdb": 7.2
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Nie patrz w dół 2",
+"titleEn": "Fall 2: Deadpoint",
+"tmdbId": 1101412,
+"trailerKey": "Krs0VDIjhmE"
 },
 "player:movie:1108427:paid": {
 "access": "paid",
@@ -87280,6 +88998,45 @@
 "tmdbId": 1242011,
 "trailerKey": "9bqIwMH3En8"
 },
+"player:movie:1244531:paid": {
+"access": "paid",
+"backdropPath": "/gHdSsZ1Bs8dCcflFwZg7nFMTW73.jpg",
+"confirmedAt": null,
+"date": "2026-11-24",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1244531:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+28,
+10752
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Kiedy ich łódź tonie podczas przeprawy przez Morze Timorskie podczas II wojny światowej, oddział młodych australijskich żołnierzy musi znaleźć sposób na przetrwanie w surowych wodach na szybko kurczącej się tratwie. Setki mil od jakiegokolwiek miejsca, muszą stawić czoła konfliktom interpersonalnym, atakom wroga i atakom jednego ogromnego, bardzo głodnego rekina białego.",
+"overviewEn": "When their boat sinks while crossing the Timor Sea during World War II, a troop of young Australian soldiers must find a way to survive the harsh seas on a quickly shrinking raft. Hundreds of miles from anywhere, they must confront interpersonal conflicts, enemy attacks, and the advances of one very large, very hungry great white shark.",
+"popularity": 2.04,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 5049,
+"tmdb": 6.2
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "Drapieżca",
+"titleEn": "Beast of War",
+"tmdbId": 1244531,
+"trailerKey": "l7uhBAKjJQY"
+},
 "player:movie:1248226:paid": {
 "access": "paid",
 "backdropPath": "/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
@@ -88088,6 +89845,44 @@
 "tmdbId": 1323244,
 "trailerKey": "DGGp8Az5fbk"
 },
+"player:movie:1323625:sub": {
+"access": "sub",
+"backdropPath": "/vHvVt2Lovn4G6of9u3pHEQE2CxI.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1323625:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Policjant z Los Angeles odkrywa, że ​​lokalna grupa specjalna skrywa tajemnicę, która naraża na niebezpieczeństwo mieszkańców dzielnicy, w której dorastał.",
+"overviewEn": "An L.A. cop discovers a local task force is hiding a secret that puts the residents of his childhood neighborhood in danger.",
+"popularity": 2.88,
+"ratings": {
+"imdb": 4.3,
+"imdbVotes": 3716,
+"tmdb": 5.0
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Nocny Patrol",
+"titleEn": "Night Patrol",
+"tmdbId": 1323625,
+"trailerKey": "8J_pMGZScB8"
+},
 "player:movie:1339713:paid": {
 "access": "paid",
 "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
@@ -88625,8 +90420,8 @@
 "player:movie:1433367:paid": {
 "access": "paid",
 "backdropPath": "/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-"confirmedAt": "2026-11-15T20:23:02Z",
-"date": "2026-11-13",
+"confirmedAt": null,
+"date": "2026-12-04",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "player:movie:1433367:paid",
@@ -88654,7 +90449,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Tylko jedna noc",
 "titleEn": "One Night Only",
 "tmdbId": 1433367,
@@ -90834,6 +92629,80 @@
 "tmdbId": 5255,
 "trailerKey": "f0oyHtZiJJs"
 },
+"player:movie:528096:paid": {
+"access": "paid",
+"backdropPath": "/we9dDA5uNXt0s25HpFr85wsNVUq.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:528096:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jake przemierza nago wybrzeże Australii dla miłości i charytatywnej misji. Niespodziewanie spotkanie z tajemniczą turystką odmienia jego podróż.",
+"overviewEn": "A heartbroken young man decides to walk 4000km up the coast of Western Australia naked, for charity, with the secret goal of making his ex-girlfriend jealous.",
+"popularity": 0.59,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 900
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Nagi podróżnik",
+"titleEn": "The Naked Wanderer",
+"tmdbId": 528096,
+"trailerKey": "LLR2KkeWLs0"
+},
+"player:movie:528096:sub": {
+"access": "sub",
+"backdropPath": "/we9dDA5uNXt0s25HpFr85wsNVUq.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:528096:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jake przemierza nago wybrzeże Australii dla miłości i charytatywnej misji. Niespodziewanie spotkanie z tajemniczą turystką odmienia jego podróż.",
+"overviewEn": "A heartbroken young man decides to walk 4000km up the coast of Western Australia naked, for charity, with the secret goal of making his ex-girlfriend jealous.",
+"popularity": 0.59,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 900
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Nagi podróżnik",
+"titleEn": "The Naked Wanderer",
+"tmdbId": 528096,
+"trailerKey": "LLR2KkeWLs0"
+},
 "player:movie:52920:paid": {
 "access": "paid",
 "backdropPath": "/oKl2qVFihZj2ZXxBXRNCmPV0tFl.jpg",
@@ -91444,6 +93313,82 @@
 "tmdbId": 602158,
 "trailerKey": null
 },
+"player:movie:627103:paid": {
+"access": "paid",
+"backdropPath": "/auftwkAjB6wYm2MfVoa3p8Pnnli.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:627103:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Grupa ludzi pracuje jako organizatorzy wesel, tworzą idealny dzień dla zakochanych par podczas gdy ich własne związki są dalekie od perfekcji. Śledzimy poszukiwanie miłości przez barwną grupę postaci, w tym: niedoświadczoną organizatorkę ślubów, wybrednego celebrytkę oraz jego „randkę w ciemno”.",
+"overviewEn": "A fussy celebrity caterer, a blind woman, a tour-bus guide and an inexperienced wedding planner search for love.",
+"popularity": 2.3,
+"ratings": {
+"imdb": 4.9,
+"imdbVotes": 3459,
+"tmdb": 6.0
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Miłość, ślub i inne nieszczęścia",
+"titleEn": "Love, Weddings & Other Disasters",
+"tmdbId": 627103,
+"trailerKey": "E3HXNZ3c0z4"
+},
+"player:movie:627103:sub": {
+"access": "sub",
+"backdropPath": "/auftwkAjB6wYm2MfVoa3p8Pnnli.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:627103:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Grupa ludzi pracuje jako organizatorzy wesel, tworzą idealny dzień dla zakochanych par podczas gdy ich własne związki są dalekie od perfekcji. Śledzimy poszukiwanie miłości przez barwną grupę postaci, w tym: niedoświadczoną organizatorkę ślubów, wybrednego celebrytkę oraz jego „randkę w ciemno”.",
+"overviewEn": "A fussy celebrity caterer, a blind woman, a tour-bus guide and an inexperienced wedding planner search for love.",
+"popularity": 2.3,
+"ratings": {
+"imdb": 4.9,
+"imdbVotes": 3459,
+"tmdb": 6.0
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Miłość, ślub i inne nieszczęścia",
+"titleEn": "Love, Weddings & Other Disasters",
+"tmdbId": 627103,
+"trailerKey": "E3HXNZ3c0z4"
+},
 "player:movie:62835:paid": {
 "access": "paid",
 "backdropPath": "/aoof4GKwyUBN07tRN2HJXm6mSco.jpg",
@@ -92016,6 +93961,45 @@
 "titleEn": "The Lair",
 "tmdbId": 760204,
 "trailerKey": "ebjFxaZfrQw"
+},
+"player:movie:780154:sub": {
+"access": "sub",
+"backdropPath": "/cGJUnIquDE7SZpCS7YDG29roLwL.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:780154:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Impreza sylwestrowa grupy młodych ludzi szybko przeradza się w wielki dramat, podczas którego kończą się nadzieje na miłość, a tajemnice wychodzą na jaw.",
+"overviewEn": "A group of friends at a New Year’s Eve party go through a whirlwind of events that exposes secrets, breaks hearts — and leads to a shocking outcome.",
+"popularity": 1.68,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 8433,
+"tmdb": 5.8
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Wszyscy moi przyjaciele nie żyją",
+"titleEn": "All My Friends Are Dead",
+"tmdbId": 780154,
+"trailerKey": "xgrZm8x_D1c"
 },
 "player:movie:809699:paid": {
 "access": "paid",
@@ -92662,6 +94646,82 @@
 "tmdbId": 939243,
 "trailerKey": "Up8d3yWiStc"
 },
+"player:movie:953233:paid": {
+"access": "paid",
+"backdropPath": "/15I9LAVZyx2PZjzfar9NxWcQo5b.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:953233:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy naukowczyni o złamanym sercu wraca na Podhale, by zacząć od nowa, jej chytry brat usiłuje przekonać ją do sprzedaży ziemi, zatrudniając przystojnego nieznajomego.",
+"overviewEn": "When a heartbroken scientist moves back home to start over, her scheming brother hires a handsome stranger to convince her to sell their land.",
+"popularity": 1.42,
+"ratings": {
+"imdb": 4.7,
+"imdbVotes": 1578,
+"tmdb": 5.4
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Poskromienie złośnicy",
+"titleEn": "The Taming of the Shrewd",
+"tmdbId": 953233,
+"trailerKey": "cbaNVn6hKaE"
+},
+"player:movie:953233:sub": {
+"access": "sub",
+"backdropPath": "/15I9LAVZyx2PZjzfar9NxWcQo5b.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:953233:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Kiedy naukowczyni o złamanym sercu wraca na Podhale, by zacząć od nowa, jej chytry brat usiłuje przekonać ją do sprzedaży ziemi, zatrudniając przystojnego nieznajomego.",
+"overviewEn": "When a heartbroken scientist moves back home to start over, her scheming brother hires a handsome stranger to convince her to sell their land.",
+"popularity": 1.42,
+"ratings": {
+"imdb": 4.7,
+"imdbVotes": 1578,
+"tmdb": 5.4
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Poskromienie złośnicy",
+"titleEn": "The Taming of the Shrewd",
+"tmdbId": 953233,
+"trailerKey": "cbaNVn6hKaE"
+},
 "player:movie:961077:paid": {
 "access": "paid",
 "backdropPath": "/vzIKxaav4Q5KBDDfYpphMzRQEOG.jpg",
@@ -92779,8 +94839,8 @@
 "player:movie:969681:paid": {
 "access": "paid",
 "backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-"confirmedAt": "2026-11-13T13:04:20Z",
-"date": "2026-11-13",
+"confirmedAt": null,
+"date": "2026-11-26",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "player:movie:969681:paid",
@@ -92809,7 +94869,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Spider-Man: Całkiem nowy dzień",
 "titleEn": "Spider-Man: Brand New Day",
 "tmdbId": 969681,
@@ -93854,7 +95914,7 @@
 "player:tv:14750:s26e45:sub": {
 "access": "sub",
 "backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -93881,7 +95941,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Na Wspólnej",
 "titleEn": null,
 "tmdbId": 14750,
@@ -94214,7 +96274,7 @@
 "player:tv:210062:s9e10:sub": {
 "access": "sub",
 "backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -94242,7 +96302,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Celnicy na straży Szwecji",
 "titleEn": "Border Control: Sweden",
 "tmdbId": 210062,
@@ -94298,6 +96358,43 @@
 "allEpisodes": false,
 "episodeFrom": 12,
 "episodeTo": 12,
+"genres": [
+10764,
+80
+],
+"kind": "series",
+"season": 9,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Funkcjonariusze szwedzkich służb granicznych i celnych nieustannie podejmują próby, by powstrzymywać przemyt nielegalnych dóbr do kraju. Ich praca nigdy się nie kończy.",
+"overviewEn": "Thousands of people cross Sweden's borders every day. We follow customs officers, investigators, scouts and dog handlers who daily secure Sweden's borders, ports and airports.",
+"popularity": 1.89,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 120
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "Celnicy na straży Szwecji",
+"titleEn": "Border Control: Sweden",
+"tmdbId": 210062,
+"trailerKey": null
+},
+"player:tv:210062:s9e13:sub": {
+"access": "sub",
+"backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
+"confirmedAt": null,
+"date": "2026-12-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:210062:s9e13:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 13,
+"episodeTo": 13,
 "genres": [
 10764,
 80
@@ -94687,7 +96784,7 @@
 "player:tv:211656:s13e47:sub": {
 "access": "sub",
 "backdropPath": "/lF7A08C7hDC1RbhHPpLMjsS317C.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -94714,7 +96811,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Hotel Paradise",
 "titleEn": null,
 "tmdbId": 211656,
@@ -96840,7 +98937,7 @@
 "player:tv:294637:s2e31:sub": {
 "access": "sub",
 "backdropPath": "/mWzn4Mg7FbuDMg7CKR88dKlWAwg.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -96865,7 +98962,7 @@
 "ratings": null,
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Młode gliny",
 "titleEn": null,
 "tmdbId": 294637,
@@ -99009,7 +101106,7 @@
 "player:tv:49394:s48e12:sub": {
 "access": "sub",
 "backdropPath": "/wYGqCZuBdYeL7OLQTDxVA1AnuUl.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -99036,7 +101133,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Kuba Wojewódzki",
 "titleEn": null,
 "tmdbId": 49394,
@@ -99748,7 +101845,7 @@
 "player:tv:76168:s29e56:sub": {
 "access": "sub",
 "backdropPath": "/ohuV85PKdBed6aF1wgLE2qYzEjp.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -99770,7 +101867,7 @@
 "ratings": null,
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Ukryta prawda",
 "titleEn": null,
 "tmdbId": 76168,
@@ -99939,7 +102036,7 @@
 },
 "player:tv:80027:s10e5:sub": {
 "access": "sub",
-"backdropPath": "/jYi2C3GMeneIlRSQSMIKEXKH3zR.jpg",
+"backdropPath": "/tXI7QAgv2vs2WL6gWFIUbyiWJrK.jpg",
 "confirmedAt": "2026-11-08T11:54:44Z",
 "date": "2026-11-07",
 "dateConfirmed": true,
@@ -99962,7 +102059,42 @@
 "origin": "schedule",
 "overview": "W Hiszpanii policyjny numer alarmowy to 091. Wyposażeni w kamery zamocowane na mundurach funkcjonariusze Policia Nacional biorą udział w interwencjach i zatrzymaniach. Widzowie mogą obserwować pracę policjantów z ich perspektywy, co wpływa na pełniejsze zrozumienie ryzyka, które towarzyszy im na co dzień.",
 "overviewEn": null,
-"popularity": 1.05,
+"popularity": 0.89,
+"ratings": null,
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Alarmowy 091 - policjanci z Hiszpanii",
+"titleEn": "091: Alerta Policía",
+"tmdbId": 80027,
+"trailerKey": null
+},
+"player:tv:80027:s10e6:sub": {
+"access": "sub",
+"backdropPath": "/tXI7QAgv2vs2WL6gWFIUbyiWJrK.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-14",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:80027:s10e6:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
+"genres": [
+99,
+80,
+10764
+],
+"kind": "doc_series",
+"season": 10,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "W Hiszpanii policyjny numer alarmowy to 091. Wyposażeni w kamery zamocowane na mundurach funkcjonariusze Policia Nacional biorą udział w interwencjach i zatrzymaniach. Widzowie mogą obserwować pracę policjantów z ich perspektywy, co wpływa na pełniejsze zrozumienie ryzyka, które towarzyszy im na co dzień.",
+"overviewEn": null,
+"popularity": 0.89,
 "ratings": null,
 "serviceKey": "player",
 "source": "tmdb",
@@ -100555,6 +102687,196 @@
 "serviceKey": "player",
 "source": "tmdb",
 "status": "live",
+"title": "The Tamron Hall Show",
+"titleEn": null,
+"tmdbId": 93449,
+"trailerKey": null
+},
+"player:tv:93449:s8e44:sub": {
+"access": "sub",
+"backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-16",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:93449:s8e44:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 44,
+"episodeTo": 44,
+"genres": [
+10767,
+10763
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"overviewEn": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"popularity": 69.78,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 348,
+"tmdb": 4.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "The Tamron Hall Show",
+"titleEn": null,
+"tmdbId": 93449,
+"trailerKey": null
+},
+"player:tv:93449:s8e45:sub": {
+"access": "sub",
+"backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:93449:s8e45:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 45,
+"episodeTo": 45,
+"genres": [
+10767,
+10763
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"overviewEn": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"popularity": 69.78,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 348,
+"tmdb": 4.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "The Tamron Hall Show",
+"titleEn": null,
+"tmdbId": 93449,
+"trailerKey": null
+},
+"player:tv:93449:s8e46:sub": {
+"access": "sub",
+"backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
+"confirmedAt": null,
+"date": "2026-11-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:93449:s8e46:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 46,
+"episodeTo": 46,
+"genres": [
+10767,
+10763
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"overviewEn": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"popularity": 69.78,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 348,
+"tmdb": 4.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "The Tamron Hall Show",
+"titleEn": null,
+"tmdbId": 93449,
+"trailerKey": null
+},
+"player:tv:93449:s8e47:sub": {
+"access": "sub",
+"backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
+"confirmedAt": null,
+"date": "2026-11-19",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:93449:s8e47:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 47,
+"episodeTo": 47,
+"genres": [
+10767,
+10763
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"overviewEn": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"popularity": 69.78,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 348,
+"tmdb": 4.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "The Tamron Hall Show",
+"titleEn": null,
+"tmdbId": 93449,
+"trailerKey": null
+},
+"player:tv:93449:s8e48:sub": {
+"access": "sub",
+"backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
+"confirmedAt": null,
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:93449:s8e48:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 48,
+"episodeTo": 48,
+"genres": [
+10767,
+10763
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"overviewEn": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+"popularity": 69.78,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 348,
+"tmdb": 4.7
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
 "title": "The Tamron Hall Show",
 "titleEn": null,
 "tmdbId": 93449,
@@ -101163,6 +103485,43 @@
 "titleEn": "New Tales of Franz",
 "tmdbId": 1076957,
 "trailerKey": null
+},
+"polsatboxgo:movie:1101412:sub": {
+"access": "sub",
+"backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-14",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1101412:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Przyjaciółki Grace Caroline Currey i Virginia Gardner ponownie wcielają się w swoje role. Ich umiejętności wspinaczkowe i determinacja do przetrwania zostają wystawione na próbę w ryzykownych sytuacjach na szczycie pustej, 600-metrowej wieży radiowej.\r Przytłoczona śmiercią siostry Hunter, Jax (Slater) nawiązuje kontakt z Luce (Thomas), nieustraszoną przyjaciółką Hunter. Aby się zregenerować, próbują pokonać słynną trasę po desce na górze Kwan w Tajlandii. Po nagłym osuwisku, który pozostawia ich na kruchej desce 900 metrów nad ziemią, Jax musi zmierzyć się ze swoimi najgłębszymi lękami i walczyć o przetrwanie, by znaleźć ukojenie.",
+"overviewEn": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+"popularity": 130.29,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 15417,
+"tmdb": 7.2
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Nie patrz w dół 2",
+"titleEn": "Fall 2: Deadpoint",
+"tmdbId": 1101412,
+"trailerKey": "Krs0VDIjhmE"
 },
 "polsatboxgo:movie:1107264:paid": {
 "access": "paid",
@@ -107180,6 +109539,80 @@
 "tmdbId": 524635,
 "trailerKey": "Og1hVn5umZI"
 },
+"polsatboxgo:movie:528096:paid": {
+"access": "paid",
+"backdropPath": "/we9dDA5uNXt0s25HpFr85wsNVUq.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:528096:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jake przemierza nago wybrzeże Australii dla miłości i charytatywnej misji. Niespodziewanie spotkanie z tajemniczą turystką odmienia jego podróż.",
+"overviewEn": "A heartbroken young man decides to walk 4000km up the coast of Western Australia naked, for charity, with the secret goal of making his ex-girlfriend jealous.",
+"popularity": 0.59,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 900
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Nagi podróżnik",
+"titleEn": "The Naked Wanderer",
+"tmdbId": 528096,
+"trailerKey": "LLR2KkeWLs0"
+},
+"polsatboxgo:movie:528096:sub": {
+"access": "sub",
+"backdropPath": "/we9dDA5uNXt0s25HpFr85wsNVUq.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:528096:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jake przemierza nago wybrzeże Australii dla miłości i charytatywnej misji. Niespodziewanie spotkanie z tajemniczą turystką odmienia jego podróż.",
+"overviewEn": "A heartbroken young man decides to walk 4000km up the coast of Western Australia naked, for charity, with the secret goal of making his ex-girlfriend jealous.",
+"popularity": 0.59,
+"ratings": {
+"imdb": 5.4,
+"imdbVotes": 900
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Nagi podróżnik",
+"titleEn": "The Naked Wanderer",
+"tmdbId": 528096,
+"trailerKey": "LLR2KkeWLs0"
+},
 "polsatboxgo:movie:55429:paid": {
 "access": "paid",
 "backdropPath": "/zvNRf4KfomU4xJC9no1C6NjaqFh.jpg",
@@ -107255,6 +109688,45 @@
 "titleEn": "The Lullaby",
 "tmdbId": 55429,
 "trailerKey": "lxUAPxt5OSk"
+},
+"polsatboxgo:movie:57825:paid": {
+"access": "paid",
+"backdropPath": "/dxAeLMQC7M4Xp0dxrkL3rPq4vpf.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:57825:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Współczesne Indie. Hinduska matrona, pani Bakshi, ma w życiu jeden cel - chce jak najkorzystniej wydać za mąż cztery córki. Znakomitą okazją do polowania na zięciów jest zbliżająca się uroczystość zaślubin. Na przyjęciu pojawiają się przybyły z Ameryki drużba, Balraj Bingley, i jego przyjaciel, amerykański biznesmen William Darcy. Uwagę Balraja przyciąga Jaya, Darcy'emu w oko wpada Lalita. Po weselu Lalita i Will spotykają się kilkakrotnie, ale za każdym razem dochodzi do kłótni. Niebawem staje między nimi przystojny Anglik, Johnny Wickham.",
+"overviewEn": "Mrs. Bakshi is eager to find suitors for her four unmarried daughters when a family friend introduces them to handsome American Will Darcy. A Bollywood-style modern adaptation of Jane Austen's classic novel.",
+"popularity": 2.17,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 22899,
+"tmdb": 6.5
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Duma i uprzedzenie",
+"titleEn": "Bride & Prejudice",
+"tmdbId": 57825,
+"trailerKey": "nFYwqts1_TI"
 },
 "polsatboxgo:movie:59436:paid": {
 "access": "paid",
@@ -108432,6 +110904,84 @@
 "tmdbId": 897087,
 "trailerKey": "W0k2XerT8Nw"
 },
+"polsatboxgo:movie:9339:paid": {
+"access": "paid",
+"backdropPath": "/n6eIm882V7cj0In0xp8QXNItoTp.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:9339:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Goniący za karierą architekt otrzymuje od nowo poznanego sprzedawcy pilota, dzięki któremu może kontrolować różne części swojego życia.",
+"overviewEn": "A married workaholic, Michael Newman doesn't have time for his wife and children, not if he's to impress his ungrateful boss and earn a well-deserved promotion. So when he meets Morty, a loopy sales clerk, he gets the answer to his prayers: a magical remote that allows him to bypass life's little distractions with increasingly hysterical results.",
+"popularity": 7.73,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 394966,
+"tmdb": 6.3
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Klik: I robisz, co chcesz",
+"titleEn": "Click",
+"tmdbId": 9339,
+"trailerKey": "APUqyhgtCfk"
+},
+"polsatboxgo:movie:9339:sub": {
+"access": "sub",
+"backdropPath": "/n6eIm882V7cj0In0xp8QXNItoTp.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:9339:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+14
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Goniący za karierą architekt otrzymuje od nowo poznanego sprzedawcy pilota, dzięki któremu może kontrolować różne części swojego życia.",
+"overviewEn": "A married workaholic, Michael Newman doesn't have time for his wife and children, not if he's to impress his ungrateful boss and earn a well-deserved promotion. So when he meets Morty, a loopy sales clerk, he gets the answer to his prayers: a magical remote that allows him to bypass life's little distractions with increasingly hysterical results.",
+"popularity": 7.73,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 394966,
+"tmdb": 6.3
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Klik: I robisz, co chcesz",
+"titleEn": "Click",
+"tmdbId": 9339,
+"trailerKey": "APUqyhgtCfk"
+},
 "polsatboxgo:movie:938150:sub": {
 "access": "sub",
 "backdropPath": "/cVhvKbZS8H0oqKDGzoKvgG9dS1B.jpg",
@@ -108775,8 +111325,8 @@
 "polsatboxgo:movie:969681:sub": {
 "access": "sub",
 "backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-"confirmedAt": "2026-11-13T13:04:20Z",
-"date": "2026-11-13",
+"confirmedAt": null,
+"date": "2026-11-26",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "polsatboxgo:movie:969681:sub",
@@ -108805,7 +111355,7 @@
 },
 "serviceKey": "polsatboxgo",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Spider-Man: Całkiem nowy dzień",
 "titleEn": "Spider-Man: Brand New Day",
 "tmdbId": 969681,
@@ -110101,6 +112651,45 @@
 "tmdbId": 1016084,
 "trailerKey": "cXL_HDzBQsM"
 },
+"prime:movie:1024546:sub": {
+"access": "sub",
+"backdropPath": "/6YRQ8l93ZEs6x4rZojWoHIWdguK.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1024546:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Miasto szykuje się do Halloween, a w powietrzu unosi się niepokojący zapach zbrodni. Podczas jednego z napadów zamaskowani złodzieje ciężko ranią funkcjonariusza, a detektyw Knight poprzysięga pomścić swojego partnera. W pogoni za bandytami udaje się do Nowego Jorku, gdzie aktualne śledztwo krzyżuje się z mroczną przeszłością Jamesa.",
+"overviewEn": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.",
+"popularity": 2.44,
+"ratings": {
+"imdb": 3.9,
+"imdbVotes": 2656,
+"tmdb": 6.0
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Detektyw Knight: Łotr",
+"titleEn": "Detective Knight: Rogue",
+"tmdbId": 1024546,
+"trailerKey": "9pwnB3zLAFw"
+},
 "prime:movie:1030049:paid": {
 "access": "paid",
 "backdropPath": "/2yCy3hUEviStsaTWEKGtIRozf0m.jpg",
@@ -110597,6 +113186,43 @@
 "titleEn": "The End of Oak Street",
 "tmdbId": 1101383,
 "trailerKey": "u4tgctWuHc0"
+},
+"prime:movie:1101412:paid": {
+"access": "paid",
+"backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-14",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1101412:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Przyjaciółki Grace Caroline Currey i Virginia Gardner ponownie wcielają się w swoje role. Ich umiejętności wspinaczkowe i determinacja do przetrwania zostają wystawione na próbę w ryzykownych sytuacjach na szczycie pustej, 600-metrowej wieży radiowej.\r Przytłoczona śmiercią siostry Hunter, Jax (Slater) nawiązuje kontakt z Luce (Thomas), nieustraszoną przyjaciółką Hunter. Aby się zregenerować, próbują pokonać słynną trasę po desce na górze Kwan w Tajlandii. Po nagłym osuwisku, który pozostawia ich na kruchej desce 900 metrów nad ziemią, Jax musi zmierzyć się ze swoimi najgłębszymi lękami i walczyć o przetrwanie, by znaleźć ukojenie.",
+"overviewEn": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+"popularity": 130.29,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 15417,
+"tmdb": 7.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Nie patrz w dół 2",
+"titleEn": "Fall 2: Deadpoint",
+"tmdbId": 1101412,
+"trailerKey": "Krs0VDIjhmE"
 },
 "prime:movie:1119878:paid": {
 "access": "paid",
@@ -112558,7 +115184,7 @@
 "prime:movie:1273221:paid": {
 "access": "paid",
 "backdropPath": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -112586,7 +115212,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Straszny film",
 "titleEn": "Scary Movie",
 "tmdbId": 1273221,
@@ -112657,6 +115283,44 @@
 "titleEn": null,
 "tmdbId": 1282551,
 "trailerKey": null
+},
+"prime:movie:1283515:paid": {
+"access": "paid",
+"backdropPath": "/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1283515:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+9648,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Lowen Ashleigh, początkująca pisarka, zostaje zatrudniona w tajemniczych okolicznościach jako ghostwriterka Verity Crawford. Zlecenie przybiera mroczny obrót po odkryciu przerażających notatek autobiograficznych, a dodatkowo jej relacje z Jeremym, mężem mocodawczyni, stają się coraz bardziej niejednoznaczne. W obliczu serii śmiertelnie niebezpiecznych rodzinnych tajemnic Lowen próbuje oddzielić fikcję od rzeczywistości.",
+"overviewEn": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+"popularity": 126.25,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 38228,
+"tmdb": 7.0
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Verity. Coraz większy mrok",
+"titleEn": "Verity",
+"tmdbId": 1283515,
+"trailerKey": "xdPMKhjMSFs"
 },
 "prime:movie:1284186:paid": {
 "access": "paid",
@@ -113115,6 +115779,44 @@
 "titleEn": null,
 "tmdbId": 1319443,
 "trailerKey": "QGsUO--75oY"
+},
+"prime:movie:1323625:sub": {
+"access": "sub",
+"backdropPath": "/vHvVt2Lovn4G6of9u3pHEQE2CxI.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1323625:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Policjant z Los Angeles odkrywa, że ​​lokalna grupa specjalna skrywa tajemnicę, która naraża na niebezpieczeństwo mieszkańców dzielnicy, w której dorastał.",
+"overviewEn": "An L.A. cop discovers a local task force is hiding a secret that puts the residents of his childhood neighborhood in danger.",
+"popularity": 2.88,
+"ratings": {
+"imdb": 4.3,
+"imdbVotes": 3716,
+"tmdb": 5.0
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Nocny Patrol",
+"titleEn": "Night Patrol",
+"tmdbId": 1323625,
+"trailerKey": "8J_pMGZScB8"
 },
 "prime:movie:1325888:sub": {
 "access": "sub",
@@ -114021,8 +116723,8 @@
 "prime:movie:1433367:paid": {
 "access": "paid",
 "backdropPath": "/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-"confirmedAt": "2026-11-12T13:44:28Z",
-"date": "2026-11-13",
+"confirmedAt": null,
+"date": "2026-12-04",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "prime:movie:1433367:paid",
@@ -114050,7 +116752,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Tylko jedna noc",
 "titleEn": "One Night Only",
 "tmdbId": 1433367,
@@ -115419,6 +118121,72 @@
 "title": "BEAUTY AND THE BEAST SING-ALONG",
 "titleEn": null,
 "tmdbId": 1819518,
+"trailerKey": null
+},
+"prime:movie:1824969:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1824969:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "In 2015, Damien Rider paddled solo and unassisted from Coolangatta to Bondi. Ten years later, he sets out on a 12-day journey retracing that paddle, reflecting on the four principles that have guided him since — strength, trust, gratitude and love — and the challenges that put each of them to the test.",
+"overviewEn": "In 2015, Damien Rider paddled solo and unassisted from Coolangatta to Bondi. Ten years later, he sets out on a 12-day journey retracing that paddle, reflecting on the four principles that have guided him since — strength, trust, gratitude and love — and the challenges that put each of them to the test.",
+"popularity": 0.25,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Heart of the Sea 2",
+"titleEn": null,
+"tmdbId": 1824969,
+"trailerKey": null
+},
+"prime:movie:1824969:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1824969:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "In 2015, Damien Rider paddled solo and unassisted from Coolangatta to Bondi. Ten years later, he sets out on a 12-day journey retracing that paddle, reflecting on the four principles that have guided him since — strength, trust, gratitude and love — and the challenges that put each of them to the test.",
+"overviewEn": "In 2015, Damien Rider paddled solo and unassisted from Coolangatta to Bondi. Ten years later, he sets out on a 12-day journey retracing that paddle, reflecting on the four principles that have guided him since — strength, trust, gratitude and love — and the challenges that put each of them to the test.",
+"popularity": 0.25,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Heart of the Sea 2",
+"titleEn": null,
+"tmdbId": 1824969,
 "trailerKey": null
 },
 "prime:movie:1832:paid": {
@@ -118943,6 +121711,43 @@
 "titleEn": "Royal New Year's Eve",
 "tmdbId": 474979,
 "trailerKey": null
+},
+"prime:movie:482906:sub": {
+"access": "sub",
+"backdropPath": "/3RMrzFj5YWGlJF8fC1fEqTnSbl3.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:482906:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Encouraged by her lover, Danielle kills her husband and goes on the lam with her infant daughter Cali. But the cops catch her and, en route to prison, she agrees to give custody of Cali to her arch rival, her sister Nikki. But on release from prison, Danielle will stop at nothing to get Cali back from Nikki's safe and healthy home.",
+"overviewEn": "Encouraged by her lover, Danielle kills her husband and goes on the lam with her infant daughter Cali. But the cops catch her and, en route to prison, she agrees to give custody of Cali to her arch rival, her sister Nikki. But on release from prison, Danielle will stop at nothing to get Cali back from Nikki's safe and healthy home.",
+"popularity": 0.88,
+"ratings": {
+"imdb": 4.9,
+"imdbVotes": 283
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "A Mother's Crime",
+"titleEn": null,
+"tmdbId": 482906,
+"trailerKey": "2TxoDMfZudM"
 },
 "prime:movie:484468:paid": {
 "access": "paid",
@@ -122591,8 +125396,8 @@
 "prime:movie:969681:paid": {
 "access": "paid",
 "backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-"confirmedAt": "2026-11-13T13:04:20Z",
-"date": "2026-11-13",
+"confirmedAt": null,
+"date": "2026-11-26",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "prime:movie:969681:paid",
@@ -122621,7 +125426,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Spider-Man: Całkiem nowy dzień",
 "titleEn": "Spider-Man: Brand New Day",
 "tmdbId": 969681,
@@ -123277,6 +126082,44 @@
 "tmdbId": 139434,
 "trailerKey": null
 },
+"prime:tv:139434:s6e14:sub": {
+"access": "sub",
+"backdropPath": "/5iOySYfc1vV8nDvmqWQ0sHk7q2q.jpg",
+"confirmedAt": null,
+"date": "2026-12-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:139434:s6e14:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 14,
+"episodeTo": 14,
+"genres": [
+10764,
+99
+],
+"kind": "doc_series",
+"season": 6,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Abandoned in the swedish wilderness seven candidates struggle to survive for seven days. Everybody has to get along with seven previously selected items and the clothes they are wearing. Who remains after seven days and collected the most points in the challenges of the day wins. No camera crew, no contact to the outer world, complete isolation.",
+"overviewEn": "Abandoned in the swedish wilderness seven candidates struggle to survive for seven days. Everybody has to get along with seven previously selected items and the clothes they are wearing. Who remains after seven days and collected the most points in the challenges of the day wins. No camera crew, no contact to the outer world, complete isolation.",
+"popularity": 9.3,
+"ratings": {
+"imdb": 7.7,
+"imdbVotes": 1140,
+"tmdb": 8.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "7 vs. Wild",
+"titleEn": null,
+"tmdbId": 139434,
+"trailerKey": null
+},
 "prime:tv:139434:s6e4:sub": {
 "access": "sub",
 "backdropPath": "/5iOySYfc1vV8nDvmqWQ0sHk7q2q.jpg",
@@ -123432,7 +126275,7 @@
 "prime:tv:139434:s6e8:sub": {
 "access": "sub",
 "backdropPath": "/5iOySYfc1vV8nDvmqWQ0sHk7q2q.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -123461,7 +126304,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "7 vs. Wild",
 "titleEn": null,
 "tmdbId": 139434,
@@ -124969,7 +127812,7 @@
 "prime:tv:303745:s1e10:sub": {
 "access": "sub",
 "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -124999,7 +127842,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Miłość pod przykrywką",
 "titleEn": "Love in Disguise",
 "tmdbId": 303745,
@@ -127158,7 +130001,7 @@
 },
 "prime:tv:85077:s6e1:sub": {
 "access": "sub",
-"backdropPath": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+"backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "confirmedAt": "2026-11-15T12:43:14Z",
 "date": "2026-11-15",
 "dateConfirmed": true,
@@ -127197,7 +130040,7 @@
 },
 "prime:tv:85077:s6e4:sub": {
 "access": "sub",
-"backdropPath": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+"backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "confirmedAt": null,
 "date": "2026-11-22",
 "dateConfirmed": true,
@@ -127236,7 +130079,7 @@
 },
 "prime:tv:85077:s6e5:sub": {
 "access": "sub",
-"backdropPath": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+"backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "confirmedAt": null,
 "date": "2026-11-29",
 "dateConfirmed": true,
@@ -127275,7 +130118,7 @@
 },
 "prime:tv:85077:s6e6:sub": {
 "access": "sub",
-"backdropPath": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+"backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "confirmedAt": null,
 "date": "2026-12-06",
 "dateConfirmed": true,
@@ -127350,6 +130193,45 @@
 "titleEn": null,
 "tmdbId": 1016084,
 "trailerKey": "cXL_HDzBQsM"
+},
+"rakuten:movie:1024546:sub": {
+"access": "sub",
+"backdropPath": "/6YRQ8l93ZEs6x4rZojWoHIWdguK.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1024546:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Miasto szykuje się do Halloween, a w powietrzu unosi się niepokojący zapach zbrodni. Podczas jednego z napadów zamaskowani złodzieje ciężko ranią funkcjonariusza, a detektyw Knight poprzysięga pomścić swojego partnera. W pogoni za bandytami udaje się do Nowego Jorku, gdzie aktualne śledztwo krzyżuje się z mroczną przeszłością Jamesa.",
+"overviewEn": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.",
+"popularity": 2.44,
+"ratings": {
+"imdb": 3.9,
+"imdbVotes": 2656,
+"tmdb": 6.0
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Detektyw Knight: Łotr",
+"titleEn": "Detective Knight: Rogue",
+"tmdbId": 1024546,
+"trailerKey": "9pwnB3zLAFw"
 },
 "rakuten:movie:1073865:free": {
 "access": "free",
@@ -127466,6 +130348,43 @@
 "titleEn": "The End of Oak Street",
 "tmdbId": 1101383,
 "trailerKey": "u4tgctWuHc0"
+},
+"rakuten:movie:1101412:paid": {
+"access": "paid",
+"backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-14",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1101412:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Przyjaciółki Grace Caroline Currey i Virginia Gardner ponownie wcielają się w swoje role. Ich umiejętności wspinaczkowe i determinacja do przetrwania zostają wystawione na próbę w ryzykownych sytuacjach na szczycie pustej, 600-metrowej wieży radiowej.\r Przytłoczona śmiercią siostry Hunter, Jax (Slater) nawiązuje kontakt z Luce (Thomas), nieustraszoną przyjaciółką Hunter. Aby się zregenerować, próbują pokonać słynną trasę po desce na górze Kwan w Tajlandii. Po nagłym osuwisku, który pozostawia ich na kruchej desce 900 metrów nad ziemią, Jax musi zmierzyć się ze swoimi najgłębszymi lękami i walczyć o przetrwanie, by znaleźć ukojenie.",
+"overviewEn": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+"popularity": 130.29,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 15417,
+"tmdb": 7.2
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Nie patrz w dół 2",
+"titleEn": "Fall 2: Deadpoint",
+"tmdbId": 1101412,
+"trailerKey": "Krs0VDIjhmE"
 },
 "rakuten:movie:1124142:paid": {
 "access": "paid",
@@ -128591,7 +131510,7 @@
 "rakuten:movie:1273221:paid": {
 "access": "paid",
 "backdropPath": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -128619,7 +131538,7 @@
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Straszny film",
 "titleEn": "Scary Movie",
 "tmdbId": 1273221,
@@ -128932,6 +131851,44 @@
 "titleEn": "Marty Supreme",
 "tmdbId": 1317288,
 "trailerKey": "Z8rDPyKBy3k"
+},
+"rakuten:movie:1323625:sub": {
+"access": "sub",
+"backdropPath": "/vHvVt2Lovn4G6of9u3pHEQE2CxI.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1323625:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Policjant z Los Angeles odkrywa, że ​​lokalna grupa specjalna skrywa tajemnicę, która naraża na niebezpieczeństwo mieszkańców dzielnicy, w której dorastał.",
+"overviewEn": "An L.A. cop discovers a local task force is hiding a secret that puts the residents of his childhood neighborhood in danger.",
+"popularity": 2.88,
+"ratings": {
+"imdb": 4.3,
+"imdbVotes": 3716,
+"tmdb": 5.0
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Nocny Patrol",
+"titleEn": "Night Patrol",
+"tmdbId": 1323625,
+"trailerKey": "8J_pMGZScB8"
 },
 "rakuten:movie:1339713:paid": {
 "access": "paid",
@@ -129469,8 +132426,8 @@
 "rakuten:movie:1433367:paid": {
 "access": "paid",
 "backdropPath": "/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-"confirmedAt": "2026-11-12T13:44:28Z",
-"date": "2026-11-13",
+"confirmedAt": null,
+"date": "2026-12-04",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "rakuten:movie:1433367:paid",
@@ -129498,7 +132455,7 @@
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Tylko jedna noc",
 "titleEn": "One Night Only",
 "tmdbId": 1433367,
@@ -130359,6 +133316,43 @@
 "titleEn": "The House",
 "tmdbId": 345914,
 "trailerKey": "f-SP8iSCbKM"
+},
+"rakuten:movie:347328:paid": {
+"access": "paid",
+"backdropPath": "/u2AmciyHZNioN0WEq2dKD2zYVVF.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:347328:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Danny jest zdumiony, gdy dowiaduje się, że jest zabójczym robotem. Z odnowionymi nadziejami i siłami robotów, a także z pomocą swojego szefa macho i małego żydowskiego „R2D2”, Danny wyrusza na ratunek miłości swojego życia.",
+"overviewEn": "Danny gets dumped by Noa, who finds it difficult to bear his sensibilities. Devastated about her ignoring his calls, he inadvertently discovers that he is not a human being, but in fact, an engineered robot. As he gains confidence to confront her, he finds out that Noa has been kidnapped - and that they're both entangled in a high-tech conspiracy hoping to utilize robot-humans for violence.",
+"popularity": 0.48,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 1039
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Ratunku! Jestem robotem!",
+"titleEn": "OMG, I'm a Robot!",
+"tmdbId": 347328,
+"trailerKey": "xS5LK87feNw"
 },
 "rakuten:movie:351819:paid": {
 "access": "paid",
@@ -132055,8 +135049,8 @@
 "rakuten:movie:969681:paid": {
 "access": "paid",
 "backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-"confirmedAt": "2026-11-13T13:04:20Z",
-"date": "2026-11-13",
+"confirmedAt": null,
+"date": "2026-11-26",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "rakuten:movie:969681:paid",
@@ -132085,7 +135079,7 @@
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
-"status": "live",
+"status": "announced",
 "title": "Spider-Man: Całkiem nowy dzień",
 "titleEn": "Spider-Man: Brand New Day",
 "tmdbId": 969681,
@@ -134188,7 +137182,7 @@
 },
 "skyshowtime:tv:294405:s2e1:sub": {
 "access": "sub",
-"backdropPath": "/1avj9B7p8t9iTHTPQm9HjlUQ0Nq.jpg",
+"backdropPath": "/tqk45yG9Dhi60lX7tFLAKQyWm5b.jpg",
 "confirmedAt": "2026-11-16T13:36:17Z",
 "date": "2026-11-16",
 "dateConfirmed": true,
@@ -134225,7 +137219,7 @@
 },
 "skyshowtime:tv:294405:s2e3:sub": {
 "access": "sub",
-"backdropPath": "/1avj9B7p8t9iTHTPQm9HjlUQ0Nq.jpg",
+"backdropPath": "/tqk45yG9Dhi60lX7tFLAKQyWm5b.jpg",
 "confirmedAt": null,
 "date": "2026-11-23",
 "dateConfirmed": true,
@@ -134262,7 +137256,7 @@
 },
 "skyshowtime:tv:294405:s2e5:sub": {
 "access": "sub",
-"backdropPath": "/1avj9B7p8t9iTHTPQm9HjlUQ0Nq.jpg",
+"backdropPath": "/tqk45yG9Dhi60lX7tFLAKQyWm5b.jpg",
 "confirmedAt": null,
 "date": "2026-11-30",
 "dateConfirmed": true,
@@ -134595,7 +137589,7 @@
 "skyshowtime:tv:4614:s24e6:sub": {
 "access": "sub",
 "backdropPath": "/rHKRZCBpDFSNc45kzyf665LJYp3.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -134625,7 +137619,7 @@
 },
 "serviceKey": "skyshowtime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Agenci NCIS",
 "titleEn": "NCIS",
 "tmdbId": 4614,
@@ -134644,6 +137638,45 @@
 "allEpisodes": false,
 "episodeFrom": 7,
 "episodeTo": 7,
+"genres": [
+80,
+18,
+10759
+],
+"kind": "series",
+"season": 24,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Serial opowiadający o grupie agentów specjalnych, którzy prowadzą śledztwa kryminalne w obrębie amerykańskiej marynarki wojennej i Marines. Grupie agentów przewodzi Leroy Jethro Gibbs (Mark Harmon, Zakręcony piątek, Córka prezydenta). W jej skład wchodzą Anthony DiNozzo (Michael Weatherly, Czarodziejki), Timothy McGee (Sean Murray, JAG - Wojskowe Biuro Śledcze) oraz Kate Todd (Sasha Alexander)",
+"overviewEn": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+"popularity": 245.73,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 179447,
+"tmdb": 7.6
+},
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "announced",
+"title": "Agenci NCIS",
+"titleEn": "NCIS",
+"tmdbId": 4614,
+"trailerKey": "BhtDgn31XZo"
+},
+"skyshowtime:tv:4614:s24e8:sub": {
+"access": "sub",
+"backdropPath": "/rHKRZCBpDFSNc45kzyf665LJYp3.jpg",
+"confirmedAt": null,
+"date": "2026-12-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:tv:4614:s24e8:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 8,
+"episodeTo": 8,
 "genres": [
 80,
 18,
@@ -135624,6 +138657,43 @@
 "titleEn": "Eye of the Needle",
 "tmdbId": 10863,
 "trailerKey": "BqwjTSLsjp8"
+},
+"tvpvod:movie:1101412:paid": {
+"access": "paid",
+"backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-14",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1101412:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Przyjaciółki Grace Caroline Currey i Virginia Gardner ponownie wcielają się w swoje role. Ich umiejętności wspinaczkowe i determinacja do przetrwania zostają wystawione na próbę w ryzykownych sytuacjach na szczycie pustej, 600-metrowej wieży radiowej.\r Przytłoczona śmiercią siostry Hunter, Jax (Slater) nawiązuje kontakt z Luce (Thomas), nieustraszoną przyjaciółką Hunter. Aby się zregenerować, próbują pokonać słynną trasę po desce na górze Kwan w Tajlandii. Po nagłym osuwisku, który pozostawia ich na kruchej desce 900 metrów nad ziemią, Jax musi zmierzyć się ze swoimi najgłębszymi lękami i walczyć o przetrwanie, by znaleźć ukojenie.",
+"overviewEn": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+"popularity": 130.29,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 15417,
+"tmdb": 7.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Nie patrz w dół 2",
+"titleEn": "Fall 2: Deadpoint",
+"tmdbId": 1101412,
+"trailerKey": "Krs0VDIjhmE"
 },
 "tvpvod:movie:1124142:paid": {
 "access": "paid",
@@ -137864,6 +140934,45 @@
 "titleEn": "Just an Illusion",
 "tmdbId": 1404684,
 "trailerKey": "vZtK0AdeXk8"
+},
+"tvpvod:movie:14336:free": {
+"access": "free",
+"backdropPath": "/vb4lRWUV0ZdFN1MyNqGGMNgE0xB.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:14336:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+10402
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Australijski dysk-dżokej zostaje wynajęty na koncert zespołu ABBA w trakcie tournee po Australii. Jego występy są jednak bardzo kiepskie - jest złym aktorem, a humor przez niego reprezentowany pozostawia wiele do życzenia... Ten mało oryginalny film ma jedną niepodważalną wartość - muzykę szwedzkiego kwartetu i sceny nakręcone za kulisami. Fani Abby na pewno nie będą zawiedzeni.",
+"overviewEn": "A radio DJ in pursuit of an exclusive interview follows ABBA during their mega-successful tour of Australia.",
+"popularity": 1.16,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 4219,
+"tmdb": 6.7
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "A𐤡BA",
+"titleEn": "ABBA: The Movie",
+"tmdbId": 14336,
+"trailerKey": "W-HGQR9afws"
 },
 "tvpvod:movie:1449400:paid": {
 "access": "paid",
@@ -141220,6 +144329,82 @@
 "tmdbId": 87061,
 "trailerKey": null
 },
+"tvpvod:movie:87496:free": {
+"access": "free",
+"backdropPath": "/bG1FUzeF5GxtAuHLwzoqOO848Rl.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:87496:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jim Grant (Robert Redford) jest wdowcem, samotnie wychowującym córkę. Pracuje jako prawnik na przedmieściach Nowego Jorku. Pewnego dnia jego świat wywraca się do góry nogami. Młody ambitny dziennikarz, Ben Shepard (Shia LaBeouf), odkrywa jego prawdziwą tożsamość. Okazuje się, że w latach 70. Jim był aktywistą radykalnego lewicowego ruchu studenckiego. Oskarżony o morderstwo, od 30 lat ukrywa się przed wymiarem sprawiedliwości. Teraz Jim musi uciekać - a jednocześnie ujawniając pewne wydarzenia z przeszłości, próbować odzyskać swoje dobre imię.  [opis dystrybutora dvd]",
+"overviewEn": "A former Weather Underground activist goes on the run from a journalist who discovers his identity.",
+"popularity": 3.13,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 37793,
+"tmdb": 6.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Reguła Milczenia",
+"titleEn": "The Company You Keep",
+"tmdbId": 87496,
+"trailerKey": "FZ4CTyDwoPM"
+},
+"tvpvod:movie:87496:sub": {
+"access": "sub",
+"backdropPath": "/bG1FUzeF5GxtAuHLwzoqOO848Rl.jpg",
+"confirmedAt": "2026-11-16T23:44:22Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:87496:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jim Grant (Robert Redford) jest wdowcem, samotnie wychowującym córkę. Pracuje jako prawnik na przedmieściach Nowego Jorku. Pewnego dnia jego świat wywraca się do góry nogami. Młody ambitny dziennikarz, Ben Shepard (Shia LaBeouf), odkrywa jego prawdziwą tożsamość. Okazuje się, że w latach 70. Jim był aktywistą radykalnego lewicowego ruchu studenckiego. Oskarżony o morderstwo, od 30 lat ukrywa się przed wymiarem sprawiedliwości. Teraz Jim musi uciekać - a jednocześnie ujawniając pewne wydarzenia z przeszłości, próbować odzyskać swoje dobre imię.  [opis dystrybutora dvd]",
+"overviewEn": "A former Weather Underground activist goes on the run from a journalist who discovers his identity.",
+"popularity": 3.13,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 37793,
+"tmdb": 6.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Reguła Milczenia",
+"titleEn": "The Company You Keep",
+"tmdbId": 87496,
+"trailerKey": "FZ4CTyDwoPM"
+},
 "tvpvod:movie:938150:paid": {
 "access": "paid",
 "backdropPath": "/cVhvKbZS8H0oqKDGzoKvgG9dS1B.jpg",
@@ -141852,7 +145037,7 @@
 "tvpvod:tv:14447:s27e22:free": {
 "access": "free",
 "backdropPath": "/jZhbWvp8tNrCA1zTyQQGPh0kabG.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-16T23:44:22Z",
 "date": "2026-11-17",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -141879,7 +145064,7 @@
 },
 "serviceKey": "tvpvod",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "M jak miłość",
 "titleEn": "L for Love",
 "tmdbId": 14447,
@@ -144283,7 +147468,7 @@
 },
 "tvpvod:tv:85077:s6e1:free": {
 "access": "free",
-"backdropPath": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+"backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "confirmedAt": "2026-11-15T12:43:14Z",
 "date": "2026-11-15",
 "dateConfirmed": true,
@@ -144322,7 +147507,7 @@
 },
 "tvpvod:tv:85077:s6e4:free": {
 "access": "free",
-"backdropPath": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+"backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "confirmedAt": null,
 "date": "2026-11-22",
 "dateConfirmed": true,
@@ -144361,7 +147546,7 @@
 },
 "tvpvod:tv:85077:s6e5:free": {
 "access": "free",
-"backdropPath": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+"backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "confirmedAt": null,
 "date": "2026-11-29",
 "dateConfirmed": true,
@@ -144400,7 +147585,7 @@
 },
 "tvpvod:tv:85077:s6e6:free": {
 "access": "free",
-"backdropPath": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+"backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "confirmedAt": null,
 "date": "2026-12-06",
 "dateConfirmed": true,
