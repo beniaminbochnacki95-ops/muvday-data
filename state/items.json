@@ -6933,7 +6933,7 @@
 },
 "appletv:movie:969681:free": {
 "access": "free",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": "2026-11-04T21:17:31Z",
 "date": "2026-11-04",
 "dateConfirmed": true,
@@ -6972,7 +6972,7 @@
 },
 "appletv:movie:969681:paid": {
 "access": "paid",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": null,
 "date": "2026-11-26",
 "dateConfirmed": true,
@@ -7712,7 +7712,7 @@
 "ratings": {
 "imdb": 5.7,
 "imdbVotes": 857,
-"tmdb": 6.2
+"tmdb": 6.3
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -7751,7 +7751,7 @@
 "ratings": {
 "imdb": 5.7,
 "imdbVotes": 857,
-"tmdb": 6.2
+"tmdb": 6.3
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -7790,7 +7790,7 @@
 "ratings": {
 "imdb": 5.7,
 "imdbVotes": 857,
-"tmdb": 6.2
+"tmdb": 6.3
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -7829,7 +7829,7 @@
 "ratings": {
 "imdb": 5.7,
 "imdbVotes": 857,
-"tmdb": 6.2
+"tmdb": 6.3
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -7868,7 +7868,7 @@
 "ratings": {
 "imdb": 5.7,
 "imdbVotes": 857,
-"tmdb": 6.2
+"tmdb": 6.3
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -7907,7 +7907,7 @@
 "ratings": {
 "imdb": 5.7,
 "imdbVotes": 857,
-"tmdb": 6.2
+"tmdb": 6.3
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -7982,7 +7982,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 4198,
-"tmdb": 7.5
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -8021,7 +8021,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 4198,
-"tmdb": 7.5
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -8060,7 +8060,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 4198,
-"tmdb": 7.5
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -8099,7 +8099,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 4198,
-"tmdb": 7.5
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -8138,7 +8138,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 4198,
-"tmdb": 7.5
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -39653,7 +39653,7 @@
 },
 "canalplus:movie:969681:free": {
 "access": "free",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": "2026-11-06T20:52:16Z",
 "date": "2026-11-06",
 "dateConfirmed": true,
@@ -39692,7 +39692,7 @@
 },
 "canalplus:movie:969681:paid": {
 "access": "paid",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": null,
 "date": "2026-11-26",
 "dateConfirmed": true,
@@ -39731,7 +39731,7 @@
 },
 "canalplus:movie:969681:sub": {
 "access": "sub",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": "2026-11-06T20:52:16Z",
 "date": "2026-11-06",
 "dateConfirmed": true,
@@ -52036,7 +52036,7 @@
 "ratings": {
 "imdb": 6.1,
 "imdbVotes": 2198,
-"tmdb": 6.1
+"tmdb": 6.0
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -52073,7 +52073,7 @@
 "ratings": {
 "imdb": 6.1,
 "imdbVotes": 2198,
-"tmdb": 6.1
+"tmdb": 6.0
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -52110,7 +52110,7 @@
 "ratings": {
 "imdb": 6.1,
 "imdbVotes": 2198,
-"tmdb": 6.1
+"tmdb": 6.0
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -52147,7 +52147,7 @@
 "ratings": {
 "imdb": 6.1,
 "imdbVotes": 2198,
-"tmdb": 6.1
+"tmdb": 6.0
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -52184,7 +52184,7 @@
 "ratings": {
 "imdb": 6.1,
 "imdbVotes": 2198,
-"tmdb": 6.1
+"tmdb": 6.0
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -52221,7 +52221,7 @@
 "ratings": {
 "imdb": 6.1,
 "imdbVotes": 2198,
-"tmdb": 6.1
+"tmdb": 6.0
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -52258,7 +52258,7 @@
 "ratings": {
 "imdb": 6.1,
 "imdbVotes": 2198,
-"tmdb": 6.1
+"tmdb": 6.0
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -52295,7 +52295,7 @@
 "ratings": {
 "imdb": 6.1,
 "imdbVotes": 2198,
-"tmdb": 6.1
+"tmdb": 6.0
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -52332,7 +52332,7 @@
 "ratings": {
 "imdb": 6.1,
 "imdbVotes": 2198,
-"tmdb": 6.1
+"tmdb": 6.0
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -52369,7 +52369,7 @@
 "ratings": {
 "imdb": 6.1,
 "imdbVotes": 2198,
-"tmdb": 6.1
+"tmdb": 6.0
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -52406,7 +52406,7 @@
 "ratings": {
 "imdb": 6.1,
 "imdbVotes": 2198,
-"tmdb": 6.1
+"tmdb": 6.0
 },
 "serviceKey": "cda",
 "source": "tmdb",
@@ -53719,6 +53719,45 @@
 "allEpisodes": false,
 "episodeFrom": 6,
 "episodeTo": 6,
+"genres": [
+10759,
+16,
+10762
+],
+"kind": "series",
+"season": 7,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Serial opowiada o przygodach nastolatki Marinette, która otrzymała niezwykły dar — może przemieniać się w Biedronkę — super-bohaterkę o mocach szczęścia. W zwalczaniu zła pomaga jej Czarny Kot, który w rzeczywistości jest Adrienem, w którym dziewczyna jest zakochana. Bohaterowie nie wiedzą, kim są w rzeczywistości, a Czarny Kot żywi nieodwzajemnione uczucia do Biedronki. Czy nastolatkowie dowiedzą się, kim są naprawdę?",
+"overviewEn": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+"popularity": 152.98,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 21205,
+"tmdb": 8.1
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "announced",
+"title": "Miraculum: Biedronka i Czarny Kot",
+"titleEn": "Miraculous: Tales of Ladybug & Cat Noir",
+"tmdbId": 65334,
+"trailerKey": "Eo73DkyXywE"
+},
+"cda:tv:65334:s7e7:sub": {
+"access": "sub",
+"backdropPath": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+"confirmedAt": null,
+"date": "2026-12-06",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:tv:65334:s7e7:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 7,
+"episodeTo": 7,
 "genres": [
 10759,
 16,
@@ -59412,6 +59451,45 @@
 "allEpisodes": false,
 "episodeFrom": 6,
 "episodeTo": 6,
+"genres": [
+10759,
+16,
+10762
+],
+"kind": "series",
+"season": 7,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Serial opowiada o przygodach nastolatki Marinette, która otrzymała niezwykły dar — może przemieniać się w Biedronkę — super-bohaterkę o mocach szczęścia. W zwalczaniu zła pomaga jej Czarny Kot, który w rzeczywistości jest Adrienem, w którym dziewczyna jest zakochana. Bohaterowie nie wiedzą, kim są w rzeczywistości, a Czarny Kot żywi nieodwzajemnione uczucia do Biedronki. Czy nastolatkowie dowiedzą się, kim są naprawdę?",
+"overviewEn": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+"popularity": 152.98,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 21205,
+"tmdb": 8.1
+},
+"serviceKey": "disney",
+"source": "tmdb",
+"status": "announced",
+"title": "Miraculum: Biedronka i Czarny Kot",
+"titleEn": "Miraculous: Tales of Ladybug & Cat Noir",
+"tmdbId": 65334,
+"trailerKey": "Eo73DkyXywE"
+},
+"disney:tv:65334:s7e7:sub": {
+"access": "sub",
+"backdropPath": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+"confirmedAt": null,
+"date": "2026-12-06",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "disney:tv:65334:s7e7:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 7,
+"episodeTo": 7,
 "genres": [
 10759,
 16,
@@ -72916,6 +72994,43 @@
 "titleEn": "A League of Their Own",
 "tmdbId": 11287,
 "trailerKey": "0A-O1MJAl9E"
+},
+"netflix:movie:1211066:paid": {
+"access": "paid",
+"backdropPath": "/kS1mrZJr56m6tRxpmaIybfuOUEr.jpg",
+"confirmedAt": "2026-11-17T22:52:05Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:1211066:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Miłość Kaśki i Patryka zostaje poddana próbie, bo oboje podejrzewają się nawzajem o niewierność. Jakby tego było mało, sąsiedzi wciąż wtrącają się w ich sprawy.",
+"overviewEn": "Kaska and Patryk's romance gets tested when they suspect each other of infidelity. Making matters worse, their neighbors keep meddling in their affairs.",
+"popularity": 0.94,
+"ratings": {
+"imdb": 4.4,
+"imdbVotes": 356
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Poskromienie złośnicy 2 czyli wiele hałasu o nic",
+"titleEn": "The Taming of the Shrewd 2",
+"tmdbId": 1211066,
+"trailerKey": "Ekw-Xqy9LMk"
 },
 "netflix:movie:1215889:sub": {
 "access": "sub",
@@ -88475,6 +88590,45 @@
 "tmdbId": 65334,
 "trailerKey": "Eo73DkyXywE"
 },
+"netflix:tv:65334:s7e7:sub": {
+"access": "sub",
+"backdropPath": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+"confirmedAt": null,
+"date": "2026-12-06",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:65334:s7e7:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 7,
+"episodeTo": 7,
+"genres": [
+10759,
+16,
+10762
+],
+"kind": "series",
+"season": 7,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Serial opowiada o przygodach nastolatki Marinette, która otrzymała niezwykły dar — może przemieniać się w Biedronkę — super-bohaterkę o mocach szczęścia. W zwalczaniu zła pomaga jej Czarny Kot, który w rzeczywistości jest Adrienem, w którym dziewczyna jest zakochana. Bohaterowie nie wiedzą, kim są w rzeczywistości, a Czarny Kot żywi nieodwzajemnione uczucia do Biedronki. Czy nastolatkowie dowiedzą się, kim są naprawdę?",
+"overviewEn": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+"popularity": 152.98,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 21205,
+"tmdb": 8.1
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "Miraculum: Biedronka i Czarny Kot",
+"titleEn": "Miraculous: Tales of Ladybug & Cat Noir",
+"tmdbId": 65334,
+"trailerKey": "Eo73DkyXywE"
+},
 "netflix:tv:65701:s31e41:sub": {
 "access": "sub",
 "backdropPath": "/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
@@ -88923,6 +89077,43 @@
 "titleEn": null,
 "tmdbId": 89333,
 "trailerKey": "OpMomvEw5H4"
+},
+"netflix:tv:97083:s8e1:sub": {
+"access": "sub",
+"backdropPath": "/9RvOSdK6oHbTZmGswApOziC0zc8.jpg",
+"confirmedAt": null,
+"date": "2026-11-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:97083:s8e1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 1,
+"episodeTo": 1,
+"genres": [
+10764
+],
+"kind": "series",
+"season": 8,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "W tym społecznym eksperymencie ścierają się ze sobą statusy i strategie. Uczestnicy konkursu flirtują, nawiązują przyjaźnie i… kłamią, by wygrać 100 000 dolarów.",
+"overviewEn": "Status and strategy collide in this social experiment and competition show where online players flirt, befriend and catfish their way toward $100,000.",
+"popularity": 14.14,
+"ratings": {
+"imdb": 7.2,
+"imdbVotes": 9436,
+"tmdb": 6.8
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "The Circle",
+"titleEn": null,
+"tmdbId": 97083,
+"trailerKey": "4PUKxO4fwSc"
 },
 "netflix:tv:97890:sub": {
 "access": "sub",
@@ -96761,7 +96952,7 @@
 },
 "player:movie:969681:free": {
 "access": "free",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": "2026-11-04T21:17:31Z",
 "date": "2026-11-04",
 "dateConfirmed": true,
@@ -96800,7 +96991,7 @@
 },
 "player:movie:969681:paid": {
 "access": "paid",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": null,
 "date": "2026-11-26",
 "dateConfirmed": true,
@@ -102818,105 +103009,6 @@
 "titleEn": "Gold Rush",
 "tmdbId": 34634,
 "trailerKey": "ZxnqvqQN3Cs"
-},
-"player:tv:44996:s15e10:sub": {
-"access": "sub",
-"backdropPath": "/FEh9W3KUDFo1RmvDUNqPqE2mxq.jpg",
-"confirmedAt": "2026-11-15T12:43:14Z",
-"date": "2026-11-15",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "player:tv:44996:s15e10:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 10,
-"episodeTo": 10,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 15,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Program kulinarny, którego celem jest wyłonienie talentów, spośród amatorów kuchni. Po raz pierwszy show został wyemitowany w 1990 r. Od tamtej pory program nadano w 35 krajach na świecie. Kucharze-amatorzy walczą o tytuł Mistrza Kuchni, nagrodę pieniężną w wysokości 100.000 zł i kontrakt na wydanie autorskiej książki kucharskiej. Jury spośród tysięcy chętnych z całego kraju, wybiera finałową czternastkę.",
-"overviewEn": "MasterChef is a Polish television series based on a British television cooking game show under the same title. It premiered on TVN on 2 September 2012. The show is presented by Magda Gessler, who also presents a Polish version of Kitchen Nightmares on the same channel. She also serves as the head judge and is joined on the panel by Michel Moran and Anna Starmach.",
-"popularity": 6.63,
-"ratings": null,
-"serviceKey": "player",
-"source": "tmdb",
-"status": "live",
-"title": "MasterChef",
-"titleEn": null,
-"tmdbId": 44996,
-"trailerKey": null
-},
-"player:tv:44996:s15e11:sub": {
-"access": "sub",
-"backdropPath": "/FEh9W3KUDFo1RmvDUNqPqE2mxq.jpg",
-"confirmedAt": null,
-"date": "2026-11-22",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "player:tv:44996:s15e11:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 11,
-"episodeTo": 11,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 15,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Program kulinarny, którego celem jest wyłonienie talentów, spośród amatorów kuchni. Po raz pierwszy show został wyemitowany w 1990 r. Od tamtej pory program nadano w 35 krajach na świecie. Kucharze-amatorzy walczą o tytuł Mistrza Kuchni, nagrodę pieniężną w wysokości 100.000 zł i kontrakt na wydanie autorskiej książki kucharskiej. Jury spośród tysięcy chętnych z całego kraju, wybiera finałową czternastkę.",
-"overviewEn": "MasterChef is a Polish television series based on a British television cooking game show under the same title. It premiered on TVN on 2 September 2012. The show is presented by Magda Gessler, who also presents a Polish version of Kitchen Nightmares on the same channel. She also serves as the head judge and is joined on the panel by Michel Moran and Anna Starmach.",
-"popularity": 6.63,
-"ratings": null,
-"serviceKey": "player",
-"source": "tmdb",
-"status": "announced",
-"title": "MasterChef",
-"titleEn": null,
-"tmdbId": 44996,
-"trailerKey": null
-},
-"player:tv:44996:s15e12:sub": {
-"access": "sub",
-"backdropPath": "/FEh9W3KUDFo1RmvDUNqPqE2mxq.jpg",
-"confirmedAt": null,
-"date": "2026-11-29",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "player:tv:44996:s15e12:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 12,
-"episodeTo": 12,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 15,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Program kulinarny, którego celem jest wyłonienie talentów, spośród amatorów kuchni. Po raz pierwszy show został wyemitowany w 1990 r. Od tamtej pory program nadano w 35 krajach na świecie. Kucharze-amatorzy walczą o tytuł Mistrza Kuchni, nagrodę pieniężną w wysokości 100.000 zł i kontrakt na wydanie autorskiej książki kucharskiej. Jury spośród tysięcy chętnych z całego kraju, wybiera finałową czternastkę.",
-"overviewEn": "MasterChef is a Polish television series based on a British television cooking game show under the same title. It premiered on TVN on 2 September 2012. The show is presented by Magda Gessler, who also presents a Polish version of Kitchen Nightmares on the same channel. She also serves as the head judge and is joined on the panel by Michel Moran and Anna Starmach.",
-"popularity": 6.63,
-"ratings": null,
-"serviceKey": "player",
-"source": "tmdb",
-"status": "announced",
-"title": "MasterChef",
-"titleEn": null,
-"tmdbId": 44996,
-"trailerKey": null
 },
 "player:tv:44996:s15e9:sub": {
 "access": "sub",
@@ -113354,7 +113446,7 @@
 },
 "polsatboxgo:movie:969681:free": {
 "access": "free",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": "2026-11-04T21:17:31Z",
 "date": "2026-11-04",
 "dateConfirmed": true,
@@ -113393,7 +113485,7 @@
 },
 "polsatboxgo:movie:969681:sub": {
 "access": "sub",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": null,
 "date": "2026-11-26",
 "dateConfirmed": true,
@@ -127643,7 +127735,7 @@
 },
 "prime:movie:969681:free": {
 "access": "free",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": "2026-11-04T21:17:31Z",
 "date": "2026-11-04",
 "dateConfirmed": true,
@@ -127682,7 +127774,7 @@
 },
 "prime:movie:969681:paid": {
 "access": "paid",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": null,
 "date": "2026-11-26",
 "dateConfirmed": true,
@@ -128092,6 +128184,44 @@
 "titleEn": null,
 "tmdbId": 997786,
 "trailerKey": null
+},
+"prime:tv:101352:s5e1:sub": {
+"access": "sub",
+"backdropPath": "/iZ8EtGAqKWZdRJPzWfFseNfVxjh.jpg",
+"confirmedAt": null,
+"date": "2026-12-03",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:101352:s5e1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 1,
+"episodeTo": 1,
+"genres": [
+35,
+18
+],
+"kind": "series",
+"season": 5,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a panchayat office in a remote village of Uttar Pradesh. Stuck between crazy villagers and a difficult village lifestyle Abhishek starts his job with the sole motivation of getting out of there as soon as possible, for which he even prepares for CAT.",
+"overviewEn": "Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a panchayat office in a remote village of Uttar Pradesh. Stuck between crazy villagers and a difficult village lifestyle Abhishek starts his job with the sole motivation of getting out of there as soon as possible, for which he even prepares for CAT.",
+"popularity": 7.35,
+"ratings": {
+"imdb": 9.0,
+"imdbVotes": 120794,
+"tmdb": 8.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "पंचायत",
+"titleEn": "Panchayat",
+"tmdbId": 101352,
+"trailerKey": "AHMEtNAZTP4"
 },
 "prime:tv:119845:paid": {
 "access": "paid",
@@ -137555,7 +137685,7 @@
 },
 "rakuten:movie:969681:free": {
 "access": "free",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": "2026-11-04T21:17:31Z",
 "date": "2026-11-04",
 "dateConfirmed": true,
@@ -137594,7 +137724,7 @@
 },
 "rakuten:movie:969681:paid": {
 "access": "paid",
-"backdropPath": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+"backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "confirmedAt": null,
 "date": "2026-11-26",
 "dateConfirmed": true,
@@ -150886,6 +151016,45 @@
 "allEpisodes": false,
 "episodeFrom": 6,
 "episodeTo": 6,
+"genres": [
+10759,
+16,
+10762
+],
+"kind": "series",
+"season": 7,
+"withAds": true
+},
+"origin": "schedule",
+"overview": "Serial opowiada o przygodach nastolatki Marinette, która otrzymała niezwykły dar — może przemieniać się w Biedronkę — super-bohaterkę o mocach szczęścia. W zwalczaniu zła pomaga jej Czarny Kot, który w rzeczywistości jest Adrienem, w którym dziewczyna jest zakochana. Bohaterowie nie wiedzą, kim są w rzeczywistości, a Czarny Kot żywi nieodwzajemnione uczucia do Biedronki. Czy nastolatkowie dowiedzą się, kim są naprawdę?",
+"overviewEn": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+"popularity": 152.98,
+"ratings": {
+"imdb": 7.5,
+"imdbVotes": 21205,
+"tmdb": 8.1
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "announced",
+"title": "Miraculum: Biedronka i Czarny Kot",
+"titleEn": "Miraculous: Tales of Ladybug & Cat Noir",
+"tmdbId": 65334,
+"trailerKey": "Eo73DkyXywE"
+},
+"tvpvod:tv:65334:s7e7:free": {
+"access": "free",
+"backdropPath": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+"confirmedAt": null,
+"date": "2026-12-06",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:tv:65334:s7e7:free",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 7,
+"episodeTo": 7,
 "genres": [
 10759,
 16,
