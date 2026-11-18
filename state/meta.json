@@ -1,4 +1,24 @@
 {
+"movie:1000075": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/gqlsgPgxXgWTJsta183hkg3szjW.jpg",
+"genres": [
+28,
+12,
+53
+],
+"imdbId": "tt23049322",
+"kind": "movie",
+"overview": "Od czasu brutalnego porwania jego syna Nooma, Largo Winch (Tomer Sisley) stał się przedmiotem bezlitosnego spisku mającego na celu unicestwienie go i zniszczenie grupy W. Aby odkryć prawdę i odnaleźć syna, Largo wyrusza na polowanie. Od kanadyjskich lasów, przez Bangkok, aż po głębiny birmańskich kopalni, jeszcze nie wie, że będzie musiał stawić czoła demonom przeszłości.",
+"overviewEn": "Largo Winch, devastated by the kidnapping of his son, realizes that if he finds those responsible for his bankruptcy, maybe he'll see his son again.",
+"popularity": 3.1,
+"title": "Largo Winch 3: Cena pieniądza",
+"titleEn": "Largo Winch: The Price of Money",
+"tmdbRating": 5.8,
+"trailerKey": "8bgZE7IJRM8"
+}
+},
 "movie:1000213": {
 "at": "2026-11-07T19:24:27.193597+00:00",
 "meta": {
@@ -625,6 +645,26 @@
 "trailerKey": "0oLD1yYfgBY"
 }
 },
+"movie:10278": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/oyozrAwuzpXIhxvsCA688SFcIEw.jpg",
+"genres": [
+18,
+53,
+10749
+],
+"imdbId": "tt0124595",
+"kind": "movie",
+"overview": "Trzech Amerykanów, Szeryf, Tony i Lewis, zaprzyjaźnia się podczas długich wakacji w Malezji. Dwóch z nich wraca do Stanów, a Lewis postanawia zostać. Przed wyjazdem koledzy wręczają Lewisowi kilka działek haszyszu. Dwa lata później Szeryf dowiaduje się, że jego przyjaciel od czasu ich wyjazdu, siedzi w więzieniu i został skazany na śmierć za posiadanie narkotyków. Jedynym sposobem, by uratować jego życie jest powrót do Malezji i przyznanie się przez Szeryfa i Tony'ego, że część haszyszu należała do nich.",
+"overviewEn": "Lewis, Sheriff and Tony are three friends vacationing in Malaysia. Sheriff and Tony eventually leave to pursue careers in New York, but Lewis stays behind to work with orangutans. Two years later, Sheriff and Tony learn that, because of their past actions, Lewis has been arrested for drug possession. With Lewis facing a death sentence, the friends are left with a difficult decision: return to Malaysia and split Lewis' sentence, or let him die.",
+"popularity": 1.86,
+"title": "Powrót do raju",
+"titleEn": "Return to Paradise",
+"tmdbRating": 6.5,
+"trailerKey": "t58hRl6dLyY"
+}
+},
 "movie:1028180": {
 "at": "2026-11-12T21:49:59.131477+00:00",
 "meta": {
@@ -644,6 +684,25 @@
 "titleEn": "In Merry Measure",
 "tmdbRating": null,
 "trailerKey": "hGcCJfTD79k"
+}
+},
+"movie:10292": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/hgwBYgFvHEDJVx0OVA4qGtcYrCC.jpg",
+"genres": [
+27,
+9648
+],
+"imdbId": "tt0451957",
+"kind": "movie",
+"overview": "W noc zjazdu absolwentów, trójka szkolnych przyjaciół intonuje zaklęcie, uwalniające złego demona z przeszłości. Konsekwencje okazują się być tragiczne. Tej samej nocy gang uprowadza dziewczęta. Gdy zostają uratowane, okazuje się, że ich dręczyciele giną jeden po drugim w serii makabrycznych morderstw. Czy to wszystko, to tylko wybryki, które wyrwały się spod kontroli i przerodziły w koszmar, czy może Krwawa Mary powróciła z zaświatów, by dokonać własnej zemsty?",
+"overviewEn": "On a prom-night dare, a trio of high school friends chant an incantation, unleashing an evil spirit from the past with deadly consequences.",
+"popularity": 4.46,
+"title": "Ulice strachu: Krwawa Mary",
+"titleEn": "Urban Legends: Bloody Mary",
+"tmdbRating": 4.9,
+"trailerKey": "OFYUWYJ0_fc"
 }
 },
 "movie:1030049": {
@@ -791,6 +850,25 @@
 "titleEn": null,
 "tmdbRating": null,
 "trailerKey": null
+}
+},
+"movie:1035803": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/7W2z7wASYrXVX0EKt3hXwBmNzCL.jpg",
+"genres": [
+28,
+53
+],
+"imdbId": "tt22394694",
+"kind": "movie",
+"overview": "W Święta Bożego Narodzenia życzymy sobie wzajemnie dużo spokoju. Jednak tym razem Nowy Jork jest terroryzowany przez bezwzględnego zamachowca i grupę jego naśladowców. Gdy miasto potrzebuje nowego bohatera, detektyw James Knight ma szansę znaleźć odkupienie i odzyskać odznakę. Umowa jest prosta - musi schwytać mordercę i powstrzymać serię wybuchów.",
+"overviewEn": "In custody in New York, Detective James Knight finds himself in the middle of a jailbreak led by The Christmas Bomber, a brutal fanatic whose Santa Claus disciples are terrorizing the city. With the promised return of his badge in exchange for taking out the terrorists, the steely-eyed Knight doles out mercy for the just...and merciless justice for all the rest.",
+"popularity": 1.35,
+"title": "Detektyw Knight: Odkupienie",
+"titleEn": "Detective Knight: Redemption",
+"tmdbRating": 5.3,
+"trailerKey": "bXMbkKzvpHY"
 }
 },
 "movie:10366": {
@@ -1388,6 +1466,25 @@
 "trailerKey": "Tbr_L9Gap_M"
 }
 },
+"movie:107": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+"genres": [
+80,
+35
+],
+"imdbId": "tt0208092",
+"kind": "movie",
+"overview": "Złodziej i kurier brylantów Franky \"Cztery Palce\" leci do Nowego Jorku, by dostarczyć bezcenny diament jednemu z szefów tamtejszej mafii, Aviemu. Po drodze zatrzymuje się w Londynie, gdzie pada ofiarą oszustów, którzy kradną diament. Na wieść o kłopotach Frankyego, Avi wpada w szał i wraz ze swoimi gorylami wyrusza do Londynu. Po przybyciu na miejsce wynajmuje owianego aurą legendy Tonyego zwanego \"Kulozębym\" każąc mu odnaleźć diament. Gdy prawda wyjdzie na jaw, rozpęta się prawdziwe piekło...",
+"overviewEn": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
+"popularity": 10.11,
+"title": "Przekręt",
+"titleEn": "Snatch",
+"tmdbRating": 7.8,
+"trailerKey": "ni4tEtuTccc"
+}
+},
 "movie:1071585": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -1542,6 +1639,25 @@
 "titleEn": "New Tales of Franz",
 "tmdbRating": null,
 "trailerKey": null
+}
+},
+"movie:10783": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/aZmSjtNzSqgSE9ZDW1fe3EPvS6e.jpg",
+"genres": [
+35,
+80
+],
+"imdbId": "tt0219952",
+"kind": "movie",
+"overview": "Russ Richards jest prezenterem pogody w dzienniku telewizyjnym. Popularność nie zapewnia mu jednak wystarczających dochodów, a Russ lubi wystawne życie. Ma też skłonność do angażowania się w niedochodowe interesy. Jednym z nich jest salon sprzedaży skuterów śnieżnych. Łagodna zima sprawiła, że Russowi zagląda w oczy widmo bankructwa. Jedynym wyjściem może być spółka z Crystal, dziewczyną z telewizyjnego totolotka. Wspólnie opracowują system, który pozwala na zdobywanie głównych wygranych.",
+"overviewEn": "Russ Richards is a TV weatherman and local celebrity on the verge of losing his shirt. Desperate to escape financial ruin, he schemes with Crystal the TV station's lotto ball girl to rig the state lottery drawing. The numbers come up right, but everything else goes wrong as the plan starts to unravel and the game turns rough.",
+"popularity": 1.34,
+"title": "Numer stulecia",
+"titleEn": "Lucky Numbers",
+"tmdbRating": 5.2,
+"trailerKey": "dFFdGYuHATI"
 }
 },
 "movie:1079311": {
@@ -1970,6 +2086,27 @@
 "trailerKey": "96TelFMZwHc"
 }
 },
+"movie:109445": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+"genres": [
+16,
+10751,
+12,
+14
+],
+"imdbId": "tt2294629",
+"kind": "animation",
+"overview": "Anna wyrusza na wielką wyprawę, by odnaleźć swoją siostrę Elsę, której magiczna moc uwięziła królestwo Arendelle w okowach wiecznej zimy. W poszukiwaniach towarzyszy jej Kristoff, przed którym górskie szlaki nie kryją żadnych tajemnic i jego lojalny renifer Sven. Podczas misji ocalenia królestwa przyjaciele zmierzą się z surową pogodą, napotkają niebotyczne góry, tajemnicze trolle i zabawnego bałwana o imieniu Olaf.",
+"overviewEn": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+"popularity": 19.28,
+"title": "Kraina lodu",
+"titleEn": "Frozen",
+"tmdbRating": 7.2,
+"trailerKey": "TbQm5doF_Uc"
+}
+},
 "movie:109729": {
 "at": "2026-11-11T21:55:03.374282+00:00",
 "meta": {
@@ -2122,7 +2259,7 @@
 }
 },
 "movie:1103437": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/qd2YZfTAlI31CPpIIWovVyKhRzD.jpg",
 "genres": [
@@ -2355,6 +2492,25 @@
 "trailerKey": "RIy7uPrMnCc"
 }
 },
+"movie:1109195": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/FtgGn956pwKh3iepytuVh2Pa2I.jpg",
+"genres": [
+99,
+10752
+],
+"imdbId": "tt27503179",
+"kind": "documentary",
+"overview": "Explore the world of injured US soldiers - their loss, pain, redemption and rise as they return to an America which is ill-equipped for them. When a missile exploded next to his helicopter, Walt Fricke's life changed forever.",
+"overviewEn": "Explore the world of injured US soldiers - their loss, pain, redemption and rise as they return to an America which is ill-equipped for them. When a missile exploded next to his helicopter, Walt Fricke's life changed forever.",
+"popularity": 0.2,
+"title": "For Military Merit",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:1109946": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -2469,6 +2625,25 @@
 "trailerKey": "cyglpQU5sJ0"
 }
 },
+"movie:11156": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/kZkk6iLvFPOiF6Xze2fYSiTbJ1Q.jpg",
+"genres": [
+18,
+36
+],
+"imdbId": "tt1035736",
+"kind": "movie",
+"overview": "Rok 1893. Do prowadzonego przez siostry zakonne sierocińca w d'Obazine ojciec przywozi dwie nastoletnie córki: Gabrielle i Adrienne. Po opuszczeniu placówki zarabiają na życie, wykonując poprawki krawieckie, a wieczorami śpiewają w miejscowym kabarecie. Gabrielle marzy o karierze artystycznej i wyjeżdża do Paryża. Pewnego dnia poznaje ekscentrycznego oficera Étienne Balsana oraz jego znajomych z wyższych sfer. Jej sposób ubierania się szokuje, ale jednocześnie intryguje. Wkrótce w jej życiu zjawia się angielski przemysłowiec Arthur Capel.",
+"overviewEn": "Several years after leaving the orphanage, to which her father never returned for her, Gabrielle Chanel finds herself working in a provincial bar. She's both a seamstress for the performers and a singer, earning the nickname Coco from the song she sings nightly with her sister. A liaison with Baron Balsan gives her an entree into French society and a chance to develop her gift for designing.",
+"popularity": 2.28,
+"title": "Coco Chanel",
+"titleEn": "Coco Before Chanel",
+"tmdbRating": 6.9,
+"trailerKey": "isEnyrd2Moc"
+}
+},
 "movie:1118941": {
 "at": "2026-11-13T21:25:30.931033+00:00",
 "meta": {
@@ -2507,6 +2682,24 @@
 "trailerKey": "K6lJh9ADfbQ"
 }
 },
+"movie:1121066": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/6Rt5E4u9bUP8zmq0kkj5lYu78OA.jpg",
+"genres": [
+18
+],
+"imdbId": "tt27607430",
+"kind": "movie",
+"overview": "A religious sect congregates by a lake in a forest. They are preparing to perform a baptism the next day, but teenage Anna has her own plans. She is fed up with life in the strict community and longs to experience freedom for the first time.",
+"overviewEn": "A religious sect congregates by a lake in a forest. They are preparing to perform a baptism the next day, but teenage Anna has her own plans. She is fed up with life in the strict community and longs to experience freedom for the first time.",
+"popularity": 0.19,
+"title": "Osmý den",
+"titleEn": "Eighth Day",
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:1122418": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -2524,6 +2717,25 @@
 "titleEn": "This Time Next Year",
 "tmdbRating": 6.1,
 "trailerKey": "-KiYX2AvuKc"
+}
+},
+"movie:1122932": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/pBYVFbEurxPfp3Z0d9HJK4UAzSw.jpg",
+"genres": [
+10749,
+18
+],
+"imdbId": "tt14960612",
+"kind": "movie",
+"overview": "Szukając sposobu na ukojenie swoich traum, nastoletni Mia i Kyle udają się do Hiszpanii w poszukiwaniu biologicznej matki Mii - i nieoczekiwanie zakochują się w sobie.",
+"overviewEn": "Mia and Kyle, two misfit American teens, travel to Spain in search of Mia's birth mother. As the pair road trip through the picturesque cities of Andalusia and fall in love, they discover that the most important question isn't who gave you life, but what you decide to do with it.",
+"popularity": 3.2,
+"title": "Do zobaczenia na Wenus",
+"titleEn": "See You on Venus",
+"tmdbRating": 7.0,
+"trailerKey": "8l3vQ7cyqeY"
 }
 },
 "movie:1123521": {
@@ -2701,7 +2913,7 @@
 }
 },
 "movie:1129188": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/d162vjYEHGEGw2XqxH487bnEkfG.jpg",
 "genres": [
@@ -2925,7 +3137,7 @@
 }
 },
 "movie:1140521": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
 "genres": [
@@ -3386,7 +3598,7 @@
 }
 },
 "movie:1165369": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/1Q16imE9WMYAoVlenG5fUuul4A2.jpg",
 "genres": [
@@ -4575,7 +4787,7 @@
 }
 },
 "movie:1226863": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
 "genres": [
@@ -4867,7 +5079,7 @@
 }
 },
 "movie:1235304": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/b28RiKlALbdC2Dmnndt93MBt76h.jpg",
 "genres": [
@@ -5100,7 +5312,7 @@
 }
 },
 "movie:1244531": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/gHdSsZ1Bs8dCcflFwZg7nFMTW73.jpg",
 "genres": [
@@ -5194,6 +5406,25 @@
 "titleEn": "Caught Stealing",
 "tmdbRating": 6.8,
 "trailerKey": "rpWpiPj7y5Y"
+}
+},
+"movie:124614": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/k5UdIRjdfW4iWatqswexiVeL6Ga.jpg",
+"genres": [
+9648,
+18
+],
+"imdbId": "tt0112716",
+"kind": "movie",
+"overview": "Bohaterem filmu jest profesor Michael Padovic (John Malkovich). Usiłuje on udowodnić, że Szekspir miał hiszpańskich przodków. Do tego potrzebuje jednak dowodów, które ma nadzieję znaleźć w starym klasztorze w Arrabida, dokąd wybiera się razem ze swoją żoną Hélène (Catherine Deneuve). Tam poznaje zagadkowego kustosza Baltara (Luís Miguel Cintra).",
+"overviewEn": "The journey of Michael Padovic, an American professor who arrives with his wife, Helene, at a Portuguese convent where he expects to find the documents needed to prove his theory: Shakespeare was born in Spain; not in England.",
+"popularity": 0.7,
+"title": "Klasztor",
+"titleEn": "The Convent",
+"tmdbRating": 5.4,
+"trailerKey": null
 }
 },
 "movie:1246215": {
@@ -5515,7 +5746,7 @@
 }
 },
 "movie:1263337": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
 "genres": [
@@ -5591,7 +5822,7 @@
 }
 },
 "movie:1267905": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
 "genres": [
@@ -5691,7 +5922,7 @@
 }
 },
 "movie:1273221": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
 "genres": [
@@ -6071,7 +6302,7 @@
 }
 },
 "movie:1291595": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
 "genres": [
@@ -6109,7 +6340,7 @@
 }
 },
 "movie:1292695": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg",
 "genres": [
@@ -6358,7 +6589,7 @@
 }
 },
 "movie:1308618": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/s2jfSL3O1tmDV4FiruB48LWr0ul.jpg",
 "genres": [
@@ -6471,7 +6702,7 @@
 }
 },
 "movie:1314481": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/dRoFlUbH1l51ACmx5oPCI3jfvZq.jpg",
 "genres": [
@@ -6644,6 +6875,24 @@
 "trailerKey": "Z8rDPyKBy3k"
 }
 },
+"movie:13173": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/TAun5NrYvv5OFzodpd76pZ14AN.jpg",
+"genres": [
+35
+],
+"imdbId": "tt0811106",
+"kind": "movie",
+"overview": "„Jak złamać 10 przykazań” składa się z 10 opowieści, które przeplatają się ze sobą. Każda z tych historii jest nawiązaniem do kolejnego z przykazań dekalogu. Prezentowany tu humor jest tak nietuzinkowy, absurdalny i obrazoburczy, że z pewnością film można nazwać kontrowersyjnym. Każda z opowieści jest nieodparcie śmieszna dzięki zupełnie niespodziewanemu podejściu do tak poważnego tematu. Bohaterami opowieści są m.in.: człowiek, który skoczył z samolotu bez spadochronu i wbił się w ziemię tak niefortunnie, że nie może zostać odkopany, ponieważ każdy gwałtowniejszy ruch grozi mu śmiercią. Jest również chirurg, który dla \"wygłupu\" zaszywa nożyczki w ciele pacjentki.",
+"overviewEn": "Ten stories, each inspired by one of the ten commandments.",
+"popularity": 1.71,
+"title": "Jak złamać 10 przykazań",
+"titleEn": "The Ten",
+"tmdbRating": 4.7,
+"trailerKey": "m6pnqyDTUL0"
+}
+},
 "movie:1319077": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -6684,7 +6933,7 @@
 }
 },
 "movie:1319951": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/6m3K1hizm5yoguOsAcIjNSECn5b.jpg",
 "genres": [
@@ -6743,7 +6992,7 @@
 }
 },
 "movie:1323244": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
 "genres": [
@@ -7012,7 +7261,7 @@
 }
 },
 "movie:1339713": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
 "genres": [
@@ -7167,6 +7416,24 @@
 "trailerKey": "c2-LdSfXo14"
 }
 },
+"movie:1353515": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/8kQ1SQdiZ9c8pfbNSbQnVCvwGVq.jpg",
+"genres": [
+99
+],
+"imdbId": "tt33341710",
+"kind": "documentary",
+"overview": "Opowieść o niezwykłym badaczu, który postanowił zgłębić złożony świat majestatycznych ssaków. Nie tylko poświęcił swoje życie pracy naukowej, lecz także podjął walkę z kłusownikami.",
+"overviewEn": "60 years ago, almost nothing was known of elephants in the wild. But then one young Scottish biologist changed that forever. In 1965 Iain Douglas-Hamilton arrived in Tanzania to live alongside African elephants. Later joined by his wife Oria and daughters Saba and Dudu, elephants became central to their lives with matriarch Boadicea and gentle young mother Virgo cherished like human relatives. But this garden Eden was short-lived as an ivory poaching epidemic swept across Africa forcing Iain to switch from pioneering scientist to maverick conservationist. He became a lone crusader against the international Ivory trade which was finally banned in 1989. Now back in the field and revealing even more about the fascinating world of elephants, Iain’s work continues alongside a new generation of Kenyan conservationists. This inspiring documentary combines stunning wildlife imagery with the story of a remarkable life showing how sometimes you have to stand alone to protect what you love.",
+"popularity": 1.19,
+"title": "Żyjąc wśród słoni",
+"titleEn": "A Life Among Elephants",
+"tmdbRating": null,
+"trailerKey": "nT2Nml6E5o0"
+}
+},
 "movie:1356875": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -7184,7 +7451,7 @@
 }
 },
 "movie:1358579": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/y18jH3YG9aAUT1nPLh1JcJA6Si1.jpg",
 "genres": [
@@ -7466,7 +7733,7 @@
 }
 },
 "movie:1368337": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
 "genres": [
@@ -7675,6 +7942,24 @@
 "titleEn": "Crawlers",
 "tmdbRating": 6.1,
 "trailerKey": "4DowjB87tRE"
+}
+},
+"movie:1376706": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": null,
+"genres": [
+99
+],
+"imdbId": "tt32741568",
+"kind": "documentary",
+"overview": "No Place to Grow Old is the first documentary to capture a growing crisis unfolding quietly across America: older adults aging into homelessness. Set in Portland, Oregon, this film follows the lives of three older adults navigating the harsh realities of life without a home. Through their stories of hardship and resilience, the film offers an intimate portrayal of their challenges while illuminating the systemic issues contributing to their plight. Featuring insights from local and national experts, No Place to Grow Old is a powerful call to action that emphasizes dignity and hope, envisioning a future where everyone, regardless of age, has a safe and secure place to call home.",
+"overviewEn": "No Place to Grow Old is the first documentary to capture a growing crisis unfolding quietly across America: older adults aging into homelessness. Set in Portland, Oregon, this film follows the lives of three older adults navigating the harsh realities of life without a home. Through their stories of hardship and resilience, the film offers an intimate portrayal of their challenges while illuminating the systemic issues contributing to their plight. Featuring insights from local and national experts, No Place to Grow Old is a powerful call to action that emphasizes dignity and hope, envisioning a future where everyone, regardless of age, has a safe and secure place to call home.",
+"popularity": 0.17,
+"title": "No Place to Grow Old",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": "RuNqn2cRhJg"
 }
 },
 "movie:1379266": {
@@ -8137,7 +8422,7 @@
 }
 },
 "movie:1404684": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/l1fhfzNclQcp4oBz550KMY0CTre.jpg",
 "genres": [
@@ -8372,9 +8657,9 @@
 }
 },
 "movie:1423191": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
-"backdropPath": "/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+"backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
 "genres": [
 27,
 878,
@@ -8469,7 +8754,7 @@
 }
 },
 "movie:1433367": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
 "genres": [
@@ -8543,6 +8828,24 @@
 "title": "Rozejm",
 "titleEn": "The Truce",
 "tmdbRating": 6.5,
+"trailerKey": null
+}
+},
+"movie:1437985": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/255neTizAGgmgHPXQenAL3bITLT.jpg",
+"genres": [
+35
+],
+"imdbId": "tt36280391",
+"kind": "movie",
+"overview": "Minęły dwa lata w Saint Hubert. Życie tam jest spokojne, być może zbyt spokojne dla Adélaïde i Simona, którzy cierpią z powodu braku rówieśników. Aż do przybycia Stanislasa, syna Bernarda (byłego prezesa wiejskiego koła myśliwskiego), który wraca, by zamieszkać na wsi z żoną i dwójką dzieci. Są atrakcyjni, młodzi i przyjacielscy. Ich jedyną wadą jest to, że polują na lisy! Spokój wsi wkrótce zostanie zakłócony: nowi sąsiedzi, nowe problemy…",
+"overviewEn": "Two years after moving to the French countryside and seeing hunting banned, Adelaide and Simon discover that living close to nature can be rewarding, peaceful... and unbelievably boring. Desperate to make new friends, they're overjoyed when Bernard's witty, wealthy son Stan and his smart, aristocratic wife Bennie move to town—with kids the same age as theirs. But what seems like a gift from heaven turns out to be a Trojan horse: Stan and Bennie are die-hard coursers, determined to hunt on horseback with their hounds wherever they please. Chaos ensues. The clash becomes a full-blown war as Stan buys up land, bribes the locals, and plans to turn the forest into a playground for the ultra-rich. With help from Bernard and his old hunting buddies, can Addie and Simon rally the villagers and spark a rural revolt to save their peaceful corner of the world?",
+"popularity": 1.32,
+"title": "Sezon na sąsiada 2",
+"titleEn": "Open Season 2",
+"tmdbRating": 5.6,
 "trailerKey": null
 }
 },
@@ -8962,7 +9265,7 @@
 }
 },
 "movie:1464883": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
 "genres": [
@@ -9166,9 +9469,9 @@
 }
 },
 "movie:1476746": {
-"at": "2026-11-06T20:52:16.000365+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
-"backdropPath": "/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+"backdropPath": "/lpk0MwAn0UA3qCy9Iub4xMe15gv.jpg",
 "genres": [
 28,
 53
@@ -9177,10 +9480,10 @@
 "kind": "movie",
 "overview": "Cichy ogrodnik skrywa mroczny sekret - jest zawodowym zabójcą. Jego poukładane życie zaczyna się rozpadać, gdy zostaje wciągnięty w tajemniczą sprawę dotyczącą policyjnej...",
 "overviewEn": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
-"popularity": 53.7,
+"popularity": 50.61,
 "title": "Posłaniec",
 "titleEn": "The Florist",
-"tmdbRating": 5.8,
+"tmdbRating": 5.7,
 "trailerKey": "LNmIdALXoKo"
 }
 },
@@ -9395,6 +9698,27 @@
 "trailerKey": "56v3LxpSZK0"
 }
 },
+"movie:1490877": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/aCQCR1fq4kQ7mmP6e4arzR84nqc.jpg",
+"genres": [
+9648,
+53,
+10770,
+80
+],
+"imdbId": "tt35934908",
+"kind": "movie",
+"overview": "Felicity Reynolds, a woman on the run with a dark past, discovers a murder at her spa and finds herself caught in a deadly web of lies. Fleeing to Atlanta, she seeks refuge with her estranged sister, Erin, while evading her vengeful boyfriend and mounting suspicions. As family tensions rise, Felicity races against time to gather evidence to expose the real killer.",
+"overviewEn": "Felicity Reynolds, a woman on the run with a dark past, discovers a murder at her spa and finds herself caught in a deadly web of lies. Fleeing to Atlanta, she seeks refuge with her estranged sister, Erin, while evading her vengeful boyfriend and mounting suspicions. As family tensions rise, Felicity races against time to gather evidence to expose the real killer.",
+"popularity": 0.77,
+"title": "Trust Her If You Dare",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:14913": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -9472,6 +9796,25 @@
 "trailerKey": "mt85j_wgu4g"
 }
 },
+"movie:1495699": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/qwpPp3vrkkD1DxBdSxbTwO2gTTg.jpg",
+"genres": [
+27,
+18
+],
+"imdbId": "tt31617935",
+"kind": "movie",
+"overview": "Ada and her partner Rino move into a secluded villa surrounded by nature. Expecting their second child, Ada finds herself haunted by the unresolved grief of losing their firstborn. As the due date approaches, the sorrow she has long suppressed resurfaces, and she begins to sense a disturbing presence-convinced that her late son has returned from beyond to prevent the birth of his sibling. Is something truly supernatural at play, or is Ada slowly losing her grip on reality?",
+"overviewEn": "Ada and her partner Rino move into a secluded villa surrounded by nature. Expecting their second child, Ada finds herself haunted by the unresolved grief of losing their firstborn. As the due date approaches, the sorrow she has long suppressed resurfaces, and she begins to sense a disturbing presence-convinced that her late son has returned from beyond to prevent the birth of his sibling. Is something truly supernatural at play, or is Ada slowly losing her grip on reality?",
+"popularity": 1.11,
+"title": "Il primo figlio",
+"titleEn": "Firstborn",
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:1497970": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -9492,6 +9835,24 @@
 "titleEn": "Tom and Jerry: Forbidden Compass",
 "tmdbRating": 6.6,
 "trailerKey": "SYysA0ST5Qc"
+}
+},
+"movie:1498266": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/vBXN3ERT8gN07uE5k7F9Of702Cu.jpg",
+"genres": [
+99
+],
+"imdbId": null,
+"kind": "documentary",
+"overview": "Bezprecedensowe przedsięwzięcie w polskiej kulturze, sztuce i świecie mediów. Pierwszy w historii artystyczny rejs jachtem żaglowym polskich twórców do Antarktyki, a tam niezwykłe wydarzenia transmitowane na antenie Polskiego Radia.  W lutym 2017 roku zespół, w skład którego wchodzili przedstawiciele trzech dziedzin polskiej kultury i sztuki (filmu, muzyki i fotografii), popłynął jachtem żaglowym do Antarktyki. Miejsca, które za kilka lat może stać się centrum wydarzeń o znaczeniu globalnym,  a jego kondycja ma istotne znaczenie dla przyszłości całego świata. Uczestnicy rejsu, inspirowani podróżą, dziką naturą i ekstremalnymi warunkami panującymi na krańcach świata, zmierzyli się  z wyjątkowymi wyzwaniami artystycznymi w obszarach filmu, muzyki i fotografii.",
+"overviewEn": "The documentary follows Polish artists on the first sailing expedition to Antarctica, their struggles, the first ever concert by Polish artists there, the first wet plate photography session & rare underwater encounters with leopard seals & other wildlife.",
+"popularity": 0.36,
+"title": "Trzy sztuki w Antarktyce",
+"titleEn": "Three Arts in Antarctica",
+"tmdbRating": null,
+"trailerKey": null
 }
 },
 "movie:1502109": {
@@ -9568,6 +9929,24 @@
 "titleEn": "Weird to Be Human",
 "tmdbRating": null,
 "trailerKey": "RoIN08zLVfE"
+}
+},
+"movie:1510300": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/xK3j1cePzPdm8Jyh2dQPuQsaH0v.jpg",
+"genres": [
+18
+],
+"imdbId": "tt34425024",
+"kind": "movie",
+"overview": "1997. Linda ma osiem lat i zaledwie kilka zębów. Ma bardzo bogatą babcię i piękną, beztroską matkę, która jest dla niej bardziej przyjaciółką niż autorytetem. Przyjaciółka, która bywa czasami zbyt dziecinna, przyjaciółka, o którą Linda musi się nieustannie troszczyć pomimo młodego wieku. Kolejny kaprys Ewy zmusza Lindę do spakowania walizek i opuszczenia willi babci w Szwajcarii, udając się do Ferrary, dokąd pojadą jej luksusowym samochodem sportowym.",
+"overviewEn": "1997: eight-year-old Linda drifts away from her wealthy grandmother's Swiss villa with her carefree mother Eva. In Italy, she meets Azzurra and Marta. A summer bond unites the three girls in a gang formed to protect each other, their youth, and their freedom. Around them swirl selfish parents chasing fragile dreams, gossiping neighbors, and a queer babysitter trying to find his place in a world that doesn’t want him either.",
+"popularity": 0.41,
+"title": "Le bambine",
+"titleEn": "Mosquitoes",
+"tmdbRating": null,
+"trailerKey": null
 }
 },
 "movie:151071": {
@@ -9892,6 +10271,42 @@
 "trailerKey": "nNiWOZrsd1w"
 }
 },
+"movie:1535652": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/dCU1EvFuCeyjVHRH0pfDkhk6R1q.jpg",
+"genres": [
+99
+],
+"imdbId": "tt38040871",
+"kind": "documentary",
+"overview": "Cast, crew, and fans trace the making of Gilmore Girls and the enduring pull of Stars Hollow, revealing how its stories shaped lives and connected generations.",
+"overviewEn": "Cast, crew, and fans trace the making of Gilmore Girls and the enduring pull of Stars Hollow, revealing how its stories shaped lives and connected generations.",
+"popularity": 1.78,
+"title": "Drink Coffee, Talk Fast",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": "6XQI4AL4uDE"
+}
+},
+"movie:1540708": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/brV9P11ywkscqkHDuhk7xJ5WBTf.jpg",
+"genres": [
+10749
+],
+"imdbId": "tt37345055",
+"kind": "movie",
+"overview": "When chef Emily Parker takes a job at Verdonia's royal palace for Christmas, she begins a romance with the castle's handyman Nick. But she doesn't know he's really Prince Nicholas and that his parents already have a bride picked for him.",
+"overviewEn": "When chef Emily Parker takes a job at Verdonia's royal palace for Christmas, she begins a romance with the castle's handyman Nick. But she doesn't know he's really Prince Nicholas and that his parents already have a bride picked for him.",
+"popularity": 2.85,
+"title": "A Royal Christmas Secret",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:1541119": {
 "at": "2026-11-13T21:25:30.931033+00:00",
 "meta": {
@@ -9949,6 +10364,26 @@
 "trailerKey": null
 }
 },
+"movie:1547918": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/lbQEafYg1HPmRQALqS6QKCdnB3C.jpg",
+"genres": [
+10749,
+18,
+10770
+],
+"imdbId": "tt38354934",
+"kind": "movie",
+"overview": "Dwoje nieznajomych, których podróż zostaje nieoczekiwanie przerwana w Wigilię Bożego Narodzenia, spędza wspólnie czas, rozmawiając do białego rana. Rok później, uzbrojeni jedynie we fragmenty informacji o swoich bożonarodzeniowych tradycjach, wyruszają na poszukiwania siebie nawzajem.",
+"overviewEn": "Two strangers meet on a layover and fall for one another — but forget to exchange numbers. The next day, they fly to Chicago separately, just miss each other, and “embark on separate quests to find one another.\"",
+"popularity": 1.63,
+"title": "Świąteczne zauroczenie",
+"titleEn": "We Met in December",
+"tmdbRating": 6.9,
+"trailerKey": "cRbwPoZ3D7c"
+}
+},
 "movie:1547981": {
 "at": "2026-11-13T21:25:30.931033+00:00",
 "meta": {
@@ -9968,7 +10403,7 @@
 }
 },
 "movie:1549234": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/8eX8DgrIlZKt46y8lck1jqbSd98.jpg",
 "genres": [
@@ -10245,6 +10680,24 @@
 "trailerKey": null
 }
 },
+"movie:1567804": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/gmMLvZcFFN3NuHKlFuUZkM6LItV.jpg",
+"genres": [
+99
+],
+"imdbId": "tt38675979",
+"kind": "documentary",
+"overview": "In 1960s New York City, radical rock band The Fugs channels the raw energy of counterculture rebellion through their provocative music and anti-establishment stance.",
+"overviewEn": "In 1960s New York City, radical rock band The Fugs channels the raw energy of counterculture rebellion through their provocative music and anti-establishment stance.",
+"popularity": 0.36,
+"title": "Fugs Film!",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:1570273": {
 "at": "2026-11-10T21:17:45.608247+00:00",
 "meta": {
@@ -10412,6 +10865,27 @@
 "trailerKey": null
 }
 },
+"movie:15810": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/sMZWct8HHfWm6VqZ4sDVDROPDls.jpg",
+"genres": [
+80,
+18,
+9648,
+10749
+],
+"imdbId": "tt0452692",
+"kind": "movie",
+"overview": "Historia Iris i jej dwóch kochanków: jeden angielski łobuz, drugi uczciwy bokser. Kobieta myśli, że ma wszystko pod kontrolą, ale \"zabroniony\" związek może to zmienić.",
+"overviewEn": "The story is about Iris's rise to the apex of a love/power triangle that includes her roguish English lover, McHeath, and Art, an earnest young boxer. Within the flawed moral landscape, each character struggles to establish their sovereignty.",
+"popularity": 0.69,
+"title": "Cios w serce",
+"titleEn": "The Tender Hook",
+"tmdbRating": null,
+"trailerKey": "HQghKKedn6U"
+}
+},
 "movie:1583382": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -10486,7 +10960,7 @@
 }
 },
 "movie:1590613": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/9rZVlvA5Nk3SA4GJk1ySUbZLtTg.jpg",
 "genres": [
@@ -10633,6 +11107,26 @@
 "titleEn": "Carolyn Carlson : Midnight Souls",
 "tmdbRating": null,
 "trailerKey": null
+}
+},
+"movie:160564": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/u0YnDUKO9hMWjYeGvQ2czeUkcWW.jpg",
+"genres": [
+18,
+35,
+10749
+],
+"imdbId": "tt2241691",
+"kind": "movie",
+"overview": "Laura wciąż wierzy, że któregoś dnia spotka swojego \"księcia z bajki\". Ma już jednak 24 lata i w jej życiu nic się nie zmienia. Wtedy na jednej z imprez spotyka tajemniczego Sandro. Chłopak pojawia się dokładnie tak, jak Laura sobie to wyśniła. Wydaje się, że poznała wreszcie mężczyznę swoich marzeń, gdyby nie to, że wkrótce potem... zawiera znajomość z równie fascynującym Maxime'em. Czy można spotkać więcej niż jednego księcia z bajki?",
+"overviewEn": "Laura is still waiting for Prince Charming at the age of 24. So when Sandro appears at a party, exactly like her Prince would in her dreams, she thinks she's found the right one. But then again, when she meets Maxime, Laura starts to wonder if some Princes could be more charming than others? Of course Sandro has problems of his own : his father, Pierre, just bumped into Madam Irma at his father's funeral and this reminded him of the date of his own death which Madame Irma had predicted ages ago. Now Pierre is unable to make any plans, not with his new partner Eleonore, nor with Sandro. And Maxime has his own problems, and so does Eleonore, Marianne, Jacqueline and many others. But don't worry, in the end, they'll all live happily ever after.",
+"popularity": 0.95,
+"title": "Książę nie z tej bajki",
+"titleEn": "Under the Rainbow",
+"tmdbRating": 5.6,
+"trailerKey": "hIevboMMZs0"
 }
 },
 "movie:1607711": {
@@ -11113,6 +11607,22 @@
 "trailerKey": "hj6Cer6bJUI"
 }
 },
+"movie:1659591": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": null,
+"genres": [],
+"imdbId": null,
+"kind": "movie",
+"overview": "Spokojne życie Teresy wywraca się do góry nogami, gdy plama na jej kuchennym oknie zostaje ogłoszona cudem. Gdy pielgrzymi tłumnie odwiedzają dom, a mąż Henryk rozkwita w świetle reflektorów, Teresa czuje się coraz bardziej niewidzialna. Rozdarta między wiarą, oczekiwaniami społecznymi a własnymi pragnieniami, próbuje odzyskać poczucie siebie w świecie, który jej nie dostrzega.",
+"overviewEn": "Teresa's peaceful life is turned upside down when a stain on her kitchen window is declared a miracle. As pilgrims flock to the house and her husband, Henryk, blossoms in the spotlight, Teresa feels increasingly invisible. Torn between her faith, societal expectations, and her own desires, she struggles to regain a sense of self in a world that ignores her.",
+"popularity": 0.26,
+"title": "Widzisz?",
+"titleEn": "Can You See?",
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:1662787": {
 "at": "2026-11-07T11:43:12.383621+00:00",
 "meta": {
@@ -11281,6 +11791,24 @@
 "trailerKey": "uZOE7HgvI3c"
 }
 },
+"movie:1676647": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/ospY6LHAT4lp6J3kuWYQVt5aAOd.jpg",
+"genres": [
+99
+],
+"imdbId": null,
+"kind": "documentary",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.42,
+"title": "Making Tarantino",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:1686178": {
 "at": "2026-11-08T19:40:20.654914+00:00",
 "meta": {
@@ -11333,6 +11861,25 @@
 "title": "Sekretne Życie Nauczycieli",
 "titleEn": "The Real Life of Teachers",
 "tmdbRating": 4.8,
+"trailerKey": null
+}
+},
+"movie:169444": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/m9aJ05ujtEXauhWlSTukLau9gDu.jpg",
+"genres": [
+99,
+10402
+],
+"imdbId": "tt2366218",
+"kind": "documentary",
+"overview": "In the musical road movie, New Zealand musician Hayden Chisholm sets out on a journey of discovery across Germany in search of German folk music. As a stranger with an unbiased view of German culture and an open ear for the lyrics and melodies of modern and traditional musicians, he encounters a lively diversity of regional customs and activities. In Sound of Heimat – Deutschland singt, directors Arne Birkenstock and Jan Tengeler also shed light on the ambivalent attitude toward folk music and the understanding of one's own homeland that is so widespread in Germany. These are topics that have been forgotten in many places due to past ideologization and the \"ideal world\" of the Musikantenstadl.",
+"overviewEn": "In the musical road movie, New Zealand musician Hayden Chisholm sets out on a journey of discovery across Germany in search of German folk music. As a stranger with an unbiased view of German culture and an open ear for the lyrics and melodies of modern and traditional musicians, he encounters a lively diversity of regional customs and activities. In Sound of Heimat – Deutschland singt, directors Arne Birkenstock and Jan Tengeler also shed light on the ambivalent attitude toward folk music and the understanding of one's own homeland that is so widespread in Germany. These are topics that have been forgotten in many places due to past ideologization and the \"ideal world\" of the Musikantenstadl.",
+"popularity": 0.31,
+"title": "Sound of Heimat - Deutschland singt",
+"titleEn": null,
+"tmdbRating": null,
 "trailerKey": null
 }
 },
@@ -11414,7 +11961,7 @@
 }
 },
 "movie:1705729": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/jEvff0AJue5DtzNd2rvFDgSNVuH.jpg",
 "genres": [
@@ -11488,6 +12035,26 @@
 "titleEn": null,
 "tmdbRating": null,
 "trailerKey": "6z5uCjUEEy0"
+}
+},
+"movie:1712828": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/lCEB4vJMHiT8KEWJ7h2dpM5Zya1.jpg",
+"genres": [
+28,
+35,
+27
+],
+"imdbId": "tt38890293",
+"kind": "movie",
+"overview": "Sharks breach a seaside water park during the debut of a new ride, forcing a lifeguard and the town’s police chief to contain the chaos and protect guests from becoming prey.",
+"overviewEn": "Sharks breach a seaside water park during the debut of a new ride, forcing a lifeguard and the town’s police chief to contain the chaos and protect guests from becoming prey.",
+"popularity": 1.28,
+"title": "Water Park Shark",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": "EQyHkXMr59I"
 }
 },
 "movie:1715208": {
@@ -11600,6 +12167,22 @@
 "popularity": 0.78,
 "title": "La Guerre sans nom",
 "titleEn": "The Undeclared War",
+"tmdbRating": null,
+"trailerKey": null
+}
+},
+"movie:1728949": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/eemlPYzyrPjBKYa0eET1Waaunzv.jpg",
+"genres": [],
+"imdbId": "tt39934254",
+"kind": "movie",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.43,
+"title": "Montana Grind",
+"titleEn": null,
 "tmdbRating": null,
 "trailerKey": null
 }
@@ -11823,6 +12406,27 @@
 "trailerKey": null
 }
 },
+"movie:1748134": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": null,
+"genres": [
+80,
+18,
+53,
+27
+],
+"imdbId": "tt31491006",
+"kind": "movie",
+"overview": "A young women becomes a tenant in an inner city property and takes pity on a girl who has fallen on hard times, giving her a place to stay. Decorating their new home together, they discover a stash of money hidden in one of the walls. Their lucky feeling soon turns to unlucky as they learn that their exciting discovery comes at a price - some very bad people want their money back and will stop at nothing to get it.",
+"overviewEn": "A young women becomes a tenant in an inner city property and takes pity on a girl who has fallen on hard times, giving her a place to stay. Decorating their new home together, they discover a stash of money hidden in one of the walls. Their lucky feeling soon turns to unlucky as they learn that their exciting discovery comes at a price - some very bad people want their money back and will stop at nothing to get it.",
+"popularity": 0.37,
+"title": "Finders Keepers",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": "rwHSIa_bEME"
+}
+},
 "movie:1750623": {
 "at": "2026-11-14T19:55:12.346051+00:00",
 "meta": {
@@ -11878,7 +12482,7 @@
 }
 },
 "movie:1756543": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/jUwaAscUDiJNyIIgopLRdQMCRVt.jpg",
 "genres": [
@@ -11930,6 +12534,24 @@
 "title": "Tylko na święta",
 "titleEn": "The Christmas Switch",
 "tmdbRating": 6.5,
+"trailerKey": null
+}
+},
+"movie:1758110": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/db0JyYJW1lp5rskvEHBJZEeFZNV.jpg",
+"genres": [
+99
+],
+"imdbId": null,
+"kind": "documentary",
+"overview": "Historia i analiza kultowej serii filmów o walce ludzkości ze sztuczną inteligencją. Sarah Connor stała się ikoną popkultury.",
+"overviewEn": null,
+"popularity": 3.09,
+"title": "Terminator: Maszyny, faceci i kobieta",
+"titleEn": "Terminator: Of Machines and Men... and One Woman",
+"tmdbRating": null,
 "trailerKey": null
 }
 },
@@ -12599,6 +13221,24 @@
 "trailerKey": null
 }
 },
+"movie:1826442": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/hObUQ27znUjR5muP8rXR19lCuyF.jpg",
+"genres": [
+99
+],
+"imdbId": "tt49065977",
+"kind": "documentary",
+"overview": "Follows National Geographic Explorers investigating the global Ocean from seashore to seafloor as they chase discoveries and solutions needed to protect the seas amid rapid environmental change.",
+"overviewEn": "Follows National Geographic Explorers investigating the global Ocean from seashore to seafloor as they chase discoveries and solutions needed to protect the seas amid rapid environmental change.",
+"popularity": 2.75,
+"title": "Expedition: Saving Our Seas",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:1830": {
 "at": "2026-11-07T19:24:27.193597+00:00",
 "meta": {
@@ -12655,6 +13295,26 @@
 "titleEn": "The Birch-Tree Meadow",
 "tmdbRating": null,
 "trailerKey": null
+}
+},
+"movie:1852": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/1PtzrpMbuYg9rfWpEkm6qwN63oW.jpg",
+"genres": [
+18,
+36,
+53
+],
+"imdbId": "tt0469641",
+"kind": "movie",
+"overview": "Kiedy zwyczajny nowojorski dzień przeszywa cień samobójczego ptaka zwiastującego koszmarną twarz diabła, grupa policjantów-ochotników z sierżantem John'em McLoughlin'em na czele udaje się na ratunek pokrzywdzonym. Prawdziwa historia Johna McLoughlina i Williama J. Jimeno, policjantów, którzy 11 września 2001 roku zostali uwięzieni w piekielnej pułapce grobu World Trade Center.",
+"overviewEn": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
+"popularity": 3.47,
+"title": "World Trade Center",
+"titleEn": null,
+"tmdbRating": 6.1,
+"trailerKey": "8M9lz5R1K2A"
 }
 },
 "movie:185644": {
@@ -13688,6 +14348,24 @@
 "trailerKey": "RhRnmyBjOLs"
 }
 },
+"movie:231530": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/A2YDvad23dfKTvseiKEM5y8ix6L.jpg",
+"genres": [
+10751
+],
+"imdbId": "tt2406468",
+"kind": "movie",
+"overview": "Kassie przygarnia rannego owczarka o imieniu Scott. Niebawem z jego pomocą dziewczyna stawia czoło złodziejom.",
+"overviewEn": "Luke Perry stars in this heartwarming \"tail.\" Kassie, her friends and her dog, Scoot, organize a holiday fundraiser, but must protect the cash from some crooks in order to save Christmas.",
+"popularity": 0.93,
+"title": "K-9: Pies, który uratował święta",
+"titleEn": "K-9 Adventures: A Christmas Tale",
+"tmdbRating": 5.2,
+"trailerKey": "wOAB_3No_Eg"
+}
+},
 "movie:23168": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -13885,6 +14563,25 @@
 "trailerKey": "SDt5q523UJs"
 }
 },
+"movie:24822": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/qV5Ukl74Uo6i8W55YmXAN6PKzYD.jpg",
+"genres": [
+80,
+53
+],
+"imdbId": "tt0997229",
+"kind": "movie",
+"overview": "Ji-yeon jest odnoszącą sukces adwokatem, która sama wychowuje siedmioletnią córkę. Pewnego razu dziewczynka zostaje uprowadzona. Ji-yeon otrzymuje telefon od nieznajomego mężczyzny, który mówi że ma jej córkę i proponuje układ. Żeby kobieta zobaczyła swoją córeczkę żywą, musi podjąć się obrony i doprowadzić do uniewinnienia ich towarzysza oskarżonego o zabójstwo licealisty. Ji-yeon ma tydzień na spełnienie żądań.",
+"overviewEn": "A successful lawyer who, in order to save her daughter, is pressured into defending the innocence of a man slated to receive the death penalty.",
+"popularity": 1.73,
+"title": "Siedem dni",
+"titleEn": "Seven Days",
+"tmdbRating": 6.7,
+"trailerKey": "5nW-BIGS39Q"
+}
+},
 "movie:249941": {
 "at": "2026-11-07T19:24:27.193597+00:00",
 "meta": {
@@ -14000,6 +14697,24 @@
 "trailerKey": "zA_fB1SbtHQ"
 }
 },
+"movie:259808": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/hJFeDQ8gIdorxsKdeo2r5fIKIL8.jpg",
+"genres": [
+18
+],
+"imdbId": "tt0099321",
+"kind": "movie",
+"overview": "A knife-scarred victim must identify her assailant beyond a reasonable doubt. Meanwhile the accused is offered a deal if he pleads guilty. Is he as innocent as the victim? Is the justice system guiltier than both?",
+"overviewEn": "A knife-scarred victim must identify her assailant beyond a reasonable doubt. Meanwhile the accused is offered a deal if he pleads guilty. Is he as innocent as the victim? Is the justice system guiltier than both?",
+"popularity": 0.62,
+"title": "Criminal Justice",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:260513": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -14100,6 +14815,26 @@
 "titleEn": "Arthur and the Revenge of Maltazard",
 "tmdbRating": 5.8,
 "trailerKey": "XAJavTQYYBc"
+}
+},
+"movie:26598": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/c3vNU1AAuSVNhWIthjigmycK6J1.jpg",
+"genres": [
+14,
+18,
+35
+],
+"imdbId": "tt0173714",
+"kind": "movie",
+"overview": "Rzecz dzieje się na londyńskim śmietniku, gdzie przy pełni księżyca raz do roku spotykają się koty. Podczas spotkania przypominane są ich dzieje i przygody, a pod koniec spotkania, tuż przed świtem, przywódca kociej gromady, Matuzalek, przemówi i wybierze jednego spośród kotów, aby ten otrzymał nowe życie w niebiańskim świecie. Podczas spotkania dochodzi do komplikacji, kiedy pojawia się groźny, tajemniczy kot, Macavity i porywa starego przywódcę. Jednak nie tylko to... Z odległych stron wraca Grizabella, niegdyś wspaniała kotka, która opuściła gromadę. Teraz stara i schorowana pragnie powrócić do swoich rodaków...",
+"overviewEn": "\"Jellicle\" cats join for a Jellicle ball where they rejoice with their leader, Old Deuteronomy. One cat will be chosen to go to the \"Heavyside Layer\" and be reborn.",
+"popularity": 2.27,
+"title": "Koty",
+"titleEn": "Cats",
+"tmdbRating": 7.2,
+"trailerKey": "G29eTr7FgVU"
 }
 },
 "movie:26688": {
@@ -15111,6 +15846,24 @@
 "trailerKey": "WpjxuJV6FfY"
 }
 },
+"movie:319592": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/36BN1it6Qlm65qtwmMPOAVM4wiO.jpg",
+"genres": [
+99
+],
+"imdbId": "tt4362388",
+"kind": "documentary",
+"overview": "Podczas prób „Pasji według świętego Mateusza” artyści i muzycy mówią o ponadczasowym dziele Jana Sebastiana Bacha i jego wpływie na publiczność.",
+"overviewEn": "Erbarme dich - Matthäus Passion Stories is a labyrinthine narrative in which notables such as Peter Sellars, Emio Greco, Simon Halsey and painter Rinke Nijburg explain their special relationship with Bach’s St Matthew Passion to Ramón Gieling (Johan Cruijff: en un momento dado). They speak against the backdrop of a church which has fallen into disrepair, while a choir of homeless people and Pieter Jan Leusink’s Bach Choir & Orchestra rehearse the Passion.  Leusink isn't just the conductor, he is one of the main characters himself, with a painful past in which this musical piece has played a dominant role. Stories from the others alternate seamlessly with this. We learn how the St Matthew Passion played a decisive role in the relations between men and women, fathers and sons, fathers and daughters, mothers and their unborn children, and finally that in spite of our differences we all find a common denominator in the secret of Bach's music.",
+"popularity": 0.55,
+"title": "Erbarme Dich - Historie pasyjne",
+"titleEn": "Erbarme dich - Matthäus Passion Stories",
+"tmdbRating": null,
+"trailerKey": "LhEz_doLekQ"
+}
+},
 "movie:320": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -15129,6 +15882,24 @@
 "titleEn": "Insomnia",
 "tmdbRating": 7.0,
 "trailerKey": "emIHzg4VH8A"
+}
+},
+"movie:321221": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": null,
+"genres": [
+99
+],
+"imdbId": "tt4619556",
+"kind": "documentary",
+"overview": "In order to meet future care demands for elderly who are lonely and suffering from dementia, carebot Alice has been developed. Can a robot build a human relationship with someone and thus replace a person of flesh and blood? The three women, all getting on in years, who are visited by her in Alice Cares actually become pretty fond of the robot girl.  Carebot Alice leaves the laboratory to visit Mrs. Remkes, Mrs. Schellekens-Blanke and Mrs. van Wittmarschen, each in their own house. The three women are getting on in age and are therefore exceptionally suited for the services of Alice, who has been developed by SELEMCA. This is a research group which tries to discover, with the help of community nurses and family, how 'sociobot' Alice should talk and react to stem the effects of loneliness on older women. The outcome of the experiment is surprising for all involved.",
+"overviewEn": "In order to meet future care demands for elderly who are lonely and suffering from dementia, carebot Alice has been developed. Can a robot build a human relationship with someone and thus replace a person of flesh and blood? The three women, all getting on in years, who are visited by her in Alice Cares actually become pretty fond of the robot girl.  Carebot Alice leaves the laboratory to visit Mrs. Remkes, Mrs. Schellekens-Blanke and Mrs. van Wittmarschen, each in their own house. The three women are getting on in age and are therefore exceptionally suited for the services of Alice, who has been developed by SELEMCA. This is a research group which tries to discover, with the help of community nurses and family, how 'sociobot' Alice should talk and react to stem the effects of loneliness on older women. The outcome of the experiment is surprising for all involved.",
+"popularity": 0.35,
+"title": "Ik ben Alice",
+"titleEn": "Alice Cares",
+"tmdbRating": null,
+"trailerKey": null
 }
 },
 "movie:321258": {
@@ -15246,6 +16017,28 @@
 "titleEn": "The Measure of a Man",
 "tmdbRating": 6.6,
 "trailerKey": "SlLUzvHlNlU"
+}
+},
+"movie:330457": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+"genres": [
+10751,
+16,
+12,
+35,
+14
+],
+"imdbId": "tt4520988",
+"kind": "animation",
+"overview": "Dlaczego Elsa urodziła się obdarzona magiczną mocą? Odpowiedź na to pytanie nie daje jej spokoju i… zagraża całemu królestwu! Dlatego razem z Anną, Kristoffem, Olafem i Svenem wyruszają w niebezpieczną i niezwykłą podróż. Czy ta wyprawa odmieni życie bohaterów? Czego się podczas niej dowiedzą? Jakie przygody przeżyją? W oscarowej Krainie lodu Elsa bała się, że jej moc jest zbyt potężna i może doprowadzić do katastrofy. W drugiej części musi mieć nadzieję, że ta moc będzie wystarczająca, aby przezwyciężyć problemy, które napotka. Czy tak się stanie?",
+"overviewEn": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+"popularity": 13.77,
+"title": "Kraina lodu II",
+"titleEn": "Frozen II",
+"tmdbRating": 7.2,
+"trailerKey": "vSKlICmmi98"
 }
 },
 "movie:332210": {
@@ -16403,6 +17196,25 @@
 "trailerKey": "z0I-shVWirw"
 }
 },
+"movie:382143": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/qrYPgFmZ81FEouaN8Ht79iWhhPX.jpg",
+"genres": [
+18,
+36
+],
+"imdbId": "tt2953762",
+"kind": "movie",
+"overview": "Oparta na faktach historia o młodej kobiecie, która 10 lipca 1973 roku wjechała ciężarówką w ludzi stojących na przystanku tramwajowym na praskich Holešovicach. W czasie procesu potwierdziła, że jej intencją było zabicie jak największej liczby osób. Tuż przed zdarzeniem Olga wysłała do lokalnych gazet list, w którym napisała: \"Jestem samotnikiem. Człowiekiem zniszczonym przez ludzi. Mam wybór – zabić siebie albo innych. Wybieram zemstę. To zbyt proste, by opuścić ten świat cichym samobójstwem\". Olga była ostatnią kobietą w byłej Czechosłowacji, na której wykonano karę śmierci.",
+"overviewEn": "Olga is a complex young woman desperate to break free from her unfeeling family and social conventions. With her Louise Brooks-like tomboyish looks she drags herself, chain-smoking, from one job to another until she appears to find her niche as a truck driver. Although she has female lovers she does not form a bond with any of them; instead she clashes, time and again, venting herself in wordless emotional outbursts and other behavioural extremes.",
+"popularity": 0.6,
+"title": "Ja, Olga Hepnarova",
+"titleEn": "I, Olga Hepnarova",
+"tmdbRating": 6.6,
+"trailerKey": "bRToMXs4eas"
+}
+},
 "movie:382517": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -16908,6 +17720,25 @@
 "trailerKey": "Ku52zNnft8k"
 }
 },
+"movie:400649": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/4RiHhCGwTCWwgDP8FYM33GHC3UA.jpg",
+"genres": [
+35,
+27
+],
+"imdbId": "tt4480398",
+"kind": "movie",
+"overview": "Na skutek niefortunnego wypadku z chemikaliami zwykłe donaty przeobrażają się w krwiożerczych zabójców. Teraz troje cukierników: Johnny, Michelle i Howard muszą ratować senne miasteczko przed… atakiem krwiożerczych donatów!",
+"overviewEn": "A chemical accident turns ordinary donuts into blood thirsty killers. Now it's up to Johnny, Michelle, and Howard to save their sleepy town from...Killer Donuts.",
+"popularity": 1.27,
+"title": "Atak krwiożerczych donatów",
+"titleEn": "Attack of the Killer Donuts",
+"tmdbRating": 4.2,
+"trailerKey": "M6RBv5vzzTs"
+}
+},
 "movie:4011": {
 "at": "2026-11-04T21:17:31.702094+00:00",
 "meta": {
@@ -17026,6 +17857,25 @@
 "trailerKey": "ivIwdQBlS10"
 }
 },
+"movie:406997": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/b7xQ5fuyVO4c24igizCfPgF6n7q.jpg",
+"genres": [
+10751,
+18
+],
+"imdbId": "tt2543472",
+"kind": "movie",
+"overview": "Dla 10-letniego Auggiego nie ma niczego bardziej niezwykłego niż \"zwykły dzień w szkole\". Urodzony z licznymi deformacjami twarzy, dotąd uczył się w domu pod okiem mamy. Teraz jednak, zaczynając 5 klasę w normalnej szkole, ma nadzieję, że koledzy potraktują go jak zwyczajnego chłopca. Jego wygląd sprawia, że staje się szkolną sensacją, a dla wielu wręcz \"dziwadłem\". Jedni się z niego śmieją, inni wytykają palcami, ale nikt tak naprawdę niczego o nim nie wie. Wszystko zacznie się zmieniać, gdy w szkole pojawi się nowa uczennica. Urocza Summer, potrafi dostrzec w Auggiem coś więcej niż nietypowy wygląd. Wystarczy jeden przyjazny gest, jedna pomocna dłoń, by obudzić w Auggiem siłę, dzięki której będzie potrafił udowodnić, że nie tylko twarz czyni go kimś niezwykłym.  [opis dystrybutora dvd]",
+"overviewEn": "The story of August Pullman – a boy with facial differences – who enters fifth grade, attending a mainstream elementary school for the first time.",
+"popularity": 7.89,
+"title": "Cudowny chłopak",
+"titleEn": "Wonder",
+"tmdbRating": 8.1,
+"trailerKey": "ASAGdtAJPnU"
+}
+},
 "movie:407531": {
 "at": "2026-11-09T23:46:08.120886+00:00",
 "meta": {
@@ -17043,6 +17893,25 @@
 "titleEn": "Bedeviled",
 "tmdbRating": 5.2,
 "trailerKey": "OYbAePGgs7Q"
+}
+},
+"movie:412547": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/u39BX33drFeaUTobnECyRRQbCED.jpg",
+"genres": [
+28,
+35
+],
+"imdbId": "tt5689068",
+"kind": "movie",
+"overview": "Gunther to najlepszy na świecie płatny zabójca. Koledzy po fachu zmęczeni jego przechwałkami postanawiają zrobić z nim porządek. Okazuje się jednak, że tytuł najlepszego na świecie płatnego zabójcy nie jest przypadkowy.",
+"overviewEn": "A group of eccentric assassins are fed up with Gunther, the world's greatest hitman, and decide to kill him – but their plan turns into a series of bungled encounters as Gunther seems to always be one step ahead.",
+"popularity": 1.81,
+"title": "Dorwać Gunthera",
+"titleEn": "Killing Gunther",
+"tmdbRating": 4.8,
+"trailerKey": "ROusT3QDlZ0"
 }
 },
 "movie:412762": {
@@ -17160,6 +18029,24 @@
 "titleEn": "Lost Wilderness",
 "tmdbRating": null,
 "trailerKey": "ITFYmAkcsSM"
+}
+},
+"movie:41835": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": null,
+"genres": [
+99
+],
+"imdbId": "tt1097268",
+"kind": "documentary",
+"overview": "Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited youth-turned-activist named Rachel Lloyd, who started the New York City organization GEMS (Girls Educational and Mentoring Services) to help victimized young women escape their pimps and find another way of life.",
+"overviewEn": "Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited youth-turned-activist named Rachel Lloyd, who started the New York City organization GEMS (Girls Educational and Mentoring Services) to help victimized young women escape their pimps and find another way of life.",
+"popularity": 0.3,
+"title": "Very Young Girls",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
 }
 },
 "movie:422494": {
@@ -17296,6 +18183,25 @@
 "titleEn": "Room(h)ates",
 "tmdbRating": 5.3,
 "trailerKey": null
+}
+},
+"movie:427152": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/AeiBJSmSCs0wzPUWJdhEp3U82gY.jpg",
+"genres": [
+35,
+10749
+],
+"imdbId": "tt3868240",
+"kind": "movie",
+"overview": "Linda i Vanda przyjaźnią się od lat i wspólnie prowadzą małą księgarnię. Linda jest odpowiedzialna i praktyczna, po rozwodzie samotnie wychowuje córkę. Vanda to szalona, wesoła i spontaniczna piękność, która ciągle przyciąga niewłaściwych mężczyzn. Choć różni je prawie wszystko obydwie marzą o romantycznej miłości. Kiedy w ich życiu pojawią się oni – przebojowy deweloper James i profesor Aldar – wszystko potoczy się zupełnie inaczej niż można byłoby przypuszczać.",
+"overviewEn": "Linda and Vanda, two good-looking women in their thirties, are inseparable friends and co-owners of a small bookstore in the city center. Linda is divorced, educated and practical, has a little daughter and a sense of responsibility. Vanda, on the contrary, is single and free, attracting men as a magnet, but none of them is able to keep up with her spontaneity. Edo, shy, sensitive, and introverted gay working with them in the bookstore, longs for love for ages too. The lives of this trio get finally tangled by several men, while everything turns up differently than any of them had expected.",
+"popularity": 0.54,
+"title": "Wszystko albo nic",
+"titleEn": "All or Nothing",
+"tmdbRating": 4.4,
+"trailerKey": "xP0-cpu9NW0"
 }
 },
 "movie:427641": {
@@ -17528,6 +18434,28 @@
 "titleEn": "Black Tide",
 "tmdbRating": 5.7,
 "trailerKey": "sCKXwbR7nBU"
+}
+},
+"movie:446894": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/26fyATgCQNuZnWAh8AMQk2oBpM4.jpg",
+"genres": [
+10751,
+35,
+12,
+16,
+14
+],
+"imdbId": "tt6182908",
+"kind": "animation",
+"overview": "Przygodowa animacja \"Mała Stopa\" przedstawia legendę o Wielkiej Stopie z zupełnie innej perspektywy, kiedy bystry, młody Yeti znajduje coś, co według niego nie istnieje - człowieka. Wieści o tej \"Małej Stopie” przynoszą mu sławę i wywołują poruszenie w społeczności prostych Yeti, rodząc pytania o to, co jeszcze można znaleźć w wielkim świecie otaczającym ich zaśnieżoną wioskę. To szalona opowieść o przyjaźni, odwadze i radości odkrywania.",
+"overviewEn": "A bright young yeti finds something he thought didn't exist—a human. News of this “smallfoot” throws the simple yeti community into an uproar over what else might be out there in the big world beyond their snowy village.",
+"popularity": 3.5,
+"title": "Mała Stopa",
+"titleEn": "Smallfoot",
+"tmdbRating": 6.8,
+"trailerKey": "uBw6EvIxIS8"
 }
 },
 "movie:44706": {
@@ -18112,6 +19040,24 @@
 "trailerKey": "O9ZtORHR5Cw"
 }
 },
+"movie:466487": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/wkWLU0LpuilvXeH7BK4iQBHqBwF.jpg",
+"genres": [
+99
+],
+"imdbId": "tt7424260",
+"kind": "documentary",
+"overview": "Soul explores the secrets of gastronomy where two cuisines apparently so opposite in their philosophy, conception and experience, have both earned the highest culinary recognition, three Michelin stars.",
+"overviewEn": "Soul explores the secrets of gastronomy where two cuisines apparently so opposite in their philosophy, conception and experience, have both earned the highest culinary recognition, three Michelin stars.",
+"popularity": 0.34,
+"title": "Soul",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": "9oJJVP95uWE"
+}
+},
 "movie:466876": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -18529,6 +19475,25 @@
 "titleEn": "Parasite",
 "tmdbRating": 4.8,
 "trailerKey": "cGnTUz_4EZE"
+}
+},
+"movie:484008": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/17dyPl7L6gUvOQ1iSGYbWF0dkMe.jpg",
+"genres": [
+18,
+35
+],
+"imdbId": "tt6591520",
+"kind": "movie",
+"overview": "Eevi works in a beauty parlor, leading a humdrum life in the suburbs of Helsinki with his husband Kari, a wannabe rocker. After the jackpot, the couple agrees to carry on with their lives as before, without telling anyone about the stroke of luck. But the money is burning holes in their pockets and that’s hard to hide. Their opinions about themselves and their relationship are put to the test. Everyone seems now to have a strange attitude towards them – although they try to pretend to be the same people as before. Do the millions bring happiness after all?",
+"overviewEn": "Eevi works in a beauty parlor, leading a humdrum life in the suburbs of Helsinki with his husband Kari, a wannabe rocker. After the jackpot, the couple agrees to carry on with their lives as before, without telling anyone about the stroke of luck. But the money is burning holes in their pockets and that’s hard to hide. Their opinions about themselves and their relationship are put to the test. Everyone seems now to have a strange attitude towards them – although they try to pretend to be the same people as before. Do the millions bring happiness after all?",
+"popularity": 0.61,
+"title": "Kaikki oikein",
+"titleEn": "Winning Ticket",
+"tmdbRating": null,
+"trailerKey": "YOhtaESx9R8"
 }
 },
 "movie:484468": {
@@ -19217,6 +20182,24 @@
 "trailerKey": "UGosYBfbRBc"
 }
 },
+"movie:511322": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/esbAmV6KtabDibldf3PZWddlT4O.jpg",
+"genres": [
+80
+],
+"imdbId": "tt5563334",
+"kind": "movie",
+"overview": "Zawodowy oszust Roy Courtnay nie może uwierzyć własnemu szczęściu, kiedy poznaje w Internecie dobrze sytuowaną wdowę Betty McLeish. W miarę jak Betty otwiera przed nim swój dom i wpuszcza go do swojego życia, Roy z zaskoczeniem odkrywa, że mu na niej zależy. Uczucie sprawia, że musi umiejętnie balansować na granicy prawdy i kłamstwa, a rutynowy szwindel okazuje się najtrudniejszym w jego życiu.",
+"overviewEn": "Career con man Roy sets his sights on his latest mark: recently widowed Betty, worth millions. And he means to take it all. But as the two draw closer, what should have been another simple swindle takes on the ultimate stakes.",
+"popularity": 2.75,
+"title": "Kłamstwo doskonałe",
+"titleEn": "The Good Liar",
+"tmdbRating": 6.7,
+"trailerKey": "TiiMet5QDsY"
+}
+},
 "movie:512": {
 "at": "2026-11-07T19:24:27.193597+00:00",
 "meta": {
@@ -19472,7 +20455,7 @@
 }
 },
 "movie:524635": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/vTiI8auKiV8KnewOqySCZkXB19t.jpg",
 "genres": [
@@ -19940,6 +20923,29 @@
 "trailerKey": "Wuy_1wUd9FY"
 }
 },
+"movie:551289": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/9ReNqPE07w17DCqvGA5Is7TRZst.jpg",
+"genres": [
+53,
+18,
+28,
+10749,
+80,
+12
+],
+"imdbId": "tt7580598",
+"kind": "movie",
+"overview": "Martina starts a relationship with Filip, a young man who spends most of his time playing video games. After Martina convinces Filip to steal her father's money to go to the Party Beach, everything turns into a bloody nightmare.",
+"overviewEn": "Martina starts a relationship with Filip, a young man who spends most of his time playing video games. After Martina convinces Filip to steal her father's money to go to the Party Beach, everything turns into a bloody nightmare.",
+"popularity": 0.59,
+"title": "F20",
+"titleEn": "Deadly Crush",
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:551603": {
 "at": "2026-11-13T21:25:30.931033+00:00",
 "meta": {
@@ -20228,6 +21234,27 @@
 "titleEn": "The Collapse",
 "tmdbRating": null,
 "trailerKey": null
+}
+},
+"movie:57240": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/jxPuYAoTMR0iGF98l7LdseNPK5r.jpg",
+"genres": [
+12,
+35,
+80,
+18
+],
+"imdbId": "tt0092655",
+"kind": "movie",
+"overview": "Following the death of his father, a suburbanite runs away from home and winds up on Chicago's South Side. After being mugged, the boy befriends a young hustler and, after stealing a gangster's car, the two embark on an adventure down south in search of the hustler's estranged father.",
+"overviewEn": "Following the death of his father, a suburbanite runs away from home and winds up on Chicago's South Side. After being mugged, the boy befriends a young hustler and, after stealing a gangster's car, the two embark on an adventure down south in search of the hustler's estranged father.",
+"popularity": 0.97,
+"title": "Big Shots",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": "jPJiv6xO_Ok"
 }
 },
 "movie:57331": {
@@ -20638,6 +21665,24 @@
 "popularity": 0.11,
 "title": "Kino Wien Film",
 "titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
+"movie:588816": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": null,
+"genres": [
+99
+],
+"imdbId": null,
+"kind": "documentary",
+"overview": "As teenagers, they decided to fight for FARC. Now that a peace agreement has been signed in Colombia, the children of Caldono return to their bombed village. The question is how the villagers will welcome them: with forgiveness or retaliation? Activist Farid Julicué dedicates himself to achieving reconciliation between the villagers and the former rebels.",
+"overviewEn": "As teenagers, they decided to fight for FARC. Now that a peace agreement has been signed in Colombia, the children of Caldono return to their bombed village. The question is how the villagers will welcome them: with forgiveness or retaliation? Activist Farid Julicué dedicates himself to achieving reconciliation between the villagers and the former rebels.",
+"popularity": 0.55,
+"title": "Unpaved Road to Peace",
+"titleEn": "Unpaved Road To Peace",
 "tmdbRating": null,
 "trailerKey": null
 }
@@ -21808,6 +22853,24 @@
 "trailerKey": "pG_A-Jkg9LM"
 }
 },
+"movie:661744": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": null,
+"genres": [
+16
+],
+"imdbId": "tt11565170",
+"kind": "animation",
+"overview": "Short film nominated for BAFTA.",
+"overviewEn": "Short film nominated for BAFTA.",
+"popularity": 0.17,
+"title": "The Magic Boat",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:666035": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -21998,7 +23061,7 @@
 }
 },
 "movie:675871": {
-"at": "2026-11-08T19:40:20.654914+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
 "genres": [
@@ -22010,10 +23073,10 @@
 "kind": "movie",
 "overview": "Kiedy zaręczyny Farvy z siostrą Thorny'ego przeradzają się w chaos, strażnicy próbują rozbić niebezpieczny gang narkotykowy.",
 "overviewEn": "When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring  — all to save the day and maybe the wedding itself.",
-"popularity": 9.23,
+"popularity": 6.91,
 "title": "Straż wiejska 3",
 "titleEn": "Super Troopers 3",
-"tmdbRating": 6.3,
+"tmdbRating": 6.2,
 "trailerKey": "cYFevn5frf0"
 }
 },
@@ -22053,6 +23116,25 @@
 "titleEn": null,
 "tmdbRating": 7.1,
 "trailerKey": "xTaIZo8OJYE"
+}
+},
+"movie:680071": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/s38Hu0w7rS8Ey62vfkzr5v3FVUy.jpg",
+"genres": [
+53,
+80
+],
+"imdbId": "tt15488838",
+"kind": "movie",
+"overview": "Przypadkowo odkryte zwłoki zapoczątkują śledztwo, którego wynik poruszy cały kraj. Alice Launey, francuska ekspertka medycyny sądowej, przyjeżdża do Seulu, aby zaprezentować efekty swojej pracy nad przywracaniem do życia zwłok. Podczas konferencji naukowej spotyka Jin-Ho, koreańskiego detektywa, który prosi ją o pomoc w rozwiązaniu sprawy tajemniczego morderstwa. W trakcie śledztwa nieoczekiwanie dochodzi do zdemaskowania niebezpiecznego kartelu, handlującego ludzkimi ciałami.",
+"overviewEn": "When a series of gruesome murders hit Seoul, the Korean investigation police has no choice but to ask help from world-renowned French doctor Alice Launey who developed a revolutionary technique for recognizing bodies. With more corpses on the way and a mysterious organ trafficking ring uncovered, things are about to get more dangerous in the land of the morning calm…",
+"popularity": 1.74,
+"title": "Uprowadzeni",
+"titleEn": "Vanishing",
+"tmdbRating": 6.6,
+"trailerKey": "QitoEwNqsww"
 }
 },
 "movie:680593": {
@@ -22207,6 +23289,24 @@
 "trailerKey": "AKMpdq04Q84"
 }
 },
+"movie:690737": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/fmiJTmB5VQchJT0PVS6YTHMbXC2.jpg",
+"genres": [
+10751
+],
+"imdbId": "tt2571776",
+"kind": "movie",
+"overview": "When two best friends Jill and Joy find a huge sum of money on the street on the first day of the summer holiday, they decide to buy a house from the mysterious Mrs. Rosebud. It’s a real dream house: measured and equipped exactly for two little seven-year-old girls’ requirements. Based on a beloved children’s book, Jill and Joy is a story of a dream summer without parents or boundaries. Anything can and will happen as reality and fantasy magically intertwine.",
+"overviewEn": "When two best friends Jill and Joy find a huge sum of money on the street on the first day of the summer holiday, they decide to buy a house from the mysterious Mrs. Rosebud. It’s a real dream house: measured and equipped exactly for two little seven-year-old girls’ requirements. Based on a beloved children’s book, Jill and Joy is a story of a dream summer without parents or boundaries. Anything can and will happen as reality and fantasy magically intertwine.",
+"popularity": 0.42,
+"title": "Onneli ja Anneli",
+"titleEn": "Jill and Joy",
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:693": {
 "at": "2026-11-04T21:17:31.702094+00:00",
 "meta": {
@@ -22325,7 +23425,7 @@
 }
 },
 "movie:70578": {
-"at": "2026-11-13T21:25:30.931033+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/yFoSPpJBN0IKZNeEBMmReO8AVMM.jpg",
 "genres": [
@@ -22337,7 +23437,7 @@
 "kind": "movie",
 "overview": "Kyle zajmuje się handlem diamentami. Wraz z piękną żoną Sarą i nastoletnią córką tworzą szczęśliwą rodzinę; mieszkają w luksusowej posiadłości na strzeżonym osiedlu. Któregoś dnia ktoś burzy idyllę. Czwórka uzbrojonych złoczyńców włamuje się do rezydencji i terroryzuje mieszkańców. Przywódcą bandy jest brutalny Elias. Dramatyczna sytuacja sprawia, że rodzina będzie musiała się zmierzyć nie tylko z bandytami, ale także z trzymanymi długo w ukryciu własnymi kłamstwami i tajemnicami.",
 "overviewEn": "Kyle and Sarah Miller have it all: a huge gated house on the water, fancy cars, and the potential for romance in their relationship. He's just back from a business trip and their teen daughter Avery is sneaking out to a party, when four thugs in security uniforms and ski masks stage a home invasion. They want what's in the safe: cash and diamonds. As Kyle stalls them, trying to negotiate for Sarah's freedom, the fault lines in Kyle and Sarah's marriage and the pasts of the four robbers come into play. Is there room here for heroism?",
-"popularity": 2.64,
+"popularity": 2.88,
 "title": "Anatomia Strachu",
 "titleEn": "Trespass",
 "tmdbRating": 5.5,
@@ -22362,6 +23462,26 @@
 "titleEn": "Decision to Leave",
 "tmdbRating": 7.3,
 "trailerKey": "QxHhqC4EAj4"
+}
+},
+"movie:710": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/fIWsCpYR9iGDMSbMTSAzy8L7Kg5.jpg",
+"genres": [
+12,
+28,
+53
+],
+"imdbId": "tt0113189",
+"kind": "movie",
+"overview": "James Bond triumfalnie powraca w przygodach, które jak nigdy dotąd łączą w sobie porywającą akcję, mrożące krew w żyłach popisy kaskaderskie i specyficzny humor. W roli super agenta 007 debiutuje Pierce Brosnan, któremu towarzyszą dwie piękne kobiety Izabella Scorupco i Famke Janssen.  Bond ma nowego, śmiertelnego wroga, z którym musi się zmierzyć w swej misji. Jego perfidny przeciwnik kradnie ściśle tajny helikopter i najnowszą Sowiecką broń zwaną \"GoldenEye\", przy pomocy której chce zniszczyć cały zachodni świat. Tylko James Bond może zapobiec nieszczęściu.",
+"overviewEn": "When a powerful secret defense system is stolen, James Bond is assigned to stop a Russian crime syndicate from using it.",
+"popularity": 10.96,
+"title": "GoldenEye",
+"titleEn": null,
+"tmdbRating": 6.9,
+"trailerKey": "8Zw8ylP4buA"
 }
 },
 "movie:712178": {
@@ -22812,6 +23932,24 @@
 "titleEn": "In the Earth",
 "tmdbRating": 5.6,
 "trailerKey": "3Lqkfo7IymU"
+}
+},
+"movie:750482": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/jyShy2Twg6Fny6iZj9ra46JRGK7.jpg",
+"genres": [
+99
+],
+"imdbId": "tt13986070",
+"kind": "documentary",
+"overview": "Camí Lliure (Free Way) is a film that goes deep into the mind, heart and creativity of chef Raül Balam. Achieving excellence in the competitive culinary world is a task that requires hard work, which is no problem for him, because that example has always been present in his mother, Carme Ruscalleda. For several years, Raül was immersed in the world of drug addiction, which meant he was unable to be a rational person who liked to enjoy life. It also prevented him from growing more professionally. Nevertheless, he finally succeeded in standing up and being the person that he is today, the real Raül. His family is a fundamental pillar and now he sets himself increasingly higher challenges in which he combines his passion for cooking with the extravagant daily activities he publishes on Instagram. This documentary shows part of his journey since the closure of Sant Pau, his mother's 3-star restaurant.",
+"overviewEn": "Camí Lliure (Free Way) is a film that goes deep into the mind, heart and creativity of chef Raül Balam. Achieving excellence in the competitive culinary world is a task that requires hard work, which is no problem for him, because that example has always been present in his mother, Carme Ruscalleda. For several years, Raül was immersed in the world of drug addiction, which meant he was unable to be a rational person who liked to enjoy life. It also prevented him from growing more professionally. Nevertheless, he finally succeeded in standing up and being the person that he is today, the real Raül. His family is a fundamental pillar and now he sets himself increasingly higher challenges in which he combines his passion for cooking with the extravagant daily activities he publishes on Instagram. This documentary shows part of his journey since the closure of Sant Pau, his mother's 3-star restaurant.",
+"popularity": 0.27,
+"title": "Camí Lliure",
+"titleEn": "Free Way",
+"tmdbRating": null,
+"trailerKey": null
 }
 },
 "movie:751423": {
@@ -23607,6 +24745,25 @@
 "trailerKey": null
 }
 },
+"movie:79548": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/nx0xf9ocWJmKUWWfuWMkUtUyHjh.jpg",
+"genres": [
+53,
+9648
+],
+"imdbId": "tt1838544",
+"kind": "movie",
+"overview": "Jill odkrywa, że jej siostra Molly zaginęła bez śladu. Dziewczyna jest przekonana, że uprowadził ją morderca kobiet, z którego rąk cudem wyrwała się rok wcześniej. Porywacz nie zostawił żadnych śladów. Policja podejrzewa Jill o zaburzenia osobowości. Zdesperowana dziewczyna próbuje odnaleźć zabójcę na własną rękę. Uznana za uzbrojoną i niebezpieczną, jest ścigana przez funkcjonariuszy.",
+"overviewEn": "Jill Conway is trying to rebuild her life after escaping a terrifying kidnapping. Though she is having a difficult time, she takes small steps toward normalcy by starting a new job and inviting her sister, Molly, to move in with her. Returning home from work one morning, Jill discovers that Molly has vanished, and she is certain that the same man who previously abducted her has returned for revenge.",
+"popularity": 2.91,
+"title": "Zaginiona",
+"titleEn": "Gone",
+"tmdbRating": 6.2,
+"trailerKey": "dWE1rlCzEJM"
+}
+},
 "movie:802121": {
 "at": "2026-11-08T19:40:20.654914+00:00",
 "meta": {
@@ -23815,6 +24972,25 @@
 "trailerKey": null
 }
 },
+"movie:811211": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/1s8Catsbd9n6KrfxQagF3a3jh5I.jpg",
+"genres": [
+10749,
+18
+],
+"imdbId": "tt13462472",
+"kind": "movie",
+"overview": "Dawni kochankowie wpadają na siebie przypadkiem po kilkunastu latach od ostatniego spotkania. Ona - 70-letnia Shauna - wdowa, matka i babcia jest dziś wolna i niezależna. On - 45-latek ma żonę i dzieci. Pierre ponownie zakochuje się w Shaunie, która mimo że również darzy go silnym uczuciem, nie chce przyczynić się do zniszczenia jego rodziny. Targające parą uczucia są jednak zbyt silne, aby można było przejąć nad nimi kontrolę.",
+"overviewEn": "Elegant, retired architect Shauna (70) crosses paths with Pierre, a happily married doctor in his 40s, who first made an impression on her in a brief meeting 15 years previously. Both are quite troubled to meet again and begin an affair. While Pierre’s family life is soon turned upside down, Shauna struggles with feelings she thought belonged to the past.",
+"popularity": 1.48,
+"title": "Młodzi kochankowie",
+"titleEn": "The Young Lovers",
+"tmdbRating": 6.4,
+"trailerKey": "an62yZ-Oub0"
+}
+},
 "movie:81208": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -24010,6 +25186,24 @@
 "titleEn": "The Paperboy",
 "tmdbRating": 5.5,
 "trailerKey": "Um-JcpaEwEo"
+}
+},
+"movie:825309": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": null,
+"genres": [
+99
+],
+"imdbId": "tt19033556",
+"kind": "documentary",
+"overview": "We shared a small apartment in Hamburg for 10 years. Just finished school and moved out with our parents, we were able to let off steam together in the big city and enjoy the freedom of student life. We laughed, cried, partied and toiled together - but above all we got to know each other intensively. In these 10 years we have not only grown up, but have also become best friends. Before we part ways and we will soon be living on different continents, we decide to go on a great journey together. Just the two of us. A journey in which we have time and leisure to think and reflect. In which we can only concentrate on ourselves.",
+"overviewEn": "We shared a small apartment in Hamburg for 10 years. Just finished school and moved out with our parents, we were able to let off steam together in the big city and enjoy the freedom of student life. We laughed, cried, partied and toiled together - but above all we got to know each other intensively. In these 10 years we have not only grown up, but have also become best friends. Before we part ways and we will soon be living on different continents, we decide to go on a great journey together. Just the two of us. A journey in which we have time and leisure to think and reflect. In which we can only concentrate on ourselves.",
+"popularity": 0.09,
+"title": "Together Free",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": "IQ4BvITS8Tw"
 }
 },
 "movie:825808": {
@@ -24285,6 +25479,24 @@
 "trailerKey": "PEPMWrk8tUk"
 }
 },
+"movie:838911": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": null,
+"genres": [
+99
+],
+"imdbId": "tt12147532",
+"kind": "documentary",
+"overview": "One ball. One world. One bus. A small group of activists sets off in a minibus across 18 countries in Europe and the Middle East towards the World Cup.",
+"overviewEn": "One ball. One world. One bus. A small group of activists sets off in a minibus across 18 countries in Europe and the Middle East towards the World Cup.",
+"popularity": 0.15,
+"title": "Spirit of the Ball",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
+}
+},
 "movie:840705": {
 "at": "2026-11-06T20:52:16.000365+00:00",
 "meta": {
@@ -24306,7 +25518,7 @@
 }
 },
 "movie:840873": {
-"at": "2026-11-13T21:25:30.931033+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
 "genres": [
@@ -24318,7 +25530,7 @@
 "kind": "animation",
 "overview": "U szczytu sławy Marcel Pagnol otrzymał zlecenie od redaktora naczelnego dużego magazynu dla kobiet na napisanie powieści literackiej, w której mógłby opowiedzieć o swoim dzieciństwie, Prowansji, pierwszych miłościach i nie tylko. Kiedy pisze pierwsze strony, nagle ukazuje mu się dziecko, którym kiedyś był – mały Marcel. Wspomnienia odżywają więc poprzez słowa: nadejście filmów dźwiękowych, pierwsze duże studio filmowe, przywiązanie do aktorów, doświadczenie pisania. Największy gawędziarz wszech czasów staje się wówczas bohaterem własnej opowieści.",
 "overviewEn": "In 1955, 60-year-old Marcel Pagnol is a well-known and acclaimed playwright and filmmaker. When the editor-in-chief of ELLE magazine commissions a weekly column about Pagnol's childhood, he sees this as a great opportunity to go back to his artistic roots: writing. Realizing his memory is failing him and deeply affected by the disappointing results of his last two plays, Pagnol starts doubting his ability to pursue his work. That is until Little Marcel - the young boy he used to be - appears to him as if by magic. Together, they will explore Marcel Pagnol's incredible life and bring back to life his most cherished encounters and memories...",
-"popularity": 1.98,
+"popularity": 2.54,
 "title": "Wspaniałe życie Marcela Pagnola",
 "titleEn": "A Magnificent Life",
 "tmdbRating": 7.0,
@@ -24513,6 +25725,27 @@
 "titleEn": null,
 "tmdbRating": 6.0,
 "trailerKey": "y7KOlTOP6XU"
+}
+},
+"movie:848270": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/r8dkQNYydo8wANVrJKUFGpkTN7P.jpg",
+"genres": [
+28,
+878,
+53,
+80
+],
+"imdbId": "tt13180664",
+"kind": "movie",
+"overview": "Rok 2050 roku. Ludzie żyją w pełnym zanieczyszczeń i wszechobecnych wirusów świecie. Aby swobodnie oddychać, muszą nosić maski. Wysiłki podejmowane w celu ratowania planety na niewiele się zdają. Kiedy dochodzi do serii tajemniczych zgonów, policja podejrzewa działania seryjnego mordercy. Ludzie zaczynają jednak plotkować, że za wszystkie zbrodnie odpowiada pradawny demon. Grupa detektywów musi działać szybko, aby odnaleźć sprawcę i zapobiec kolejnym atakom.",
+"overviewEn": "Set in 2050, with a society still living through the after-effects of a global pollution and pandemic, detectives Mendoza and Jones follow a series of gruesome and mysterious deaths. Their investigative trail uncovers a dark secret and puts them on a collision course with a murderous ninja and an evil cult, led by a vindictive woman hell-bent on avenging her husband's death. The detectives must race against the clock to put an end to the killings once and for all.",
+"popularity": 0.73,
+"title": "Pandemiczni wojownicy",
+"titleEn": "Wu Lin: The Society",
+"tmdbRating": null,
+"trailerKey": null
 }
 },
 "movie:84892": {
@@ -25613,6 +26846,26 @@
 "trailerKey": "dEl38jl5nyw"
 }
 },
+"movie:9303": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": "/pMvTpyls1l3OEGKBvgRwKMT8a6O.jpg",
+"genres": [
+18,
+53,
+80
+],
+"imdbId": "tt0115736",
+"kind": "movie",
+"overview": "Po pięciu latach spędzonych w więzieniu, Corky wychodzi na wolność. Zamieszkuje w skromnym apartamencie. Wkrótce poznaje swoich nowych sąsiadów, Violet i jej męża, gangstera Ceasara, który pierze brudne pieniądze dla mafii. Niebawem Corky dowiaduje się, że w mieszkaniu Ceasar przetrzymuje dla mafijnego bossa 2 miliony dolarów. Chce ukraść tę forsę. Razem z Violet planują sprytną intrygę.",
+"overviewEn": "Corky, a tough female ex-convict working on an apartment renovation in a Chicago building, meets a couple living next door, Caesar, a paranoid mobster, and Violet, his seductive girlfriend, who is immediately attracted to her.",
+"popularity": 6.44,
+"title": "Brudne pieniądze",
+"titleEn": "Bound",
+"tmdbRating": 7.2,
+"trailerKey": "WHBmxInOC4E"
+}
+},
 "movie:930322": {
 "at": "2026-11-07T11:43:12.383621+00:00",
 "meta": {
@@ -25711,7 +26964,7 @@
 }
 },
 "movie:936075": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
 "genres": [
@@ -26201,7 +27454,7 @@
 }
 },
 "movie:964849": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
 "genres": [
@@ -26216,6 +27469,24 @@
 "titleEn": "Nightborn",
 "tmdbRating": 5.9,
 "trailerKey": "dWePsu_Kd9c"
+}
+},
+"movie:966724": {
+"at": "2026-11-18T22:35:03.709805+00:00",
+"meta": {
+"backdropPath": null,
+"genres": [
+18
+],
+"imdbId": "tt6274610",
+"kind": "movie",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.14,
+"title": "Εμένα Ο Γιος Μου",
+"titleEn": null,
+"tmdbRating": null,
+"trailerKey": null
 }
 },
 "movie:966836": {
@@ -26257,7 +27528,7 @@
 }
 },
 "movie:969681": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "genres": [
@@ -26838,7 +28109,7 @@
 }
 },
 "tv:101352": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/iZ8EtGAqKWZdRJPzWfFseNfVxjh.jpg",
 "genres": [
@@ -26857,7 +28128,7 @@
 }
 },
 "tv:103540": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
 "genres": [
@@ -26878,7 +28149,7 @@
 }
 },
 "tv:104007": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/r3YKSTyu2gpSdngDjXAsXr5QUAc.jpg",
 "genres": [
@@ -26897,7 +28168,7 @@
 }
 },
 "tv:105009": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
 "genres": [
@@ -26918,7 +28189,7 @@
 }
 },
 "tv:107113": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/WCnEPf4ZNPjszndmrFlDxZ5Uvd.jpg",
 "genres": [
@@ -26975,7 +28246,7 @@
 }
 },
 "tv:114656": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/vKk3womxcGLqOZLiGZ2aXA2PtOV.jpg",
 "genres": [],
@@ -26991,7 +28262,7 @@
 }
 },
 "tv:117488": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
 "genres": [
@@ -27066,7 +28337,7 @@
 }
 },
 "tv:123591": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/znf5Z1LSFYFOsRGClXwclqIhf83.jpg",
 "genres": [
@@ -27106,7 +28377,7 @@
 }
 },
 "tv:125935": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/s3owzvmihtDrunVxB2DyGjn9iJt.jpg",
 "genres": [
@@ -27143,7 +28414,7 @@
 }
 },
 "tv:126824": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/kP7pCxfml6erWC9aB72ALtNawJq.jpg",
 "genres": [
@@ -27164,7 +28435,7 @@
 }
 },
 "tv:12786": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/hYmHyUlJMQgeazELoHnORrEQ0vE.jpg",
 "genres": [
@@ -27183,7 +28454,7 @@
 }
 },
 "tv:128822": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
 "genres": [
@@ -27219,7 +28490,7 @@
 }
 },
 "tv:130853": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/yj8g84iczcJVg3zCxVGpfdEMMxg.jpg",
 "genres": [
@@ -27256,7 +28527,7 @@
 }
 },
 "tv:134299": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/yq6lhr7SpjTiOi14nzFYDV9oAdc.jpg",
 "genres": [],
@@ -27290,7 +28561,7 @@
 }
 },
 "tv:137940": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/k2ag5yV3TsmPjQILesOPiQmg8UY.jpg",
 "genres": [
@@ -27326,7 +28597,7 @@
 }
 },
 "tv:139434": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/5iOySYfc1vV8nDvmqWQ0sHk7q2q.jpg",
 "genres": [
@@ -27345,7 +28616,7 @@
 }
 },
 "tv:1416": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
 "genres": [
@@ -27363,7 +28634,7 @@
 }
 },
 "tv:14447": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/jZhbWvp8tNrCA1zTyQQGPh0kabG.jpg",
 "genres": [
@@ -27381,7 +28652,7 @@
 }
 },
 "tv:14750": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
 "genres": [
@@ -27399,7 +28670,7 @@
 }
 },
 "tv:153312": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
 "genres": [
@@ -27438,7 +28709,7 @@
 }
 },
 "tv:154521": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
 "genres": [
@@ -27456,7 +28727,7 @@
 }
 },
 "tv:1549": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/mWIyoSdVQxdr1bA423tObJwJSR.jpg",
 "genres": [
@@ -27511,7 +28782,7 @@
 }
 },
 "tv:157061": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/31XWoLd3AHW6MLy9i2DSbFZOPuH.jpg",
 "genres": [
@@ -27572,7 +28843,7 @@
 }
 },
 "tv:1711": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/d1MtRbMampXOZ7il2dDF6fDTTNU.jpg",
 "genres": [
@@ -27760,7 +29031,7 @@
 }
 },
 "tv:205272": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/5Nu95w2oWsbmDeAjG2NJF4x33Ud.jpg",
 "genres": [
@@ -27812,7 +29083,7 @@
 }
 },
 "tv:207347": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
 "genres": [
@@ -27831,7 +29102,7 @@
 }
 },
 "tv:207484": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
 "genres": [
@@ -27869,7 +29140,7 @@
 }
 },
 "tv:208921": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/vPw5Gpg0YEEk1VsE8QlmyTxIJuU.jpg",
 "genres": [
@@ -27887,7 +29158,7 @@
 }
 },
 "tv:210062": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
 "genres": [
@@ -27906,7 +29177,7 @@
 }
 },
 "tv:211288": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
 "genres": [
@@ -27925,7 +29196,7 @@
 }
 },
 "tv:211656": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/lF7A08C7hDC1RbhHPpLMjsS317C.jpg",
 "genres": [
@@ -27943,7 +29214,7 @@
 }
 },
 "tv:212440": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/vwP8lTgiscnRzbaTucRRzXHpy4G.jpg",
 "genres": [
@@ -27962,7 +29233,7 @@
 }
 },
 "tv:213194": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/a4FHdQfPGT1T2w4DYUEGgRMxSgZ.jpg",
 "genres": [
@@ -27999,7 +29270,7 @@
 }
 },
 "tv:214582": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
 "genres": [
@@ -28055,7 +29326,7 @@
 }
 },
 "tv:216467": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/xlMVEbNl7ZBGFyhX2WEhQ8Kifm4.jpg",
 "genres": [
@@ -28113,7 +29384,7 @@
 }
 },
 "tv:218347": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
 "genres": [
@@ -28185,7 +29456,7 @@
 }
 },
 "tv:223397": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/KvlbwzWi5ldhfPFRzOZy67rsKz.jpg",
 "genres": [
@@ -28224,7 +29495,7 @@
 }
 },
 "tv:224330": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/dVo7ITxL3jrMXVsBlqnkJsmVTP8.jpg",
 "genres": [
@@ -28317,7 +29588,7 @@
 }
 },
 "tv:230915": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/qILdlzSLkxFXFHhY50Pa42MyrU7.jpg",
 "genres": [
@@ -28337,7 +29608,7 @@
 }
 },
 "tv:231034": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/m4XRxZu4c0ImDwpRB2vPtsMdypd.jpg",
 "genres": [
@@ -28357,7 +29628,7 @@
 }
 },
 "tv:231082": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/rZNPOAJLqFu1VQsQxZOhHc66PzY.jpg",
 "genres": [
@@ -28375,7 +29646,7 @@
 }
 },
 "tv:231730": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/cHznGpISn6Uxy9EyLel5eX7WrXG.jpg",
 "genres": [
@@ -28393,7 +29664,7 @@
 }
 },
 "tv:231801": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
 "genres": [
@@ -28430,7 +29701,7 @@
 }
 },
 "tv:234310": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
 "genres": [
@@ -28467,7 +29738,7 @@
 }
 },
 "tv:235904": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/tWunElWzuQKWCkJcyXk3QQ3b3i2.jpg",
 "genres": [
@@ -28486,7 +29757,7 @@
 }
 },
 "tv:237077": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/kmc2ubUpMu663nSPw2Kf59Wbue9.jpg",
 "genres": [
@@ -28522,7 +29793,7 @@
 }
 },
 "tv:238820": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/jvsQkpUJhv6db9uCB0bZzoDgdPN.jpg",
 "genres": [
@@ -28574,7 +29845,7 @@
 }
 },
 "tv:243875": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/h927CLfeAjiy0MNKRxWZgEq7bHR.jpg",
 "genres": [
@@ -28592,7 +29863,7 @@
 }
 },
 "tv:244447": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
 "genres": [
@@ -28611,7 +29882,7 @@
 }
 },
 "tv:244978": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/5vcVf5hDtnKQVmHj9RSIaVwwvlx.jpg",
 "genres": [
@@ -28631,7 +29902,7 @@
 }
 },
 "tv:245841": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/doIUOsdeCKkRNQxMvV4MKp0uoTT.jpg",
 "genres": [
@@ -28686,7 +29957,7 @@
 }
 },
 "tv:247718": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
 "genres": [
@@ -28705,7 +29976,7 @@
 }
 },
 "tv:247769": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/w8L2oVjsSRZdZ1Wcszot9cKZMRO.jpg",
 "genres": [
@@ -28724,7 +29995,7 @@
 }
 },
 "tv:248830": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
 "genres": [
@@ -28780,7 +30051,7 @@
 }
 },
 "tv:250670": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/dkhjP3GK44gkxmKzrgYzHs8hbtf.jpg",
 "genres": [
@@ -28816,7 +30087,7 @@
 }
 },
 "tv:253666": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/5EAW4TamNAckZPNBy3ZI6ii7Ng9.jpg",
 "genres": [],
@@ -28832,7 +30103,7 @@
 }
 },
 "tv:253811": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
 "genres": [
@@ -28870,7 +30141,7 @@
 }
 },
 "tv:254514": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/9mDlwBdCu501924dXnzz2Gtc8XI.jpg",
 "genres": [
@@ -28906,7 +30177,7 @@
 }
 },
 "tv:254630": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
 "genres": [
@@ -28926,7 +30197,7 @@
 }
 },
 "tv:255055": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
 "genres": [
@@ -28944,7 +30215,7 @@
 }
 },
 "tv:255570": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
 "genres": [
@@ -28979,7 +30250,7 @@
 }
 },
 "tv:256155": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/1vWeDCMw86QnpAOJgAAqICNastZ.jpg",
 "genres": [
@@ -29020,7 +30291,7 @@
 }
 },
 "tv:256711": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
 "genres": [
@@ -29078,7 +30349,7 @@
 }
 },
 "tv:258742": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/7t55fTjn0KRqCGPOSXM9RUk0zny.jpg",
 "genres": [
@@ -29115,7 +30386,7 @@
 }
 },
 "tv:259140": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
 "genres": [
@@ -29136,7 +30407,7 @@
 }
 },
 "tv:259909": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
 "genres": [
@@ -29194,7 +30465,7 @@
 }
 },
 "tv:261647": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/wGeYd7lVxOzZsbJV7iipK8298hT.jpg",
 "genres": [
@@ -29232,7 +30503,7 @@
 }
 },
 "tv:262873": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/uovHUzEcCnSNVFAxpmYXgEhgvt4.jpg",
 "genres": [
@@ -29287,7 +30558,7 @@
 }
 },
 "tv:272947": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/rTtg4ENjDclbvYP0w5nygSaCEYN.jpg",
 "genres": [
@@ -29306,7 +30577,7 @@
 }
 },
 "tv:273247": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
 "genres": [
@@ -29345,7 +30616,7 @@
 }
 },
 "tv:2734": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
 "genres": [
@@ -29365,7 +30636,7 @@
 }
 },
 "tv:273801": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/hbWqmgF9NYU2ATBWqvhLnOCeW2V.jpg",
 "genres": [
@@ -29403,7 +30674,7 @@
 }
 },
 "tv:274388": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/tHWW3xDD49UZuoirqzUQT046dWi.jpg",
 "genres": [
@@ -29423,7 +30694,7 @@
 }
 },
 "tv:275139": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/roUD5m2nj6k88azMFsiqBae29cr.jpg",
 "genres": [
@@ -29443,7 +30714,7 @@
 }
 },
 "tv:275204": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/2QsmesFzm5WaP70pRmCbVBzvXDA.jpg",
 "genres": [
@@ -29520,7 +30791,7 @@
 }
 },
 "tv:279246": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
 "genres": [
@@ -29534,7 +30805,7 @@
 "popularity": 190.35,
 "title": "Ponowne zaślubiny cesarzowej",
 "titleEn": "The Remarried Empress",
-"tmdbRating": 8.7,
+"tmdbRating": 8.8,
 "trailerKey": "aScUjuKvHSo"
 }
 },
@@ -29559,7 +30830,7 @@
 }
 },
 "tv:2808": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/gbmN2y9Dqm6XKEev1kd8GkGLLn.jpg",
 "genres": [
@@ -29580,7 +30851,7 @@
 }
 },
 "tv:280880": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/xWTgLbS1HLr2sqwZH9sD6zO16Jj.jpg",
 "genres": [
@@ -29599,7 +30870,7 @@
 }
 },
 "tv:283428": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
 "genres": [
@@ -29636,7 +30907,7 @@
 }
 },
 "tv:284838": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/ubqZEVCDp86myrZwJpyNwocLrce.jpg",
 "genres": [
@@ -29726,7 +30997,7 @@
 }
 },
 "tv:286277": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
 "genres": [
@@ -29781,7 +31052,7 @@
 }
 },
 "tv:289214": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/dpdmbawI8S3ZqFAoByuIp5JRvlC.jpg",
 "genres": [
@@ -29799,7 +31070,7 @@
 }
 },
 "tv:289560": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
 "genres": [
@@ -29818,7 +31089,7 @@
 }
 },
 "tv:290564": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/u33XkP4bARiOCW72AvrQU2MT6ls.jpg",
 "genres": [
@@ -29836,7 +31107,7 @@
 }
 },
 "tv:290856": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
 "genres": [
@@ -29965,7 +31236,7 @@
 }
 },
 "tv:292741": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
 "genres": [
@@ -29985,7 +31256,7 @@
 }
 },
 "tv:293607": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
 "genres": [
@@ -30058,7 +31329,7 @@
 }
 },
 "tv:294405": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/tqk45yG9Dhi60lX7tFLAKQyWm5b.jpg",
 "genres": [
@@ -30077,7 +31348,7 @@
 }
 },
 "tv:294637": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/mWzn4Mg7FbuDMg7CKR88dKlWAwg.jpg",
 "genres": [
@@ -30096,7 +31367,7 @@
 }
 },
 "tv:295778": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
 "genres": [
@@ -30151,7 +31422,7 @@
 }
 },
 "tv:302030": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/9fCnUBYHIuB6I5LtU3a2y6BGlSP.jpg",
 "genres": [
@@ -30227,7 +31498,7 @@
 }
 },
 "tv:303745": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
 "genres": [
@@ -30242,12 +31513,12 @@
 "popularity": 142.04,
 "title": "Miłość pod przykrywką",
 "titleEn": "Love in Disguise",
-"tmdbRating": 9.1,
+"tmdbRating": 9.0,
 "trailerKey": null
 }
 },
 "tv:305245": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/bbCCaAlzJkCv8C8AFr8l1rBWJyt.jpg",
 "genres": [
@@ -30283,7 +31554,7 @@
 }
 },
 "tv:305551": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
 "genres": [
@@ -30302,7 +31573,7 @@
 }
 },
 "tv:306179": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/1csFLrwh28PrWyWyeUXzgyt4930.jpg",
 "genres": [
@@ -30320,7 +31591,7 @@
 }
 },
 "tv:306553": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/viuBeQoE8JMsYmuf4S7350UoM5c.jpg",
 "genres": [
@@ -30338,7 +31609,7 @@
 }
 },
 "tv:307478": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
 "genres": [
@@ -30413,7 +31684,7 @@
 }
 },
 "tv:312359": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
 "genres": [
@@ -30490,7 +31761,7 @@
 }
 },
 "tv:314360": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
 "genres": [
@@ -30583,7 +31854,7 @@
 }
 },
 "tv:316702": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/gq3FEuYsUl1r4rQYDCaQvzw1bOd.jpg",
 "genres": [
@@ -30601,7 +31872,7 @@
 }
 },
 "tv:31991": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/2ugy3IP3yvdRdEepHDOml82TKFT.jpg",
 "genres": [
@@ -30676,7 +31947,7 @@
 }
 },
 "tv:320935": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/82F7t5uoI9eYb6RyZvO6USNgcqF.jpg",
 "genres": [
@@ -30714,7 +31985,7 @@
 }
 },
 "tv:321421": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/9BTe8tU3OSA29Gn5487bVEGK44b.jpg",
 "genres": [
@@ -30788,7 +32059,7 @@
 }
 },
 "tv:323480": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/huFDzC269NUTrnXQCItNxNZv288.jpg",
 "genres": [
@@ -30810,7 +32081,7 @@
 }
 },
 "tv:323660": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/2JECUzaIiv8EIm2kKSLdkFk1tf9.jpg",
 "genres": [
@@ -30828,7 +32099,7 @@
 }
 },
 "tv:324326": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
 "genres": [
@@ -30848,7 +32119,7 @@
 }
 },
 "tv:325762": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/b86uanEjgbU12B0hbN81dXmIU5C.jpg",
 "genres": [
@@ -30867,7 +32138,7 @@
 }
 },
 "tv:32726": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/2AVPwdHJsF044jT39akgLxxv2zx.jpg",
 "genres": [
@@ -30886,7 +32157,7 @@
 }
 },
 "tv:328010": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/fA6eLsm6xEBK90IK3UNWoVPZBn7.jpg",
 "genres": [
@@ -30940,7 +32211,7 @@
 }
 },
 "tv:329490": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/blB4qv0LlOUriouoPqkFJlLe6Ki.jpg",
 "genres": [
@@ -30974,7 +32245,7 @@
 }
 },
 "tv:33101": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/smbz1w5ehquV8zDaVvgtwJpVI7.jpg",
 "genres": [
@@ -30992,7 +32263,7 @@
 }
 },
 "tv:332261": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/7xTvFsxac5k3xIH0cTOkNsEDcm1.jpg",
 "genres": [
@@ -31011,7 +32282,7 @@
 }
 },
 "tv:332649": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/uNk5pCHUNgxGoe4bJuMYjAAuKFf.jpg",
 "genres": [
@@ -31048,7 +32319,7 @@
 }
 },
 "tv:332713": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
 "genres": [
@@ -31063,24 +32334,6 @@
 "titleEn": "Extraordinary Attorney Minami",
 "tmdbRating": null,
 "trailerKey": null
-}
-},
-"tv:333400": {
-"at": "2026-11-15T20:23:02.056756+00:00",
-"meta": {
-"backdropPath": "/gg06gfnRxgYiE6bfNdha4BXf0Qz.jpg",
-"genres": [
-10767
-],
-"imdbId": "tt45495066",
-"kind": "series",
-"overview": "Each episode spotlights Howard Stern's boundary-pushing humor, social commentary, and intimate conversations – all with his iconic voice and unique perspective. Recognized as one of the best interviewers in the business, the series also features Howard's in-depth, candid conversations with celebrities, musicians, and more.",
-"overviewEn": "Each episode spotlights Howard Stern's boundary-pushing humor, social commentary, and intimate conversations – all with his iconic voice and unique perspective. Recognized as one of the best interviewers in the business, the series also features Howard's in-depth, candid conversations with celebrities, musicians, and more.",
-"popularity": 3.45,
-"title": "The Howard Stern Show",
-"titleEn": null,
-"tmdbRating": null,
-"trailerKey": "EW2q8k06zzo"
 }
 },
 "tv:333522": {
@@ -31138,7 +32391,7 @@
 }
 },
 "tv:334702": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg",
 "genres": [
@@ -31174,7 +32427,7 @@
 }
 },
 "tv:334887": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
 "genres": [
@@ -31210,7 +32463,7 @@
 }
 },
 "tv:33587": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/njOnS6rOVtOECsoCtZjYBEcd28p.jpg",
 "genres": [
@@ -31229,7 +32482,7 @@
 }
 },
 "tv:335981": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
 "genres": [
@@ -31286,7 +32539,7 @@
 }
 },
 "tv:337370": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/h0wTEyEJaPT8Gf1YSrJt8FFSUAZ.jpg",
 "genres": [
@@ -31305,7 +32558,7 @@
 }
 },
 "tv:337373": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/n5hMYGvfvPSXfrZsBsjzQoIPalr.jpg",
 "genres": [
@@ -31323,7 +32576,7 @@
 }
 },
 "tv:337374": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/kyZo0aSPbZXtyP8BfDhoVCkfDxO.jpg",
 "genres": [
@@ -31342,7 +32595,7 @@
 }
 },
 "tv:338292": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/5Wp70btcm3zuVyrv1lMqzW8r6NO.jpg",
 "genres": [
@@ -31360,7 +32613,7 @@
 }
 },
 "tv:338411": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/aBKeOs4TEGlYk4YnuX48MEkADa6.jpg",
 "genres": [
@@ -31379,7 +32632,7 @@
 }
 },
 "tv:338547": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/8VBfz1ufyA0ausZI4nXfRBJJp5S.jpg",
 "genres": [
@@ -31398,7 +32651,7 @@
 }
 },
 "tv:338562": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
 "genres": [
@@ -31450,7 +32703,7 @@
 }
 },
 "tv:339697": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/r5ecc4Wjejsp6B507GdZXOPTNMo.jpg",
 "genres": [
@@ -31505,7 +32758,7 @@
 }
 },
 "tv:34045": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/bpD0l55NTyHzIGX0QdTdogTk1ro.jpg",
 "genres": [
@@ -31525,7 +32778,7 @@
 }
 },
 "tv:340728": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/uzPfZrkwHvJ8g7Jxhxwg4hiKkql.jpg",
 "genres": [
@@ -31699,7 +32952,7 @@
 }
 },
 "tv:341603": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg",
 "genres": [
@@ -31841,7 +33094,7 @@
 }
 },
 "tv:34634": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
 "genres": [
@@ -31859,7 +33112,7 @@
 }
 },
 "tv:36576": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/k1CVpoBglraB3R7EKcyyXEDuNlh.jpg",
 "genres": [
@@ -31879,7 +33132,7 @@
 }
 },
 "tv:387": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
 "genres": [
@@ -31937,7 +33190,7 @@
 }
 },
 "tv:41956": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",
 "genres": [
@@ -31997,7 +33250,7 @@
 }
 },
 "tv:44006": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
 "genres": [
@@ -32072,7 +33325,7 @@
 }
 },
 "tv:44996": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/FEh9W3KUDFo1RmvDUNqPqE2mxq.jpg",
 "genres": [
@@ -32090,7 +33343,7 @@
 }
 },
 "tv:45099": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/bWLi7MqbA2iTcAUNb83o56mxQze.jpg",
 "genres": [
@@ -32108,7 +33361,7 @@
 }
 },
 "tv:456": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
 "genres": [
@@ -32127,7 +33380,7 @@
 }
 },
 "tv:45790": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
 "genres": [
@@ -32147,7 +33400,7 @@
 }
 },
 "tv:4614": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/rHKRZCBpDFSNc45kzyf665LJYp3.jpg",
 "genres": [
@@ -32167,7 +33420,7 @@
 }
 },
 "tv:46268": {
-"at": "2026-11-13T21:25:30.931033+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/jH8BWwd1kIfY3N614o9idhW8rOJ.jpg",
 "genres": [
@@ -32177,7 +33430,7 @@
 "kind": "series",
 "overview": "Think the days of bootleggers, backwoods stills and \"white lightning\" are over? Not a chance! It's a multi-million dollar industry. But perhaps more importantly to the moonshiners, it's a tradition dating back hundreds of years, passed down to them from their forefathers. It's part of their history and culture. While this practice is surprisingly alive and well, it's not always legal. Moonshiners tells the story of those who brew their shine - often in the woods near their homes using camouflaged equipment - and the local authorities who try to keep them honest. Viewers will witness practices rarely, if ever, seen on television including the sacred rite of passage for a moonshiner - firing up the still for the first time. They will also meet legends, including notorious moonshiner Marvin \"Popcorn\" Sutton.",
 "overviewEn": "Think the days of bootleggers, backwoods stills and \"white lightning\" are over? Not a chance! It's a multi-million dollar industry. But perhaps more importantly to the moonshiners, it's a tradition dating back hundreds of years, passed down to them from their forefathers. It's part of their history and culture. While this practice is surprisingly alive and well, it's not always legal. Moonshiners tells the story of those who brew their shine - often in the woods near their homes using camouflaged equipment - and the local authorities who try to keep them honest. Viewers will witness practices rarely, if ever, seen on television including the sacred rite of passage for a moonshiner - firing up the still for the first time. They will also meet legends, including notorious moonshiner Marvin \"Popcorn\" Sutton.",
-"popularity": 8.3,
+"popularity": 9.31,
 "title": "Moonshiners",
 "titleEn": null,
 "tmdbRating": 7.2,
@@ -32185,7 +33438,7 @@
 }
 },
 "tv:4656": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
 "genres": [
@@ -32223,7 +33476,7 @@
 }
 },
 "tv:46923": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
 "genres": [
@@ -32263,7 +33516,7 @@
 }
 },
 "tv:48175": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/dlbfhHqBIPtqnQ09Rc2GPfaivn3.jpg",
 "genres": [
@@ -32334,7 +33587,7 @@
 }
 },
 "tv:49394": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/wYGqCZuBdYeL7OLQTDxVA1AnuUl.jpg",
 "genres": [
@@ -32390,7 +33643,7 @@
 }
 },
 "tv:549": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
 "genres": [
@@ -32409,7 +33662,7 @@
 }
 },
 "tv:55808": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/mmRm55pCBRUmWGscuLncdfcVmGm.jpg",
 "genres": [
@@ -32447,7 +33700,7 @@
 }
 },
 "tv:58841": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/18KSsDgcGQds7yOMC6MVRTbVJwt.jpg",
 "genres": [
@@ -32466,7 +33719,7 @@
 }
 },
 "tv:60694": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/q31EEBycbOyX7GGJP4GTPI5WJRO.jpg",
 "genres": [
@@ -32481,12 +33734,12 @@
 "popularity": 68.41,
 "title": "Przegląd tygodnia: Wieczór z Johnem Oliverem",
 "titleEn": "Last Week Tonight with John Oliver",
-"tmdbRating": 7.8,
+"tmdbRating": 7.7,
 "trailerKey": "PawUmci7JuU"
 }
 },
 "tv:62543": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/zAKM6hRSA4gigcrseamge38kVCX.jpg",
 "genres": [
@@ -32506,7 +33759,7 @@
 }
 },
 "tv:62650": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/fFgVoJuSBewZWlzgaoUWGm8MvD4.jpg",
 "genres": [
@@ -32579,7 +33832,7 @@
 }
 },
 "tv:64840": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/i8DVzXlPYZnJANEoLja1ysXtJ3K.jpg",
 "genres": [
@@ -32600,7 +33853,7 @@
 }
 },
 "tv:65334": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
 "genres": [
@@ -32680,7 +33933,7 @@
 }
 },
 "tv:69880": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/u8EUQWxMVYnUENwAhKyoRE5iBCa.jpg",
 "genres": [
@@ -32699,7 +33952,7 @@
 }
 },
 "tv:72482": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/wOEbMvVfcvMGevu3snwSSL2J8qv.jpg",
 "genres": [
@@ -32719,7 +33972,7 @@
 }
 },
 "tv:73758": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/psHBCVewTbNTvgvCiV5GruZ51V9.jpg",
 "genres": [
@@ -32755,7 +34008,7 @@
 }
 },
 "tv:74274": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/rhZFMS8iGbNX0yQVU4MpZFdg1Xs.jpg",
 "genres": [
@@ -32794,7 +34047,7 @@
 }
 },
 "tv:75219": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/5QJtEzMR7NxRxBBEdB7JfM1l7Oj.jpg",
 "genres": [
@@ -32814,7 +34067,7 @@
 }
 },
 "tv:76168": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/ohuV85PKdBed6aF1wgLE2qYzEjp.jpg",
 "genres": [],
@@ -32908,7 +34161,7 @@
 }
 },
 "tv:80587": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/vVGmv5mle6lCrgnx8lNv5Q1vZPw.jpg",
 "genres": [
@@ -32928,7 +34181,7 @@
 }
 },
 "tv:80748": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/j9nU0GHNakbQhoFCDE61OrvMjTC.jpg",
 "genres": [
@@ -32948,7 +34201,7 @@
 }
 },
 "tv:81723": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/afUVsProh46h31w2EvL7qyHXrqj.jpg",
 "genres": [
@@ -32966,7 +34219,7 @@
 }
 },
 "tv:83524": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/uvbiwdJ2Ja27O4G3kUOS0Uk7N5C.jpg",
 "genres": [
@@ -33020,9 +34273,9 @@
 }
 },
 "tv:84773": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
-"backdropPath": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
+"backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
 "genres": [
 10759,
 10765
@@ -33039,7 +34292,7 @@
 }
 },
 "tv:85077": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "genres": [
@@ -33078,7 +34331,7 @@
 }
 },
 "tv:86646": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/xa1KsFVJAVj1AkTiD92x59AY1sk.jpg",
 "genres": [
@@ -33114,7 +34367,7 @@
 }
 },
 "tv:89341": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/8y1K2Q2YvikLiIgH6whgwzbviK4.jpg",
 "genres": [
@@ -33133,7 +34386,7 @@
 }
 },
 "tv:90046": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/9jmxvWOt5xTjrJ03FNmViZCuZ5f.jpg",
 "genres": [
@@ -33170,7 +34423,7 @@
 }
 },
 "tv:93449": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
 "genres": [
@@ -33245,7 +34498,7 @@
 }
 },
 "tv:97083": {
-"at": "2026-11-18T13:55:28.191676+00:00",
+"at": "2026-11-18T22:35:03.709805+00:00",
 "meta": {
 "backdropPath": "/9RvOSdK6oHbTZmGswApOziC0zc8.jpg",
 "genres": [
