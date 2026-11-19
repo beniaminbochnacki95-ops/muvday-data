@@ -2391,7 +2391,7 @@
 }
 },
 "movie:1103437": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/qd2YZfTAlI31CPpIIWovVyKhRzD.jpg",
 "genres": [
@@ -3045,7 +3045,7 @@
 }
 },
 "movie:1129188": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/d162vjYEHGEGw2XqxH487bnEkfG.jpg",
 "genres": [
@@ -3119,7 +3119,7 @@
 }
 },
 "movie:1131943": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
 "genres": [
@@ -3134,7 +3134,7 @@
 "popularity": 48.68,
 "title": "Madden",
 "titleEn": null,
-"tmdbRating": null,
+"tmdbRating": 7.9,
 "trailerKey": "xzh7HzLXXpk"
 }
 },
@@ -3289,7 +3289,7 @@
 }
 },
 "movie:1140521": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
 "genres": [
@@ -3768,7 +3768,7 @@
 }
 },
 "movie:1165366": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/eZA5G4Ahe02jpVnF3bzy02F5wqD.jpg",
 "genres": [
@@ -3788,7 +3788,7 @@
 }
 },
 "movie:1165369": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/1Q16imE9WMYAoVlenG5fUuul4A2.jpg",
 "genres": [
@@ -5017,7 +5017,7 @@
 }
 },
 "movie:1226863": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
 "genres": [
@@ -5327,7 +5327,7 @@
 }
 },
 "movie:1235304": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/b28RiKlALbdC2Dmnndt93MBt76h.jpg",
 "genres": [
@@ -5560,7 +5560,7 @@
 }
 },
 "movie:1244531": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/gHdSsZ1Bs8dCcflFwZg7nFMTW73.jpg",
 "genres": [
@@ -5994,7 +5994,7 @@
 }
 },
 "movie:1263337": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
 "genres": [
@@ -6070,7 +6070,7 @@
 }
 },
 "movie:1267905": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
 "genres": [
@@ -6170,7 +6170,7 @@
 }
 },
 "movie:1273221": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
 "genres": [
@@ -6550,7 +6550,7 @@
 }
 },
 "movie:1290450": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/wNpEnHxNQXSv2fc3bW0QNuswKs6.jpg",
 "genres": [
@@ -6568,7 +6568,7 @@
 }
 },
 "movie:1291595": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
 "genres": [
@@ -6606,7 +6606,7 @@
 }
 },
 "movie:1292415": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
 "genres": [
@@ -6625,7 +6625,7 @@
 }
 },
 "movie:1292695": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg",
 "genres": [
@@ -6874,7 +6874,7 @@
 }
 },
 "movie:1308618": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/s2jfSL3O1tmDV4FiruB48LWr0ul.jpg",
 "genres": [
@@ -7007,7 +7007,7 @@
 }
 },
 "movie:1314481": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/dRoFlUbH1l51ACmx5oPCI3jfvZq.jpg",
 "genres": [
@@ -7238,7 +7238,7 @@
 }
 },
 "movie:1319951": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/6m3K1hizm5yoguOsAcIjNSECn5b.jpg",
 "genres": [
@@ -7297,7 +7297,7 @@
 }
 },
 "movie:1323244": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
 "genres": [
@@ -7394,7 +7394,7 @@
 }
 },
 "movie:1329016": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/krECXoTSBzXezQA7KPPgdV3VBF3.jpg",
 "genres": [
@@ -7585,7 +7585,7 @@
 }
 },
 "movie:1339713": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
 "genres": [
@@ -7775,7 +7775,7 @@
 }
 },
 "movie:1358579": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/y18jH3YG9aAUT1nPLh1JcJA6Si1.jpg",
 "genres": [
@@ -8005,7 +8005,7 @@
 }
 },
 "movie:1367642": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/1aZRLKVhDFQJvlCi9SPa1yGF9OJ.jpg",
 "genres": [
@@ -8079,7 +8079,7 @@
 }
 },
 "movie:1368337": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
 "genres": [
@@ -8364,7 +8364,7 @@
 }
 },
 "movie:1380417": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
 "genres": [
@@ -8767,7 +8767,7 @@
 }
 },
 "movie:1404684": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/l1fhfzNclQcp4oBz550KMY0CTre.jpg",
 "genres": [
@@ -9002,7 +9002,7 @@
 }
 },
 "movie:1423191": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
 "genres": [
@@ -9099,7 +9099,7 @@
 }
 },
 "movie:1433367": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
 "genres": [
@@ -9477,7 +9477,7 @@
 }
 },
 "movie:1455079": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg",
 "genres": [
@@ -9628,7 +9628,7 @@
 }
 },
 "movie:1464883": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
 "genres": [
@@ -9740,7 +9740,7 @@
 }
 },
 "movie:1473635": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/pBeB38aB3FfzPqCrSoxZpvLHxjt.jpg",
 "genres": [
@@ -10332,7 +10332,7 @@
 }
 },
 "movie:1510300": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/xK3j1cePzPdm8Jyh2dQPuQsaH0v.jpg",
 "genres": [
@@ -10672,7 +10672,7 @@
 }
 },
 "movie:1535652": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/dCU1EvFuCeyjVHRH0pfDkhk6R1q.jpg",
 "genres": [
@@ -10821,7 +10821,7 @@
 }
 },
 "movie:1549234": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/8eX8DgrIlZKt46y8lck1jqbSd98.jpg",
 "genres": [
@@ -10877,7 +10877,7 @@
 }
 },
 "movie:1551025": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
 "genres": [
@@ -10891,7 +10891,7 @@
 "popularity": 65.79,
 "title": "W te święta mam cię na oku",
 "titleEn": "Guarding Stars",
-"tmdbRating": 7.3,
+"tmdbRating": 7.4,
 "trailerKey": "mFvtVPMa5ak"
 }
 },
@@ -11101,7 +11101,7 @@
 }
 },
 "movie:1561834": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/u3riq0UYL2aowB6u1xScMfDUFmr.jpg",
 "genres": [
@@ -11110,11 +11110,11 @@
 ],
 "imdbId": "tt50016818",
 "kind": "movie",
-"overview": "The film focuses on what it means to truly love someone \"in sickness and in health.\" In the story, talented pianist Canan embarks on a passionate affair with Bekir, a mysterious agent, after saving his life. However, Bekir suddenly disappears. When he returns years later, he finds Canan married someone else. This encounter rekindles a love that had been interrupted years before. Canan is forced to make an impossible choice between her past passion and her present-day loyalty.",
+"overview": "Pianistka Sebahat zakochuje się w agencie Bekirze, ale ten znika bez śladu. Gdy po latach wraca, ona musi wybrać między dawną miłością a życiem u boku męża.",
 "overviewEn": "The film focuses on what it means to truly love someone \"in sickness and in health.\" In the story, talented pianist Canan embarks on a passionate affair with Bekir, a mysterious agent, after saving his life. However, Bekir suddenly disappears. When he returns years later, he finds Canan married someone else. This encounter rekindles a love that had been interrupted years before. Canan is forced to make an impossible choice between her past passion and her present-day loyalty.",
 "popularity": 3.61,
-"title": "Son Yemek",
-"titleEn": "Last Dinner",
+"title": "Ostatnia Kolacja",
+"titleEn": "Last meal",
 "tmdbRating": null,
 "trailerKey": null
 }
@@ -11436,7 +11436,7 @@
 }
 },
 "movie:1590613": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/9rZVlvA5Nk3SA4GJk1ySUbZLtTg.jpg",
 "genres": [
@@ -11492,7 +11492,7 @@
 }
 },
 "movie:1596270": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/k8DyY37Sma1jU1kmpUlqHHIrZl6.jpg",
 "genres": [
@@ -12456,7 +12456,7 @@
 }
 },
 "movie:1705729": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/jEvff0AJue5DtzNd2rvFDgSNVuH.jpg",
 "genres": [
@@ -13701,7 +13701,7 @@
 }
 },
 "movie:1822873": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/brF22Atolq9py6u9HPVoWu63dIq.jpg",
 "genres": [
@@ -13774,7 +13774,7 @@
 }
 },
 "movie:1827471": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": null,
 "genres": [
@@ -21264,7 +21264,7 @@
 }
 },
 "movie:524635": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/vTiI8auKiV8KnewOqySCZkXB19t.jpg",
 "genres": [
@@ -27927,7 +27927,7 @@
 }
 },
 "movie:936075": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
 "genres": [
@@ -28417,7 +28417,7 @@
 }
 },
 "movie:964849": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
 "genres": [
@@ -28491,7 +28491,7 @@
 }
 },
 "movie:969681": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
 "genres": [
@@ -29111,7 +29111,7 @@
 }
 },
 "tv:101352": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/iZ8EtGAqKWZdRJPzWfFseNfVxjh.jpg",
 "genres": [
@@ -29130,7 +29130,7 @@
 }
 },
 "tv:103540": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
 "genres": [
@@ -29151,7 +29151,7 @@
 }
 },
 "tv:104007": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/r3YKSTyu2gpSdngDjXAsXr5QUAc.jpg",
 "genres": [
@@ -29170,7 +29170,7 @@
 }
 },
 "tv:105009": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
 "genres": [
@@ -29191,7 +29191,7 @@
 }
 },
 "tv:107113": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/WCnEPf4ZNPjszndmrFlDxZ5Uvd.jpg",
 "genres": [
@@ -29248,7 +29248,7 @@
 }
 },
 "tv:114656": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/vKk3womxcGLqOZLiGZ2aXA2PtOV.jpg",
 "genres": [],
@@ -29264,7 +29264,7 @@
 }
 },
 "tv:117488": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
 "genres": [
@@ -29339,7 +29339,7 @@
 }
 },
 "tv:123591": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/znf5Z1LSFYFOsRGClXwclqIhf83.jpg",
 "genres": [
@@ -29379,7 +29379,7 @@
 }
 },
 "tv:125935": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/s3owzvmihtDrunVxB2DyGjn9iJt.jpg",
 "genres": [
@@ -29397,7 +29397,7 @@
 }
 },
 "tv:126027": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/p5FOkor90VRBJEEhUMFdFdkixfe.jpg",
 "genres": [
@@ -29416,7 +29416,7 @@
 }
 },
 "tv:126824": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/kP7pCxfml6erWC9aB72ALtNawJq.jpg",
 "genres": [
@@ -29437,7 +29437,7 @@
 }
 },
 "tv:12786": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/hYmHyUlJMQgeazELoHnORrEQ0vE.jpg",
 "genres": [
@@ -29456,7 +29456,7 @@
 }
 },
 "tv:128822": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
 "genres": [
@@ -29492,7 +29492,7 @@
 }
 },
 "tv:130853": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/yj8g84iczcJVg3zCxVGpfdEMMxg.jpg",
 "genres": [
@@ -29545,7 +29545,7 @@
 }
 },
 "tv:134299": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/yq6lhr7SpjTiOi14nzFYDV9oAdc.jpg",
 "genres": [],
@@ -29579,7 +29579,7 @@
 }
 },
 "tv:137940": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/k2ag5yV3TsmPjQILesOPiQmg8UY.jpg",
 "genres": [
@@ -29597,17 +29597,17 @@
 }
 },
 "tv:138333": {
-"at": "2026-11-14T19:55:12.346051+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/zDn0JnHBFlASxDINeiu3QDTmlRo.jpg",
 "genres": [
 99
 ],
-"imdbId": null,
+"imdbId": "tt36832172",
 "kind": "doc_series",
 "overview": "Historia Hiszpanii kryje w sobie tysiące opowieści o UFO, od prehistorycznych mitów po całkiem nowe zdarzenia. Eksperci uważnie szukają dowodów.",
 "overviewEn": "Series of reports declassified in 1992 by the Ministry of Defense and that document in detail multiple sightings of unidentified objects within Spanish airspace, mostly carried out by the military. These papers talk about circumstances that really give food for thought: from mere sightings to the vision of crew members inside those objects.",
-"popularity": 0.57,
+"popularity": 0.64,
 "title": "Obcy są wśród nas: Hiszpania",
 "titleEn": "Aliens: They Are Among Us",
 "tmdbRating": null,
@@ -29615,7 +29615,7 @@
 }
 },
 "tv:139434": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/5iOySYfc1vV8nDvmqWQ0sHk7q2q.jpg",
 "genres": [
@@ -29634,7 +29634,7 @@
 }
 },
 "tv:1416": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
 "genres": [
@@ -29652,7 +29652,7 @@
 }
 },
 "tv:14447": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/jZhbWvp8tNrCA1zTyQQGPh0kabG.jpg",
 "genres": [
@@ -29670,7 +29670,7 @@
 }
 },
 "tv:14750": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
 "genres": [
@@ -29688,7 +29688,7 @@
 }
 },
 "tv:153312": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
 "genres": [
@@ -29727,7 +29727,7 @@
 }
 },
 "tv:154521": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
 "genres": [
@@ -29745,7 +29745,7 @@
 }
 },
 "tv:1549": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/mWIyoSdVQxdr1bA423tObJwJSR.jpg",
 "genres": [
@@ -29800,7 +29800,7 @@
 }
 },
 "tv:157061": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/31XWoLd3AHW6MLy9i2DSbFZOPuH.jpg",
 "genres": [
@@ -29861,7 +29861,7 @@
 }
 },
 "tv:1711": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/d1MtRbMampXOZ7il2dDF6fDTTNU.jpg",
 "genres": [
@@ -30086,7 +30086,7 @@
 }
 },
 "tv:205272": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/5Nu95w2oWsbmDeAjG2NJF4x33Ud.jpg",
 "genres": [
@@ -30138,7 +30138,7 @@
 }
 },
 "tv:207347": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
 "genres": [
@@ -30157,7 +30157,7 @@
 }
 },
 "tv:207484": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
 "genres": [
@@ -30195,7 +30195,7 @@
 }
 },
 "tv:208921": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/vPw5Gpg0YEEk1VsE8QlmyTxIJuU.jpg",
 "genres": [
@@ -30213,7 +30213,7 @@
 }
 },
 "tv:210062": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/pPmETt0honNWgqtmNNUSq9t10fx.jpg",
 "genres": [
@@ -30232,7 +30232,7 @@
 }
 },
 "tv:211288": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
 "genres": [
@@ -30251,7 +30251,7 @@
 }
 },
 "tv:211656": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/lF7A08C7hDC1RbhHPpLMjsS317C.jpg",
 "genres": [
@@ -30269,7 +30269,7 @@
 }
 },
 "tv:212440": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/vwP8lTgiscnRzbaTucRRzXHpy4G.jpg",
 "genres": [
@@ -30288,7 +30288,7 @@
 }
 },
 "tv:213194": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/a4FHdQfPGT1T2w4DYUEGgRMxSgZ.jpg",
 "genres": [
@@ -30325,7 +30325,7 @@
 }
 },
 "tv:214582": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
 "genres": [
@@ -30381,7 +30381,7 @@
 }
 },
 "tv:216467": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/xlMVEbNl7ZBGFyhX2WEhQ8Kifm4.jpg",
 "genres": [
@@ -30458,7 +30458,7 @@
 }
 },
 "tv:218347": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
 "genres": [
@@ -30530,7 +30530,7 @@
 }
 },
 "tv:223397": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/KvlbwzWi5ldhfPFRzOZy67rsKz.jpg",
 "genres": [
@@ -30569,7 +30569,7 @@
 }
 },
 "tv:224330": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/dVo7ITxL3jrMXVsBlqnkJsmVTP8.jpg",
 "genres": [
@@ -30681,7 +30681,7 @@
 }
 },
 "tv:230915": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/qILdlzSLkxFXFHhY50Pa42MyrU7.jpg",
 "genres": [
@@ -30701,7 +30701,7 @@
 }
 },
 "tv:231034": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/m4XRxZu4c0ImDwpRB2vPtsMdypd.jpg",
 "genres": [
@@ -30721,7 +30721,7 @@
 }
 },
 "tv:231082": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/rZNPOAJLqFu1VQsQxZOhHc66PzY.jpg",
 "genres": [
@@ -30739,7 +30739,7 @@
 }
 },
 "tv:231730": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/cHznGpISn6Uxy9EyLel5eX7WrXG.jpg",
 "genres": [
@@ -30757,7 +30757,7 @@
 }
 },
 "tv:231801": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
 "genres": [
@@ -30794,7 +30794,7 @@
 }
 },
 "tv:234310": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
 "genres": [
@@ -30831,7 +30831,7 @@
 }
 },
 "tv:235904": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/tWunElWzuQKWCkJcyXk3QQ3b3i2.jpg",
 "genres": [
@@ -30850,7 +30850,7 @@
 }
 },
 "tv:237077": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/kmc2ubUpMu663nSPw2Kf59Wbue9.jpg",
 "genres": [
@@ -30868,7 +30868,7 @@
 }
 },
 "tv:237241": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": null,
 "genres": [
@@ -30906,7 +30906,7 @@
 }
 },
 "tv:238820": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/jvsQkpUJhv6db9uCB0bZzoDgdPN.jpg",
 "genres": [
@@ -30958,7 +30958,7 @@
 }
 },
 "tv:243875": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/h927CLfeAjiy0MNKRxWZgEq7bHR.jpg",
 "genres": [
@@ -30976,7 +30976,7 @@
 }
 },
 "tv:244447": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
 "genres": [
@@ -30995,7 +30995,7 @@
 }
 },
 "tv:244978": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/5vcVf5hDtnKQVmHj9RSIaVwwvlx.jpg",
 "genres": [
@@ -31015,7 +31015,7 @@
 }
 },
 "tv:245841": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/doIUOsdeCKkRNQxMvV4MKp0uoTT.jpg",
 "genres": [
@@ -31070,7 +31070,7 @@
 }
 },
 "tv:247718": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
 "genres": [
@@ -31089,7 +31089,7 @@
 }
 },
 "tv:247769": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/w8L2oVjsSRZdZ1Wcszot9cKZMRO.jpg",
 "genres": [
@@ -31108,7 +31108,7 @@
 }
 },
 "tv:248830": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
 "genres": [
@@ -31164,7 +31164,7 @@
 }
 },
 "tv:250670": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/dkhjP3GK44gkxmKzrgYzHs8hbtf.jpg",
 "genres": [
@@ -31200,7 +31200,7 @@
 }
 },
 "tv:253666": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/5EAW4TamNAckZPNBy3ZI6ii7Ng9.jpg",
 "genres": [],
@@ -31216,7 +31216,7 @@
 }
 },
 "tv:253811": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
 "genres": [
@@ -31254,7 +31254,7 @@
 }
 },
 "tv:254514": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/9mDlwBdCu501924dXnzz2Gtc8XI.jpg",
 "genres": [
@@ -31290,7 +31290,7 @@
 }
 },
 "tv:254630": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
 "genres": [
@@ -31310,7 +31310,7 @@
 }
 },
 "tv:255055": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
 "genres": [
@@ -31328,7 +31328,7 @@
 }
 },
 "tv:255570": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
 "genres": [
@@ -31363,7 +31363,7 @@
 }
 },
 "tv:256155": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/1vWeDCMw86QnpAOJgAAqICNastZ.jpg",
 "genres": [
@@ -31404,7 +31404,7 @@
 }
 },
 "tv:256711": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
 "genres": [
@@ -31462,7 +31462,7 @@
 }
 },
 "tv:258742": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/7t55fTjn0KRqCGPOSXM9RUk0zny.jpg",
 "genres": [
@@ -31499,7 +31499,7 @@
 }
 },
 "tv:259140": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
 "genres": [
@@ -31520,7 +31520,7 @@
 }
 },
 "tv:259909": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
 "genres": [
@@ -31578,7 +31578,7 @@
 }
 },
 "tv:261647": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/wGeYd7lVxOzZsbJV7iipK8298hT.jpg",
 "genres": [
@@ -31616,7 +31616,7 @@
 }
 },
 "tv:262873": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/uovHUzEcCnSNVFAxpmYXgEhgvt4.jpg",
 "genres": [
@@ -31671,7 +31671,7 @@
 }
 },
 "tv:272947": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/rTtg4ENjDclbvYP0w5nygSaCEYN.jpg",
 "genres": [
@@ -31690,14 +31690,13 @@
 }
 },
 "tv:273247": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
 "genres": [
 35,
 80,
-18,
-9648
+18
 ],
 "imdbId": "tt31289994",
 "kind": "series",
@@ -31729,7 +31728,7 @@
 }
 },
 "tv:2734": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
 "genres": [
@@ -31749,7 +31748,7 @@
 }
 },
 "tv:273801": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/hbWqmgF9NYU2ATBWqvhLnOCeW2V.jpg",
 "genres": [
@@ -31787,7 +31786,7 @@
 }
 },
 "tv:274388": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/tHWW3xDD49UZuoirqzUQT046dWi.jpg",
 "genres": [
@@ -31807,7 +31806,7 @@
 }
 },
 "tv:275139": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/roUD5m2nj6k88azMFsiqBae29cr.jpg",
 "genres": [
@@ -31827,7 +31826,7 @@
 }
 },
 "tv:275204": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/2QsmesFzm5WaP70pRmCbVBzvXDA.jpg",
 "genres": [
@@ -31904,7 +31903,7 @@
 }
 },
 "tv:279246": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
 "genres": [
@@ -31943,7 +31942,7 @@
 }
 },
 "tv:2808": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/gbmN2y9Dqm6XKEev1kd8GkGLLn.jpg",
 "genres": [
@@ -31964,7 +31963,7 @@
 }
 },
 "tv:280880": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/xWTgLbS1HLr2sqwZH9sD6zO16Jj.jpg",
 "genres": [
@@ -31983,7 +31982,7 @@
 }
 },
 "tv:283428": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
 "genres": [
@@ -32002,7 +32001,7 @@
 }
 },
 "tv:283579": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/p7hlNqTj9clI0F9qzqnEFsvaSL.jpg",
 "genres": [
@@ -32038,7 +32037,7 @@
 }
 },
 "tv:284838": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/ubqZEVCDp86myrZwJpyNwocLrce.jpg",
 "genres": [
@@ -32128,7 +32127,7 @@
 }
 },
 "tv:286277": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
 "genres": [
@@ -32164,7 +32163,7 @@
 }
 },
 "tv:288120": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg",
 "genres": [
@@ -32201,7 +32200,7 @@
 }
 },
 "tv:289214": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/dpdmbawI8S3ZqFAoByuIp5JRvlC.jpg",
 "genres": [
@@ -32219,7 +32218,7 @@
 }
 },
 "tv:289560": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
 "genres": [
@@ -32238,7 +32237,7 @@
 }
 },
 "tv:290388": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/oIcCYbSJKv8wUjT5uxj79jsR5ru.jpg",
 "genres": [
@@ -32256,7 +32255,7 @@
 }
 },
 "tv:290564": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/u33XkP4bARiOCW72AvrQU2MT6ls.jpg",
 "genres": [
@@ -32274,7 +32273,7 @@
 }
 },
 "tv:290856": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
 "genres": [
@@ -32403,7 +32402,7 @@
 }
 },
 "tv:292741": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
 "genres": [
@@ -32439,7 +32438,7 @@
 }
 },
 "tv:293607": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
 "genres": [
@@ -32512,7 +32511,7 @@
 }
 },
 "tv:294405": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/tqk45yG9Dhi60lX7tFLAKQyWm5b.jpg",
 "genres": [
@@ -32531,7 +32530,7 @@
 }
 },
 "tv:294637": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/mWzn4Mg7FbuDMg7CKR88dKlWAwg.jpg",
 "genres": [
@@ -32550,7 +32549,7 @@
 }
 },
 "tv:295778": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
 "genres": [
@@ -32605,7 +32604,7 @@
 }
 },
 "tv:302030": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/9fCnUBYHIuB6I5LtU3a2y6BGlSP.jpg",
 "genres": [
@@ -32681,7 +32680,7 @@
 }
 },
 "tv:303745": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
 "genres": [
@@ -32701,7 +32700,7 @@
 }
 },
 "tv:305245": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/bbCCaAlzJkCv8C8AFr8l1rBWJyt.jpg",
 "genres": [
@@ -32737,7 +32736,7 @@
 }
 },
 "tv:305551": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
 "genres": [
@@ -32756,7 +32755,7 @@
 }
 },
 "tv:306179": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/1csFLrwh28PrWyWyeUXzgyt4930.jpg",
 "genres": [
@@ -32774,7 +32773,7 @@
 }
 },
 "tv:306553": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/viuBeQoE8JMsYmuf4S7350UoM5c.jpg",
 "genres": [
@@ -32792,7 +32791,7 @@
 }
 },
 "tv:307478": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
 "genres": [
@@ -32831,7 +32830,7 @@
 }
 },
 "tv:311955": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/iWeUBHcVZANmKptWXAwm7BG2q5K.jpg",
 "genres": [
@@ -32867,7 +32866,7 @@
 }
 },
 "tv:312359": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
 "genres": [
@@ -32944,7 +32943,7 @@
 }
 },
 "tv:314360": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
 "genres": [
@@ -33037,7 +33036,7 @@
 }
 },
 "tv:316702": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/gq3FEuYsUl1r4rQYDCaQvzw1bOd.jpg",
 "genres": [
@@ -33055,7 +33054,7 @@
 }
 },
 "tv:318420": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
 "genres": [
@@ -33092,7 +33091,7 @@
 }
 },
 "tv:31991": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/2ugy3IP3yvdRdEepHDOml82TKFT.jpg",
 "genres": [
@@ -33167,7 +33166,7 @@
 }
 },
 "tv:320935": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/82F7t5uoI9eYb6RyZvO6USNgcqF.jpg",
 "genres": [
@@ -33205,7 +33204,7 @@
 }
 },
 "tv:321421": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/9BTe8tU3OSA29Gn5487bVEGK44b.jpg",
 "genres": [
@@ -33279,7 +33278,7 @@
 }
 },
 "tv:323480": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/huFDzC269NUTrnXQCItNxNZv288.jpg",
 "genres": [
@@ -33301,7 +33300,7 @@
 }
 },
 "tv:323660": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/2JECUzaIiv8EIm2kKSLdkFk1tf9.jpg",
 "genres": [
@@ -33319,13 +33318,13 @@
 }
 },
 "tv:324326": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
 "genres": [
 16,
-10765,
-35
+35,
+10765
 ],
 "imdbId": "tt44757191",
 "kind": "series",
@@ -33339,7 +33338,7 @@
 }
 },
 "tv:325762": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/b86uanEjgbU12B0hbN81dXmIU5C.jpg",
 "genres": [
@@ -33358,7 +33357,7 @@
 }
 },
 "tv:32726": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/2AVPwdHJsF044jT39akgLxxv2zx.jpg",
 "genres": [
@@ -33393,7 +33392,7 @@
 }
 },
 "tv:328010": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/fA6eLsm6xEBK90IK3UNWoVPZBn7.jpg",
 "genres": [
@@ -33447,7 +33446,7 @@
 }
 },
 "tv:329490": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/blB4qv0LlOUriouoPqkFJlLe6Ki.jpg",
 "genres": [
@@ -33481,7 +33480,7 @@
 }
 },
 "tv:33101": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/smbz1w5ehquV8zDaVvgtwJpVI7.jpg",
 "genres": [
@@ -33499,7 +33498,7 @@
 }
 },
 "tv:332261": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/7xTvFsxac5k3xIH0cTOkNsEDcm1.jpg",
 "genres": [
@@ -33518,7 +33517,7 @@
 }
 },
 "tv:332649": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/uNk5pCHUNgxGoe4bJuMYjAAuKFf.jpg",
 "genres": [
@@ -33555,7 +33554,7 @@
 }
 },
 "tv:332713": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
 "genres": [
@@ -33573,7 +33572,7 @@
 }
 },
 "tv:332839": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
 "genres": [
@@ -33646,7 +33645,7 @@
 }
 },
 "tv:334702": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg",
 "genres": [
@@ -33682,7 +33681,7 @@
 }
 },
 "tv:334887": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
 "genres": [
@@ -33700,7 +33699,7 @@
 }
 },
 "tv:335032": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/h6g4QtrLIh7EcPdFObAdvYIYL3C.jpg",
 "genres": [
@@ -33736,7 +33735,7 @@
 }
 },
 "tv:33587": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/njOnS6rOVtOECsoCtZjYBEcd28p.jpg",
 "genres": [
@@ -33755,7 +33754,7 @@
 }
 },
 "tv:335981": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
 "genres": [
@@ -33812,7 +33811,7 @@
 }
 },
 "tv:336592": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg",
 "genres": [
@@ -33830,7 +33829,7 @@
 }
 },
 "tv:337370": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/h0wTEyEJaPT8Gf1YSrJt8FFSUAZ.jpg",
 "genres": [
@@ -33849,7 +33848,7 @@
 }
 },
 "tv:337373": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/n5hMYGvfvPSXfrZsBsjzQoIPalr.jpg",
 "genres": [
@@ -33867,7 +33866,7 @@
 }
 },
 "tv:337374": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/kyZo0aSPbZXtyP8BfDhoVCkfDxO.jpg",
 "genres": [
@@ -33886,7 +33885,7 @@
 }
 },
 "tv:338292": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/5Wp70btcm3zuVyrv1lMqzW8r6NO.jpg",
 "genres": [
@@ -33923,7 +33922,7 @@
 }
 },
 "tv:338547": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/8VBfz1ufyA0ausZI4nXfRBJJp5S.jpg",
 "genres": [
@@ -33942,7 +33941,7 @@
 }
 },
 "tv:338562": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
 "genres": [
@@ -33994,7 +33993,7 @@
 }
 },
 "tv:339697": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/r5ecc4Wjejsp6B507GdZXOPTNMo.jpg",
 "genres": [
@@ -34030,7 +34029,7 @@
 }
 },
 "tv:340280": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
 "genres": [
@@ -34088,7 +34087,7 @@
 }
 },
 "tv:340728": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/uzPfZrkwHvJ8g7Jxhxwg4hiKkql.jpg",
 "genres": [
@@ -34280,7 +34279,7 @@
 }
 },
 "tv:341603": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg",
 "genres": [
@@ -34438,7 +34437,7 @@
 }
 },
 "tv:34634": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
 "genres": [
@@ -34456,7 +34455,7 @@
 }
 },
 "tv:36576": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/k1CVpoBglraB3R7EKcyyXEDuNlh.jpg",
 "genres": [
@@ -34476,7 +34475,7 @@
 }
 },
 "tv:387": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
 "genres": [
@@ -34534,7 +34533,7 @@
 }
 },
 "tv:41956": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",
 "genres": [
@@ -34594,7 +34593,7 @@
 }
 },
 "tv:44006": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
 "genres": [
@@ -34669,7 +34668,7 @@
 }
 },
 "tv:44996": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/FEh9W3KUDFo1RmvDUNqPqE2mxq.jpg",
 "genres": [
@@ -34687,7 +34686,7 @@
 }
 },
 "tv:45099": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/bWLi7MqbA2iTcAUNb83o56mxQze.jpg",
 "genres": [
@@ -34705,7 +34704,7 @@
 }
 },
 "tv:456": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
 "genres": [
@@ -34744,7 +34743,7 @@
 }
 },
 "tv:45790": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
 "genres": [
@@ -34764,7 +34763,7 @@
 }
 },
 "tv:4614": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/rHKRZCBpDFSNc45kzyf665LJYp3.jpg",
 "genres": [
@@ -34784,7 +34783,7 @@
 }
 },
 "tv:46268": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/jH8BWwd1kIfY3N614o9idhW8rOJ.jpg",
 "genres": [
@@ -34802,7 +34801,7 @@
 }
 },
 "tv:4656": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
 "genres": [
@@ -34840,7 +34839,7 @@
 }
 },
 "tv:46923": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
 "genres": [
@@ -34898,7 +34897,7 @@
 }
 },
 "tv:48175": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/dlbfhHqBIPtqnQ09Rc2GPfaivn3.jpg",
 "genres": [
@@ -34969,7 +34968,7 @@
 }
 },
 "tv:49394": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/wYGqCZuBdYeL7OLQTDxVA1AnuUl.jpg",
 "genres": [
@@ -35044,7 +35043,7 @@
 }
 },
 "tv:549": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
 "genres": [
@@ -35063,7 +35062,7 @@
 }
 },
 "tv:55808": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/mmRm55pCBRUmWGscuLncdfcVmGm.jpg",
 "genres": [
@@ -35101,7 +35100,7 @@
 }
 },
 "tv:58841": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/18KSsDgcGQds7yOMC6MVRTbVJwt.jpg",
 "genres": [
@@ -35158,7 +35157,7 @@
 }
 },
 "tv:62543": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/zAKM6hRSA4gigcrseamge38kVCX.jpg",
 "genres": [
@@ -35178,7 +35177,7 @@
 }
 },
 "tv:62650": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/fFgVoJuSBewZWlzgaoUWGm8MvD4.jpg",
 "genres": [
@@ -35269,7 +35268,7 @@
 }
 },
 "tv:64840": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/i8DVzXlPYZnJANEoLja1ysXtJ3K.jpg",
 "genres": [
@@ -35290,7 +35289,7 @@
 }
 },
 "tv:65334": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
 "genres": [
@@ -35406,7 +35405,7 @@
 }
 },
 "tv:69880": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/u8EUQWxMVYnUENwAhKyoRE5iBCa.jpg",
 "genres": [
@@ -35425,7 +35424,7 @@
 }
 },
 "tv:72482": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/wOEbMvVfcvMGevu3snwSSL2J8qv.jpg",
 "genres": [
@@ -35445,7 +35444,7 @@
 }
 },
 "tv:73758": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/psHBCVewTbNTvgvCiV5GruZ51V9.jpg",
 "genres": [
@@ -35481,7 +35480,7 @@
 }
 },
 "tv:74274": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/rhZFMS8iGbNX0yQVU4MpZFdg1Xs.jpg",
 "genres": [
@@ -35520,7 +35519,7 @@
 }
 },
 "tv:75219": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/5QJtEzMR7NxRxBBEdB7JfM1l7Oj.jpg",
 "genres": [
@@ -35540,7 +35539,7 @@
 }
 },
 "tv:76168": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/ohuV85PKdBed6aF1wgLE2qYzEjp.jpg",
 "genres": [],
@@ -35653,7 +35652,7 @@
 }
 },
 "tv:80587": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/vVGmv5mle6lCrgnx8lNv5Q1vZPw.jpg",
 "genres": [
@@ -35673,7 +35672,7 @@
 }
 },
 "tv:80748": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/j9nU0GHNakbQhoFCDE61OrvMjTC.jpg",
 "genres": [
@@ -35712,7 +35711,7 @@
 }
 },
 "tv:81723": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/afUVsProh46h31w2EvL7qyHXrqj.jpg",
 "genres": [
@@ -35839,7 +35838,7 @@
 }
 },
 "tv:84773": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
 "genres": [
@@ -35858,7 +35857,7 @@
 }
 },
 "tv:85077": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
 "genres": [
@@ -35897,7 +35896,7 @@
 }
 },
 "tv:86646": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/xa1KsFVJAVj1AkTiD92x59AY1sk.jpg",
 "genres": [
@@ -35915,7 +35914,7 @@
 }
 },
 "tv:87826": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/zzAPTDTHi7wrP99iD6x940wLjPy.jpg",
 "genres": [
@@ -35951,7 +35950,7 @@
 }
 },
 "tv:89341": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/8y1K2Q2YvikLiIgH6whgwzbviK4.jpg",
 "genres": [
@@ -35970,7 +35969,7 @@
 }
 },
 "tv:90046": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/9jmxvWOt5xTjrJ03FNmViZCuZ5f.jpg",
 "genres": [
@@ -36007,7 +36006,7 @@
 }
 },
 "tv:93449": {
-"at": "2026-11-19T14:24:06.981462+00:00",
+"at": "2026-11-19T22:39:38.061436+00:00",
 "meta": {
 "backdropPath": "/nAqm5z6Rnbd97mCj25AyDkUy5q2.jpg",
 "genres": [

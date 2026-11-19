@@ -58961,7 +58961,7 @@
 "access": "sub",
 "backdropPath": "/brF22Atolq9py6u9HPVoWu63dIq.jpg",
 "confirmedAt": "2026-11-19T14:24:06Z",
-"date": "2026-11-19",
+"date": "2026-11-16",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "disney:movie:1822873:sub",
@@ -58978,7 +58978,7 @@
 "season": null,
 "withAds": false
 },
-"origin": "diff",
+"origin": "schedule",
 "overview": "Darius Rucker gets deeply personal about the cost of stardom, revealing his struggles with drugs and alcohol, the breakdown of his marriage and brushes with death. Through candid interviews with collaborators, friends and family, new footage from the road and in the studio as he records his forthcoming album and never-before-seen tape dating back to the start of Hootie & the Blowfish, this documentary traces the full journey of his extraordinary career, revealing a deeply personal story of ambition, resilience and reinvention.",
 "overviewEn": "Darius Rucker gets deeply personal about the cost of stardom, revealing his struggles with drugs and alcohol, the breakdown of his marriage and brushes with death. Through candid interviews with collaborators, friends and family, new footage from the road and in the studio as he records his forthcoming album and never-before-seen tape dating back to the start of Hootie & the Blowfish, this documentary traces the full journey of his extraordinary career, revealing a deeply personal story of ambition, resilience and reinvention.",
 "popularity": 3.35,
@@ -61822,6 +61822,39 @@
 "allEpisodes": false,
 "episodeFrom": 157,
 "episodeTo": 157,
+"genres": [
+10767
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "An original series from The Overlap with Gary Neville, Jamie Carragher, Jill Scott, Ian Wright and Roy Keane, featuring special guests discussing all things football.",
+"overviewEn": "An original series from The Overlap with Gary Neville, Jamie Carragher, Jill Scott, Ian Wright and Roy Keane, featuring special guests discussing all things football.",
+"popularity": 10.0,
+"ratings": null,
+"serviceKey": "disney",
+"source": "tmdb",
+"status": "live",
+"title": "Stick to Football",
+"titleEn": null,
+"tmdbId": 237241,
+"trailerKey": null
+},
+"disney:tv:237241:s1e158:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-19T22:39:38Z",
+"date": "2026-11-19",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "disney:tv:237241:s1e158:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 158,
+"episodeTo": 158,
 "genres": [
 10767
 ],
@@ -79083,7 +79116,7 @@
 "access": "sub",
 "backdropPath": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
 "confirmedAt": "2026-11-19T14:24:06Z",
-"date": "2026-11-19",
+"date": "2026-11-18",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "netflix:movie:1551025:sub",
@@ -79100,12 +79133,12 @@
 "season": null,
 "withAds": false
 },
-"origin": "diff",
+"origin": "schedule",
 "overview": "Kiedy bezkompromisowy ochroniarz zostaje przydzielony do ochrony uroczej gwiazdy filmów akcji, szybko zaczyna między nimi iskrzyć, na jaw wychodzą sekrety, a święta stają się o wiele bardziej skomplikowane.",
 "overviewEn": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
 "popularity": 65.79,
 "ratings": {
-"tmdb": 7.3
+"tmdb": 7.4
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -87411,6 +87444,42 @@
 "tmdbId": 283428,
 "trailerKey": "NXhYsJFZ8bE"
 },
+"netflix:tv:283579:s2e1:sub": {
+"access": "sub",
+"backdropPath": "/p7hlNqTj9clI0F9qzqnEFsvaSL.jpg",
+"confirmedAt": null,
+"date": "2026-12-08",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:283579:s2e1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 1,
+"episodeTo": 1,
+"genres": [
+18
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Owdowiała szefowa kuchni jednego dnia traci restaurację i dom. Razem z córką musi ponownie wprowadzić się do swojej matki w miasteczku Wilderness. Klimat tego miejsca, jego mieszkańcy i nowa praca w kwiaciarni pozwalają jej jednak uwolnić się od wspomnień o śmierci męża i znów odnaleźć miłość.",
+"overviewEn": "After a series of misfortunes, Fleur — mourning a deep loss — takes her daughter and returns to her hometown in search of a renewed sense of purpose.",
+"popularity": 2.4,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 643
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "Zapach miłości",
+"titleEn": "Tuiskoms",
+"tmdbId": 283579,
+"trailerKey": "c0YyNLCxGWw"
+},
 "netflix:tv:284536:sub": {
 "access": "sub",
 "backdropPath": "/uhmZVGaO0Lnot5z0q7I4BKTEWdo.jpg",
@@ -90235,6 +90304,40 @@
 "tmdbId": 315952,
 "trailerKey": null
 },
+"netflix:tv:318420:s1:sub": {
+"access": "sub",
+"backdropPath": "/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
+"confirmedAt": "2026-11-19T22:39:38Z",
+"date": "2026-11-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:318420:s1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Zdruzgotana zerwaniem związku Valentina postanawia umawiać się z jednym mężczyzną spod każdego znaku zodiaku. Wszechświat ma jednak inne plany.",
+"overviewEn": "After a devastating breakup, Valentina decides to date one man from every zodiac sign. But the universe has other plans.",
+"popularity": 14.96,
+"ratings": null,
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Valentina i 12 znaków zodiaku Os",
+"titleEn": "Valentina and the 12 Signs",
+"tmdbId": 318420,
+"trailerKey": null
+},
 "netflix:tv:318420:sub": {
 "access": "sub",
 "backdropPath": "/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
@@ -92229,6 +92332,40 @@
 "tmdbId": 332713,
 "trailerKey": null
 },
+"netflix:tv:332839:s1:sub": {
+"access": "sub",
+"backdropPath": "/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+"confirmedAt": "2026-11-19T22:39:38Z",
+"date": "2026-11-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:332839:s1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+80,
+18
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Gdy po 25 latach sprawa seryjnego mordercy dzieci powraca jako nierozwiązany problem prawny i społeczny, dwie dawne przyjaciółki zostają zmuszone do konfrontacji z wyborami, które rozbiły ich przyjaźń i naznaczyły ich życie.",
+"overviewEn": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
+"popularity": 23.31,
+"ratings": null,
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Prawo bestii",
+"titleEn": "The Law of Beasts",
+"tmdbId": 332839,
+"trailerKey": null
+},
 "netflix:tv:332839:sub": {
 "access": "sub",
 "backdropPath": "/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
@@ -92660,6 +92797,39 @@
 "titleEn": null,
 "tmdbId": 336478,
 "trailerKey": null
+},
+"netflix:tv:336592:s1:sub": {
+"access": "sub",
+"backdropPath": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg",
+"confirmedAt": "2026-11-19T22:39:38Z",
+"date": "2026-11-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:336592:s1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10764
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Wciągający reality show, którego uczestnicy zawiązują sojusze i rywalizują w zamkniętej galerii handlowej, aby wygrać możliwość pójścia na epickie zakupy.",
+"overviewEn": "Ten teams move into a mall where they must conquer storefronts, forge alliances and outsmart rivals to win $1 million in this reality competition series.",
+"popularity": 6.59,
+"ratings": null,
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Bitwa o galerię",
+"titleEn": "Win the Mall",
+"tmdbId": 336592,
+"trailerKey": "dnNvYvYk9yQ"
 },
 "netflix:tv:336592:sub": {
 "access": "sub",
@@ -95351,117 +95521,6 @@
 "titleEn": null,
 "tmdbId": 89333,
 "trailerKey": "OpMomvEw5H4"
-},
-"netflix:tv:97083:s8e1:sub": {
-"access": "sub",
-"backdropPath": "/9RvOSdK6oHbTZmGswApOziC0zc8.jpg",
-"confirmedAt": "2026-11-18T13:55:28Z",
-"date": "2026-11-17",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "netflix:tv:97083:s8e1:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 1,
-"episodeTo": 1,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 8,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "W tym społecznym eksperymencie ścierają się ze sobą statusy i strategie. Uczestnicy konkursu flirtują, nawiązują przyjaźnie i… kłamią, by wygrać 100 000 dolarów.",
-"overviewEn": "Status and strategy collide in this social experiment and competition show where online players flirt, befriend and catfish their way toward $100,000.",
-"popularity": 15.95,
-"ratings": {
-"imdb": 7.2,
-"imdbVotes": 9439,
-"tmdb": 6.8
-},
-"serviceKey": "netflix",
-"source": "tmdb",
-"status": "live",
-"title": "The Circle",
-"titleEn": null,
-"tmdbId": 97083,
-"trailerKey": "4PUKxO4fwSc"
-},
-"netflix:tv:97083:s8e2:sub": {
-"access": "sub",
-"backdropPath": "/9RvOSdK6oHbTZmGswApOziC0zc8.jpg",
-"confirmedAt": "2026-11-18T22:35:03Z",
-"date": "2026-11-18",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "netflix:tv:97083:s8e2:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 2,
-"episodeTo": 2,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 8,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "W tym społecznym eksperymencie ścierają się ze sobą statusy i strategie. Uczestnicy konkursu flirtują, nawiązują przyjaźnie i… kłamią, by wygrać 100 000 dolarów.",
-"overviewEn": "Status and strategy collide in this social experiment and competition show where online players flirt, befriend and catfish their way toward $100,000.",
-"popularity": 15.95,
-"ratings": {
-"imdb": 7.2,
-"imdbVotes": 9439,
-"tmdb": 6.8
-},
-"serviceKey": "netflix",
-"source": "tmdb",
-"status": "live",
-"title": "The Circle",
-"titleEn": null,
-"tmdbId": 97083,
-"trailerKey": "4PUKxO4fwSc"
-},
-"netflix:tv:97083:s8e3:sub": {
-"access": "sub",
-"backdropPath": "/9RvOSdK6oHbTZmGswApOziC0zc8.jpg",
-"confirmedAt": "2026-11-19T14:24:06Z",
-"date": "2026-11-19",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "netflix:tv:97083:s8e3:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 3,
-"episodeTo": 3,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 8,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "W tym społecznym eksperymencie ścierają się ze sobą statusy i strategie. Uczestnicy konkursu flirtują, nawiązują przyjaźnie i… kłamią, by wygrać 100 000 dolarów.",
-"overviewEn": "Status and strategy collide in this social experiment and competition show where online players flirt, befriend and catfish their way toward $100,000.",
-"popularity": 15.95,
-"ratings": {
-"imdb": 7.2,
-"imdbVotes": 9439,
-"tmdb": 6.8
-},
-"serviceKey": "netflix",
-"source": "tmdb",
-"status": "live",
-"title": "The Circle",
-"titleEn": null,
-"tmdbId": 97083,
-"trailerKey": "4PUKxO4fwSc"
 },
 "netflix:tv:97890:sub": {
 "access": "sub",
@@ -104613,7 +104672,40 @@
 "origin": "schedule",
 "overview": "Historia Hiszpanii kryje w sobie tysiące opowieści o UFO, od prehistorycznych mitów po całkiem nowe zdarzenia. Eksperci uważnie szukają dowodów.",
 "overviewEn": "Series of reports declassified in 1992 by the Ministry of Defense and that document in detail multiple sightings of unidentified objects within Spanish airspace, mostly carried out by the military. These papers talk about circumstances that really give food for thought: from mere sightings to the vision of crew members inside those objects.",
-"popularity": 0.57,
+"popularity": 0.64,
+"ratings": null,
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Obcy są wśród nas: Hiszpania",
+"titleEn": "Aliens: They Are Among Us",
+"tmdbId": 138333,
+"trailerKey": null
+},
+"player:tv:138333:s6e2:sub": {
+"access": "sub",
+"backdropPath": "/zDn0JnHBFlASxDINeiu3QDTmlRo.jpg",
+"confirmedAt": "2026-11-19T22:39:38Z",
+"date": "2026-11-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:138333:s6e2:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 2,
+"episodeTo": 2,
+"genres": [
+99
+],
+"kind": "doc_series",
+"season": 6,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Historia Hiszpanii kryje w sobie tysiące opowieści o UFO, od prehistorycznych mitów po całkiem nowe zdarzenia. Eksperci uważnie szukają dowodów.",
+"overviewEn": "Series of reports declassified in 1992 by the Ministry of Defense and that document in detail multiple sightings of unidentified objects within Spanish airspace, mostly carried out by the military. These papers talk about circumstances that really give food for thought: from mere sightings to the vision of crew members inside those objects.",
+"popularity": 0.64,
 "ratings": null,
 "serviceKey": "player",
 "source": "tmdb",
@@ -109110,6 +109202,78 @@
 "titleEn": null,
 "tmdbId": 334418,
 "trailerKey": null
+},
+"player:tv:335032:s1e7:sub": {
+"access": "sub",
+"backdropPath": "/h6g4QtrLIh7EcPdFObAdvYIYL3C.jpg",
+"confirmedAt": "2026-11-19T22:39:38Z",
+"date": "2026-11-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:335032:s1e7:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 7,
+"episodeTo": 7,
+"genres": [
+10764
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Serial dokumentalny odsłania kulisy słynnego kasyna Golden Nugget, które nigdy nie zasypia. Kamery śledzą pracę ochroniarzy, operatorów monitoringu i obsługi VIP, którzy każdego dnia mierzą się z kradzieżami, oszustwami, konfliktami i nietypowymi żądaniami gości. Za światem wielkich wygranych, luksusu i nieustannej rozrywki kryje się pełna napięcia rzeczywistość, w której każda noc przynosi nowe wyzwania.",
+"overviewEn": "Real-life and often shocking moments that unfold around the clock: unruly guests, high-pressure special events and the relentless efforts required to keep thousands of people safe and entertained each day.",
+"popularity": 2.04,
+"ratings": {
+"imdb": 7.7,
+"imdbVotes": 62
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Sekretne Życie Kasyna W Las Vegas",
+"titleEn": "Secret Life of a Vegas Casino",
+"tmdbId": 335032,
+"trailerKey": "jtWbo0hHT3M"
+},
+"player:tv:335032:s1e8:sub": {
+"access": "sub",
+"backdropPath": "/h6g4QtrLIh7EcPdFObAdvYIYL3C.jpg",
+"confirmedAt": null,
+"date": "2026-11-24",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:tv:335032:s1e8:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 8,
+"episodeTo": 8,
+"genres": [
+10764
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Serial dokumentalny odsłania kulisy słynnego kasyna Golden Nugget, które nigdy nie zasypia. Kamery śledzą pracę ochroniarzy, operatorów monitoringu i obsługi VIP, którzy każdego dnia mierzą się z kradzieżami, oszustwami, konfliktami i nietypowymi żądaniami gości. Za światem wielkich wygranych, luksusu i nieustannej rozrywki kryje się pełna napięcia rzeczywistość, w której każda noc przynosi nowe wyzwania.",
+"overviewEn": "Real-life and often shocking moments that unfold around the clock: unruly guests, high-pressure special events and the relentless efforts required to keep thousands of people safe and entertained each day.",
+"popularity": 2.04,
+"ratings": {
+"imdb": 7.7,
+"imdbVotes": 62
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "announced",
+"title": "Sekretne Życie Kasyna W Las Vegas",
+"titleEn": "Secret Life of a Vegas Casino",
+"tmdbId": 335032,
+"trailerKey": "jtWbo0hHT3M"
 },
 "player:tv:335032:sub": {
 "access": "sub",
@@ -124591,7 +124755,9 @@
 "overview": "Zainspirowany życiem uwielbianej amerykańskiej ikony, film MADDEN przedstawia niezwykłą drogę Johna Maddena, którą przemierzał u boku swojego najlepszego przyjaciela - Ala Davisa, który sam był niepowtarzalną postacią – od wspólnego zdobycia mistrzostwa Super Bowl w drużynie Raiders, przez karierę Maddena prowadzącą do najbardziej rozpoznawalnego głosu amerykańskiego futbolu, aż po stworzenie popularnej na całym świecie serii gier Madden NFL. Film MADDEN to celebracja genialnego umysłu człowieka, którego absolutnie wyjątkowy i niepowtarzalny duch i osobowość, relacja z odważną żoną Virginią, wieloletnie przyjaźnie oraz zaraźliwa miłość do ludzi i amerykańskiego futbolu wykroczyły daleko poza świat sportu.",
 "overviewEn": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game.",
 "popularity": 48.68,
-"ratings": null,
+"ratings": {
+"tmdb": 7.9
+},
 "serviceKey": "prime",
 "source": "tmdb",
 "status": "live",
@@ -128871,15 +129037,15 @@
 "withAds": false
 },
 "origin": "schedule",
-"overview": "The film focuses on what it means to truly love someone \"in sickness and in health.\" In the story, talented pianist Canan embarks on a passionate affair with Bekir, a mysterious agent, after saving his life. However, Bekir suddenly disappears. When he returns years later, he finds Canan married someone else. This encounter rekindles a love that had been interrupted years before. Canan is forced to make an impossible choice between her past passion and her present-day loyalty.",
+"overview": "Pianistka Sebahat zakochuje się w agencie Bekirze, ale ten znika bez śladu. Gdy po latach wraca, ona musi wybrać między dawną miłością a życiem u boku męża.",
 "overviewEn": "The film focuses on what it means to truly love someone \"in sickness and in health.\" In the story, talented pianist Canan embarks on a passionate affair with Bekir, a mysterious agent, after saving his life. However, Bekir suddenly disappears. When he returns years later, he finds Canan married someone else. This encounter rekindles a love that had been interrupted years before. Canan is forced to make an impossible choice between her past passion and her present-day loyalty.",
 "popularity": 3.61,
 "ratings": null,
 "serviceKey": "prime",
 "source": "tmdb",
 "status": "live",
-"title": "Son Yemek",
-"titleEn": "Last Dinner",
+"title": "Ostatnia Kolacja",
+"titleEn": "Last meal",
 "tmdbId": 1561834,
 "trailerKey": null
 },
@@ -129558,43 +129724,6 @@
 "titleEn": "It Boy",
 "tmdbId": 173185,
 "trailerKey": "AZFP0oIUit4"
-},
-"prime:movie:1756543:sub": {
-"access": "sub",
-"backdropPath": "/jUwaAscUDiJNyIIgopLRdQMCRVt.jpg",
-"confirmedAt": null,
-"date": "2026-12-01",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "prime:movie:1756543:sub",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-99,
-53
-],
-"kind": "documentary",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "British paranormal investigators explore a Hollywood mansion, uncovering true story of couple Daniel and Arthur, whose journey from homelessness to Hollywood history explores LGBTQ identity, resilience, and unexplained supernatural events.",
-"overviewEn": "British paranormal investigators explore a Hollywood mansion, uncovering true story of couple Daniel and Arthur, whose journey from homelessness to Hollywood history explores LGBTQ identity, resilience, and unexplained supernatural events.",
-"popularity": 0.28,
-"ratings": {
-"imdb": 3.4,
-"imdbVotes": 35
-},
-"serviceKey": "prime",
-"source": "tmdb",
-"status": "announced",
-"title": "Paranormal Hollywood Haunting",
-"titleEn": null,
-"tmdbId": 1756543,
-"trailerKey": "9pQeEBQojIk"
 },
 "prime:movie:1760311:sub": {
 "access": "sub",
@@ -141542,8 +141671,8 @@
 "episodeTo": 10,
 "genres": [
 16,
-10765,
-35
+35,
+10765
 ],
 "kind": "series",
 "season": 1,
@@ -141656,8 +141785,8 @@
 "episodeTo": 8,
 "genres": [
 16,
-10765,
-35
+35,
+10765
 ],
 "kind": "series",
 "season": 1,
@@ -141694,8 +141823,8 @@
 "episodeTo": 9,
 "genres": [
 16,
-10765,
-35
+35,
+10765
 ],
 "kind": "series",
 "season": 1,
@@ -142460,6 +142589,43 @@
 "tmdbId": 44006,
 "trailerKey": "IIeSDILTE5M"
 },
+"prime:tv:44006:s15e8:sub": {
+"access": "sub",
+"backdropPath": "/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
+"confirmedAt": null,
+"date": "2026-12-09",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:44006:s15e8:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 8,
+"episodeTo": 8,
+"genres": [
+18
+],
+"kind": "series",
+"season": 15,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Żadna praca nie jest bardziej stresująca, niebezpieczna, czy ekscytująca niż strażaków - członków Oddziału Ratunkowego i sanitariuszy z Chicago Firehouse 51. Są to odważni mężczyźni i kobiety, którzy stają oko w oko z niebezpieczeństwem, reagują, gdy wszyscy inni boją się podjąć działanie. Jednak ogromne obowiązki w pracy odbijają piętno na ich życiu osobistym. Gdy tragedia spotyka jednego z członków zespołu, w powietrzu unosi się sporo poczucia winy i żalu. Porucznik Matthew Casey (Jesse Spencer) stara się pracować normalnie, lecz nie może porozumieć się z porucznikiem Kelly Severidem (Taylor Kinney), z Oddziału Ratunkowego, z którym wzajemnie obwiniają się o śmierć jednego z członków zespołu. Gdy jednak zachodzi wyższa konieczność, są w stanie zakopać wojenny topór i stanąć na wysokości zadania, ratując życie potrzebującym pomocy.",
+"overviewEn": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
+"popularity": 162.25,
+"ratings": {
+"imdb": 8.0,
+"imdbVotes": 73145,
+"tmdb": 8.4
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "Chicago Fire",
+"titleEn": null,
+"tmdbId": 44006,
+"trailerKey": "IIeSDILTE5M"
+},
 "prime:tv:549:s26e5:sub": {
 "access": "sub",
 "backdropPath": "/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
@@ -142832,6 +142998,43 @@
 "serviceKey": "prime",
 "source": "tmdb",
 "status": "live",
+"title": "Chicago Med",
+"titleEn": null,
+"tmdbId": 62650,
+"trailerKey": null
+},
+"prime:tv:62650:s12e8:sub": {
+"access": "sub",
+"backdropPath": "/fFgVoJuSBewZWlzgaoUWGm8MvD4.jpg",
+"confirmedAt": null,
+"date": "2026-12-09",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:62650:s12e8:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 8,
+"episodeTo": 8,
+"genres": [
+18
+],
+"kind": "series",
+"season": 12,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Serial opowiada o pracy i życiu ludzi pracujących w chicagowskim szpitalu.",
+"overviewEn": "An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
+"popularity": 88.57,
+"ratings": {
+"imdb": 7.6,
+"imdbVotes": 35443,
+"tmdb": 8.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
 "title": "Chicago Med",
 "titleEn": null,
 "tmdbId": 62650,
@@ -162338,6 +162541,42 @@
 "allEpisodes": false,
 "episodeFrom": 53,
 "episodeTo": 53,
+"genres": [
+18
+],
+"kind": "series",
+"season": 4,
+"withAds": true
+},
+"origin": "schedule",
+"overview": "Serial opowiada historie Hancer (w tej roli Talya Celebi), która wychodzi za mąż za Cihana (Cenay Turksever), by zdobyć pieniądze na leczenie chorego brata, Cemila. Po ślubie trafia do bardzo tajemniczej rezydencji rodziny Develioglu. Niepodzielnie rządzi tam matka jej męża, obdarzona żelazną wolą i charakterem Mukadder (Betigul Ceylan). Jest też była już żona Cihana, Beyza, która nie może się pogodzić z rozwodem. Hacer i Cemil nie mają rodziców. Dziewczyna wiele już w życiu przeszła. Teraz zrobi wszystko, by uratować brata, który jest jej jedyną rodziną.",
+"overviewEn": "The continuation of the lineage of a deep-rooted family depends on Cihan Develioğlu's unborn son, but Cihan cannot have a child due to his wife. Mukadder plays a cruel game for her son Cihan to have a son. Mukadder goes to Cihan's wife, Beyza, with a dangerous proposal and asks her to divorce her son. Named after her sharp looks, Hançer faces an offer that will turn her life upside down. Mukadder, who takes advantage of the fact that Hançer is poor and has a family that will not cause trouble, offers her the opportunity to marry her son and give birth to a male child. Hançer, who dreams of finding the love of her life and having a happy marriage, first rejects this offer. However, she is forced to accept the offer when she learns that her brother has a deadly illness. Cihan and Hançer, who have entered an irreversible path, will no longer be the same. Will these two young people, drawn into a big game and lost in a dark maze, fall under the spell of love contrary to the planned games?",
+"popularity": 11.5,
+"ratings": {
+"imdb": 4.0,
+"imdbVotes": 265
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Panna młoda",
+"titleEn": "The Bride",
+"tmdbId": 245841,
+"trailerKey": null
+},
+"tvpvod:tv:245841:s4e54:free": {
+"access": "free",
+"backdropPath": "/doIUOsdeCKkRNQxMvV4MKp0uoTT.jpg",
+"confirmedAt": "2026-11-19T22:39:38Z",
+"date": "2026-11-19",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:tv:245841:s4e54:free",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 54,
+"episodeTo": 54,
 "genres": [
 18
 ],
