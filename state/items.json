@@ -1115,6 +1115,43 @@
 "tmdbId": 1228834,
 "trailerKey": "l5Luvr9TRRc"
 },
+"appletv:movie:1229933:paid": {
+"access": "paid",
+"backdropPath": "/l58tsZZxvccRLwEuhZeZIBE3rXv.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1229933:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99,
+10402
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Take one look at award-winning songwriter / artist Allee Willis and you see someone unafraid to be themselves. Dressed in a cacophony of prints and colors, her signature asymmetrical haircut and famed parties at her real-life Pee-Wee’s Playhouse, Allee didn’t waste any opportunity to tell you what she was about. But privately, Allee struggled with not fitting established gender and sexual norms.  She buried herself in her work, until true love manifested her ultimate masterpiece - self-acceptance.",
+"overviewEn": "Take one look at award-winning songwriter / artist Allee Willis and you see someone unafraid to be themselves. Dressed in a cacophony of prints and colors, her signature asymmetrical haircut and famed parties at her real-life Pee-Wee’s Playhouse, Allee didn’t waste any opportunity to tell you what she was about. But privately, Allee struggled with not fitting established gender and sexual norms.  She buried herself in her work, until true love manifested her ultimate masterpiece - self-acceptance.",
+"popularity": 1.12,
+"ratings": {
+"imdb": 8.1,
+"imdbVotes": 136
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "The World According to Allee Willis",
+"titleEn": null,
+"tmdbId": 1229933,
+"trailerKey": "zvBSldpFFcc"
+},
 "appletv:movie:1230041:paid": {
 "access": "paid",
 "backdropPath": null,
@@ -1293,6 +1330,43 @@
 "titleEn": null,
 "tmdbId": 1242297,
 "trailerKey": null
+},
+"appletv:movie:1244517:paid": {
+"access": "paid",
+"backdropPath": "/cRhOM5UDUpBV7EdpdXxkstpli86.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:1244517:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Amanda Ogle, bezdomna kobieta, wydostaje się z piekła, jakie spotkało ją przez usługi holownicze. Kobieta odzyskuje swoje życie i samochód, który pozwolił jej przetrwać, po tym, jak otrzymała rachunek za holowanie w wysokości 21 634 dolarów.",
+"overviewEn": "Amanda Ogle is a woman living in her aging Toyota Camry on the streets of Seattle. When her car is stolen and impounded, she’s thrust into a relentless legal battle against an indifferent system. What begins as a fight to reclaim her car evolves into a deeply human story of resilience, dignity, and the power of one woman’s voice in the face of systemic failure.",
+"popularity": 4.65,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 2568,
+"tmdb": 6.7
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Tow",
+"titleEn": null,
+"tmdbId": 1244517,
+"trailerKey": "qdkpcsuPAhA"
 },
 "appletv:movie:1248226:paid": {
 "access": "paid",
@@ -2607,7 +2681,7 @@
 "appletv:movie:1450527:paid": {
 "access": "paid",
 "backdropPath": "/jAOpZDgy4eMY6o6oGdUiXk4SqvE.jpg",
-"confirmedAt": "2026-11-21T13:26:37Z",
+"confirmedAt": "2026-11-21T20:53:42Z",
 "date": "2026-11-20",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -2787,7 +2861,7 @@
 "access": "paid",
 "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
 "confirmedAt": "2026-11-16T13:36:17Z",
-"date": "2026-11-16",
+"date": "2026-11-21",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "appletv:movie:1464883:paid",
@@ -2806,7 +2880,7 @@
 "origin": "schedule",
 "overview": "W całym Iraku trwa „dzień losowania”, kiedy szkoły wybierają uczniów do zaszczytu przyniesienia przedmiotów na obowiązkowe lokalne obchody urodzin prezydenta Saddama Husseina. Dziewięcioletnia Lamia mieszka na historycznych bagnach ze swoją pełną werwy babcią, Bibi. Przed szkołą Bibi uczy Lamię sprytnych sztuczek, aby uniknąć wyboru do tortu prezydenta. Jednak gdy Musa, autorytatywny nauczyciel, woła Lamię po imieniu, aby wykonać najtrudniejsze zadanie — tort urodzinowy — nie ma innego wyboru, jak tylko się zgodzić. Odmowa może oznaczać uwięzienie, a nawet śmierć.",
 "overviewEn": "While people across 1990’s Iraq struggle to survive, 9-year-old Lamia has been selected to prepare a cake to celebrate the President’s birthday. In a landscape of fear and scarcity, where basic ingredients are nearly impossible to find, Lamia sets out on a determined journey throughout the big city in search of eggs, flour, and sugar. Accompanied by her grandmother, her loyal friend Saeed, and her pet rooster Hindi, she navigates vendors and police officers along the way.",
-"popularity": 3.16,
+"popularity": 4.93,
 "ratings": {
 "imdb": 7.5,
 "imdbVotes": 5445,
@@ -7377,6 +7451,45 @@
 "titleEn": null,
 "tmdbId": 651439,
 "trailerKey": "6l5MV-hT2q0"
+},
+"appletv:movie:6643:free": {
+"access": "free",
+"backdropPath": "/vFno98QhEkyFcpdVI74kAdSa0ja.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:movie:6643:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+37,
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Teksas, rok 1850. Biali osadnicy walczą o przetrwanie na terenach odebranych Indianom z plemienia Kiowa. Córka Matyldy Zachary, Rachel, jest Indianką. Matylda starannie to ukrywa. Kiedy prawda wychodzi na jaw, Indianie chcą siłą odebrać dziewczynę. Odprawieni z kwitkiem, napadają na ranczo Rawlinsów. Niebawem okazuje się, że Kelsey, który rozpowszechniał informacje o pochodzeniu Rachel, wrócił do miasteczka, by dokonać zemsty na rodzinie Zacharych.",
+"overviewEn": "The neighbors of a frontier family turn on them when it is suspected that their beloved adopted daughter was stolen from the Kiowa tribe.",
+"popularity": 2.29,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 11255,
+"tmdb": 6.2
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "live",
+"title": "Nie do Przebaczenia",
+"titleEn": "The Unforgiven",
+"tmdbId": 6643,
+"trailerKey": "UKpApK0gVDY"
 },
 "appletv:movie:667538:sub": {
 "access": "sub",
@@ -17780,7 +17893,7 @@
 "origin": "diff",
 "overview": "Tymczasowy szeryf Ulysses, wezwany do zasypanego śniegiem miasteczka Normal w stanie Minnesota, odkrywa międzynarodowy spisek przestępczy w samym sercu tej pozornie sielankowej, zapomnianej miejscowości, gdy przychodzi z pomocą parze napastników, którzy wplątali się w śmiertelnie niebezpieczną sytuację.",
 "overviewEn": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-"popularity": 9.3,
+"popularity": 12.06,
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 39866,
@@ -17798,7 +17911,7 @@
 "access": "sub",
 "backdropPath": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
 "confirmedAt": "2026-11-21T13:26:37Z",
-"date": "2026-11-21",
+"date": "2026-11-20",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "canalplus:movie:1242332:sub",
@@ -17816,10 +17929,10 @@
 "season": null,
 "withAds": false
 },
-"origin": "diff",
+"origin": "schedule",
 "overview": "Tymczasowy szeryf Ulysses, wezwany do zasypanego śniegiem miasteczka Normal w stanie Minnesota, odkrywa międzynarodowy spisek przestępczy w samym sercu tej pozornie sielankowej, zapomnianej miejscowości, gdy przychodzi z pomocą parze napastników, którzy wplątali się w śmiertelnie niebezpieczną sytuację.",
 "overviewEn": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-"popularity": 9.3,
+"popularity": 12.06,
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 39866,
@@ -21088,45 +21201,6 @@
 "tmdbId": 1317288,
 "trailerKey": "Z8rDPyKBy3k"
 },
-"canalplus:movie:1319951:sub": {
-"access": "sub",
-"backdropPath": "/6m3K1hizm5yoguOsAcIjNSECn5b.jpg",
-"confirmedAt": null,
-"date": "2026-11-26",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "canalplus:movie:1319951:sub",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-28,
-53,
-18
-],
-"kind": "movie",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "W postapokaliptycznym świecie dotkniętym głodem czarnoskóra rodzina farmerów z Kanady broni swojej ziemi przed kanibalami.",
-"overviewEn": "Hailey Freeman and her family are the last descendants of African American farmers who settled in rural Canada after the Civil War. In a famine-decimated near future, they now struggle to safeguard their farm, as they make one last stand against a vicious militia hell-bent on taking their 40 Acres.",
-"popularity": 2.35,
-"ratings": {
-"imdb": 6.4,
-"imdbVotes": 8151,
-"tmdb": 6.6
-},
-"serviceKey": "canalplus",
-"source": "tmdb",
-"status": "announced",
-"title": "40 akrów",
-"titleEn": "40 Acres",
-"tmdbId": 1319951,
-"trailerKey": "qTOVmMjGpc0"
-},
 "canalplus:movie:1323244:paid": {
 "access": "paid",
 "backdropPath": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
@@ -22711,6 +22785,44 @@
 "tmdbId": 1381151,
 "trailerKey": "cEQmNfSWMZc"
 },
+"canalplus:movie:1381151:sub": {
+"access": "sub",
+"backdropPath": "/mSdaNfnszAhI14ZEJCJbz3vXSWD.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1381151:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zaginiony chłopiec szukający nieba, trzy nietypowe zakonnice z misją, samochód napędzany przez Boga (i skradzione pieniądze). To podróż samochodowa inna niż wszystkie. Komedia ocierająca się o tragedię, która wciąż zmierza na południe.",
+"overviewEn": "When young Brian discovers plans to close a convent of delightfully eccentric nuns, he sets off with them on a wild road trip across New Zealand to save their home.",
+"popularity": 1.89,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 692
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Holy Days",
+"titleEn": null,
+"tmdbId": 1381151,
+"trailerKey": "cEQmNfSWMZc"
+},
 "canalplus:movie:1382241:paid": {
 "access": "paid",
 "backdropPath": null,
@@ -24242,43 +24354,6 @@
 "tmdbId": 1470334,
 "trailerKey": "GvE-9C77UEI"
 },
-"canalplus:movie:1473635:paid": {
-"access": "paid",
-"backdropPath": "/pBeB38aB3FfzPqCrSoxZpvLHxjt.jpg",
-"confirmedAt": "2026-11-19T14:24:06Z",
-"date": "2026-11-19",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "canalplus:movie:1473635:paid",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-18
-],
-"kind": "movie",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Między Tangerem a Rzymem kruchość, pragnienia, pułapki i chwile szczęścia w relacjach między kobietami i mężczyznami, matkami i córkami, kochankami i rozczarowaniami. Bardzo cienka granica między dobrem a złem, tym, co przepływa przez nasze życie, często przytłaczając je niczym rwąca rzeka.",
-"overviewEn": "Carlo and Elisa are a successful couple. He’s a university professor and writer facing a creative block; she’s a brilliant, sharp-witted journalist, known for her internationally published editorials. They live in Rome, moving between accomplishments and routine, affection and something that might be fading. In search of new energy, they travel to Morocco with their lifelong friends, Anna and Paolo, and their thirteen-year-old daughter Vittoria—bright, curious, a little eccentric. Tensions soon rise.",
-"popularity": 1.61,
-"ratings": {
-"imdb": 6.7,
-"imdbVotes": 1375,
-"tmdb": 6.9
-},
-"serviceKey": "canalplus",
-"source": "tmdb",
-"status": "live",
-"title": "O czym sobie nie mówimy",
-"titleEn": "Things We Don't Say",
-"tmdbId": 1473635,
-"trailerKey": null
-},
 "canalplus:movie:1476682:paid": {
 "access": "paid",
 "backdropPath": "/7Mmzdcq0NDPlIt79WwtUMYa1zjI.jpg",
@@ -25167,44 +25242,6 @@
 "titleEn": "Siren: The Voices of Shelley Beattie",
 "tmdbId": 1552433,
 "trailerKey": "W0Bs0wE2hig"
-},
-"canalplus:movie:1554297:sub": {
-"access": "sub",
-"backdropPath": "/6FdzOGQFh72iv0TwUBo1hSfH1zN.jpg",
-"confirmedAt": "2026-11-20T13:59:04Z",
-"date": "2026-11-19",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "canalplus:movie:1554297:sub",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-10770,
-35,
-10749
-],
-"kind": "movie",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Zbliża się Boże Narodzenie. Kate ma wypadek, po którym traci pamięć. Nie wie, kim jest i co się wydarzyło. Miejscowa policja umieszcza poszkodowaną w pensjonacie należącym do rodziny Emmeta, do czasu, gdy uda się ustalić jej tożsamość. Mężczyzna od razu rozpoznaje w nieznajomej swoją dawną miłość, lecz zataja prawdę. Kate także ma wrażenie, że już się kiedyś spotkali, ale nie potrafi tego wyjaśnić. Oboje świetnie się ze sobą dogadują i stopniowo nawiązują romans. Wkrótce jednak do Kate wracają wspomnienia. Przypomina sobie też, dlaczego ona i Emmet zerwali ze sobą...",
-"overviewEn": "After a car accident leaves ambitious real estate executive Katie Sloan (McKellar) with amnesia at a cozy mountain inn, she unexpectedly falls for the innkeeper’s son (Hutch) from her forgotten past – while helping his family fight to save their beloved lodge before her memory returns and threatens their second chance at love.",
-"popularity": 1.71,
-"ratings": {
-"imdb": 6.5,
-"imdbVotes": 459
-},
-"serviceKey": "canalplus",
-"source": "tmdb",
-"status": "live",
-"title": "Czy pamiętasz te święta?",
-"titleEn": "Have We Met This Christmas?",
-"tmdbId": 1554297,
-"trailerKey": "5U8KfAMEx7w"
 },
 "canalplus:movie:1554419:paid": {
 "access": "paid",
@@ -26323,6 +26360,39 @@
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "canalplus:movie:1676647:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.42,
+"ratings": null,
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Making Tarantino",
+"titleEn": null,
+"tmdbId": 1676647,
+"trailerKey": null
+},
+"canalplus:movie:1676647:sub": {
+"access": "sub",
+"backdropPath": "/ospY6LHAT4lp6J3kuWYQVt5aAOd.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:1676647:sub",
 "mediaType": "movie",
 "meta": {
 "allEpisodes": false,
@@ -28782,6 +28852,43 @@
 "titleEn": "The Avengers",
 "tmdbId": 24428,
 "trailerKey": "hIR8Ar-Z4hw"
+},
+"canalplus:movie:24450:sub": {
+"access": "sub",
+"backdropPath": "/vmWhIMc3RB5AEAiKPhkXKXx1HlL.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "canalplus:movie:24450:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Lucy has always used food to escape life's problems, but when this self-titled \"fat friend\" lures her group of old college buddies to the Montana wilderness, she reveals a new self - skinny, beautiful and still flawed.",
+"overviewEn": "Lucy has always used food to escape life's problems, but when this self-titled \"fat friend\" lures her group of old college buddies to the Montana wilderness, she reveals a new self - skinny, beautiful and still flawed.",
+"popularity": 0.9,
+"ratings": {
+"imdb": 5.0,
+"imdbVotes": 2413,
+"tmdb": 4.3
+},
+"serviceKey": "canalplus",
+"source": "tmdb",
+"status": "live",
+"title": "Pretty Ugly People",
+"titleEn": null,
+"tmdbId": 24450,
+"trailerKey": "0DOAnKbwde4"
 },
 "canalplus:movie:244772:paid": {
 "access": "paid",
@@ -40719,11 +40826,11 @@
 "origin": "diff",
 "overview": "Cierpiąca na traumę po dramatycznym wydarzeniu z przeszłości Meg długo zastanawia się, czy wziąć udział w ekskluzywnym, organizowanym w rajskich plenerach ślubie koleżanki Lizzie. Ostatecznie jednak przybywa na Karaiby, mając za towarzyszki Cam, Ruth oraz dawno niewidzianą przyjaciółkę Kaylę. Kiedy kobiety postanawiają udać się w samotny rejs łodzią, nie przeczuwają, że idylliczna podróż zmieni się w zaciętą walkę o przetrwanie. Wkrótce, zdane tylko na siebie i dryfujące na otwartym morzu, będą zmuszone zmagać się nie tylko ze skrajnym wycieńczeniem, ale też atakami rekinów-morderców. Czy mają jakikolwiek szanse w starciu z drapieżnikami, z których natura uczyniła prawdziwe maszyny do zabijania?",
 "overviewEn": "After lesbian couple Meg and Kayla split following a traumatic homophobic incident, their three friends are intent on mending the rift during the wedding of Lizzie at a paradise resort. But a pre-wedding boat excursion turns to disaster and the wedding breakfast is likely to be the five girls!",
-"popularity": 2.77,
+"popularity": 2.34,
 "ratings": {
 "imdb": 4.1,
 "imdbVotes": 6503,
-"tmdb": 5.6
+"tmdb": 5.5
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
@@ -53423,6 +53530,43 @@
 "tmdbId": 364387,
 "trailerKey": "zAUgG705Nl8"
 },
+"cda:movie:364708:paid": {
+"access": "paid",
+"backdropPath": "/anuk1ovYcugX62Etd3YMeepahZj.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:364708:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jack spędza swoje studenckie dni na imprezowaniu. Pewnego dnia otrzymuje wstrząsającą informację – zostanie wyrzucony ze studiów. Nie byłoby to dla niego zbyt bolesne, gdyby nie fakt, że wraz ze studiami straci opłacany przez ojca dom, samochód i tygodniówkę. Ostatecznie lituje się nad nim profesor ekonomii, który daje mu ostatnią szansę na zdanie egzaminu. Ale jest to dość nietypowe zaliczenie – Jack musi przez tydzień tak poprowadzić jego myjnię samochodową, aby osiągnąć zysk. Kreatywny student i jego kumpel wpadają na pomysł, aby do obsługi zatrudnić dziewczyny w bikini. To według nich przyciągnie klientów, pozwolić zostać Jackowi na studiach i przy okazji dobrze się bawić.",
+"overviewEn": "An enterprising college student agrees to run his professor's Las Vegas car wash to avoid flunking out of school. But it's Vegas gone wild when he decides to staff it with gorgeous bikini-clad girls.",
+"popularity": 1.76,
+"ratings": {
+"imdb": 3.5,
+"imdbVotes": 1619,
+"tmdb": 4.5
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Sexy-myjnia w bikini",
+"titleEn": "All American Bikini Car Wash",
+"tmdbId": 364708,
+"trailerKey": "GFgtpl2NNRw"
+},
 "cda:movie:379393:paid": {
 "access": "paid",
 "backdropPath": "/pawTzlvIgff9jgtl9vBpLTFgrVX.jpg",
@@ -54606,6 +54750,44 @@
 "tmdbId": 466876,
 "trailerKey": "EB8KZOnyEQ4"
 },
+"cda:movie:467012:paid": {
+"access": "paid",
+"backdropPath": "/5PD7GeOq9Npk7wz7QPz1MoK09Mh.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:467012:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Rini (Tara Basro) wraz z rodzicami (Bront Palarae i Ayu Laksmi) i trzema młodszymi braćmi zostają zmuszeni do sprzedania domu i zamieszkania u babci, aby opłacić kosztowne leczenie matki. Nieznana choroba, na którą kobieta zapadła trzy i pół roku temu, pochłania resztki rodzinnych oszczędności. Gdy chora umiera, ojciec Rini podejmuje się pracy, pozostawiając dzieci same w domu. Niedługo potem dom zaczyna nawiedzać upiorna zjawa łudząco przypominająca niedawno zmarłą kobietę. Wychodzi też na jaw ukrywany przez lata fakt o zawartym w przeszłości mrocznym pakcie, którego konsekwencje sięgają obecnie domowników. Aby uchronić rodzinę przed niebezpieczeństwem, Rini i jej bracia muszą rozwikłać tajemnicę z przeszłości.",
+"overviewEn": "After dying from a strange illness that she suffered for three years, a mother returns home to pick up her children.",
+"popularity": 2.48,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 14200,
+"tmdb": 6.7
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Słudzy diabła",
+"titleEn": "Satan's Slaves",
+"tmdbId": 467012,
+"trailerKey": "mhc0d6kYmQ8"
+},
 "cda:movie:481370:paid": {
 "access": "paid",
 "backdropPath": "/4rCArads48eoWTDplCqyXkHKuhE.jpg",
@@ -54794,6 +54976,42 @@
 "tmdbId": 485346,
 "trailerKey": null
 },
+"cda:movie:489842:free": {
+"access": "free",
+"backdropPath": "/uKNe2J61iewgsef77eVj3urmGzg.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:489842:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młoda i ambitna Georgie pracuje w agencji reklamowej. Pragnie zajść w ciążę, a jednocześnie nadal dynamicznie wspinać się po szczeblach kariery. Jej starsza siostra, mężatka Margot, która jest dziennikarką i matką trojga dzieci, właśnie straciła pracę. Pewnego dnia kobiety dowiadują się, że grozi im utrata rodzinnej nieruchomości, ponieważ ich beztroska matka zaciągnęła zbyt wiele kredytów hipotecznych pod jej zastaw. Córki szukają sposobu, by uratować dom. Jedyną nadzieją okazuje się wysoka premia, którą Georgie ma szansę otrzymać za wymyślenie błyskotliwej kampanii reklamowej. Perypetie trzech silnych kobiet opowiedziane z przymrużeniem oka przez reżyserkę Aniëlle Webster, znaną dotąd głównie z seriali.",
+"overviewEn": "Two modern women and their free-spirited mother struggle to balance their private, professional and family lives.",
+"popularity": 0.65,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 1379
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Gospodynie nie istnieją",
+"titleEn": "No Such Thing as Housewives",
+"tmdbId": 489842,
+"trailerKey": "NHq2RYHoJnI"
+},
 "cda:movie:497917:paid": {
 "access": "paid",
 "backdropPath": "/xqd8tSCXkvA3JvxpeF0nMdz0vy5.jpg",
@@ -54871,6 +55089,44 @@
 "titleEn": "The Wrong Victim",
 "tmdbId": 497917,
 "trailerKey": null
+},
+"cda:movie:503403:free": {
+"access": "free",
+"backdropPath": "/zlsDXydQTu0UomPThFbHdWvfcyK.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:503403:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tuż przed Walentynkami programistka opracowuje rewolucyjny algorytm randkowy, a jej nowy szef postanawia go wypróbować.",
+"overviewEn": "Newly appointed CEO of Robinson Tech, Wes Robinson, is looking for new ideas to boost the company's sales. Vivian Blair, a program developer, shares a dating algorithm she has been working on called My Perfect Match. Wes sees potential and an opportunity to turn the company around and launches the service. When the pair is challenged to use My Perfect Match themselves to find love, this algorithm shows some interesting results.",
+"popularity": 1.47,
+"ratings": {
+"imdb": 4.7,
+"imdbVotes": 3359,
+"tmdb": 5.6
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "Miłosny algorytm",
+"titleEn": "My Perfect Romance",
+"tmdbId": 503403,
+"trailerKey": "ht2Rv7RgP88"
 },
 "cda:movie:507250:paid": {
 "access": "paid",
@@ -56196,6 +56452,37 @@
 "tmdbId": 669661,
 "trailerKey": "IpiAgvmSn6I"
 },
+"cda:movie:675029:free": {
+"access": "free",
+"backdropPath": null,
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:movie:675029:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.17,
+"ratings": null,
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "live",
+"title": "La Réplica",
+"titleEn": null,
+"tmdbId": 675029,
+"trailerKey": null
+},
 "cda:movie:675029:paid": {
 "access": "paid",
 "backdropPath": null,
@@ -56217,7 +56504,7 @@
 "origin": "diff",
 "overview": null,
 "overviewEn": null,
-"popularity": 0.05,
+"popularity": 0.17,
 "ratings": null,
 "serviceKey": "cda",
 "source": "tmdb",
@@ -67923,6 +68210,82 @@
 "tmdbId": 1198877,
 "trailerKey": null
 },
+"hbomax:movie:1215532:paid": {
+"access": "paid",
+"backdropPath": "/fnuJV4WwxGM8w784lGV7j32JVsG.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:1215532:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+12,
+35
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Przekształciwszy swoją odmienność w siłę, Hopper eksploruje świat z Meg, utalentowaną w sztukach walki skunksicą, i Archiem, sarkastycznym żółwiem. Kiedy poznaje Ginę, jej siostrę, wszystko się zmienia: nie jest sam. Rozdarty między lojalnością a obowiązkiem, Hopper wyrusza na poszukiwanie legendarnej mocy, która uratuje jego lud. Niebezpieczna przygoda przez zapierające dech w piersiach światy, gdzie sekrety i dylematy się przeplatają.",
+"overviewEn": "Chickenhare embarks on an epic quest, a mysterious groundhog with the power to reverse time and save his species. His adventure takes a dangerous turn when his group discover they are not the only ones searching for this ancient power.",
+"popularity": 3.22,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 444
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Kurozając i świątynia Świstaka",
+"titleEn": "Chickenhare and the Secret of the Groundhog",
+"tmdbId": 1215532,
+"trailerKey": "WdTbLiWjld0"
+},
+"hbomax:movie:1215532:sub": {
+"access": "sub",
+"backdropPath": "/fnuJV4WwxGM8w784lGV7j32JVsG.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:movie:1215532:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+12,
+35
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Przekształciwszy swoją odmienność w siłę, Hopper eksploruje świat z Meg, utalentowaną w sztukach walki skunksicą, i Archiem, sarkastycznym żółwiem. Kiedy poznaje Ginę, jej siostrę, wszystko się zmienia: nie jest sam. Rozdarty między lojalnością a obowiązkiem, Hopper wyrusza na poszukiwanie legendarnej mocy, która uratuje jego lud. Niebezpieczna przygoda przez zapierające dech w piersiach światy, gdzie sekrety i dylematy się przeplatają.",
+"overviewEn": "Chickenhare embarks on an epic quest, a mysterious groundhog with the power to reverse time and save his species. His adventure takes a dangerous turn when his group discover they are not the only ones searching for this ancient power.",
+"popularity": 3.22,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 444
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "live",
+"title": "Kurozając i świątynia Świstaka",
+"titleEn": "Chickenhare and the Secret of the Groundhog",
+"tmdbId": 1215532,
+"trailerKey": "WdTbLiWjld0"
+},
 "hbomax:movie:1215921:paid": {
 "access": "paid",
 "backdropPath": "/8utNndo8XwsjrvcwSjGTPbcbc4R.jpg",
@@ -68207,7 +68570,7 @@
 "origin": "diff",
 "overview": "Tymczasowy szeryf Ulysses, wezwany do zasypanego śniegiem miasteczka Normal w stanie Minnesota, odkrywa międzynarodowy spisek przestępczy w samym sercu tej pozornie sielankowej, zapomnianej miejscowości, gdy przychodzi z pomocą parze napastników, którzy wplątali się w śmiertelnie niebezpieczną sytuację.",
 "overviewEn": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-"popularity": 9.3,
+"popularity": 12.06,
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 39866,
@@ -68243,10 +68606,10 @@
 "season": null,
 "withAds": false
 },
-"origin": "diff",
+"origin": "schedule",
 "overview": "Tymczasowy szeryf Ulysses, wezwany do zasypanego śniegiem miasteczka Normal w stanie Minnesota, odkrywa międzynarodowy spisek przestępczy w samym sercu tej pozornie sielankowej, zapomnianej miejscowości, gdy przychodzi z pomocą parze napastników, którzy wplątali się w śmiertelnie niebezpieczną sytuację.",
 "overviewEn": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-"popularity": 9.3,
+"popularity": 12.06,
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 39866,
@@ -69863,7 +70226,7 @@
 "origin": "diff",
 "overview": "W całym Iraku trwa „dzień losowania”, kiedy szkoły wybierają uczniów do zaszczytu przyniesienia przedmiotów na obowiązkowe lokalne obchody urodzin prezydenta Saddama Husseina. Dziewięcioletnia Lamia mieszka na historycznych bagnach ze swoją pełną werwy babcią, Bibi. Przed szkołą Bibi uczy Lamię sprytnych sztuczek, aby uniknąć wyboru do tortu prezydenta. Jednak gdy Musa, autorytatywny nauczyciel, woła Lamię po imieniu, aby wykonać najtrudniejsze zadanie — tort urodzinowy — nie ma innego wyboru, jak tylko się zgodzić. Odmowa może oznaczać uwięzienie, a nawet śmierć.",
 "overviewEn": "While people across 1990’s Iraq struggle to survive, 9-year-old Lamia has been selected to prepare a cake to celebrate the President’s birthday. In a landscape of fear and scarcity, where basic ingredients are nearly impossible to find, Lamia sets out on a determined journey throughout the big city in search of eggs, flour, and sugar. Accompanied by her grandmother, her loyal friend Saeed, and her pet rooster Hindi, she navigates vendors and police officers along the way.",
-"popularity": 3.16,
+"popularity": 4.93,
 "ratings": {
 "imdb": 7.5,
 "imdbVotes": 5445,
@@ -69897,10 +70260,10 @@
 "season": null,
 "withAds": false
 },
-"origin": "diff",
+"origin": "schedule",
 "overview": "W całym Iraku trwa „dzień losowania”, kiedy szkoły wybierają uczniów do zaszczytu przyniesienia przedmiotów na obowiązkowe lokalne obchody urodzin prezydenta Saddama Husseina. Dziewięcioletnia Lamia mieszka na historycznych bagnach ze swoją pełną werwy babcią, Bibi. Przed szkołą Bibi uczy Lamię sprytnych sztuczek, aby uniknąć wyboru do tortu prezydenta. Jednak gdy Musa, autorytatywny nauczyciel, woła Lamię po imieniu, aby wykonać najtrudniejsze zadanie — tort urodzinowy — nie ma innego wyboru, jak tylko się zgodzić. Odmowa może oznaczać uwięzienie, a nawet śmierć.",
 "overviewEn": "While people across 1990’s Iraq struggle to survive, 9-year-old Lamia has been selected to prepare a cake to celebrate the President’s birthday. In a landscape of fear and scarcity, where basic ingredients are nearly impossible to find, Lamia sets out on a determined journey throughout the big city in search of eggs, flour, and sugar. Accompanied by her grandmother, her loyal friend Saeed, and her pet rooster Hindi, she navigates vendors and police officers along the way.",
-"popularity": 3.16,
+"popularity": 4.93,
 "ratings": {
 "imdb": 7.5,
 "imdbVotes": 5445,
@@ -70274,44 +70637,6 @@
 "titleEn": "Siren: The Voices of Shelley Beattie",
 "tmdbId": 1552433,
 "trailerKey": "W0Bs0wE2hig"
-},
-"hbomax:movie:1554297:sub": {
-"access": "sub",
-"backdropPath": "/6FdzOGQFh72iv0TwUBo1hSfH1zN.jpg",
-"confirmedAt": "2026-11-19T14:24:06Z",
-"date": "2026-11-19",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "hbomax:movie:1554297:sub",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-10770,
-35,
-10749
-],
-"kind": "movie",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Zbliża się Boże Narodzenie. Kate ma wypadek, po którym traci pamięć. Nie wie, kim jest i co się wydarzyło. Miejscowa policja umieszcza poszkodowaną w pensjonacie należącym do rodziny Emmeta, do czasu, gdy uda się ustalić jej tożsamość. Mężczyzna od razu rozpoznaje w nieznajomej swoją dawną miłość, lecz zataja prawdę. Kate także ma wrażenie, że już się kiedyś spotkali, ale nie potrafi tego wyjaśnić. Oboje świetnie się ze sobą dogadują i stopniowo nawiązują romans. Wkrótce jednak do Kate wracają wspomnienia. Przypomina sobie też, dlaczego ona i Emmet zerwali ze sobą...",
-"overviewEn": "After a car accident leaves ambitious real estate executive Katie Sloan (McKellar) with amnesia at a cozy mountain inn, she unexpectedly falls for the innkeeper’s son (Hutch) from her forgotten past – while helping his family fight to save their beloved lodge before her memory returns and threatens their second chance at love.",
-"popularity": 1.71,
-"ratings": {
-"imdb": 6.5,
-"imdbVotes": 459
-},
-"serviceKey": "hbomax",
-"source": "tmdb",
-"status": "live",
-"title": "Czy pamiętasz te święta?",
-"titleEn": "Have We Met This Christmas?",
-"tmdbId": 1554297,
-"trailerKey": "5U8KfAMEx7w"
 },
 "hbomax:movie:1559446:paid": {
 "access": "paid",
@@ -78124,7 +78449,7 @@
 "ratings": {
 "imdb": 6.7,
 "imdbVotes": 2957,
-"tmdb": 7.0
+"tmdb": 7.1
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -78163,7 +78488,7 @@
 "ratings": {
 "imdb": 6.7,
 "imdbVotes": 2957,
-"tmdb": 7.0
+"tmdb": 7.1
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -78202,7 +78527,7 @@
 "ratings": {
 "imdb": 6.7,
 "imdbVotes": 2957,
-"tmdb": 7.0
+"tmdb": 7.1
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -78241,7 +78566,7 @@
 "ratings": {
 "imdb": 6.7,
 "imdbVotes": 2957,
-"tmdb": 7.0
+"tmdb": 7.1
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
@@ -81598,7 +81923,7 @@
 "access": "sub",
 "backdropPath": "/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
 "confirmedAt": "2026-11-21T13:26:37Z",
-"date": "2026-11-21",
+"date": "2026-11-20",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "netflix:movie:1307474:sub",
@@ -81614,8 +81939,8 @@
 "season": null,
 "withAds": false
 },
-"origin": "diff",
-"overview": "Vicentina struggles to cope with the death of her son Wesley after a tragic bus accident, in which he was the driver. As the investigation unfolds, evidence suggests that Wesley’s actions may have been suicidal. Vicentina then embarks on a journey to seek out the victims’ families and apologize, while confronting her own grief and uncertainty.",
+"origin": "schedule",
+"overview": "Vicentina zmaga się ze śmiercią syna Wesleya po tragicznym wypadku autobusowym, w którym był kierowcą. W miarę rozwoju śledztwa dowody wskazują na możliwość, że działania Wesleya miały charakter samobójczy. Vicentina wyrusza w podróż, aby odnaleźć rodziny ofiar i przeprosić je, jednocześnie mierząc się z własnym żalem i niepewnością.",
 "overviewEn": "Vicentina struggles to cope with the death of her son Wesley after a tragic bus accident, in which he was the driver. As the investigation unfolds, evidence suggests that Wesley’s actions may have been suicidal. Vicentina then embarks on a journey to seek out the victims’ families and apologize, while confronting her own grief and uncertainty.",
 "popularity": 13.67,
 "ratings": {
@@ -81625,7 +81950,7 @@
 "serviceKey": "netflix",
 "source": "tmdb",
 "status": "live",
-"title": "Vicentina Pede Desculpas",
+"title": "W imieniu syna",
 "titleEn": "On Behalf of My Son",
 "tmdbId": 1307474,
 "trailerKey": null
@@ -82348,7 +82673,7 @@
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 2873,
-"tmdb": 7.0
+"tmdb": 7.1
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -82509,11 +82834,49 @@
 "tmdbId": 1570488,
 "trailerKey": "L18ih13Bf-U"
 },
+"netflix:movie:1593350:sub": {
+"access": "sub",
+"backdropPath": "/40bzHa8LA48yUbXeh6TACnUcOu3.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:1593350:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "A charismatic young man uses poetry to navigate the complex maze of modern romance to protect his fragile relationship. Later, he must overcome deep generational divides to keep his love alive.",
+"overviewEn": "A charismatic young man uses poetry to navigate the complex maze of modern romance to protect his fragile relationship. Later, he must overcome deep generational divides to keep his love alive.",
+"popularity": 6.31,
+"ratings": {
+"imdb": 8.1,
+"imdbVotes": 297
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "ஹைக்கூ",
+"titleEn": "Haiku",
+"tmdbId": 1593350,
+"trailerKey": "gjyunMGD5rA"
+},
 "netflix:movie:1595124:sub": {
 "access": "sub",
 "backdropPath": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
 "confirmedAt": "2026-11-21T13:26:37Z",
-"date": "2026-11-21",
+"date": "2026-11-20",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "netflix:movie:1595124:sub",
@@ -82524,18 +82887,20 @@
 "episodeTo": null,
 "genres": [
 16,
-14,
+10751,
 35
 ],
 "kind": "animation",
 "season": null,
 "withAds": false
 },
-"origin": "diff",
+"origin": "schedule",
 "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
 "overviewEn": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
 "popularity": 50.82,
-"ratings": null,
+"ratings": {
+"tmdb": 6.3
+},
 "serviceKey": "netflix",
 "source": "tmdb",
 "status": "live",
@@ -82547,7 +82912,7 @@
 "netflix:movie:1606527:sub": {
 "access": "sub",
 "backdropPath": "/nJjd0EHP5VPWTdGsere75SaSY4j.jpg",
-"confirmedAt": "2026-11-21T13:26:37Z",
+"confirmedAt": "2026-11-21T20:53:42Z",
 "date": "2026-11-20",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -83110,6 +83475,42 @@
 "titleEn": "Thomas & Friends: Really Helpful Engines",
 "tmdbId": 1764166,
 "trailerKey": "PLMnklnC02I"
+},
+"netflix:movie:1791730:sub": {
+"access": "sub",
+"backdropPath": "/gwrGO8A61CtuxxurWjo3OAl1wcO.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:1791730:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Chronicles the 1980s golden age of Christian broadcasting, detailing how three of America's most prominent televangelists shifted evangelical Christianity into a massive political force.",
+"overviewEn": "Chronicles the 1980s golden age of Christian broadcasting, detailing how three of America's most prominent televangelists shifted evangelical Christianity into a massive political force.",
+"popularity": 6.64,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 20
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Primetime Preacher$",
+"titleEn": null,
+"tmdbId": 1791730,
+"trailerKey": "bkttnVxwp70"
 },
 "netflix:movie:1794569:sub": {
 "access": "sub",
@@ -84313,6 +84714,45 @@
 "titleEn": "Mafia Millionaires",
 "tmdbId": 298457,
 "trailerKey": "BhlJzFhwKiM"
+},
+"netflix:movie:300671:paid": {
+"access": "paid",
+"backdropPath": "/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:300671:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+10752,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zrealizowana z epickim rozmachem opowieść o ataku na amerykańską placówkę dyplomatyczną w libijskim mieście Benghazi. 11 września 2012 roku grupa uzbrojonych islamskich bojowników zorganizowała atak terrorystyczny na konsulat USA w libijskim mieście Benghazi. Zespół sześciu świetnie wyszkolonych ochroniarzy, byłych wojskowych, ruszył dyplomatom na pomoc. Żołnierze przez kilkanaście dramatycznych godzin toczyli heroiczną walkę z przeważającymi siłami wroga. Pełna napięcia, oparta na faktach opowieść o bohaterstwie i poczuciu odpowiedzialności za kraj i jego obywateli.",
+"overviewEn": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
+"popularity": 8.92,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 183774,
+"tmdb": 7.3
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "13 Godzin: Tajna misja w Benghazi",
+"titleEn": "13 Hours: The Secret Soldiers of Benghazi",
+"tmdbId": 300671,
+"trailerKey": "Wpsqh73gB78"
 },
 "netflix:movie:3131:paid": {
 "access": "paid",
@@ -85815,6 +86255,42 @@
 "titleEn": "East of Sweden",
 "tmdbId": 487741,
 "trailerKey": null
+},
+"netflix:movie:489842:free": {
+"access": "free",
+"backdropPath": "/uKNe2J61iewgsef77eVj3urmGzg.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:movie:489842:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młoda i ambitna Georgie pracuje w agencji reklamowej. Pragnie zajść w ciążę, a jednocześnie nadal dynamicznie wspinać się po szczeblach kariery. Jej starsza siostra, mężatka Margot, która jest dziennikarką i matką trojga dzieci, właśnie straciła pracę. Pewnego dnia kobiety dowiadują się, że grozi im utrata rodzinnej nieruchomości, ponieważ ich beztroska matka zaciągnęła zbyt wiele kredytów hipotecznych pod jej zastaw. Córki szukają sposobu, by uratować dom. Jedyną nadzieją okazuje się wysoka premia, którą Georgie ma szansę otrzymać za wymyślenie błyskotliwej kampanii reklamowej. Perypetie trzech silnych kobiet opowiedziane z przymrużeniem oka przez reżyserkę Aniëlle Webster, znaną dotąd głównie z seriali.",
+"overviewEn": "Two modern women and their free-spirited mother struggle to balance their private, professional and family lives.",
+"popularity": 0.65,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 1379
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "live",
+"title": "Gospodynie nie istnieją",
+"titleEn": "No Such Thing as Housewives",
+"tmdbId": 489842,
+"trailerKey": "NHq2RYHoJnI"
 },
 "netflix:movie:508883:paid": {
 "access": "paid",
@@ -89733,6 +90209,44 @@
 "tmdbId": 247634,
 "trailerKey": "DvAZ_2WCnME"
 },
+"netflix:tv:247769:s5e10:sub": {
+"access": "sub",
+"backdropPath": "/w8L2oVjsSRZdZ1Wcszot9cKZMRO.jpg",
+"confirmedAt": null,
+"date": "2026-11-28",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:247769:s5e10:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 10,
+"episodeTo": 10,
+"genres": [
+10767,
+35
+],
+"kind": "series",
+"season": 5,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Komik Kapil Sharma jest gospodarzem tego zabawnego talk-show, w którym towarzyszą mu starzy znajomi. Słynni goście i świetne żarty gwarantowane.",
+"overviewEn": "Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
+"popularity": 15.25,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 36313,
+"tmdb": 7.2
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "The Great Indian Kapil Show",
+"titleEn": null,
+"tmdbId": 247769,
+"trailerKey": "bftjfqS3v6k"
+},
 "netflix:tv:247769:s5e7:sub": {
 "access": "sub",
 "backdropPath": "/w8L2oVjsSRZdZ1Wcszot9cKZMRO.jpg",
@@ -91088,146 +91602,6 @@
 "serviceKey": "netflix",
 "source": "tmdb",
 "status": "live",
-"title": "Rubble & Crew",
-"titleEn": null,
-"tmdbId": 286277,
-"trailerKey": null
-},
-"netflix:tv:286277:s3e22:sub": {
-"access": "sub",
-"backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
-"confirmedAt": "2026-11-20T13:59:04Z",
-"date": "2026-11-20",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "netflix:tv:286277:s3e22:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 22,
-"episodeTo": 22,
-"genres": [
-16,
-10762,
-10751
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": null,
-"overviewEn": null,
-"popularity": 3.8,
-"ratings": null,
-"serviceKey": "netflix",
-"source": "tmdb",
-"status": "live",
-"title": "Rubble & Crew",
-"titleEn": null,
-"tmdbId": 286277,
-"trailerKey": null
-},
-"netflix:tv:286277:s3e23:sub": {
-"access": "sub",
-"backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
-"confirmedAt": null,
-"date": "2026-11-27",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "netflix:tv:286277:s3e23:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 23,
-"episodeTo": 23,
-"genres": [
-16,
-10762,
-10751
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": null,
-"overviewEn": null,
-"popularity": 3.8,
-"ratings": null,
-"serviceKey": "netflix",
-"source": "tmdb",
-"status": "announced",
-"title": "Rubble & Crew",
-"titleEn": null,
-"tmdbId": 286277,
-"trailerKey": null
-},
-"netflix:tv:286277:s3e24:sub": {
-"access": "sub",
-"backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
-"confirmedAt": null,
-"date": "2026-12-04",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "netflix:tv:286277:s3e24:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 24,
-"episodeTo": 24,
-"genres": [
-16,
-10762,
-10751
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": null,
-"overviewEn": null,
-"popularity": 3.8,
-"ratings": null,
-"serviceKey": "netflix",
-"source": "tmdb",
-"status": "announced",
-"title": "Rubble & Crew",
-"titleEn": null,
-"tmdbId": 286277,
-"trailerKey": null
-},
-"netflix:tv:286277:s3e25:sub": {
-"access": "sub",
-"backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
-"confirmedAt": null,
-"date": "2026-12-11",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "netflix:tv:286277:s3e25:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 25,
-"episodeTo": 25,
-"genres": [
-16,
-10762,
-10751
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": null,
-"overviewEn": null,
-"popularity": 3.8,
-"ratings": null,
-"serviceKey": "netflix",
-"source": "tmdb",
-"status": "announced",
 "title": "Rubble & Crew",
 "titleEn": null,
 "tmdbId": 286277,
@@ -100174,6 +100548,44 @@
 "tmdbId": 1073865,
 "trailerKey": "hu3B63xOQXA"
 },
+"player:movie:1088548:sub": {
+"access": "sub",
+"backdropPath": "/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1088548:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Elsa, reżyserka reklamowa, ucieka przed żałobą po stracie matki, rzucając się w wir pracy, aż atak paniki zmusza ją do jej przerwania. Aby odbudować swoje życie, leci na Lanzarote, by odpocząć z przyjaciółką Patricią, która również potrzebuje chwili wytchnienia od domu. Bonifacio, jej partner, który stał się dla niej prawdziwym wsparciem w tych trudnych chwilach, pozostaje w Madrycie. Historie tej trójki bohaterów przeplatają się z historią scenarzysty i reżysera Raúla Durána, zacierając granice między rzeczywistością a fikcją w nierozerwalny, a czasem bolesny sposób.",
+"overviewEn": "During a long December holiday weekend, a woman, whose mother has recently died, throws herself into work as a form of escape. Her relentless pace is interrupted when a panic attack forces her to take a break.",
+"popularity": 23.31,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 6048,
+"tmdb": 6.2
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Gorzkie święta",
+"titleEn": "Bitter Christmas",
+"tmdbId": 1088548,
+"trailerKey": "R-9dlnkY448"
+},
 "player:movie:1101383:paid": {
 "access": "paid",
 "backdropPath": "/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
@@ -101526,6 +101938,45 @@
 "tmdbId": 1242011,
 "trailerKey": "9bqIwMH3En8"
 },
+"player:movie:1242332:paid": {
+"access": "paid",
+"backdropPath": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1242332:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Tymczasowy szeryf Ulysses, wezwany do zasypanego śniegiem miasteczka Normal w stanie Minnesota, odkrywa międzynarodowy spisek przestępczy w samym sercu tej pozornie sielankowej, zapomnianej miejscowości, gdy przychodzi z pomocą parze napastników, którzy wplątali się w śmiertelnie niebezpieczną sytuację.",
+"overviewEn": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+"popularity": 12.06,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 39866,
+"tmdb": 7.2
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Normal",
+"titleEn": null,
+"tmdbId": 1242332,
+"trailerKey": "5OndK0w1lYY"
+},
 "player:movie:1242332:sub": {
 "access": "sub",
 "backdropPath": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
@@ -101551,7 +102002,7 @@
 "origin": "diff",
 "overview": "Tymczasowy szeryf Ulysses, wezwany do zasypanego śniegiem miasteczka Normal w stanie Minnesota, odkrywa międzynarodowy spisek przestępczy w samym sercu tej pozornie sielankowej, zapomnianej miejscowości, gdy przychodzi z pomocą parze napastników, którzy wplątali się w śmiertelnie niebezpieczną sytuację.",
 "overviewEn": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-"popularity": 9.3,
+"popularity": 12.06,
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 39866,
@@ -102869,6 +103320,80 @@
 "tmdbId": 1341137,
 "trailerKey": "H4-rMC88ylQ"
 },
+"player:movie:1341138:paid": {
+"access": "paid",
+"backdropPath": "/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1341138:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jane, Coco i Sophie – przyjaciółki z dzieciństwa – wyjeżdżają na ekskluzywny spa break do Palm Springs. Ma być cisza, regeneracja i luksusowe zabiegi. Wszystko idzie zgodnie z planem do momentu, gdy na miejscu pojawia się ich dawna przyjaciółka Mel – chodząca katastrofa. Od tej chwili relaks zmienia się w serię kompromitujących sytuacji, nieoczekiwanych wyznań i zbyt spontanicznych decyzji. Brzmi jak wymarzony wyjazd? Poczekajcie do pierwszego drinka. I pamiętajcie: Co się dzieje między przyjaciółkami – zostaje między przyjaciółkami.",
+"overviewEn": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+"popularity": 5.57,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 3375,
+"tmdb": 6.5
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Spa Weekend",
+"titleEn": null,
+"tmdbId": 1341138,
+"trailerKey": "AhsA9ZqRAXQ"
+},
+"player:movie:1341138:sub": {
+"access": "sub",
+"backdropPath": "/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1341138:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jane, Coco i Sophie – przyjaciółki z dzieciństwa – wyjeżdżają na ekskluzywny spa break do Palm Springs. Ma być cisza, regeneracja i luksusowe zabiegi. Wszystko idzie zgodnie z planem do momentu, gdy na miejscu pojawia się ich dawna przyjaciółka Mel – chodząca katastrofa. Od tej chwili relaks zmienia się w serię kompromitujących sytuacji, nieoczekiwanych wyznań i zbyt spontanicznych decyzji. Brzmi jak wymarzony wyjazd? Poczekajcie do pierwszego drinka. I pamiętajcie: Co się dzieje między przyjaciółkami – zostaje między przyjaciółkami.",
+"overviewEn": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+"popularity": 5.57,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 3375,
+"tmdb": 6.5
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Spa Weekend",
+"titleEn": null,
+"tmdbId": 1341138,
+"trailerKey": "AhsA9ZqRAXQ"
+},
 "player:movie:1365358:sub": {
 "access": "sub",
 "backdropPath": null,
@@ -103634,7 +104159,7 @@
 "access": "paid",
 "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
 "confirmedAt": "2026-11-16T13:36:17Z",
-"date": "2026-11-16",
+"date": "2026-11-21",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "player:movie:1464883:paid",
@@ -103653,7 +104178,7 @@
 "origin": "schedule",
 "overview": "W całym Iraku trwa „dzień losowania”, kiedy szkoły wybierają uczniów do zaszczytu przyniesienia przedmiotów na obowiązkowe lokalne obchody urodzin prezydenta Saddama Husseina. Dziewięcioletnia Lamia mieszka na historycznych bagnach ze swoją pełną werwy babcią, Bibi. Przed szkołą Bibi uczy Lamię sprytnych sztuczek, aby uniknąć wyboru do tortu prezydenta. Jednak gdy Musa, autorytatywny nauczyciel, woła Lamię po imieniu, aby wykonać najtrudniejsze zadanie — tort urodzinowy — nie ma innego wyboru, jak tylko się zgodzić. Odmowa może oznaczać uwięzienie, a nawet śmierć.",
 "overviewEn": "While people across 1990’s Iraq struggle to survive, 9-year-old Lamia has been selected to prepare a cake to celebrate the President’s birthday. In a landscape of fear and scarcity, where basic ingredients are nearly impossible to find, Lamia sets out on a determined journey throughout the big city in search of eggs, flour, and sugar. Accompanied by her grandmother, her loyal friend Saeed, and her pet rooster Hindi, she navigates vendors and police officers along the way.",
-"popularity": 3.16,
+"popularity": 4.93,
 "ratings": {
 "imdb": 7.5,
 "imdbVotes": 5445,
@@ -103666,43 +104191,6 @@
 "titleEn": "The President's Cake",
 "tmdbId": 1464883,
 "trailerKey": "8i3idbVnC6I"
-},
-"player:movie:1473635:paid": {
-"access": "paid",
-"backdropPath": "/pBeB38aB3FfzPqCrSoxZpvLHxjt.jpg",
-"confirmedAt": "2026-11-19T14:24:06Z",
-"date": "2026-11-19",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "player:movie:1473635:paid",
-"mediaType": "movie",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": null,
-"episodeTo": null,
-"genres": [
-18
-],
-"kind": "movie",
-"season": null,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Między Tangerem a Rzymem kruchość, pragnienia, pułapki i chwile szczęścia w relacjach między kobietami i mężczyznami, matkami i córkami, kochankami i rozczarowaniami. Bardzo cienka granica między dobrem a złem, tym, co przepływa przez nasze życie, często przytłaczając je niczym rwąca rzeka.",
-"overviewEn": "Carlo and Elisa are a successful couple. He’s a university professor and writer facing a creative block; she’s a brilliant, sharp-witted journalist, known for her internationally published editorials. They live in Rome, moving between accomplishments and routine, affection and something that might be fading. In search of new energy, they travel to Morocco with their lifelong friends, Anna and Paolo, and their thirteen-year-old daughter Vittoria—bright, curious, a little eccentric. Tensions soon rise.",
-"popularity": 1.61,
-"ratings": {
-"imdb": 6.7,
-"imdbVotes": 1375,
-"tmdb": 6.9
-},
-"serviceKey": "player",
-"source": "tmdb",
-"status": "live",
-"title": "O czym sobie nie mówimy",
-"titleEn": "Things We Don't Say",
-"tmdbId": 1473635,
-"trailerKey": null
 },
 "player:movie:1476682:paid": {
 "access": "paid",
@@ -103920,6 +104408,43 @@
 "titleEn": "Guest",
 "tmdbId": 1483922,
 "trailerKey": null
+},
+"player:movie:1499255:sub": {
+"access": "sub",
+"backdropPath": "/bQPNqpXoOr7S4JgAjMS8G5Zkm1b.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:1499255:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Gabi rozpoczyna desperackie poszukiwania swojej ciężarnej przyrodniej siostry. Gdy jej ciało zostaje odnalezione, a dziecko znika bez śladu, sprawa przybiera jeszcze bardziej przerażający obrót.",
+"overviewEn": "Gabi's search for her missing pregnant stepsister takes a chilling turn when her sister's body is found, and the baby is gone. Determined to find the child and get justice, Gabi risks everything to unravel the truth behind the tragedy.",
+"popularity": 0.56,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 141
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Porwanie",
+"titleEn": "Snatched From The Crib",
+"tmdbId": 1499255,
+"trailerKey": "hJJpuYoV5e4"
 },
 "player:movie:15152:sub": {
 "access": "sub",
@@ -104650,6 +105175,44 @@
 "titleEn": "Killer",
 "tmdbId": 31132,
 "trailerKey": "pCIQ2qq00r8"
+},
+"player:movie:329550:free": {
+"access": "free",
+"backdropPath": "/8w5X30UiKLzzNVkC4394H1iwuH9.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:329550:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Szymon jest przystojny, wysportowany i pracuje jako lekarz w jednej z prywatnych warszawskich klinik, gdzie wzdychają do niego zarówno pacjentki, jak i żeńska część personelu. Najwytrwalsza w tych staraniach jest pielęgniarka Pati, jednak jej zaloty nie robią na Szymonie żadnego wrażenia. Serce bohatera zmiękczy dopiero piękna i dowcipna miłośniczka jazdy na rolkach – Basia, pracownica korporacji, na którą chłopak wpada – i to dosłownie – na ulicy. Seria nieszczęśliwych zbiegów okoliczności powoduje, że młodzi tracą kontakt i nadzieję na to, że kiedykolwiek ponownie się spotkają. Tymczasem Basia wpada w oko playboyowi Leonowi, który dostał ultimatum od rodziców. Albo się szybko ożeni, albo zostanie wydziedziczony.",
+"overviewEn": "Szymon Kosowski, a handsome and athletic doctor of one of the private clinics in Warsaw, who is the object of sighs among patients and female staff, especially nurses Pati, notices a beautiful and witty corporate employee and roller lover - Basia, which flows into one of the city's fountains. Soon they both fall in love with each other at first sight. Unfortunately, a series of unlucky coincidences causes them to lose contact. From then on, they do everything to find each other. Meanwhile, Basia catches the eye of playboy, the son of wealthy parents, a friend from primary school - Leon Glec, who received an ultimatum from his parents: he will either get married quickly or be disinherited.",
+"popularity": 0.69,
+"ratings": {
+"imdb": 3.8,
+"imdbVotes": 486,
+"tmdb": 4.5
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Dzień dobry, kocham cię!",
+"titleEn": null,
+"tmdbId": 329550,
+"trailerKey": null
 },
 "player:movie:332672:free": {
 "access": "free",
@@ -105650,6 +106213,42 @@
 "tmdbId": 4787,
 "trailerKey": "tJ6nOkkuJtI"
 },
+"player:movie:489842:free": {
+"access": "free",
+"backdropPath": "/uKNe2J61iewgsef77eVj3urmGzg.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:489842:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młoda i ambitna Georgie pracuje w agencji reklamowej. Pragnie zajść w ciążę, a jednocześnie nadal dynamicznie wspinać się po szczeblach kariery. Jej starsza siostra, mężatka Margot, która jest dziennikarką i matką trojga dzieci, właśnie straciła pracę. Pewnego dnia kobiety dowiadują się, że grozi im utrata rodzinnej nieruchomości, ponieważ ich beztroska matka zaciągnęła zbyt wiele kredytów hipotecznych pod jej zastaw. Córki szukają sposobu, by uratować dom. Jedyną nadzieją okazuje się wysoka premia, którą Georgie ma szansę otrzymać za wymyślenie błyskotliwej kampanii reklamowej. Perypetie trzech silnych kobiet opowiedziane z przymrużeniem oka przez reżyserkę Aniëlle Webster, znaną dotąd głównie z seriali.",
+"overviewEn": "Two modern women and their free-spirited mother struggle to balance their private, professional and family lives.",
+"popularity": 0.65,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 1379
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Gospodynie nie istnieją",
+"titleEn": "No Such Thing as Housewives",
+"tmdbId": 489842,
+"trailerKey": "NHq2RYHoJnI"
+},
 "player:movie:49527:paid": {
 "access": "paid",
 "backdropPath": "/zB2NdJ75xpZRJhFtU7dUVAgD0cW.jpg",
@@ -105727,6 +106326,44 @@
 "titleEn": "Man on a Ledge",
 "tmdbId": 49527,
 "trailerKey": "sBJSfqdhyTg"
+},
+"player:movie:503403:free": {
+"access": "free",
+"backdropPath": "/zlsDXydQTu0UomPThFbHdWvfcyK.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:503403:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tuż przed Walentynkami programistka opracowuje rewolucyjny algorytm randkowy, a jej nowy szef postanawia go wypróbować.",
+"overviewEn": "Newly appointed CEO of Robinson Tech, Wes Robinson, is looking for new ideas to boost the company's sales. Vivian Blair, a program developer, shares a dating algorithm she has been working on called My Perfect Match. Wes sees potential and an opportunity to turn the company around and launches the service. When the pair is challenged to use My Perfect Match themselves to find love, this algorithm shows some interesting results.",
+"popularity": 1.47,
+"ratings": {
+"imdb": 4.7,
+"imdbVotes": 3359,
+"tmdb": 5.6
+},
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "Miłosny algorytm",
+"titleEn": "My Perfect Romance",
+"tmdbId": 503403,
+"trailerKey": "ht2Rv7RgP88"
 },
 "player:movie:507250:sub": {
 "access": "sub",
@@ -107178,6 +107815,37 @@
 "tmdbId": 667538,
 "trailerKey": "7qkBiCbI3GQ"
 },
+"player:movie:675029:free": {
+"access": "free",
+"backdropPath": null,
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "player:movie:675029:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.17,
+"ratings": null,
+"serviceKey": "player",
+"source": "tmdb",
+"status": "live",
+"title": "La Réplica",
+"titleEn": null,
+"tmdbId": 675029,
+"trailerKey": null
+},
 "player:movie:675029:paid": {
 "access": "paid",
 "backdropPath": null,
@@ -107199,7 +107867,7 @@
 "origin": "diff",
 "overview": null,
 "overviewEn": null,
-"popularity": 0.05,
+"popularity": 0.17,
 "ratings": null,
 "serviceKey": "player",
 "source": "tmdb",
@@ -118268,6 +118936,82 @@
 "tmdbId": 1076957,
 "trailerKey": null
 },
+"polsatboxgo:movie:1088548:paid": {
+"access": "paid",
+"backdropPath": "/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1088548:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Elsa, reżyserka reklamowa, ucieka przed żałobą po stracie matki, rzucając się w wir pracy, aż atak paniki zmusza ją do jej przerwania. Aby odbudować swoje życie, leci na Lanzarote, by odpocząć z przyjaciółką Patricią, która również potrzebuje chwili wytchnienia od domu. Bonifacio, jej partner, który stał się dla niej prawdziwym wsparciem w tych trudnych chwilach, pozostaje w Madrycie. Historie tej trójki bohaterów przeplatają się z historią scenarzysty i reżysera Raúla Durána, zacierając granice między rzeczywistością a fikcją w nierozerwalny, a czasem bolesny sposób.",
+"overviewEn": "During a long December holiday weekend, a woman, whose mother has recently died, throws herself into work as a form of escape. Her relentless pace is interrupted when a panic attack forces her to take a break.",
+"popularity": 23.31,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 6048,
+"tmdb": 6.2
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Gorzkie święta",
+"titleEn": "Bitter Christmas",
+"tmdbId": 1088548,
+"trailerKey": "R-9dlnkY448"
+},
+"polsatboxgo:movie:1088548:sub": {
+"access": "sub",
+"backdropPath": "/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1088548:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Elsa, reżyserka reklamowa, ucieka przed żałobą po stracie matki, rzucając się w wir pracy, aż atak paniki zmusza ją do jej przerwania. Aby odbudować swoje życie, leci na Lanzarote, by odpocząć z przyjaciółką Patricią, która również potrzebuje chwili wytchnienia od domu. Bonifacio, jej partner, który stał się dla niej prawdziwym wsparciem w tych trudnych chwilach, pozostaje w Madrycie. Historie tej trójki bohaterów przeplatają się z historią scenarzysty i reżysera Raúla Durána, zacierając granice między rzeczywistością a fikcją w nierozerwalny, a czasem bolesny sposób.",
+"overviewEn": "During a long December holiday weekend, a woman, whose mother has recently died, throws herself into work as a form of escape. Her relentless pace is interrupted when a panic attack forces her to take a break.",
+"popularity": 23.31,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 6048,
+"tmdb": 6.2
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Gorzkie święta",
+"titleEn": "Bitter Christmas",
+"tmdbId": 1088548,
+"trailerKey": "R-9dlnkY448"
+},
 "polsatboxgo:movie:1101412:sub": {
 "access": "sub",
 "backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
@@ -121495,6 +122239,82 @@
 "tmdbId": 1381027,
 "trailerKey": "NRJbjzycY5E"
 },
+"polsatboxgo:movie:1381151:paid": {
+"access": "paid",
+"backdropPath": "/mSdaNfnszAhI14ZEJCJbz3vXSWD.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1381151:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zaginiony chłopiec szukający nieba, trzy nietypowe zakonnice z misją, samochód napędzany przez Boga (i skradzione pieniądze). To podróż samochodowa inna niż wszystkie. Komedia ocierająca się o tragedię, która wciąż zmierza na południe.",
+"overviewEn": "When young Brian discovers plans to close a convent of delightfully eccentric nuns, he sets off with them on a wild road trip across New Zealand to save their home.",
+"popularity": 1.89,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 692
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Holy Days",
+"titleEn": null,
+"tmdbId": 1381151,
+"trailerKey": "cEQmNfSWMZc"
+},
+"polsatboxgo:movie:1381151:sub": {
+"access": "sub",
+"backdropPath": "/mSdaNfnszAhI14ZEJCJbz3vXSWD.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:movie:1381151:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zaginiony chłopiec szukający nieba, trzy nietypowe zakonnice z misją, samochód napędzany przez Boga (i skradzione pieniądze). To podróż samochodowa inna niż wszystkie. Komedia ocierająca się o tragedię, która wciąż zmierza na południe.",
+"overviewEn": "When young Brian discovers plans to close a convent of delightfully eccentric nuns, he sets off with them on a wild road trip across New Zealand to save their home.",
+"popularity": 1.89,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 692
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "live",
+"title": "Holy Days",
+"titleEn": null,
+"tmdbId": 1381151,
+"trailerKey": "cEQmNfSWMZc"
+},
 "polsatboxgo:movie:1385223:sub": {
 "access": "sub",
 "backdropPath": null,
@@ -121833,7 +122653,7 @@
 "access": "sub",
 "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
 "confirmedAt": "2026-11-16T13:36:17Z",
-"date": "2026-11-16",
+"date": "2026-11-21",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "polsatboxgo:movie:1464883:sub",
@@ -121852,7 +122672,7 @@
 "origin": "schedule",
 "overview": "W całym Iraku trwa „dzień losowania”, kiedy szkoły wybierają uczniów do zaszczytu przyniesienia przedmiotów na obowiązkowe lokalne obchody urodzin prezydenta Saddama Husseina. Dziewięcioletnia Lamia mieszka na historycznych bagnach ze swoją pełną werwy babcią, Bibi. Przed szkołą Bibi uczy Lamię sprytnych sztuczek, aby uniknąć wyboru do tortu prezydenta. Jednak gdy Musa, autorytatywny nauczyciel, woła Lamię po imieniu, aby wykonać najtrudniejsze zadanie — tort urodzinowy — nie ma innego wyboru, jak tylko się zgodzić. Odmowa może oznaczać uwięzienie, a nawet śmierć.",
 "overviewEn": "While people across 1990’s Iraq struggle to survive, 9-year-old Lamia has been selected to prepare a cake to celebrate the President’s birthday. In a landscape of fear and scarcity, where basic ingredients are nearly impossible to find, Lamia sets out on a determined journey throughout the big city in search of eggs, flour, and sugar. Accompanied by her grandmother, her loyal friend Saeed, and her pet rooster Hindi, she navigates vendors and police officers along the way.",
-"popularity": 3.16,
+"popularity": 4.93,
 "ratings": {
 "imdb": 7.5,
 "imdbVotes": 5445,
@@ -129039,6 +129859,84 @@
 "tmdbId": 85422,
 "trailerKey": "ZSTceHHsXRA"
 },
+"polsatboxgo:tv:96450:s7e1:sub": {
+"access": "sub",
+"backdropPath": "/fRkL08tLtjMKaiDjkdniAS2MXw6.jpg",
+"confirmedAt": null,
+"date": "2026-11-29",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:tv:96450:s7e1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 1,
+"episodeTo": 1,
+"genres": [
+18,
+9648,
+80
+],
+"kind": "series",
+"season": 7,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Akcja filmu toczy się w XIX wieku w Londynie. Główna bohaterka panna Eliza Scarlet (Kate Phillips) prowadzi agencję detektywistyczną po swoim zmarłym ojcu. W rozwiązywaniu zagadek kryminalnych pomaga jej komisarz William Wellington (Martin Stuart) pracujący w Scotland Yardzie.",
+"overviewEn": "When Eliza Scarlet's father dies, he leaves her penniless, but she resolves to continue his detective agency. To operate in a male-dominated world, though, she needs a partner... step forward a detective known as the Duke. Eliza and The Duke strike up a mismatched, fiery relationship as they team up to solve crime in the murkiest depths of 1880’s London.",
+"popularity": 17.13,
+"ratings": {
+"imdb": 7.7,
+"imdbVotes": 14192,
+"tmdb": 7.4
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "announced",
+"title": "Panna Scarlet i Komisarz",
+"titleEn": "Miss Scarlet",
+"tmdbId": 96450,
+"trailerKey": "E8NWS0xVVTw"
+},
+"polsatboxgo:tv:96450:s7e2:sub": {
+"access": "sub",
+"backdropPath": "/fRkL08tLtjMKaiDjkdniAS2MXw6.jpg",
+"confirmedAt": null,
+"date": "2026-12-06",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "polsatboxgo:tv:96450:s7e2:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 2,
+"episodeTo": 2,
+"genres": [
+18,
+9648,
+80
+],
+"kind": "series",
+"season": 7,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Akcja filmu toczy się w XIX wieku w Londynie. Główna bohaterka panna Eliza Scarlet (Kate Phillips) prowadzi agencję detektywistyczną po swoim zmarłym ojcu. W rozwiązywaniu zagadek kryminalnych pomaga jej komisarz William Wellington (Martin Stuart) pracujący w Scotland Yardzie.",
+"overviewEn": "When Eliza Scarlet's father dies, he leaves her penniless, but she resolves to continue his detective agency. To operate in a male-dominated world, though, she needs a partner... step forward a detective known as the Duke. Eliza and The Duke strike up a mismatched, fiery relationship as they team up to solve crime in the murkiest depths of 1880’s London.",
+"popularity": 17.13,
+"ratings": {
+"imdb": 7.7,
+"imdbVotes": 14192,
+"tmdb": 7.4
+},
+"serviceKey": "polsatboxgo",
+"source": "tmdb",
+"status": "announced",
+"title": "Panna Scarlet i Komisarz",
+"titleEn": "Miss Scarlet",
+"tmdbId": 96450,
+"trailerKey": "E8NWS0xVVTw"
+},
 "prime:movie:1006724:paid": {
 "access": "paid",
 "backdropPath": "/rGnf32URcZAqdTxtkoC6aUD1GBS.jpg",
@@ -129952,6 +130850,82 @@
 "tmdbId": 1075823,
 "trailerKey": null
 },
+"prime:movie:1087388:paid": {
+"access": "paid",
+"backdropPath": "/nxWLeBDkzW9py6vBAkvQ7o68ZHM.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1087388:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Podczas szalejącej burzy śnieżnej tajemniczy obiekt spada z nieba i przebija ścianę nowojorskiego apartamentowca. Zawiera on jajo, z którego wykluwa się nieznany gatunek pająka. Stworzenie zostaje odkryte przez dwunastoletnią Charlottę, która w tajemnicy przed rodzicami ukrywa swoje znalezisko. Dokarmiany przez nią pająk szybko rozrasta się do gigantycznych rozmiarów, a jego apetyt pozostaje nienasycony. Kiedy w budynku zaczynają ginąć zwierzęta i ludzie, Charlotta i jej bliscy stają do nierównej walki z wygłodniałą bestią. Czy mają jakiekolwiek szanse w starciu z obcą istotą, która posmakowała już krwi i ludzkiego mięsa?",
+"overviewEn": "After raising an unnervingly talented spider in secret, 12-year-old Charlotte must face the truth about her pet and fight for her family's survival.",
+"popularity": 2.79,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 20058,
+"tmdb": 6.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Gniazdo pająka",
+"titleEn": "Sting",
+"tmdbId": 1087388,
+"trailerKey": "VqC4jfPXjms"
+},
+"prime:movie:1087388:sub": {
+"access": "sub",
+"backdropPath": "/nxWLeBDkzW9py6vBAkvQ7o68ZHM.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1087388:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Podczas szalejącej burzy śnieżnej tajemniczy obiekt spada z nieba i przebija ścianę nowojorskiego apartamentowca. Zawiera on jajo, z którego wykluwa się nieznany gatunek pająka. Stworzenie zostaje odkryte przez dwunastoletnią Charlottę, która w tajemnicy przed rodzicami ukrywa swoje znalezisko. Dokarmiany przez nią pająk szybko rozrasta się do gigantycznych rozmiarów, a jego apetyt pozostaje nienasycony. Kiedy w budynku zaczynają ginąć zwierzęta i ludzie, Charlotta i jej bliscy stają do nierównej walki z wygłodniałą bestią. Czy mają jakiekolwiek szanse w starciu z obcą istotą, która posmakowała już krwi i ludzkiego mięsa?",
+"overviewEn": "After raising an unnervingly talented spider in secret, 12-year-old Charlotte must face the truth about her pet and fight for her family's survival.",
+"popularity": 2.79,
+"ratings": {
+"imdb": 5.7,
+"imdbVotes": 20058,
+"tmdb": 6.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Gniazdo pająka",
+"titleEn": "Sting",
+"tmdbId": 1087388,
+"trailerKey": "VqC4jfPXjms"
+},
 "prime:movie:1101383:paid": {
 "access": "paid",
 "backdropPath": "/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
@@ -130439,7 +131413,7 @@
 "ratings": {
 "imdb": 5.6,
 "imdbVotes": 2598,
-"tmdb": 7.4
+"tmdb": 7.2
 },
 "serviceKey": "prime",
 "source": "tmdb",
@@ -131859,6 +132833,45 @@
 "tmdbId": 1242265,
 "trailerKey": "1aNywiElPSY"
 },
+"prime:movie:1242332:paid": {
+"access": "paid",
+"backdropPath": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1242332:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Tymczasowy szeryf Ulysses, wezwany do zasypanego śniegiem miasteczka Normal w stanie Minnesota, odkrywa międzynarodowy spisek przestępczy w samym sercu tej pozornie sielankowej, zapomnianej miejscowości, gdy przychodzi z pomocą parze napastników, którzy wplątali się w śmiertelnie niebezpieczną sytuację.",
+"overviewEn": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+"popularity": 12.06,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 39866,
+"tmdb": 7.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Normal",
+"titleEn": null,
+"tmdbId": 1242332,
+"trailerKey": "5OndK0w1lYY"
+},
 "prime:movie:1242332:sub": {
 "access": "sub",
 "backdropPath": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
@@ -131884,7 +132897,7 @@
 "origin": "diff",
 "overview": "Tymczasowy szeryf Ulysses, wezwany do zasypanego śniegiem miasteczka Normal w stanie Minnesota, odkrywa międzynarodowy spisek przestępczy w samym sercu tej pozornie sielankowej, zapomnianej miejscowości, gdy przychodzi z pomocą parze napastników, którzy wplątali się w śmiertelnie niebezpieczną sytuację.",
 "overviewEn": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-"popularity": 9.3,
+"popularity": 12.06,
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 39866,
@@ -134148,6 +135161,44 @@
 "tmdbId": 1381151,
 "trailerKey": "cEQmNfSWMZc"
 },
+"prime:movie:1381151:sub": {
+"access": "sub",
+"backdropPath": "/mSdaNfnszAhI14ZEJCJbz3vXSWD.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:1381151:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+35,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Zaginiony chłopiec szukający nieba, trzy nietypowe zakonnice z misją, samochód napędzany przez Boga (i skradzione pieniądze). To podróż samochodowa inna niż wszystkie. Komedia ocierająca się o tragedię, która wciąż zmierza na południe.",
+"overviewEn": "When young Brian discovers plans to close a convent of delightfully eccentric nuns, he sets off with them on a wild road trip across New Zealand to save their home.",
+"popularity": 1.89,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 692
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Holy Days",
+"titleEn": null,
+"tmdbId": 1381151,
+"trailerKey": "cEQmNfSWMZc"
+},
 "prime:movie:1383731:paid": {
 "access": "paid",
 "backdropPath": "/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
@@ -134668,7 +135719,7 @@
 "access": "paid",
 "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
 "confirmedAt": "2026-11-16T13:36:17Z",
-"date": "2026-11-16",
+"date": "2026-11-21",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "prime:movie:1464883:paid",
@@ -134687,7 +135738,7 @@
 "origin": "schedule",
 "overview": "W całym Iraku trwa „dzień losowania”, kiedy szkoły wybierają uczniów do zaszczytu przyniesienia przedmiotów na obowiązkowe lokalne obchody urodzin prezydenta Saddama Husseina. Dziewięcioletnia Lamia mieszka na historycznych bagnach ze swoją pełną werwy babcią, Bibi. Przed szkołą Bibi uczy Lamię sprytnych sztuczek, aby uniknąć wyboru do tortu prezydenta. Jednak gdy Musa, autorytatywny nauczyciel, woła Lamię po imieniu, aby wykonać najtrudniejsze zadanie — tort urodzinowy — nie ma innego wyboru, jak tylko się zgodzić. Odmowa może oznaczać uwięzienie, a nawet śmierć.",
 "overviewEn": "While people across 1990’s Iraq struggle to survive, 9-year-old Lamia has been selected to prepare a cake to celebrate the President’s birthday. In a landscape of fear and scarcity, where basic ingredients are nearly impossible to find, Lamia sets out on a determined journey throughout the big city in search of eggs, flour, and sugar. Accompanied by her grandmother, her loyal friend Saeed, and her pet rooster Hindi, she navigates vendors and police officers along the way.",
-"popularity": 3.16,
+"popularity": 4.93,
 "ratings": {
 "imdb": 7.5,
 "imdbVotes": 5445,
@@ -135211,14 +136262,14 @@
 "withAds": false
 },
 "origin": "schedule",
-"overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
+"overview": "Jude Derry przybywa na ekskluzywny uniwersytet z ukrytą misją: ma zinfiltrować środowisko braci Cash i odkryć prawdę o śmierci swojego brata.",
 "overviewEn": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
 "popularity": 63.34,
 "ratings": null,
 "serviceKey": "prime",
 "source": "tmdb",
 "status": "live",
-"title": "Perfectos mentirosos",
+"title": "Perfekcyjni kłamcy",
 "titleEn": "Perfect Liars",
 "tmdbId": 1568060,
 "trailerKey": "50v6k3LUcxU"
@@ -137333,6 +138384,43 @@
 "tmdbId": 2687,
 "trailerKey": "U4qLE7gRmfI"
 },
+"prime:movie:270302:sub": {
+"access": "sub",
+"backdropPath": "/8k9gmX4v3HDgOjwAYaXwkb3kBQD.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:270302:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Adaptacja błyskotliwej i popularnej sztuki Laury Wade o tym samym tytule. Miles i Alistair, studenci pierwszego roku Uniwersytetu Oksfordzkiego, dołączają do prestiżowego \"The Riot Club\", chcąc za wszelką cenę zyskać akceptację jego pozostałych członków. Akcja filmu toczy się w ciągu jednego wieczoru, podczas którego bohaterowie mogą zyskać upragniony szacunek lub całkowicie stracić reputację. Zabłyśnięcie w towarzystwie warte jest każdej ceny i każdego postępku.",
+"overviewEn": "Two first-year students at Oxford University join a secret society and learn that their reputations can be made or destroyed over the course of one evening.",
+"popularity": 1.94,
+"ratings": {
+"imdb": 6.0,
+"imdbVotes": 25299,
+"tmdb": 5.9
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Klub dla wybrańców",
+"titleEn": "The Riot Club",
+"tmdbId": 270302,
+"trailerKey": "Cpx0WSMJXM0"
+},
 "prime:movie:274477:paid": {
 "access": "paid",
 "backdropPath": "/rGdjMeS3SaRIL12Wn3cTeTtbI7k.jpg",
@@ -137483,6 +138571,84 @@
 "titleEn": null,
 "tmdbId": 28671,
 "trailerKey": "imEwZISF3-g"
+},
+"prime:movie:287948:paid": {
+"access": "paid",
+"backdropPath": "/pH5ycIvD1Fz55tP9YWeE9sAAoGL.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:287948:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Najlepszy kurier samochodowy świata, były agent specjalny Frank Martin (Ed Skrein), otrzymuje nowe zlecenie. Wynajęty przez piękną Annę i jej trzy seksowne towarzyszki, szybko odkrywa, że stał się marionetką w rękach przebiegłej femme fatale. Kobieta porywa mu ojca (Ray Stevenson), a jego samego zmusza do konfrontacji z bezwzględnym gangiem rosyjskich handlarzy żywym towarem. Popychany chęcią zemsty mistrz kierownicy rusza na ratunek uprowadzonemu. W najeżonej niebezpieczeństwami misji na malowniczej Francuskiej Riwierze nie zatrzyma go żaden człowiek, ani żadna z zasad transportera!",
+"overviewEn": "The fast-paced action movie is again set in the criminal underworld in France, where Frank Martin is known as The Transporter, because he is the best driver and mercenary money can buy. In this installment, he meets Anna and they attempt to take down a group of ruthless Russian human traffickers who also have kidnapped Frank’s father.",
+"popularity": 4.47,
+"ratings": {
+"imdb": 5.2,
+"imdbVotes": 48191,
+"tmdb": 5.5
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Transporter: Nowa moc",
+"titleEn": "The Transporter Refueled",
+"tmdbId": 287948,
+"trailerKey": "hKBmq24PGZ8"
+},
+"prime:movie:287948:sub": {
+"access": "sub",
+"backdropPath": "/pH5ycIvD1Fz55tP9YWeE9sAAoGL.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:287948:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Najlepszy kurier samochodowy świata, były agent specjalny Frank Martin (Ed Skrein), otrzymuje nowe zlecenie. Wynajęty przez piękną Annę i jej trzy seksowne towarzyszki, szybko odkrywa, że stał się marionetką w rękach przebiegłej femme fatale. Kobieta porywa mu ojca (Ray Stevenson), a jego samego zmusza do konfrontacji z bezwzględnym gangiem rosyjskich handlarzy żywym towarem. Popychany chęcią zemsty mistrz kierownicy rusza na ratunek uprowadzonemu. W najeżonej niebezpieczeństwami misji na malowniczej Francuskiej Riwierze nie zatrzyma go żaden człowiek, ani żadna z zasad transportera!",
+"overviewEn": "The fast-paced action movie is again set in the criminal underworld in France, where Frank Martin is known as The Transporter, because he is the best driver and mercenary money can buy. In this installment, he meets Anna and they attempt to take down a group of ruthless Russian human traffickers who also have kidnapped Frank’s father.",
+"popularity": 4.47,
+"ratings": {
+"imdb": 5.2,
+"imdbVotes": 48191,
+"tmdb": 5.5
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Transporter: Nowa moc",
+"titleEn": "The Transporter Refueled",
+"tmdbId": 287948,
+"trailerKey": "hKBmq24PGZ8"
 },
 "prime:movie:291328:sub": {
 "access": "sub",
@@ -137971,6 +139137,45 @@
 "titleEn": "Murdered",
 "tmdbId": 299840,
 "trailerKey": null
+},
+"prime:movie:316000:paid": {
+"access": "paid",
+"backdropPath": "/1nr8LMoOPER3a6UeAvIS1uYBpSK.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:316000:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+10402,
+36
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jazz to improwizacja. Takie też było życie legendarnego Milesa Davisa. Nie miało przy tym nic wspólnego z aksamitnym brzmieniem trąbki, którym zaczarował publiczność na całym świecie. Do dziś uchodzi za niekwestionowaną supergwiazdę jazzu, jednego z najbardziej wpływowych muzyków w historii; to dzięki jego rewolucyjnemu, innowacyjnemu podejściu do instrumentów, rytmu i gry zespołowej powstały odrębne gatunki muzyczne. W życiu prywatnym mierzył się z uzależnieniem od twardych narkotyków, alkoholu, lekarstw, chorobami, bólem i niekończącymi się depresjami. Ale kiedy stawał na scenie, publiczność zamierała w zachwycie. \"Miles Davis i ja\" to poruszająca, szczera, pozbawiona glamouru i blichtru opowieść o Milesie Davisie, największej gwieździe jazzu i nieszczęśliwym człowieku.",
+"overviewEn": "An exploration of the life and music of Miles Davis.",
+"popularity": 1.55,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 11132,
+"tmdb": 6.4
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Miles Davis i ja",
+"titleEn": "Miles Ahead",
+"tmdbId": 316000,
+"trailerKey": "wqq63ZJ5q3w"
 },
 "prime:movie:31642:free": {
 "access": "free",
@@ -138704,6 +139909,80 @@
 "titleEn": "12 Gifts of Christmas",
 "tmdbId": 363483,
 "trailerKey": "TLwh4vgAyy8"
+},
+"prime:movie:364708:paid": {
+"access": "paid",
+"backdropPath": "/anuk1ovYcugX62Etd3YMeepahZj.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:364708:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jack spędza swoje studenckie dni na imprezowaniu. Pewnego dnia otrzymuje wstrząsającą informację – zostanie wyrzucony ze studiów. Nie byłoby to dla niego zbyt bolesne, gdyby nie fakt, że wraz ze studiami straci opłacany przez ojca dom, samochód i tygodniówkę. Ostatecznie lituje się nad nim profesor ekonomii, który daje mu ostatnią szansę na zdanie egzaminu. Ale jest to dość nietypowe zaliczenie – Jack musi przez tydzień tak poprowadzić jego myjnię samochodową, aby osiągnąć zysk. Kreatywny student i jego kumpel wpadają na pomysł, aby do obsługi zatrudnić dziewczyny w bikini. To według nich przyciągnie klientów, pozwolić zostać Jackowi na studiach i przy okazji dobrze się bawić.",
+"overviewEn": "An enterprising college student agrees to run his professor's Las Vegas car wash to avoid flunking out of school. But it's Vegas gone wild when he decides to staff it with gorgeous bikini-clad girls.",
+"popularity": 1.76,
+"ratings": {
+"imdb": 3.5,
+"imdbVotes": 1619,
+"tmdb": 4.5
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Sexy-myjnia w bikini",
+"titleEn": "All American Bikini Car Wash",
+"tmdbId": 364708,
+"trailerKey": "GFgtpl2NNRw"
+},
+"prime:movie:364708:sub": {
+"access": "sub",
+"backdropPath": "/anuk1ovYcugX62Etd3YMeepahZj.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:364708:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jack spędza swoje studenckie dni na imprezowaniu. Pewnego dnia otrzymuje wstrząsającą informację – zostanie wyrzucony ze studiów. Nie byłoby to dla niego zbyt bolesne, gdyby nie fakt, że wraz ze studiami straci opłacany przez ojca dom, samochód i tygodniówkę. Ostatecznie lituje się nad nim profesor ekonomii, który daje mu ostatnią szansę na zdanie egzaminu. Ale jest to dość nietypowe zaliczenie – Jack musi przez tydzień tak poprowadzić jego myjnię samochodową, aby osiągnąć zysk. Kreatywny student i jego kumpel wpadają na pomysł, aby do obsługi zatrudnić dziewczyny w bikini. To według nich przyciągnie klientów, pozwolić zostać Jackowi na studiach i przy okazji dobrze się bawić.",
+"overviewEn": "An enterprising college student agrees to run his professor's Las Vegas car wash to avoid flunking out of school. But it's Vegas gone wild when he decides to staff it with gorgeous bikini-clad girls.",
+"popularity": 1.76,
+"ratings": {
+"imdb": 3.5,
+"imdbVotes": 1619,
+"tmdb": 4.5
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Sexy-myjnia w bikini",
+"titleEn": "All American Bikini Car Wash",
+"tmdbId": 364708,
+"trailerKey": "GFgtpl2NNRw"
 },
 "prime:movie:366018:sub": {
 "access": "sub",
@@ -139854,6 +141133,45 @@
 "tmdbId": 4564,
 "trailerKey": "8lofhd7Ubnk"
 },
+"prime:movie:458344:paid": {
+"access": "paid",
+"backdropPath": "/a4vjUleV0ESW9691y7OtVDF31bF.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:458344:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Annie mieszka w sennym miasteczku na wybrzeżu Anglii. Jej chłopak Duncan jest nauczycielem i ma totalną obsesję na punkcie Tuckera Crowe'a – muzyka, który po spektakularnym debiucie dosłownie zapadł się pod ziemię. Będąc wielkim fanem artysty, Duncan cały wolny czas spędza na prowadzeniu strony internetowej poświęconej twórczości Crowe'a. Pewnego dnia w jego ręce wpada prawdziwy skarb – taśma demo zawierająca wczesne kompozycje piosenkarza. Podekscytowany nagraniami Duncan z miejsca zapomina o całym świecie, kompletnie ignorując przy tym Annie. Ta postanawia się zemścić, publikując nieprzychylne komentarze na jego blogu. Nieoczekiwanie, wpisy te zwracają uwagę samego Crowe'a.",
+"overviewEn": "Annie is stuck in a long-term relationship with Duncan – an obsessive fan of obscure rocker Tucker Crowe. When the acoustic demo of Tucker's hit record from 25 years ago surfaces, its discovery leads to a life-changing encounter with the elusive rocker himself.",
+"popularity": 2.1,
+"ratings": {
+"imdb": 6.6,
+"imdbVotes": 26823,
+"tmdb": 6.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Też go kocham",
+"titleEn": "Juliet, Naked",
+"tmdbId": 458344,
+"trailerKey": "I5ptDYpOSd4"
+},
 "prime:movie:460096:sub": {
 "access": "sub",
 "backdropPath": "/kSEHgd18x43O57RY43loNc2UZ3M.jpg",
@@ -140080,6 +141398,44 @@
 "titleEn": null,
 "tmdbId": 466487,
 "trailerKey": "9oJJVP95uWE"
+},
+"prime:movie:467012:paid": {
+"access": "paid",
+"backdropPath": "/5PD7GeOq9Npk7wz7QPz1MoK09Mh.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:467012:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27,
+9648
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Rini (Tara Basro) wraz z rodzicami (Bront Palarae i Ayu Laksmi) i trzema młodszymi braćmi zostają zmuszeni do sprzedania domu i zamieszkania u babci, aby opłacić kosztowne leczenie matki. Nieznana choroba, na którą kobieta zapadła trzy i pół roku temu, pochłania resztki rodzinnych oszczędności. Gdy chora umiera, ojciec Rini podejmuje się pracy, pozostawiając dzieci same w domu. Niedługo potem dom zaczyna nawiedzać upiorna zjawa łudząco przypominająca niedawno zmarłą kobietę. Wychodzi też na jaw ukrywany przez lata fakt o zawartym w przeszłości mrocznym pakcie, którego konsekwencje sięgają obecnie domowników. Aby uchronić rodzinę przed niebezpieczeństwem, Rini i jej bracia muszą rozwikłać tajemnicę z przeszłości.",
+"overviewEn": "After dying from a strange illness that she suffered for three years, a mother returns home to pick up her children.",
+"popularity": 2.48,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 14200,
+"tmdb": 6.7
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Słudzy diabła",
+"titleEn": "Satan's Slaves",
+"tmdbId": 467012,
+"trailerKey": "mhc0d6kYmQ8"
 },
 "prime:movie:474974:sub": {
 "access": "sub",
@@ -140501,6 +141857,44 @@
 "titleEn": "Luce",
 "tmdbId": 492616,
 "trailerKey": "aqzgDB1CMI4"
+},
+"prime:movie:493775:sub": {
+"access": "sub",
+"backdropPath": "/2MIzIgZ7j3K2XyHsEO1aFtubKWc.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:493775:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Alicja nie pamięta przeszłości, nie wie kim jest. Kiedy po dwóch latach od zniknięcia zostaje odnaleziona przez rodzinę, nie chce wracać do dawnego, zapomnianego życia.",
+"overviewEn": "Alicja suffers from memory loss and has rebuilt her own free spirited way of life. Two years later, she returns to her former family to assume against her will her role as wife, mother and daughter.",
+"popularity": 0.9,
+"ratings": {
+"imdb": 6.2,
+"imdbVotes": 1309,
+"tmdb": 6.0
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Fuga",
+"titleEn": "Fugue",
+"tmdbId": 493775,
+"trailerKey": "o1Umq0L6QH4"
 },
 "prime:movie:49527:paid": {
 "access": "paid",
@@ -141036,6 +142430,44 @@
 "titleEn": "Off Limits",
 "tmdbId": 527633,
 "trailerKey": null
+},
+"prime:movie:529983:sub": {
+"access": "sub",
+"backdropPath": "/cXpkDrZWK8amdYXzf24LH67Vftn.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:529983:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+80
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Carson Phillips w młodości był wielką gwiazdą futbolu. Teraz jest nadużywającym alkoholu prywatnym detektywem z Los Angeles, który podejmuje się śledztwa w swoich rodzinnych stronach - w Galveston w Teksasie - w sprawie zaginionej kobiety. W trakcie poszukiwań na swojej drodze spotka m.in. mafijnego bossa, szemranego lekarza, seksowną wokalistkę z nocnego klubu i byłą kochankę. Będzie musiał również stawić czoła swojej mrocznej przeszłości.",
+"overviewEn": "A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.",
+"popularity": 2.53,
+"ratings": {
+"imdb": 4.8,
+"imdbVotes": 12319,
+"tmdb": 4.7
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Zatruta róża",
+"titleEn": "The Poison Rose",
+"tmdbId": 529983,
+"trailerKey": "a-EiwzB_DBg"
 },
 "prime:movie:531219:paid": {
 "access": "paid",
@@ -142666,6 +144098,123 @@
 "tmdbId": 659991,
 "trailerKey": "tJHcv0Pm0RU"
 },
+"prime:movie:6643:free": {
+"access": "free",
+"backdropPath": "/vFno98QhEkyFcpdVI74kAdSa0ja.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:6643:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+37,
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Teksas, rok 1850. Biali osadnicy walczą o przetrwanie na terenach odebranych Indianom z plemienia Kiowa. Córka Matyldy Zachary, Rachel, jest Indianką. Matylda starannie to ukrywa. Kiedy prawda wychodzi na jaw, Indianie chcą siłą odebrać dziewczynę. Odprawieni z kwitkiem, napadają na ranczo Rawlinsów. Niebawem okazuje się, że Kelsey, który rozpowszechniał informacje o pochodzeniu Rachel, wrócił do miasteczka, by dokonać zemsty na rodzinie Zacharych.",
+"overviewEn": "The neighbors of a frontier family turn on them when it is suspected that their beloved adopted daughter was stolen from the Kiowa tribe.",
+"popularity": 2.29,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 11255,
+"tmdb": 6.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Nie do Przebaczenia",
+"titleEn": "The Unforgiven",
+"tmdbId": 6643,
+"trailerKey": "UKpApK0gVDY"
+},
+"prime:movie:666154:paid": {
+"access": "paid",
+"backdropPath": "/et4FH70ubabgo6PJlPnFPrAGVuc.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:666154:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+12,
+10751
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dawni posłańcy inkaskiego imperium dostarczają najważniejsze wiadomości, więc muszą być szybcy, silni… i mogą to być tylko mężczyźni. Wszystko się jednak zmieni, gdy młoda dziewczyna o imieniu Kayara postanowi jako pierwsza dołączyć do tego elitarnego grona. Bohaterka decyduje się wziąć udział w Wyścigu Posłańców przebrana za chłopca. Całej konkurencji z uwagą przypatruje się cesarz Inków, więc kiedy w pewnym momencie wychodzi na jaw prawdziwa tożsamość Kayary, grozi jej dotkliwa kara. Na szczęście, pewien młody książę bardzo jej kibicuje i udaje się jej dopiąć celu. Kayara wspólnie z zaprzyjaźnionym chomikiem będzie mogła teraz odkrywać pełne magii historie swojej krainy oraz być może uda się jej zapobiec nadciągającemu niebezpieczeństwu w postaci hiszpańskich konkwistadorów.",
+"overviewEn": "A courageous and athletic teenager, Kayara dreams that she is destined to be the first female to break into the league of Chasquis - the official messengers of the Incan empire. As she learns what it takes to be a Chasqui along with its challenges, she tackles every mission she gets and discovers the ancient stories of her land and her people.",
+"popularity": 2.53,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 530,
+"tmdb": 7.6
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Kayara Niepokonana",
+"titleEn": "Kayara",
+"tmdbId": 666154,
+"trailerKey": "sOUu-0kr1Yw"
+},
+"prime:movie:666154:sub": {
+"access": "sub",
+"backdropPath": "/et4FH70ubabgo6PJlPnFPrAGVuc.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:666154:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+16,
+12,
+10751
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Dawni posłańcy inkaskiego imperium dostarczają najważniejsze wiadomości, więc muszą być szybcy, silni… i mogą to być tylko mężczyźni. Wszystko się jednak zmieni, gdy młoda dziewczyna o imieniu Kayara postanowi jako pierwsza dołączyć do tego elitarnego grona. Bohaterka decyduje się wziąć udział w Wyścigu Posłańców przebrana za chłopca. Całej konkurencji z uwagą przypatruje się cesarz Inków, więc kiedy w pewnym momencie wychodzi na jaw prawdziwa tożsamość Kayary, grozi jej dotkliwa kara. Na szczęście, pewien młody książę bardzo jej kibicuje i udaje się jej dopiąć celu. Kayara wspólnie z zaprzyjaźnionym chomikiem będzie mogła teraz odkrywać pełne magii historie swojej krainy oraz być może uda się jej zapobiec nadciągającemu niebezpieczeństwu w postaci hiszpańskich konkwistadorów.",
+"overviewEn": "A courageous and athletic teenager, Kayara dreams that she is destined to be the first female to break into the league of Chasquis - the official messengers of the Incan empire. As she learns what it takes to be a Chasqui along with its challenges, she tackles every mission she gets and discovers the ancient stories of her land and her people.",
+"popularity": 2.53,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 530,
+"tmdb": 7.6
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Kayara Niepokonana",
+"titleEn": "Kayara",
+"tmdbId": 666154,
+"trailerKey": "sOUu-0kr1Yw"
+},
 "prime:movie:667538:sub": {
 "access": "sub",
 "backdropPath": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
@@ -143567,6 +145116,121 @@
 "tmdbId": 792293,
 "trailerKey": "NCxQOuNlr1k"
 },
+"prime:movie:799379:sub": {
+"access": "sub",
+"backdropPath": "/mIW7eFxHnNqlwKwKWb6dpVjmHao.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:799379:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+53,
+27
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Grupa koreańskich skazańców na mocy ekstradycji jest transportowana z Filipin do ojczyzny. Kryminaliści z eskortującymi ich policjantami wsiadają na pokład wielkiego kontenerowca. Sytuacja wymyka się spod kontroli, a oswobodzeni bandyci zaczynają metodycznie masakrować funkcjonariuszy. Jednak ani jedni, ani drudzy nie mają pojęcia, że prawdziwe niebezpieczeństwo czyha na nich pod pokładem. Pływające piekło, z którego nie da się uciec.",
+"overviewEn": "While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.",
+"popularity": 5.62,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 9958,
+"tmdb": 6.5
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Wilcze Stado",
+"titleEn": "Project Wolf Hunting",
+"tmdbId": 799379,
+"trailerKey": "PbTRFU9kvz0"
+},
+"prime:movie:804616:paid": {
+"access": "paid",
+"backdropPath": "/2XCmJWRZIQtHzikNsW29l9oy5Fb.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:804616:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+27
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Cierpiąca na traumę po dramatycznym wydarzeniu z przeszłości Meg długo zastanawia się, czy wziąć udział w ekskluzywnym, organizowanym w rajskich plenerach ślubie koleżanki Lizzie. Ostatecznie jednak przybywa na Karaiby, mając za towarzyszki Cam, Ruth oraz dawno niewidzianą przyjaciółkę Kaylę. Kiedy kobiety postanawiają udać się w samotny rejs łodzią, nie przeczuwają, że idylliczna podróż zmieni się w zaciętą walkę o przetrwanie. Wkrótce, zdane tylko na siebie i dryfujące na otwartym morzu, będą zmuszone zmagać się nie tylko ze skrajnym wycieńczeniem, ale też atakami rekinów-morderców. Czy mają jakikolwiek szanse w starciu z drapieżnikami, z których natura uczyniła prawdziwe maszyny do zabijania?",
+"overviewEn": "After lesbian couple Meg and Kayla split following a traumatic homophobic incident, their three friends are intent on mending the rift during the wedding of Lizzie at a paradise resort. But a pre-wedding boat excursion turns to disaster and the wedding breakfast is likely to be the five girls!",
+"popularity": 2.34,
+"ratings": {
+"imdb": 4.1,
+"imdbVotes": 6503,
+"tmdb": 5.5
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Coś w wodzie",
+"titleEn": "Something in the Water",
+"tmdbId": 804616,
+"trailerKey": "vlJQVmlCoBg"
+},
+"prime:movie:804616:sub": {
+"access": "sub",
+"backdropPath": "/2XCmJWRZIQtHzikNsW29l9oy5Fb.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:804616:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+53,
+27
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Cierpiąca na traumę po dramatycznym wydarzeniu z przeszłości Meg długo zastanawia się, czy wziąć udział w ekskluzywnym, organizowanym w rajskich plenerach ślubie koleżanki Lizzie. Ostatecznie jednak przybywa na Karaiby, mając za towarzyszki Cam, Ruth oraz dawno niewidzianą przyjaciółkę Kaylę. Kiedy kobiety postanawiają udać się w samotny rejs łodzią, nie przeczuwają, że idylliczna podróż zmieni się w zaciętą walkę o przetrwanie. Wkrótce, zdane tylko na siebie i dryfujące na otwartym morzu, będą zmuszone zmagać się nie tylko ze skrajnym wycieńczeniem, ale też atakami rekinów-morderców. Czy mają jakikolwiek szanse w starciu z drapieżnikami, z których natura uczyniła prawdziwe maszyny do zabijania?",
+"overviewEn": "After lesbian couple Meg and Kayla split following a traumatic homophobic incident, their three friends are intent on mending the rift during the wedding of Lizzie at a paradise resort. But a pre-wedding boat excursion turns to disaster and the wedding breakfast is likely to be the five girls!",
+"popularity": 2.34,
+"ratings": {
+"imdb": 4.1,
+"imdbVotes": 6503,
+"tmdb": 5.5
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Coś w wodzie",
+"titleEn": "Something in the Water",
+"tmdbId": 804616,
+"trailerKey": "vlJQVmlCoBg"
+},
 "prime:movie:807680:paid": {
 "access": "paid",
 "backdropPath": null,
@@ -144263,6 +145927,43 @@
 "tmdbId": 848181,
 "trailerKey": "y7KOlTOP6XU"
 },
+"prime:movie:85545:paid": {
+"access": "paid",
+"backdropPath": "/gyu2LyJ6sUFZU2VyIIXthZNC5RN.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:85545:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Sceny z życia paryskich studentek dorabiających sobie prostytucją - w obiektywie Małgorzaty Szumowskiej, autorki \"33 scen z życia\" - jednego z najczęściej nagradzanych polskich filmów ostatnich lat. Anna, dobrze sytuowana dziennikarka, przygotowuje artykuł na temat prostytucji wśród studentek. W trakcie pracy nad materiałem poznaje dwie sprzedające swoje ciała dziewczyny - Charlotte oraz Alicję, które wprowadzają ją w świat płatnej miłości. Odstręczający, ale też - ku zaskoczeniu Anny - na swój sposób pociągający.",
+"overviewEn": "A journalist tries to balance the duties of marriage and motherhood while researching a piece on college women who work as prostitutes to pay their tuition.",
+"popularity": 1.84,
+"ratings": {
+"imdb": 5.6,
+"imdbVotes": 8087,
+"tmdb": 5.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Sponsoring",
+"titleEn": "Elles",
+"tmdbId": 85545,
+"trailerKey": "TpazdmeYHYo"
+},
 "prime:movie:859235:paid": {
 "access": "paid",
 "backdropPath": "/xSIJy4vPKpo2uw6q7HNBhIvQaj6.jpg",
@@ -144610,6 +146311,45 @@
 "tmdbId": 938150,
 "trailerKey": "IZ-lmlN9JVw"
 },
+"prime:movie:943134:paid": {
+"access": "paid",
+"backdropPath": "/H41DJiw7Q8xn6bWC75eyaavp9L.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:943134:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+12,
+18,
+878
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "W niedalekiej przyszłości przez ludzką populację przetacza się epidemia niewyjaśnionych mutacji genetycznych. Za ich sprawą niektórzy jej przedstawiciele zaczynają coraz bardziej upodabniać się swoim wyglądem i zachowaniem do zwierząt. Te obdarzone nadludzkimi umiejętnościami hybrydy uznawane są jednak za zagrożenie i izolowane w specjalnych ośrodkach. Jedną z osób dotkniętych taką mutacją jest Lena - żona François. Na wieść o wypadku konwoju w dzikiej części lasu i ucieczce transportowanych w nim hybryd, mężczyzna wspólnie ze swoim 16-letnim synem Emilem wyrusza na desperackie poszukiwanie swojej partnerki. Będzie to wyzwanie zarówno dla ojcowskiej relacji François ze swoim dzieckiem jak również dla całej trójki jako rodziny. Czeka ich prawdziwe emocjonalne trzęsienie ziemi, które wystawi wszystkich na próbę.",
+"overviewEn": "In a world hit by a wave of mutations transforming humans into animals, François does everything he can to save his wife. As some of the creatures disappear into a nearby forest, he and their son Émile embark on a quest that will change their lives forever.",
+"popularity": 2.89,
+"ratings": {
+"imdb": 6.7,
+"imdbVotes": 12527,
+"tmdb": 6.9
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Królestwo zwierząt",
+"titleEn": "The Animal Kingdom",
+"tmdbId": 943134,
+"trailerKey": "P8DgL-vOdzA"
+},
 "prime:movie:94603:paid": {
 "access": "paid",
 "backdropPath": "/n1d72dX1ZC00MabxftWnqqhPQEp.jpg",
@@ -144919,6 +146659,84 @@
 "titleEn": "Greedy People",
 "tmdbId": 974250,
 "trailerKey": "TNUlrtulkVA"
+},
+"prime:movie:974453:paid": {
+"access": "paid",
+"backdropPath": "/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:974453:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Doświadczony gangster, do tej pory niezawodny i skuteczny, zaczyna odczuwać skutki długotrwałego stresu i życia na krawędzi. Pojawiają się niepokojące objawy, które skłaniają go do porzucenia dotychczasowego stylu życia i odnowienia relacji z rodziną. Zerwanie więzi z bezwzględnym i gotowym na wszystko przeciwnikiem jakim jest mafia, okaże się trudniejsze niż myślał. Mężczyzna ściąga niebezpieczeństwo na siebie i bliskich. Czy, zdradzony przez wspomnienia i dawnych sojuszników, znajdzie sposób na zmazanie grzechów mrocznej przeszłości?",
+"overviewEn": "An aging ex-boxer gangster working as muscle for a Boston crime boss receives an upsetting diagnosis.  Despite a faltering memory, he attempts to rectify the sins of his past and reconnect with his estranged children. He is determined to leave a positive legacy for his grandson, but the criminal underworld isn’t done with him and won’t loosen their grip willingly.",
+"popularity": 3.21,
+"ratings": {
+"imdb": 5.2,
+"imdbVotes": 11497,
+"tmdb": 5.9
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Rozgrzeszenie",
+"titleEn": "Absolution",
+"tmdbId": 974453,
+"trailerKey": "moYPmkPi4g4"
+},
+"prime:movie:974453:sub": {
+"access": "sub",
+"backdropPath": "/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:movie:974453:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Doświadczony gangster, do tej pory niezawodny i skuteczny, zaczyna odczuwać skutki długotrwałego stresu i życia na krawędzi. Pojawiają się niepokojące objawy, które skłaniają go do porzucenia dotychczasowego stylu życia i odnowienia relacji z rodziną. Zerwanie więzi z bezwzględnym i gotowym na wszystko przeciwnikiem jakim jest mafia, okaże się trudniejsze niż myślał. Mężczyzna ściąga niebezpieczeństwo na siebie i bliskich. Czy, zdradzony przez wspomnienia i dawnych sojuszników, znajdzie sposób na zmazanie grzechów mrocznej przeszłości?",
+"overviewEn": "An aging ex-boxer gangster working as muscle for a Boston crime boss receives an upsetting diagnosis.  Despite a faltering memory, he attempts to rectify the sins of his past and reconnect with his estranged children. He is determined to leave a positive legacy for his grandson, but the criminal underworld isn’t done with him and won’t loosen their grip willingly.",
+"popularity": 3.21,
+"ratings": {
+"imdb": 5.2,
+"imdbVotes": 11497,
+"tmdb": 5.9
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Rozgrzeszenie",
+"titleEn": "Absolution",
+"tmdbId": 974453,
+"trailerKey": "moYPmkPi4g4"
 },
 "prime:movie:974635:free": {
 "access": "free",
@@ -151140,6 +152958,44 @@
 "tmdbId": 1073865,
 "trailerKey": "hu3B63xOQXA"
 },
+"rakuten:movie:1088548:paid": {
+"access": "paid",
+"backdropPath": "/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1088548:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Elsa, reżyserka reklamowa, ucieka przed żałobą po stracie matki, rzucając się w wir pracy, aż atak paniki zmusza ją do jej przerwania. Aby odbudować swoje życie, leci na Lanzarote, by odpocząć z przyjaciółką Patricią, która również potrzebuje chwili wytchnienia od domu. Bonifacio, jej partner, który stał się dla niej prawdziwym wsparciem w tych trudnych chwilach, pozostaje w Madrycie. Historie tej trójki bohaterów przeplatają się z historią scenarzysty i reżysera Raúla Durána, zacierając granice między rzeczywistością a fikcją w nierozerwalny, a czasem bolesny sposób.",
+"overviewEn": "During a long December holiday weekend, a woman, whose mother has recently died, throws herself into work as a form of escape. Her relentless pace is interrupted when a panic attack forces her to take a break.",
+"popularity": 23.31,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 6048,
+"tmdb": 6.2
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Gorzkie święta",
+"titleEn": "Bitter Christmas",
+"tmdbId": 1088548,
+"trailerKey": "R-9dlnkY448"
+},
 "rakuten:movie:1101383:paid": {
 "access": "paid",
 "backdropPath": "/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
@@ -152146,6 +154002,45 @@
 "tmdbId": 1242265,
 "trailerKey": "1aNywiElPSY"
 },
+"rakuten:movie:1242332:paid": {
+"access": "paid",
+"backdropPath": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1242332:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Tymczasowy szeryf Ulysses, wezwany do zasypanego śniegiem miasteczka Normal w stanie Minnesota, odkrywa międzynarodowy spisek przestępczy w samym sercu tej pozornie sielankowej, zapomnianej miejscowości, gdy przychodzi z pomocą parze napastników, którzy wplątali się w śmiertelnie niebezpieczną sytuację.",
+"overviewEn": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+"popularity": 12.06,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 39866,
+"tmdb": 7.2
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Normal",
+"titleEn": null,
+"tmdbId": 1242332,
+"trailerKey": "5OndK0w1lYY"
+},
 "rakuten:movie:1242332:sub": {
 "access": "sub",
 "backdropPath": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
@@ -152171,7 +154066,7 @@
 "origin": "diff",
 "overview": "Tymczasowy szeryf Ulysses, wezwany do zasypanego śniegiem miasteczka Normal w stanie Minnesota, odkrywa międzynarodowy spisek przestępczy w samym sercu tej pozornie sielankowej, zapomnianej miejscowości, gdy przychodzi z pomocą parze napastników, którzy wplątali się w śmiertelnie niebezpieczną sytuację.",
 "overviewEn": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-"popularity": 9.3,
+"popularity": 12.06,
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 39866,
@@ -152184,6 +154079,43 @@
 "titleEn": null,
 "tmdbId": 1242332,
 "trailerKey": "5OndK0w1lYY"
+},
+"rakuten:movie:1244517:paid": {
+"access": "paid",
+"backdropPath": "/cRhOM5UDUpBV7EdpdXxkstpli86.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1244517:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Amanda Ogle, bezdomna kobieta, wydostaje się z piekła, jakie spotkało ją przez usługi holownicze. Kobieta odzyskuje swoje życie i samochód, który pozwolił jej przetrwać, po tym, jak otrzymała rachunek za holowanie w wysokości 21 634 dolarów.",
+"overviewEn": "Amanda Ogle is a woman living in her aging Toyota Camry on the streets of Seattle. When her car is stolen and impounded, she’s thrust into a relentless legal battle against an indifferent system. What begins as a fight to reclaim her car evolves into a deeply human story of resilience, dignity, and the power of one woman’s voice in the face of systemic failure.",
+"popularity": 4.65,
+"ratings": {
+"imdb": 6.4,
+"imdbVotes": 2568,
+"tmdb": 6.7
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Tow",
+"titleEn": null,
+"tmdbId": 1244517,
+"trailerKey": "qdkpcsuPAhA"
 },
 "rakuten:movie:1248226:paid": {
 "access": "paid",
@@ -153179,6 +155111,43 @@
 "tmdbId": 1341137,
 "trailerKey": "H4-rMC88ylQ"
 },
+"rakuten:movie:1341138:sub": {
+"access": "sub",
+"backdropPath": "/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "rakuten:movie:1341138:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jane, Coco i Sophie – przyjaciółki z dzieciństwa – wyjeżdżają na ekskluzywny spa break do Palm Springs. Ma być cisza, regeneracja i luksusowe zabiegi. Wszystko idzie zgodnie z planem do momentu, gdy na miejscu pojawia się ich dawna przyjaciółka Mel – chodząca katastrofa. Od tej chwili relaks zmienia się w serię kompromitujących sytuacji, nieoczekiwanych wyznań i zbyt spontanicznych decyzji. Brzmi jak wymarzony wyjazd? Poczekajcie do pierwszego drinka. I pamiętajcie: Co się dzieje między przyjaciółkami – zostaje między przyjaciółkami.",
+"overviewEn": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+"popularity": 5.57,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 3375,
+"tmdb": 6.5
+},
+"serviceKey": "rakuten",
+"source": "tmdb",
+"status": "live",
+"title": "Spa Weekend",
+"titleEn": null,
+"tmdbId": 1341138,
+"trailerKey": "AhsA9ZqRAXQ"
+},
 "rakuten:movie:1365358:sub": {
 "access": "sub",
 "backdropPath": null,
@@ -153867,7 +155836,7 @@
 "rakuten:movie:1450527:paid": {
 "access": "paid",
 "backdropPath": "/jAOpZDgy4eMY6o6oGdUiXk4SqvE.jpg",
-"confirmedAt": "2026-11-21T13:26:37Z",
+"confirmedAt": "2026-11-21T20:53:42Z",
 "date": "2026-11-20",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -153944,7 +155913,7 @@
 "access": "paid",
 "backdropPath": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
 "confirmedAt": "2026-11-16T13:36:17Z",
-"date": "2026-11-16",
+"date": "2026-11-21",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "rakuten:movie:1464883:paid",
@@ -153963,7 +155932,7 @@
 "origin": "schedule",
 "overview": "W całym Iraku trwa „dzień losowania”, kiedy szkoły wybierają uczniów do zaszczytu przyniesienia przedmiotów na obowiązkowe lokalne obchody urodzin prezydenta Saddama Husseina. Dziewięcioletnia Lamia mieszka na historycznych bagnach ze swoją pełną werwy babcią, Bibi. Przed szkołą Bibi uczy Lamię sprytnych sztuczek, aby uniknąć wyboru do tortu prezydenta. Jednak gdy Musa, autorytatywny nauczyciel, woła Lamię po imieniu, aby wykonać najtrudniejsze zadanie — tort urodzinowy — nie ma innego wyboru, jak tylko się zgodzić. Odmowa może oznaczać uwięzienie, a nawet śmierć.",
 "overviewEn": "While people across 1990’s Iraq struggle to survive, 9-year-old Lamia has been selected to prepare a cake to celebrate the President’s birthday. In a landscape of fear and scarcity, where basic ingredients are nearly impossible to find, Lamia sets out on a determined journey throughout the big city in search of eggs, flour, and sugar. Accompanied by her grandmother, her loyal friend Saeed, and her pet rooster Hindi, she navigates vendors and police officers along the way.",
-"popularity": 3.16,
+"popularity": 4.93,
 "ratings": {
 "imdb": 7.5,
 "imdbVotes": 5445,
@@ -157482,6 +159451,80 @@
 "tmdbId": 1367642,
 "trailerKey": "i36Zw32GfRQ"
 },
+"skyshowtime:movie:1368314:paid": {
+"access": "paid",
+"backdropPath": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:movie:1368314:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Gdy młoda para jest świadkiem makabrycznego wypadku na autostradzie, szybko uświadamia sobie, że nie opuściła miejsca zdarzenia sama – demoniczny byt zwany Pasażerem, który nie spocznie, dopóki nie dopadnie ich obojga, zamienia ich podróż vanem w koszmar.",
+"overviewEn": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+"popularity": 10.58,
+"ratings": {
+"imdb": 5.5,
+"imdbVotes": 26468,
+"tmdb": 7.2
+},
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "live",
+"title": "Pasażer",
+"titleEn": "Passenger",
+"tmdbId": 1368314,
+"trailerKey": "eNIn8kW1kyE"
+},
+"skyshowtime:movie:1368314:sub": {
+"access": "sub",
+"backdropPath": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:movie:1368314:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+27
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Gdy młoda para jest świadkiem makabrycznego wypadku na autostradzie, szybko uświadamia sobie, że nie opuściła miejsca zdarzenia sama – demoniczny byt zwany Pasażerem, który nie spocznie, dopóki nie dopadnie ich obojga, zamienia ich podróż vanem w koszmar.",
+"overviewEn": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+"popularity": 10.58,
+"ratings": {
+"imdb": 5.5,
+"imdbVotes": 26468,
+"tmdb": 7.2
+},
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "live",
+"title": "Pasażer",
+"titleEn": "Passenger",
+"tmdbId": 1368314,
+"trailerKey": "eNIn8kW1kyE"
+},
 "skyshowtime:movie:1686178:sub": {
 "access": "sub",
 "backdropPath": "/izDU9HCGb4ZKtm5bNG0XcgjVchB.jpg",
@@ -159138,146 +161181,6 @@
 "serviceKey": "skyshowtime",
 "source": "tmdb",
 "status": "live",
-"title": "Rubble & Crew",
-"titleEn": null,
-"tmdbId": 286277,
-"trailerKey": null
-},
-"skyshowtime:tv:286277:s3e22:sub": {
-"access": "sub",
-"backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
-"confirmedAt": "2026-11-20T13:59:04Z",
-"date": "2026-11-20",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "skyshowtime:tv:286277:s3e22:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 22,
-"episodeTo": 22,
-"genres": [
-16,
-10762,
-10751
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": null,
-"overviewEn": null,
-"popularity": 3.8,
-"ratings": null,
-"serviceKey": "skyshowtime",
-"source": "tmdb",
-"status": "live",
-"title": "Rubble & Crew",
-"titleEn": null,
-"tmdbId": 286277,
-"trailerKey": null
-},
-"skyshowtime:tv:286277:s3e23:sub": {
-"access": "sub",
-"backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
-"confirmedAt": null,
-"date": "2026-11-27",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "skyshowtime:tv:286277:s3e23:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 23,
-"episodeTo": 23,
-"genres": [
-16,
-10762,
-10751
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": null,
-"overviewEn": null,
-"popularity": 3.8,
-"ratings": null,
-"serviceKey": "skyshowtime",
-"source": "tmdb",
-"status": "announced",
-"title": "Rubble & Crew",
-"titleEn": null,
-"tmdbId": 286277,
-"trailerKey": null
-},
-"skyshowtime:tv:286277:s3e24:sub": {
-"access": "sub",
-"backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
-"confirmedAt": null,
-"date": "2026-12-04",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "skyshowtime:tv:286277:s3e24:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 24,
-"episodeTo": 24,
-"genres": [
-16,
-10762,
-10751
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": null,
-"overviewEn": null,
-"popularity": 3.8,
-"ratings": null,
-"serviceKey": "skyshowtime",
-"source": "tmdb",
-"status": "announced",
-"title": "Rubble & Crew",
-"titleEn": null,
-"tmdbId": 286277,
-"trailerKey": null
-},
-"skyshowtime:tv:286277:s3e25:sub": {
-"access": "sub",
-"backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
-"confirmedAt": null,
-"date": "2026-12-11",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "skyshowtime:tv:286277:s3e25:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 25,
-"episodeTo": 25,
-"genres": [
-16,
-10762,
-10751
-],
-"kind": "series",
-"season": 3,
-"withAds": false
-},
-"origin": "schedule",
-"overview": null,
-"overviewEn": null,
-"popularity": 3.8,
-"ratings": null,
-"serviceKey": "skyshowtime",
-"source": "tmdb",
-"status": "announced",
 "title": "Rubble & Crew",
 "titleEn": null,
 "tmdbId": 286277,
@@ -161392,6 +163295,82 @@
 "tmdbId": 10863,
 "trailerKey": "BqwjTSLsjp8"
 },
+"tvpvod:movie:1088548:paid": {
+"access": "paid",
+"backdropPath": "/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1088548:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Elsa, reżyserka reklamowa, ucieka przed żałobą po stracie matki, rzucając się w wir pracy, aż atak paniki zmusza ją do jej przerwania. Aby odbudować swoje życie, leci na Lanzarote, by odpocząć z przyjaciółką Patricią, która również potrzebuje chwili wytchnienia od domu. Bonifacio, jej partner, który stał się dla niej prawdziwym wsparciem w tych trudnych chwilach, pozostaje w Madrycie. Historie tej trójki bohaterów przeplatają się z historią scenarzysty i reżysera Raúla Durána, zacierając granice między rzeczywistością a fikcją w nierozerwalny, a czasem bolesny sposób.",
+"overviewEn": "During a long December holiday weekend, a woman, whose mother has recently died, throws herself into work as a form of escape. Her relentless pace is interrupted when a panic attack forces her to take a break.",
+"popularity": 23.31,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 6048,
+"tmdb": 6.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Gorzkie święta",
+"titleEn": "Bitter Christmas",
+"tmdbId": 1088548,
+"trailerKey": "R-9dlnkY448"
+},
+"tvpvod:movie:1088548:sub": {
+"access": "sub",
+"backdropPath": "/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1088548:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+18,
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Elsa, reżyserka reklamowa, ucieka przed żałobą po stracie matki, rzucając się w wir pracy, aż atak paniki zmusza ją do jej przerwania. Aby odbudować swoje życie, leci na Lanzarote, by odpocząć z przyjaciółką Patricią, która również potrzebuje chwili wytchnienia od domu. Bonifacio, jej partner, który stał się dla niej prawdziwym wsparciem w tych trudnych chwilach, pozostaje w Madrycie. Historie tej trójki bohaterów przeplatają się z historią scenarzysty i reżysera Raúla Durána, zacierając granice między rzeczywistością a fikcją w nierozerwalny, a czasem bolesny sposób.",
+"overviewEn": "During a long December holiday weekend, a woman, whose mother has recently died, throws herself into work as a form of escape. Her relentless pace is interrupted when a panic attack forces her to take a break.",
+"popularity": 23.31,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 6048,
+"tmdb": 6.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Gorzkie święta",
+"titleEn": "Bitter Christmas",
+"tmdbId": 1088548,
+"trailerKey": "R-9dlnkY448"
+},
 "tvpvod:movie:1101412:paid": {
 "access": "paid",
 "backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
@@ -162799,6 +164778,45 @@
 "tmdbId": 1242011,
 "trailerKey": "9bqIwMH3En8"
 },
+"tvpvod:movie:1242332:paid": {
+"access": "paid",
+"backdropPath": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-20",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1242332:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+28,
+80,
+53
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Tymczasowy szeryf Ulysses, wezwany do zasypanego śniegiem miasteczka Normal w stanie Minnesota, odkrywa międzynarodowy spisek przestępczy w samym sercu tej pozornie sielankowej, zapomnianej miejscowości, gdy przychodzi z pomocą parze napastników, którzy wplątali się w śmiertelnie niebezpieczną sytuację.",
+"overviewEn": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+"popularity": 12.06,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 39866,
+"tmdb": 7.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Normal",
+"titleEn": null,
+"tmdbId": 1242332,
+"trailerKey": "5OndK0w1lYY"
+},
 "tvpvod:movie:1242332:sub": {
 "access": "sub",
 "backdropPath": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
@@ -162824,7 +164842,7 @@
 "origin": "diff",
 "overview": "Tymczasowy szeryf Ulysses, wezwany do zasypanego śniegiem miasteczka Normal w stanie Minnesota, odkrywa międzynarodowy spisek przestępczy w samym sercu tej pozornie sielankowej, zapomnianej miejscowości, gdy przychodzi z pomocą parze napastników, którzy wplątali się w śmiertelnie niebezpieczną sytuację.",
 "overviewEn": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-"popularity": 9.3,
+"popularity": 12.06,
 "ratings": {
 "imdb": 6.3,
 "imdbVotes": 39866,
@@ -163852,6 +165870,80 @@
 "titleEn": "Tuner",
 "tmdbId": 1340206,
 "trailerKey": "HYxzyLVJORA"
+},
+"tvpvod:movie:1341138:paid": {
+"access": "paid",
+"backdropPath": "/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1341138:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jane, Coco i Sophie – przyjaciółki z dzieciństwa – wyjeżdżają na ekskluzywny spa break do Palm Springs. Ma być cisza, regeneracja i luksusowe zabiegi. Wszystko idzie zgodnie z planem do momentu, gdy na miejscu pojawia się ich dawna przyjaciółka Mel – chodząca katastrofa. Od tej chwili relaks zmienia się w serię kompromitujących sytuacji, nieoczekiwanych wyznań i zbyt spontanicznych decyzji. Brzmi jak wymarzony wyjazd? Poczekajcie do pierwszego drinka. I pamiętajcie: Co się dzieje między przyjaciółkami – zostaje między przyjaciółkami.",
+"overviewEn": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+"popularity": 5.57,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 3375,
+"tmdb": 6.5
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Spa Weekend",
+"titleEn": null,
+"tmdbId": 1341138,
+"trailerKey": "AhsA9ZqRAXQ"
+},
+"tvpvod:movie:1341138:sub": {
+"access": "sub",
+"backdropPath": "/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:1341138:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Jane, Coco i Sophie – przyjaciółki z dzieciństwa – wyjeżdżają na ekskluzywny spa break do Palm Springs. Ma być cisza, regeneracja i luksusowe zabiegi. Wszystko idzie zgodnie z planem do momentu, gdy na miejscu pojawia się ich dawna przyjaciółka Mel – chodząca katastrofa. Od tej chwili relaks zmienia się w serię kompromitujących sytuacji, nieoczekiwanych wyznań i zbyt spontanicznych decyzji. Brzmi jak wymarzony wyjazd? Poczekajcie do pierwszego drinka. I pamiętajcie: Co się dzieje między przyjaciółkami – zostaje między przyjaciółkami.",
+"overviewEn": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+"popularity": 5.57,
+"ratings": {
+"imdb": 5.1,
+"imdbVotes": 3375,
+"tmdb": 6.5
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Spa Weekend",
+"titleEn": null,
+"tmdbId": 1341138,
+"trailerKey": "AhsA9ZqRAXQ"
 },
 "tvpvod:movie:1365683:paid": {
 "access": "paid",
@@ -165838,6 +167930,44 @@
 "tmdbId": 231530,
 "trailerKey": "wOAB_3No_Eg"
 },
+"tvpvod:movie:261103:paid": {
+"access": "paid",
+"backdropPath": "/1kxUi83kqhVhIzf8gPUsoSudOWW.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:261103:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+16
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Maja i Gucio próbują nie dopuścić do zbliżającej się bitwy pszczół z szerszeniami.  Uskrzydlająca opowieść o najbardziej rezolutnej pszczółce świata w zupełnie nowej odsłonie wreszcie na wielkim ekranie! Sympatyczna pszczółka Maja i jej przyjaciele to ukochani bohaterowie milionów nie tylko małych widzów. Ich nowe przygody to jak zawsze potężna dawka znakomitej zabawy i pozytywnych emocji. Film zrealizowany przez jedno z najlepszych studiów animacji na świecie już wkrótce podbije nasze kina i serca.",
+"overviewEn": "A bubbly little bumblebee rebels against the rules of the hive to make all kinds of friends—from violin-playing grasshoppers to a hornet named Sting.",
+"popularity": 3.21,
+"ratings": {
+"imdb": 5.9,
+"imdbVotes": 2581,
+"tmdb": 6.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Pszczółka Maja. Film",
+"titleEn": "Maya the Bee Movie",
+"tmdbId": 261103,
+"trailerKey": "DQ4kPSkjOQg"
+},
 "tvpvod:movie:2639:paid": {
 "access": "paid",
 "backdropPath": "/f8Q3Sug5Sa42psw2b3Gdd1aT8t.jpg",
@@ -166295,6 +168425,120 @@
 "tmdbId": 30588,
 "trailerKey": "eND72dzh7EU"
 },
+"tvpvod:movie:325358:paid": {
+"access": "paid",
+"backdropPath": "/v7JSw9XCkdv533TP7VabRZJ63PC.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:325358:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+28
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Policjant Lucas White przenika do działającego w Los Angeles gangu Vina Serento, który specjalizuje się w nielegalnych wyścigach samochodowych. Grupa planuje właśnie skok na bossa przestępczego podziemia Juana Carlosa de la Sol, ukrywającego swój ogromny majątek w lokalnej restauracji Taco Bell.",
+"overviewEn": "Undercover cop Lucas White joins Vin Serento's gang of illegal street racers. They are fast and they are furious and they plan to double cross Los Angeles kingpin Juan Carlos de la Sol, who hides his cash in a downtown Taco Bell.",
+"popularity": 3.32,
+"ratings": {
+"imdb": 4.2,
+"imdbVotes": 12301,
+"tmdb": 5.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Wściekle szybcy",
+"titleEn": "Superfast!",
+"tmdbId": 325358,
+"trailerKey": "PqwDB7N6ujA"
+},
+"tvpvod:movie:329550:free": {
+"access": "free",
+"backdropPath": "/8w5X30UiKLzzNVkC4394H1iwuH9.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:329550:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Szymon jest przystojny, wysportowany i pracuje jako lekarz w jednej z prywatnych warszawskich klinik, gdzie wzdychają do niego zarówno pacjentki, jak i żeńska część personelu. Najwytrwalsza w tych staraniach jest pielęgniarka Pati, jednak jej zaloty nie robią na Szymonie żadnego wrażenia. Serce bohatera zmiękczy dopiero piękna i dowcipna miłośniczka jazdy na rolkach – Basia, pracownica korporacji, na którą chłopak wpada – i to dosłownie – na ulicy. Seria nieszczęśliwych zbiegów okoliczności powoduje, że młodzi tracą kontakt i nadzieję na to, że kiedykolwiek ponownie się spotkają. Tymczasem Basia wpada w oko playboyowi Leonowi, który dostał ultimatum od rodziców. Albo się szybko ożeni, albo zostanie wydziedziczony.",
+"overviewEn": "Szymon Kosowski, a handsome and athletic doctor of one of the private clinics in Warsaw, who is the object of sighs among patients and female staff, especially nurses Pati, notices a beautiful and witty corporate employee and roller lover - Basia, which flows into one of the city's fountains. Soon they both fall in love with each other at first sight. Unfortunately, a series of unlucky coincidences causes them to lose contact. From then on, they do everything to find each other. Meanwhile, Basia catches the eye of playboy, the son of wealthy parents, a friend from primary school - Leon Glec, who received an ultimatum from his parents: he will either get married quickly or be disinherited.",
+"popularity": 0.69,
+"ratings": {
+"imdb": 3.8,
+"imdbVotes": 486,
+"tmdb": 4.5
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Dzień dobry, kocham cię!",
+"titleEn": null,
+"tmdbId": 329550,
+"trailerKey": null
+},
+"tvpvod:movie:329550:paid": {
+"access": "paid",
+"backdropPath": "/8w5X30UiKLzzNVkC4394H1iwuH9.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:329550:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Szymon jest przystojny, wysportowany i pracuje jako lekarz w jednej z prywatnych warszawskich klinik, gdzie wzdychają do niego zarówno pacjentki, jak i żeńska część personelu. Najwytrwalsza w tych staraniach jest pielęgniarka Pati, jednak jej zaloty nie robią na Szymonie żadnego wrażenia. Serce bohatera zmiękczy dopiero piękna i dowcipna miłośniczka jazdy na rolkach – Basia, pracownica korporacji, na którą chłopak wpada – i to dosłownie – na ulicy. Seria nieszczęśliwych zbiegów okoliczności powoduje, że młodzi tracą kontakt i nadzieję na to, że kiedykolwiek ponownie się spotkają. Tymczasem Basia wpada w oko playboyowi Leonowi, który dostał ultimatum od rodziców. Albo się szybko ożeni, albo zostanie wydziedziczony.",
+"overviewEn": "Szymon Kosowski, a handsome and athletic doctor of one of the private clinics in Warsaw, who is the object of sighs among patients and female staff, especially nurses Pati, notices a beautiful and witty corporate employee and roller lover - Basia, which flows into one of the city's fountains. Soon they both fall in love with each other at first sight. Unfortunately, a series of unlucky coincidences causes them to lose contact. From then on, they do everything to find each other. Meanwhile, Basia catches the eye of playboy, the son of wealthy parents, a friend from primary school - Leon Glec, who received an ultimatum from his parents: he will either get married quickly or be disinherited.",
+"popularity": 0.69,
+"ratings": {
+"imdb": 3.8,
+"imdbVotes": 486,
+"tmdb": 4.5
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Dzień dobry, kocham cię!",
+"titleEn": null,
+"tmdbId": 329550,
+"trailerKey": null
+},
 "tvpvod:movie:329712:free": {
 "access": "free",
 "backdropPath": "/s14TKXCYH8dotfBIBuanNaYyBst.jpg",
@@ -166485,6 +168729,84 @@
 "titleEn": "Obsession",
 "tmdbId": 332672,
 "trailerKey": "ZTRAfDQO718"
+},
+"tvpvod:movie:335360:paid": {
+"access": "paid",
+"backdropPath": "/t9QTd0V3rbv6W25QbHJuC6zbIo1.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:335360:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+16,
+12
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Stadko dzielnych kucyków staje oko w oko ze swoim największym wrogiem. Złowrogi Król Burzy postanawia wykraść całą magię z ich rodzinnego królestwa Equestrii. By ją odzyskać, dzielni bohaterowie wyruszą w pełną przygód podróż, podczas której zyskają nowych przyjaciół jak morskie kucyki czy dobroduszni piraci, przeżyją wiele emocjonujących i zabawnych perypetii i po raz kolejny udowodnią, że przyjaźń to magia!",
+"overviewEn": "A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity – embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship and save their home.",
+"popularity": 4.51,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 9285,
+"tmdb": 7.3
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "My Little Pony. Film",
+"titleEn": "My Little Pony: The Movie",
+"tmdbId": 335360,
+"trailerKey": "kIv_ConaZ1c"
+},
+"tvpvod:movie:335360:sub": {
+"access": "sub",
+"backdropPath": "/t9QTd0V3rbv6W25QbHJuC6zbIo1.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:335360:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10751,
+16,
+12
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Stadko dzielnych kucyków staje oko w oko ze swoim największym wrogiem. Złowrogi Król Burzy postanawia wykraść całą magię z ich rodzinnego królestwa Equestrii. By ją odzyskać, dzielni bohaterowie wyruszą w pełną przygód podróż, podczas której zyskają nowych przyjaciół jak morskie kucyki czy dobroduszni piraci, przeżyją wiele emocjonujących i zabawnych perypetii i po raz kolejny udowodnią, że przyjaźń to magia!",
+"overviewEn": "A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity – embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship and save their home.",
+"popularity": 4.51,
+"ratings": {
+"imdb": 6.1,
+"imdbVotes": 9285,
+"tmdb": 7.3
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "My Little Pony. Film",
+"titleEn": "My Little Pony: The Movie",
+"tmdbId": 335360,
+"trailerKey": "kIv_ConaZ1c"
 },
 "tvpvod:movie:335777:paid": {
 "access": "paid",
@@ -167514,6 +169836,42 @@
 "tmdbId": 43417,
 "trailerKey": "36qIFflqQ1Y"
 },
+"tvpvod:movie:438673:free": {
+"access": "free",
+"backdropPath": "/nkC4cE2DPVkCZ5sJgSwXxjwCi8V.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:438673:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+99
+],
+"kind": "documentary",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Historia Jerzego Kukuczki, legendarnego polskiego alpinisty. Majstrował przy sprzęcie, nie zawsze miał pozwolenia na wspinaczkę, malował akrobacje, by sfinansować swoje wyprawy, a mimo to był jednym z najwybitniejszych himalaistów w historii. W latach 1979–1987 Yurek w skrócie wspiął się na czternaście 8000 stopni na naszej planecie. Pierwszym, który ją pokonał, był Reinhold Messner, ale zajęło mu to szesnaście lat. Kukuczka dokończył biznes w osiem lat, po polsku: czasem zimą, często nowymi trasami, zawsze w mocnej formie. To właśnie we wrogim świecie Tatr, pasma górskiego rozciągającego się pomiędzy Polską i Słowacją, po raz pierwszy zetknął się z surowością zimy w górach, ale to Himalaje stworzyły jego legendę.",
+"overviewEn": "This documentary follows the feats of high-altitude climber Jerzy Kukuczka and his ascent to higher heights before his death in 1989.",
+"popularity": 0.47,
+"ratings": {
+"imdb": 7.0,
+"imdbVotes": 615
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Jurek",
+"titleEn": null,
+"tmdbId": 438673,
+"trailerKey": "kYXxfBXE7OM"
+},
 "tvpvod:movie:447767:free": {
 "access": "free",
 "backdropPath": "/gSNNnugWBBPv4U0n83S2Y7zA8Rk.jpg",
@@ -167896,6 +170254,232 @@
 "titleEn": "Cassandra's Dream",
 "tmdbId": 4787,
 "trailerKey": "tJ6nOkkuJtI"
+},
+"tvpvod:movie:489842:free": {
+"access": "free",
+"backdropPath": "/uKNe2J61iewgsef77eVj3urmGzg.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:489842:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młoda i ambitna Georgie pracuje w agencji reklamowej. Pragnie zajść w ciążę, a jednocześnie nadal dynamicznie wspinać się po szczeblach kariery. Jej starsza siostra, mężatka Margot, która jest dziennikarką i matką trojga dzieci, właśnie straciła pracę. Pewnego dnia kobiety dowiadują się, że grozi im utrata rodzinnej nieruchomości, ponieważ ich beztroska matka zaciągnęła zbyt wiele kredytów hipotecznych pod jej zastaw. Córki szukają sposobu, by uratować dom. Jedyną nadzieją okazuje się wysoka premia, którą Georgie ma szansę otrzymać za wymyślenie błyskotliwej kampanii reklamowej. Perypetie trzech silnych kobiet opowiedziane z przymrużeniem oka przez reżyserkę Aniëlle Webster, znaną dotąd głównie z seriali.",
+"overviewEn": "Two modern women and their free-spirited mother struggle to balance their private, professional and family lives.",
+"popularity": 0.65,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 1379
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Gospodynie nie istnieją",
+"titleEn": "No Such Thing as Housewives",
+"tmdbId": 489842,
+"trailerKey": "NHq2RYHoJnI"
+},
+"tvpvod:movie:489842:sub": {
+"access": "sub",
+"backdropPath": "/uKNe2J61iewgsef77eVj3urmGzg.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:489842:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Młoda i ambitna Georgie pracuje w agencji reklamowej. Pragnie zajść w ciążę, a jednocześnie nadal dynamicznie wspinać się po szczeblach kariery. Jej starsza siostra, mężatka Margot, która jest dziennikarką i matką trojga dzieci, właśnie straciła pracę. Pewnego dnia kobiety dowiadują się, że grozi im utrata rodzinnej nieruchomości, ponieważ ich beztroska matka zaciągnęła zbyt wiele kredytów hipotecznych pod jej zastaw. Córki szukają sposobu, by uratować dom. Jedyną nadzieją okazuje się wysoka premia, którą Georgie ma szansę otrzymać za wymyślenie błyskotliwej kampanii reklamowej. Perypetie trzech silnych kobiet opowiedziane z przymrużeniem oka przez reżyserkę Aniëlle Webster, znaną dotąd głównie z seriali.",
+"overviewEn": "Two modern women and their free-spirited mother struggle to balance their private, professional and family lives.",
+"popularity": 0.65,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 1379
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Gospodynie nie istnieją",
+"titleEn": "No Such Thing as Housewives",
+"tmdbId": 489842,
+"trailerKey": "NHq2RYHoJnI"
+},
+"tvpvod:movie:499088:paid": {
+"access": "paid",
+"backdropPath": "/tRGTWuCQ4x51jvvra4R6BeMpp7s.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:499088:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10751,
+16
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tym razem Maja i Gucio wezmą udział w międzyłąkowych igrzyskach sportowych, których stawka okaże się wyjątkowo wysoka. W ulu aż huczy od sensacyjnych wieści! W pszczelej stolicy odbyć się mają Miodowe Igrzyska. Maja marzy, by wziąć w nich udział. Niestety mieszkańcy ula nie zostają na nie zaproszeni. Na domiar złego Cesarzowa żąda oddania połowy miodowych zbiorów na potrzeby sportowców. Królowa gotowa jest się pogodzić z poleceniami przełożonej, ale Maja od dziecka jest buntowniczką. A nic nie złości jej bardziej niż jawna niesprawiedliwość. Wyrusza więc do stolicy, by powiedzieć Cesarzowej, co myśli o niej i jej nakazach. I nawet Guciowi nie uda się jej powstrzymać przed wpakowaniem się w kłopoty. Zuchwałość Mai zostanie ukarana: pszczółka musi wystartować w zawodach, ale jeśli przegra jej ul straci całe zapasy na zimę... Cesarzowa nie podejrzewa nawet na co stać tę małą rozrabiakę i paczkę jej wiernych przyjaciół",
+"overviewEn": "Following an unproductive harvest season, it’s up to Maya and her brave friends to save their hive by competing in a series of games.",
+"popularity": 2.66,
+"ratings": {
+"imdb": 5.6,
+"imdbVotes": 1163,
+"tmdb": 6.7
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Pszczółka Maja: Miodowe igrzyska",
+"titleEn": "Maya the Bee: The Honey Games",
+"tmdbId": 499088,
+"trailerKey": "xSLr8jrktAU"
+},
+"tvpvod:movie:499088:sub": {
+"access": "sub",
+"backdropPath": "/tRGTWuCQ4x51jvvra4R6BeMpp7s.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:499088:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+35,
+10751,
+16
+],
+"kind": "animation",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tym razem Maja i Gucio wezmą udział w międzyłąkowych igrzyskach sportowych, których stawka okaże się wyjątkowo wysoka. W ulu aż huczy od sensacyjnych wieści! W pszczelej stolicy odbyć się mają Miodowe Igrzyska. Maja marzy, by wziąć w nich udział. Niestety mieszkańcy ula nie zostają na nie zaproszeni. Na domiar złego Cesarzowa żąda oddania połowy miodowych zbiorów na potrzeby sportowców. Królowa gotowa jest się pogodzić z poleceniami przełożonej, ale Maja od dziecka jest buntowniczką. A nic nie złości jej bardziej niż jawna niesprawiedliwość. Wyrusza więc do stolicy, by powiedzieć Cesarzowej, co myśli o niej i jej nakazach. I nawet Guciowi nie uda się jej powstrzymać przed wpakowaniem się w kłopoty. Zuchwałość Mai zostanie ukarana: pszczółka musi wystartować w zawodach, ale jeśli przegra jej ul straci całe zapasy na zimę... Cesarzowa nie podejrzewa nawet na co stać tę małą rozrabiakę i paczkę jej wiernych przyjaciół",
+"overviewEn": "Following an unproductive harvest season, it’s up to Maya and her brave friends to save their hive by competing in a series of games.",
+"popularity": 2.66,
+"ratings": {
+"imdb": 5.6,
+"imdbVotes": 1163,
+"tmdb": 6.7
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Pszczółka Maja: Miodowe igrzyska",
+"titleEn": "Maya the Bee: The Honey Games",
+"tmdbId": 499088,
+"trailerKey": "xSLr8jrktAU"
+},
+"tvpvod:movie:503403:free": {
+"access": "free",
+"backdropPath": "/zlsDXydQTu0UomPThFbHdWvfcyK.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:503403:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tuż przed Walentynkami programistka opracowuje rewolucyjny algorytm randkowy, a jej nowy szef postanawia go wypróbować.",
+"overviewEn": "Newly appointed CEO of Robinson Tech, Wes Robinson, is looking for new ideas to boost the company's sales. Vivian Blair, a program developer, shares a dating algorithm she has been working on called My Perfect Match. Wes sees potential and an opportunity to turn the company around and launches the service. When the pair is challenged to use My Perfect Match themselves to find love, this algorithm shows some interesting results.",
+"popularity": 1.47,
+"ratings": {
+"imdb": 4.7,
+"imdbVotes": 3359,
+"tmdb": 5.6
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Miłosny algorytm",
+"titleEn": "My Perfect Romance",
+"tmdbId": 503403,
+"trailerKey": "ht2Rv7RgP88"
+},
+"tvpvod:movie:503403:sub": {
+"access": "sub",
+"backdropPath": "/zlsDXydQTu0UomPThFbHdWvfcyK.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:503403:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10749,
+10770
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Tuż przed Walentynkami programistka opracowuje rewolucyjny algorytm randkowy, a jej nowy szef postanawia go wypróbować.",
+"overviewEn": "Newly appointed CEO of Robinson Tech, Wes Robinson, is looking for new ideas to boost the company's sales. Vivian Blair, a program developer, shares a dating algorithm she has been working on called My Perfect Match. Wes sees potential and an opportunity to turn the company around and launches the service. When the pair is challenged to use My Perfect Match themselves to find love, this algorithm shows some interesting results.",
+"popularity": 1.47,
+"ratings": {
+"imdb": 4.7,
+"imdbVotes": 3359,
+"tmdb": 5.6
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Miłosny algorytm",
+"titleEn": "My Perfect Romance",
+"tmdbId": 503403,
+"trailerKey": "ht2Rv7RgP88"
 },
 "tvpvod:movie:508791:free": {
 "access": "free",
@@ -168593,6 +171177,123 @@
 "tmdbId": 642538,
 "trailerKey": "sVzb6TFyPyk"
 },
+"tvpvod:movie:6643:free": {
+"access": "free",
+"backdropPath": "/vFno98QhEkyFcpdVI74kAdSa0ja.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:6643:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+37,
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Teksas, rok 1850. Biali osadnicy walczą o przetrwanie na terenach odebranych Indianom z plemienia Kiowa. Córka Matyldy Zachary, Rachel, jest Indianką. Matylda starannie to ukrywa. Kiedy prawda wychodzi na jaw, Indianie chcą siłą odebrać dziewczynę. Odprawieni z kwitkiem, napadają na ranczo Rawlinsów. Niebawem okazuje się, że Kelsey, który rozpowszechniał informacje o pochodzeniu Rachel, wrócił do miasteczka, by dokonać zemsty na rodzinie Zacharych.",
+"overviewEn": "The neighbors of a frontier family turn on them when it is suspected that their beloved adopted daughter was stolen from the Kiowa tribe.",
+"popularity": 2.29,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 11255,
+"tmdb": 6.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Nie do Przebaczenia",
+"titleEn": "The Unforgiven",
+"tmdbId": 6643,
+"trailerKey": "UKpApK0gVDY"
+},
+"tvpvod:movie:6643:paid": {
+"access": "paid",
+"backdropPath": "/vFno98QhEkyFcpdVI74kAdSa0ja.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:6643:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+37,
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Teksas, rok 1850. Biali osadnicy walczą o przetrwanie na terenach odebranych Indianom z plemienia Kiowa. Córka Matyldy Zachary, Rachel, jest Indianką. Matylda starannie to ukrywa. Kiedy prawda wychodzi na jaw, Indianie chcą siłą odebrać dziewczynę. Odprawieni z kwitkiem, napadają na ranczo Rawlinsów. Niebawem okazuje się, że Kelsey, który rozpowszechniał informacje o pochodzeniu Rachel, wrócił do miasteczka, by dokonać zemsty na rodzinie Zacharych.",
+"overviewEn": "The neighbors of a frontier family turn on them when it is suspected that their beloved adopted daughter was stolen from the Kiowa tribe.",
+"popularity": 2.29,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 11255,
+"tmdb": 6.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Nie do Przebaczenia",
+"titleEn": "The Unforgiven",
+"tmdbId": 6643,
+"trailerKey": "UKpApK0gVDY"
+},
+"tvpvod:movie:6643:sub": {
+"access": "sub",
+"backdropPath": "/vFno98QhEkyFcpdVI74kAdSa0ja.jpg",
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:6643:sub",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+37,
+18,
+10749
+],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": "Teksas, rok 1850. Biali osadnicy walczą o przetrwanie na terenach odebranych Indianom z plemienia Kiowa. Córka Matyldy Zachary, Rachel, jest Indianką. Matylda starannie to ukrywa. Kiedy prawda wychodzi na jaw, Indianie chcą siłą odebrać dziewczynę. Odprawieni z kwitkiem, napadają na ranczo Rawlinsów. Niebawem okazuje się, że Kelsey, który rozpowszechniał informacje o pochodzeniu Rachel, wrócił do miasteczka, by dokonać zemsty na rodzinie Zacharych.",
+"overviewEn": "The neighbors of a frontier family turn on them when it is suspected that their beloved adopted daughter was stolen from the Kiowa tribe.",
+"popularity": 2.29,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 11255,
+"tmdb": 6.2
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Nie do Przebaczenia",
+"titleEn": "The Unforgiven",
+"tmdbId": 6643,
+"trailerKey": "UKpApK0gVDY"
+},
 "tvpvod:movie:667464:free": {
 "access": "free",
 "backdropPath": "/e0YOROmknMo72ZqZASfJk7Bhcn0.jpg",
@@ -168665,6 +171366,68 @@
 "title": "Szabla od komendanta",
 "titleEn": null,
 "tmdbId": 667464,
+"trailerKey": null
+},
+"tvpvod:movie:675029:free": {
+"access": "free",
+"backdropPath": null,
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:675029:free",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.17,
+"ratings": null,
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "La Réplica",
+"titleEn": null,
+"tmdbId": 675029,
+"trailerKey": null
+},
+"tvpvod:movie:675029:paid": {
+"access": "paid",
+"backdropPath": null,
+"confirmedAt": "2026-11-21T20:53:42Z",
+"date": "2026-11-21",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:movie:675029:paid",
+"mediaType": "movie",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [],
+"kind": "movie",
+"season": null,
+"withAds": false
+},
+"origin": "diff",
+"overview": null,
+"overviewEn": null,
+"popularity": 0.17,
+"ratings": null,
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "La Réplica",
+"titleEn": null,
+"tmdbId": 675029,
 "trailerKey": null
 },
 "tvpvod:movie:676547:paid": {
@@ -169805,7 +172568,7 @@
 "origin": "diff",
 "overview": "Doświadczony gangster, do tej pory niezawodny i skuteczny, zaczyna odczuwać skutki długotrwałego stresu i życia na krawędzi. Pojawiają się niepokojące objawy, które skłaniają go do porzucenia dotychczasowego stylu życia i odnowienia relacji z rodziną. Zerwanie więzi z bezwzględnym i gotowym na wszystko przeciwnikiem jakim jest mafia, okaże się trudniejsze niż myślał. Mężczyzna ściąga niebezpieczeństwo na siebie i bliskich. Czy, zdradzony przez wspomnienia i dawnych sojuszników, znajdzie sposób na zmazanie grzechów mrocznej przeszłości?",
 "overviewEn": "An aging ex-boxer gangster working as muscle for a Boston crime boss receives an upsetting diagnosis.  Despite a faltering memory, he attempts to rectify the sins of his past and reconnect with his estranged children. He is determined to leave a positive legacy for his grandson, but the criminal underworld isn’t done with him and won’t loosen their grip willingly.",
-"popularity": 3.07,
+"popularity": 3.21,
 "ratings": {
 "imdb": 5.2,
 "imdbVotes": 11497,
@@ -169844,7 +172607,7 @@
 "origin": "diff",
 "overview": "Doświadczony gangster, do tej pory niezawodny i skuteczny, zaczyna odczuwać skutki długotrwałego stresu i życia na krawędzi. Pojawiają się niepokojące objawy, które skłaniają go do porzucenia dotychczasowego stylu życia i odnowienia relacji z rodziną. Zerwanie więzi z bezwzględnym i gotowym na wszystko przeciwnikiem jakim jest mafia, okaże się trudniejsze niż myślał. Mężczyzna ściąga niebezpieczeństwo na siebie i bliskich. Czy, zdradzony przez wspomnienia i dawnych sojuszników, znajdzie sposób na zmazanie grzechów mrocznej przeszłości?",
 "overviewEn": "An aging ex-boxer gangster working as muscle for a Boston crime boss receives an upsetting diagnosis.  Despite a faltering memory, he attempts to rectify the sins of his past and reconnect with his estranged children. He is determined to leave a positive legacy for his grandson, but the criminal underworld isn’t done with him and won’t loosen their grip willingly.",
-"popularity": 3.07,
+"popularity": 3.21,
 "ratings": {
 "imdb": 5.2,
 "imdbVotes": 11497,
