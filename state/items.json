@@ -1632,7 +1632,7 @@
 "access": "paid",
 "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
 "confirmedAt": "2026-11-23T15:55:40Z",
-"date": "2026-11-23",
+"date": "2026-11-24",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "appletv:movie:1263337:paid",
@@ -1783,7 +1783,7 @@
 },
 "appletv:movie:1280115:sub": {
 "access": "sub",
-"backdropPath": "/1JL6mDxYRauwv81bLupSZczC39M.jpg",
+"backdropPath": "/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
 "confirmedAt": "2026-11-25T15:33:45Z",
 "date": "2026-11-25",
 "dateConfirmed": true,
@@ -1808,7 +1808,7 @@
 "ratings": {
 "imdb": 6.1,
 "imdbVotes": 282,
-"tmdb": 7.3
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -10572,7 +10572,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 5427,
-"tmdb": 7.7
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -10611,7 +10611,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 5427,
-"tmdb": 7.7
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -10650,7 +10650,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 5427,
-"tmdb": 7.7
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -10689,7 +10689,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 5427,
-"tmdb": 7.7
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -10728,7 +10728,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 5427,
-"tmdb": 7.7
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -10767,7 +10767,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 5427,
-"tmdb": 7.7
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -10806,7 +10806,7 @@
 "ratings": {
 "imdb": 7.4,
 "imdbVotes": 5427,
-"tmdb": 7.7
+"tmdb": 7.6
 },
 "serviceKey": "appletv",
 "source": "tmdb",
@@ -10927,7 +10927,7 @@
 "appletv:tv:306179:s1e5:sub": {
 "access": "sub",
 "backdropPath": "/1csFLrwh28PrWyWyeUXzgyt4930.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -10954,7 +10954,7 @@
 },
 "serviceKey": "appletv",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Awkwafina: kuchenne odkrycia",
 "titleEn": "Awkwafina: The Unlikely Cook",
 "tmdbId": 306179,
@@ -11009,6 +11009,42 @@
 "allEpisodes": false,
 "episodeFrom": 7,
 "episodeTo": 7,
+"genres": [
+99
+],
+"kind": "doc_series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Hollywoodzka aktorka i komiczka Nora Lum (znana również jako Awkwafina) pochodzi z rodu restauratorów... ale nie umie gotować. Wyrusz z nią w inspirującą kulinarną podróż, podczas której uczy się rzemiosła i próbuje wskrzesić ukochaną przez wielu chińską restaurację jej rodziny.",
+"overviewEn": "Hollywood actor and comedian Nora Lum (a.k.a. Awkwafina) is the descendant of restaurant royalty...but she can't cook. Join the star on an inspiring culinary road trip as she learns the craft and attempts to revive her family's beloved Chinese eatery.",
+"popularity": 6.95,
+"ratings": {
+"imdb": 6.8,
+"imdbVotes": 148
+},
+"serviceKey": "appletv",
+"source": "tmdb",
+"status": "announced",
+"title": "Awkwafina: kuchenne odkrycia",
+"titleEn": "Awkwafina: The Unlikely Cook",
+"tmdbId": 306179,
+"trailerKey": "uCAZET6TZ60"
+},
+"appletv:tv:306179:s1e8:sub": {
+"access": "sub",
+"backdropPath": "/1csFLrwh28PrWyWyeUXzgyt4930.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "appletv:tv:306179:s1e8:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 8,
+"episodeTo": 8,
 "genres": [
 99
 ],
@@ -18392,7 +18428,7 @@
 "canalplus:movie:1140521:paid": {
 "access": "paid",
 "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -18422,7 +18458,7 @@
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Drzewo magii",
 "titleEn": "The Magic Faraway Tree",
 "tmdbId": 1140521,
@@ -23873,7 +23909,7 @@
 "access": "paid",
 "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
 "confirmedAt": "2026-11-23T15:55:40Z",
-"date": "2026-11-23",
+"date": "2026-11-24",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "canalplus:movie:1263337:paid",
@@ -78804,7 +78840,7 @@
 "canalplus:tv:128822:s6e10:sub": {
 "access": "sub",
 "backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -78831,7 +78867,7 @@
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "The Office PL",
 "titleEn": null,
 "tmdbId": 128822,
@@ -79541,7 +79577,7 @@
 "canalplus:tv:387:s18e1:sub": {
 "access": "sub",
 "backdropPath": "/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -79571,7 +79607,7 @@
 },
 "serviceKey": "canalplus",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "SpongeBob Kanciastoporty",
 "titleEn": "SpongeBob SquarePants",
 "tmdbId": 387,
@@ -81097,7 +81133,7 @@
 "cda:movie:1092936:sub": {
 "access": "sub",
 "backdropPath": "/n7wHpEFThBgm15bUH7e07frPJvV.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -81127,7 +81163,7 @@
 },
 "serviceKey": "cda",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Przeklęty chłopiec",
 "titleEn": "The Holy Boy",
 "tmdbId": 1092936,
@@ -98423,7 +98459,7 @@
 "cda:tv:244978:s3e4:sub": {
 "access": "sub",
 "backdropPath": "/5vcVf5hDtnKQVmHj9RSIaVwwvlx.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -98453,7 +98489,7 @@
 },
 "serviceKey": "cda",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Powrót do raju",
 "titleEn": "Return to Paradise",
 "tmdbId": 244978,
@@ -99903,6 +99939,42 @@
 "title": "Snøfall",
 "titleEn": "Snowfall",
 "tmdbId": 68913,
+"trailerKey": null
+},
+"cda:tv:72793:s11e1:sub": {
+"access": "sub",
+"backdropPath": "/x6oJ9xMFp9L8xqXwj26tSHocMnt.jpg",
+"confirmedAt": null,
+"date": "2026-12-15",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "cda:tv:72793:s11e1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 1,
+"episodeTo": 1,
+"genres": [
+99
+],
+"kind": "doc_series",
+"season": 11,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Paddy McGuinness and Cherry Healey get exclusive access to some of the largest factories in Britain to reveal the secrets behind production on an epic scale.",
+"overviewEn": "Paddy McGuinness and Cherry Healey get exclusive access to some of the largest factories in Britain to reveal the secrets behind production on an epic scale.",
+"popularity": 8.11,
+"ratings": {
+"imdb": 7.8,
+"imdbVotes": 413
+},
+"serviceKey": "cda",
+"source": "tmdb",
+"status": "announced",
+"title": "Inside the Factory",
+"titleEn": null,
+"tmdbId": 72793,
 "trailerKey": null
 },
 "cda:tv:764:s26:sub": {
@@ -103020,7 +103092,7 @@
 "disney:tv:154521:s8e8:sub": {
 "access": "sub",
 "backdropPath": "/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -103048,7 +103120,7 @@
 },
 "serviceKey": "disney",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "The Kardashians",
 "titleEn": null,
 "tmdbId": 154521,
@@ -103908,6 +103980,39 @@
 "tmdbId": 237241,
 "trailerKey": null
 },
+"disney:tv:237241:s1e159:sub": {
+"access": "sub",
+"backdropPath": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
+"date": "2026-11-26",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "disney:tv:237241:s1e159:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 159,
+"episodeTo": 159,
+"genres": [
+10767
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "An original series from The Overlap with Gary Neville, Jamie Carragher, Jill Scott, Ian Wright and Roy Keane, featuring special guests discussing all things football.",
+"overviewEn": "An original series from The Overlap with Gary Neville, Jamie Carragher, Jill Scott, Ian Wright and Roy Keane, featuring special guests discussing all things football.",
+"popularity": 16.83,
+"ratings": null,
+"serviceKey": "disney",
+"source": "tmdb",
+"status": "live",
+"title": "Stick to Football",
+"titleEn": null,
+"tmdbId": 237241,
+"trailerKey": null
+},
 "disney:tv:238738:sub": {
 "access": "sub",
 "backdropPath": "/p3L6DChq9oi8T9G5TLmaZKQ5iGD.jpg",
@@ -103974,7 +104079,7 @@
 "ratings": {
 "imdb": 3.7,
 "imdbVotes": 13592,
-"tmdb": 5.0
+"tmdb": 5.1
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -104012,7 +104117,7 @@
 "ratings": {
 "imdb": 3.7,
 "imdbVotes": 13592,
-"tmdb": 5.0
+"tmdb": 5.1
 },
 "serviceKey": "disney",
 "source": "tmdb",
@@ -104025,7 +104130,7 @@
 "disney:tv:261647:s1e26:sub": {
 "access": "sub",
 "backdropPath": "/wGeYd7lVxOzZsbJV7iipK8298hT.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -104054,7 +104159,7 @@
 },
 "serviceKey": "disney",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Jej Wysokość Zosia: Królewska Szkoła Magii",
 "titleEn": "Sofia the First: Royal Magic",
 "tmdbId": 261647,
@@ -117755,7 +117860,7 @@
 "hbomax:tv:280880:s2e8:sub": {
 "access": "sub",
 "backdropPath": "/xWTgLbS1HLr2sqwZH9sD6zO16Jj.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -117784,7 +117889,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Furia",
 "titleEn": "Rage (Furia)",
 "tmdbId": 280880,
@@ -118468,42 +118573,6 @@
 "tmdbId": 290564,
 "trailerKey": "5oeNWIfS2AQ"
 },
-"hbomax:tv:290564:s2e8:sub": {
-"access": "sub",
-"backdropPath": "/u33XkP4bARiOCW72AvrQU2MT6ls.jpg",
-"confirmedAt": "2026-11-24T15:50:28Z",
-"date": "2026-11-24",
-"dateConfirmed": true,
-"deepLinkId": null,
-"id": "hbomax:tv:290564:s2e8:sub",
-"mediaType": "tv",
-"meta": {
-"allEpisodes": false,
-"episodeFrom": 8,
-"episodeTo": 8,
-"genres": [
-10764
-],
-"kind": "series",
-"season": 2,
-"withAds": false
-},
-"origin": "schedule",
-"overview": "Ósemka singli po przejściach spotyka się z grupą potencjalnych partnerów w rajskiej scenerii Tulum w Meksyku. Jak zakończą się poszukiwania miłości?",
-"overviewEn": "Features eight singles from the 90 Day universe who are ready to embark on a quest for love once again, joined by fresh, new faces and romantic hopefuls.",
-"popularity": 2.72,
-"ratings": {
-"imdb": 5.7,
-"imdbVotes": 228
-},
-"serviceKey": "hbomax",
-"source": "tmdb",
-"status": "live",
-"title": "Wiza na miłość: single na polowaniu",
-"titleEn": "90 Day: Hunt for Love",
-"tmdbId": 290564,
-"trailerKey": "5oeNWIfS2AQ"
-},
 "hbomax:tv:290564:s2e9:sub": {
 "access": "sub",
 "backdropPath": "/u33XkP4bARiOCW72AvrQU2MT6ls.jpg",
@@ -118619,7 +118688,7 @@
 "hbomax:tv:305245:s1e3:sub": {
 "access": "sub",
 "backdropPath": "/bbCCaAlzJkCv8C8AFr8l1rBWJyt.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -118648,7 +118717,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Wśród nocnej ciszy",
 "titleEn": "Silent Night",
 "tmdbId": 305245,
@@ -118705,6 +118774,44 @@
 "allEpisodes": false,
 "episodeFrom": 5,
 "episodeTo": 5,
+"genres": [
+80,
+18,
+9648
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Rok 1976. W noc wigilii świąt Bożego Narodzenia troje młodych ludzi wraca z pasterki. Ciężarna kobieta, jej mąż i młodszy brat giną pod kołami autobusu. Początkowo wszystko wskazuje na tragiczny wypadek. Jednak prawda, która stopniowo zaczyna wychodzić na jaw, okazuje się trudna do udźwignięcia.",
+"overviewEn": "Follow the aftermath of a brutal Christmas Eve crime and its impact on a rural Polish community.",
+"popularity": 9.77,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 120
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Wśród nocnej ciszy",
+"titleEn": "Silent Night",
+"tmdbId": 305245,
+"trailerKey": null
+},
+"hbomax:tv:305245:s1e6:sub": {
+"access": "sub",
+"backdropPath": "/bbCCaAlzJkCv8C8AFr8l1rBWJyt.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:305245:s1e6:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
 "genres": [
 80,
 18,
@@ -118961,7 +119068,7 @@
 "hbomax:tv:314360:s1e7:sub": {
 "access": "sub",
 "backdropPath": "/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -118991,7 +119098,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Jaga",
 "titleEn": "YAGA",
 "tmdbId": 314360,
@@ -119887,7 +119994,7 @@
 "hbomax:tv:339697:s1e4:sub": {
 "access": "sub",
 "backdropPath": "/r5ecc4Wjejsp6B507GdZXOPTNMo.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -119914,7 +120021,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Melania Rea: Więcej niż przypadek",
 "titleEn": "Melania Rea",
 "tmdbId": 339697,
@@ -121004,7 +121111,7 @@
 "hbomax:tv:55808:s28e13:sub": {
 "access": "sub",
 "backdropPath": "/mmRm55pCBRUmWGscuLncdfcVmGm.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -121033,7 +121140,7 @@
 },
 "serviceKey": "hbomax",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Gogglebox",
 "titleEn": null,
 "tmdbId": 55808,
@@ -121090,6 +121197,44 @@
 "allEpisodes": false,
 "episodeFrom": 15,
 "episodeTo": 15,
+"genres": [
+10751,
+10764
+],
+"kind": "series",
+"season": 28,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Gogglebox is an entertaining television review programme in which some of Britain's most opinionated and avid telly viewers comment freely on the best and worst television shows of the past week, from the comfort of their sofas.",
+"overviewEn": "Gogglebox is an entertaining television review programme in which some of Britain's most opinionated and avid telly viewers comment freely on the best and worst television shows of the past week, from the comfort of their sofas.",
+"popularity": 6.19,
+"ratings": {
+"imdb": 7.4,
+"imdbVotes": 3341,
+"tmdb": 7.0
+},
+"serviceKey": "hbomax",
+"source": "tmdb",
+"status": "announced",
+"title": "Gogglebox",
+"titleEn": null,
+"tmdbId": 55808,
+"trailerKey": "a6w3Umb631U"
+},
+"hbomax:tv:55808:s28e16:sub": {
+"access": "sub",
+"backdropPath": "/mmRm55pCBRUmWGscuLncdfcVmGm.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "hbomax:tv:55808:s28e16:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 16,
+"episodeTo": 16,
 "genres": [
 10751,
 10764
@@ -123410,7 +123555,6 @@
 "episodeTo": null,
 "genres": [
 10752,
-36,
 18
 ],
 "kind": "movie",
@@ -123424,7 +123568,7 @@
 "ratings": {
 "imdb": 6.5,
 "imdbVotes": 742,
-"tmdb": 7.2
+"tmdb": 7.4
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -130549,7 +130693,7 @@
 "netflix:tv:103540:s3e3:sub": {
 "access": "sub",
 "backdropPath": "/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -130579,7 +130723,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Percy Jackson i bogowie olimpijscy",
 "titleEn": "Percy Jackson and the Olympians",
 "tmdbId": 103540,
@@ -131261,7 +131405,7 @@
 "netflix:tv:1549:s28e48:sub": {
 "access": "sub",
 "backdropPath": "/mWIyoSdVQxdr1bA423tObJwJSR.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -131289,7 +131433,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "WWE Friday Night SmackDown",
 "titleEn": null,
 "tmdbId": 1549,
@@ -131345,6 +131489,43 @@
 "allEpisodes": false,
 "episodeFrom": 50,
 "episodeTo": 50,
+"genres": [
+10764
+],
+"kind": "series",
+"season": 28,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "The superstars of World Wrestling Entertainment's \"SmackDown\" brand collide each and every Friday on WWE Friday Night SmackDown.",
+"overviewEn": "The superstars of World Wrestling Entertainment's \"SmackDown\" brand collide each and every Friday on WWE Friday Night SmackDown.",
+"popularity": 99.52,
+"ratings": {
+"imdb": 7.3,
+"imdbVotes": 8031,
+"tmdb": 7.4
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "WWE Friday Night SmackDown",
+"titleEn": null,
+"tmdbId": 1549,
+"trailerKey": null
+},
+"netflix:tv:1549:s28e51:sub": {
+"access": "sub",
+"backdropPath": "/mWIyoSdVQxdr1bA423tObJwJSR.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:1549:s28e51:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 51,
+"episodeTo": 51,
 "genres": [
 10764
 ],
@@ -132270,8 +132451,8 @@
 "serviceKey": "netflix",
 "source": "tmdb",
 "status": "live",
-"title": "The Hunting Wives",
-"titleEn": null,
+"title": "Klub polujących żon",
+"titleEn": "The Hunting Wives",
 "tmdbId": 244447,
 "trailerKey": "uZvZfqiAhdQ"
 },
@@ -132577,6 +132758,45 @@
 "tmdbId": 253811,
 "trailerKey": "j_0eK6R7fm8"
 },
+"netflix:tv:253811:s2e12:sub": {
+"access": "sub",
+"backdropPath": "/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:253811:s2e12:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 12,
+"episodeTo": 12,
+"genres": [
+16,
+9648,
+10759
+],
+"kind": "series",
+"season": 2,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Shiki, którego przybrany ojciec ginie z rąk zabójcy z agencji Momotarou, przysięga zemstę. Zanim jednak będzie mógł ją spełnić, musi nauczyć się panować nad niedawno przebudzonym dziedzictwem Oni i opanować potężną, lecz niebezpieczną moc. Wciągnięty w odwieczny konflikt między Oni a Momotarou, Shiki staje przed wyborem, który zadecyduje o jego losie i przyszłości obu światów.",
+"overviewEn": "After a Momotaro assassin suddenly kills his adoptive father, Shiki vows to avenge him. But first, he must learn to control his newly awakened Oni blood.",
+"popularity": 27.37,
+"ratings": {
+"imdb": 6.5,
+"imdbVotes": 2997,
+"tmdb": 7.7
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "Tougen Anki",
+"titleEn": null,
+"tmdbId": 253811,
+"trailerKey": "j_0eK6R7fm8"
+},
 "netflix:tv:253811:s2e6:sub": {
 "access": "sub",
 "backdropPath": "/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
@@ -132697,7 +132917,7 @@
 "netflix:tv:253811:s2e9:sub": {
 "access": "sub",
 "backdropPath": "/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -132727,7 +132947,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Tougen Anki",
 "titleEn": null,
 "tmdbId": 253811,
@@ -132761,7 +132981,7 @@
 "ratings": {
 "imdb": 7.2,
 "imdbVotes": 8357,
-"tmdb": 7.7
+"tmdb": 7.8
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -132799,7 +133019,7 @@
 "ratings": {
 "imdb": 7.2,
 "imdbVotes": 8357,
-"tmdb": 7.7
+"tmdb": 7.8
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -132837,7 +133057,7 @@
 "ratings": {
 "imdb": 7.2,
 "imdbVotes": 8357,
-"tmdb": 7.7
+"tmdb": 7.8
 },
 "serviceKey": "netflix",
 "source": "tmdb",
@@ -132850,7 +133070,7 @@
 "netflix:tv:256711:s2e7:sub": {
 "access": "sub",
 "backdropPath": "/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -132875,11 +133095,11 @@
 "ratings": {
 "imdb": 7.2,
 "imdbVotes": 8357,
-"tmdb": 7.7
+"tmdb": 7.8
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Złoty prawnik",
 "titleEn": "The Rainmaker",
 "tmdbId": 256711,
@@ -133824,7 +134044,7 @@
 "netflix:tv:286277:s3e23:sub": {
 "access": "sub",
 "backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -133850,7 +134070,7 @@
 "ratings": null,
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Rubble & Crew",
 "titleEn": null,
 "tmdbId": 286277,
@@ -133904,6 +134124,41 @@
 "allEpisodes": false,
 "episodeFrom": 25,
 "episodeTo": 25,
+"genres": [
+16,
+10762,
+10751
+],
+"kind": "series",
+"season": 3,
+"withAds": false
+},
+"origin": "schedule",
+"overview": null,
+"overviewEn": null,
+"popularity": 4.38,
+"ratings": null,
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "Rubble & Crew",
+"titleEn": null,
+"tmdbId": 286277,
+"trailerKey": null
+},
+"netflix:tv:286277:s3e26:sub": {
+"access": "sub",
+"backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:286277:s3e26:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 26,
+"episodeTo": 26,
 "genres": [
 16,
 10762,
@@ -135184,7 +135439,7 @@
 "netflix:tv:294637:s2e39:sub": {
 "access": "sub",
 "backdropPath": "/mWzn4Mg7FbuDMg7CKR88dKlWAwg.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -135209,7 +135464,7 @@
 "ratings": null,
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Młode gliny",
 "titleEn": null,
 "tmdbId": 294637,
@@ -135892,7 +136147,7 @@
 "netflix:tv:307478:s1e9:sub": {
 "access": "sub",
 "backdropPath": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -135921,7 +136176,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "라이어",
 "titleEn": "The Perfect Lie",
 "tmdbId": 307478,
@@ -138364,7 +138619,7 @@
 "netflix:tv:325762:s1e27:sub": {
 "access": "sub",
 "backdropPath": "/b86uanEjgbU12B0hbN81dXmIU5C.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -138389,7 +138644,7 @@
 "ratings": null,
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "The Adam Ray Show",
 "titleEn": null,
 "tmdbId": 325762,
@@ -138442,6 +138697,40 @@
 "allEpisodes": false,
 "episodeFrom": 29,
 "episodeTo": 29,
+"genres": [
+10767,
+35
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Step inside the hilarious, shape-shifting world of Adam Ray. The renowned comedian meets up with today’s funniest people and most fascinating stars, blending deep-dive conversations with his signature improvised character work.",
+"overviewEn": "Step inside the hilarious, shape-shifting world of Adam Ray. The renowned comedian meets up with today’s funniest people and most fascinating stars, blending deep-dive conversations with his signature improvised character work.",
+"popularity": 3.93,
+"ratings": null,
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "The Adam Ray Show",
+"titleEn": null,
+"tmdbId": 325762,
+"trailerKey": null
+},
+"netflix:tv:325762:s1e30:sub": {
+"access": "sub",
+"backdropPath": "/b86uanEjgbU12B0hbN81dXmIU5C.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:325762:s1e30:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 30,
+"episodeTo": 30,
 "genres": [
 10767,
 35
@@ -138528,6 +138817,42 @@
 "title": "Na twoim miejscu",
 "titleEn": null,
 "tmdbId": 327709,
+"trailerKey": null
+},
+"netflix:tv:329490:s1e10:sub": {
+"access": "sub",
+"backdropPath": "/blB4qv0LlOUriouoPqkFJlLe6Ki.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "netflix:tv:329490:s1e10:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 10,
+"episodeTo": 10,
+"genres": [
+9648
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "A detective investigates the truth behind a deadly Hokkaido mountain-tour accident, where conflicting testimonies, betrayal, and entrenched power intertwine.",
+"overviewEn": "A detective investigates the truth behind a deadly Hokkaido mountain-tour accident, where conflicting testimonies, betrayal, and entrenched power intertwine.",
+"popularity": 4.05,
+"ratings": {
+"imdb": 7.6,
+"imdbVotes": 29
+},
+"serviceKey": "netflix",
+"source": "tmdb",
+"status": "announced",
+"title": "LOST10",
+"titleEn": null,
+"tmdbId": 329490,
 "trailerKey": null
 },
 "netflix:tv:329490:s1e4:sub": {
@@ -138641,7 +138966,7 @@
 "netflix:tv:329490:s1e7:sub": {
 "access": "sub",
 "backdropPath": "/blB4qv0LlOUriouoPqkFJlLe6Ki.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -138668,7 +138993,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "LOST10",
 "titleEn": null,
 "tmdbId": 329490,
@@ -139082,7 +139407,7 @@
 "netflix:tv:332649:s1e6:sub": {
 "access": "sub",
 "backdropPath": "/uNk5pCHUNgxGoe4bJuMYjAAuKFf.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -139110,7 +139435,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Cienie dziesięciu ninja",
 "titleEn": "Shadows of the Ten Ninja",
 "tmdbId": 332649,
@@ -140686,7 +141011,7 @@
 "netflix:tv:341603:s1e3:sub": {
 "access": "sub",
 "backdropPath": "/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -140710,7 +141035,7 @@
 "ratings": null,
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Stars and Vows: Anele & Buzza",
 "titleEn": null,
 "tmdbId": 341603,
@@ -141001,7 +141326,7 @@
 "netflix:tv:387:s18e1:sub": {
 "access": "sub",
 "backdropPath": "/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -141031,7 +141356,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "SpongeBob Kanciastoporty",
 "titleEn": "SpongeBob SquarePants",
 "tmdbId": 387,
@@ -141229,7 +141554,7 @@
 "netflix:tv:45790:s6e11:sub": {
 "access": "sub",
 "backdropPath": "/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -141259,7 +141584,7 @@
 },
 "serviceKey": "netflix",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "JoJo's Bizarre Adventure",
 "titleEn": null,
 "tmdbId": 45790,
@@ -144619,7 +144944,7 @@
 "player:movie:1140521:paid": {
 "access": "paid",
 "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -144649,7 +144974,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Drzewo magii",
 "titleEn": "The Magic Faraway Tree",
 "tmdbId": 1140521,
@@ -145971,7 +146296,7 @@
 "access": "paid",
 "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
 "confirmedAt": "2026-11-23T15:55:40Z",
-"date": "2026-11-23",
+"date": "2026-11-24",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "player:movie:1263337:paid",
@@ -155037,7 +155362,7 @@
 "player:tv:128822:s6e10:sub": {
 "access": "sub",
 "backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -155064,7 +155389,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "The Office PL",
 "titleEn": null,
 "tmdbId": 128822,
@@ -159685,7 +160010,7 @@
 "player:tv:294637:s2e39:sub": {
 "access": "sub",
 "backdropPath": "/mWzn4Mg7FbuDMg7CKR88dKlWAwg.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -159710,7 +160035,7 @@
 "ratings": null,
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Młode gliny",
 "titleEn": null,
 "tmdbId": 294637,
@@ -161814,7 +162139,7 @@
 "player:tv:34634:s17e9:sub": {
 "access": "sub",
 "backdropPath": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -161842,7 +162167,7 @@
 },
 "serviceKey": "player",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Gorączka Złota",
 "titleEn": "Gold Rush",
 "tmdbId": 34634,
@@ -165948,7 +166273,7 @@
 "polsatboxgo:movie:1140521:sub": {
 "access": "sub",
 "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -165978,7 +166303,7 @@
 },
 "serviceKey": "polsatboxgo",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Drzewo magii",
 "titleEn": "The Magic Faraway Tree",
 "tmdbId": 1140521,
@@ -180052,7 +180377,7 @@
 "prime:movie:1140521:paid": {
 "access": "paid",
 "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -180082,7 +180407,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Drzewo magii",
 "titleEn": "The Magic Faraway Tree",
 "tmdbId": 1140521,
@@ -181729,7 +182054,7 @@
 "access": "paid",
 "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
 "confirmedAt": "2026-11-23T15:55:40Z",
-"date": "2026-11-23",
+"date": "2026-11-24",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "prime:movie:1263337:paid",
@@ -198942,7 +199267,7 @@
 "prime:tv:139434:s6e11:sub": {
 "access": "sub",
 "backdropPath": "/5iOySYfc1vV8nDvmqWQ0sHk7q2q.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -198971,7 +199296,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "7 vs. Wild",
 "titleEn": null,
 "tmdbId": 139434,
@@ -199395,6 +199720,45 @@
 "tmdbId": 139434,
 "trailerKey": null
 },
+"prime:tv:153312:s4e10:paid": {
+"access": "paid",
+"backdropPath": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:153312:s4e10:paid",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 10,
+"episodeTo": 10,
+"genres": [
+80,
+18,
+35
+],
+"kind": "series",
+"season": 4,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Zwolniony po 25 latach z więzienia członek nowojorskiej mafii Dwight \"Generał\" Manfredi zostaje zesłany przez szefa do Oklahomy, aby rozszerzyć działalność. Podejrzewając, że mafia działa przeciwko niemu, bohater powoli buduje własną ekipę.",
+"overviewEn": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+"popularity": 300.12,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 125457,
+"tmdb": 8.3
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "Król Tulsy",
+"titleEn": "Tulsa King",
+"tmdbId": 153312,
+"trailerKey": "aaQSScwZPbA"
+},
 "prime:tv:153312:s4e4:paid": {
 "access": "paid",
 "backdropPath": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
@@ -199515,7 +199879,7 @@
 "prime:tv:153312:s4e7:paid": {
 "access": "paid",
 "backdropPath": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -199545,7 +199909,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Król Tulsy",
 "titleEn": "Tulsa King",
 "tmdbId": 153312,
@@ -199704,7 +200068,7 @@
 "title": "Diabelska godzina",
 "titleEn": "The Devil's Hour",
 "tmdbId": 157061,
-"trailerKey": "x5Qp9ZHjJ54"
+"trailerKey": "H5CCF39hIVw"
 },
 "prime:tv:15819:free": {
 "access": "free",
@@ -199822,6 +200186,44 @@
 "titleEn": "Warehouse 13",
 "tmdbId": 15819,
 "trailerKey": "JDyA4508gSY"
+},
+"prime:tv:171802:s1:sub": {
+"access": "sub",
+"backdropPath": "/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+"confirmedAt": "2026-11-26T23:48:51Z",
+"date": "2026-11-24",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:171802:s1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": true,
+"episodeFrom": null,
+"episodeTo": null,
+"genres": [
+10765,
+18
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Cora, zbiegła kobieta, która została łowczynią androidów, łączy siły z umierającą replikantką Olwen, by wytropić uciekiniera w odrodzonym Los Angeles. Razem odkrywają prawdę, która grozi zniszczeniem ich kruchego miasta.",
+"overviewEn": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
+"popularity": 186.07,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 841,
+"tmdb": 5.2
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Blade Runner 2099",
+"titleEn": null,
+"tmdbId": 171802,
+"trailerKey": "anLIzIIMazg"
 },
 "prime:tv:171802:sub": {
 "access": "sub",
@@ -200264,8 +200666,8 @@
 "serviceKey": "prime",
 "source": "tmdb",
 "status": "live",
-"title": "The Hunting Wives",
-"titleEn": null,
+"title": "Klub polujących żon",
+"titleEn": "The Hunting Wives",
 "tmdbId": 244447,
 "trailerKey": "uZvZfqiAhdQ"
 },
@@ -201623,6 +202025,278 @@
 "tmdbId": 303745,
 "trailerKey": null
 },
+"prime:tv:310209:s1e1:sub": {
+"access": "sub",
+"backdropPath": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
+"confirmedAt": "2026-11-26T23:48:51Z",
+"date": "2026-11-25",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:310209:s1e1:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 1,
+"episodeTo": 1,
+"genres": [
+18,
+35
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Szefowej Chronic Motors, Kang Yi-ji, oskarżonej o podpalenie auta, grozi degradacja. Czy uda jej się odnaleźć szczęście w świecie biurowych intryg?",
+"overviewEn": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+"popularity": 18.51,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Miłość po godzinach",
+"titleEn": "Nine to Six",
+"tmdbId": 310209,
+"trailerKey": null
+},
+"prime:tv:310209:s1e2:sub": {
+"access": "sub",
+"backdropPath": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
+"confirmedAt": "2026-11-26T23:48:51Z",
+"date": "2026-11-26",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:310209:s1e2:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 2,
+"episodeTo": 2,
+"genres": [
+18,
+35
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Szefowej Chronic Motors, Kang Yi-ji, oskarżonej o podpalenie auta, grozi degradacja. Czy uda jej się odnaleźć szczęście w świecie biurowych intryg?",
+"overviewEn": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+"popularity": 18.51,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "live",
+"title": "Miłość po godzinach",
+"titleEn": "Nine to Six",
+"tmdbId": 310209,
+"trailerKey": null
+},
+"prime:tv:310209:s1e3:sub": {
+"access": "sub",
+"backdropPath": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
+"confirmedAt": null,
+"date": "2026-12-02",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:310209:s1e3:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 3,
+"episodeTo": 3,
+"genres": [
+18,
+35
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Szefowej Chronic Motors, Kang Yi-ji, oskarżonej o podpalenie auta, grozi degradacja. Czy uda jej się odnaleźć szczęście w świecie biurowych intryg?",
+"overviewEn": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+"popularity": 18.51,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "Miłość po godzinach",
+"titleEn": "Nine to Six",
+"tmdbId": 310209,
+"trailerKey": null
+},
+"prime:tv:310209:s1e4:sub": {
+"access": "sub",
+"backdropPath": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
+"confirmedAt": null,
+"date": "2026-12-03",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:310209:s1e4:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 4,
+"episodeTo": 4,
+"genres": [
+18,
+35
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Szefowej Chronic Motors, Kang Yi-ji, oskarżonej o podpalenie auta, grozi degradacja. Czy uda jej się odnaleźć szczęście w świecie biurowych intryg?",
+"overviewEn": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+"popularity": 18.51,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "Miłość po godzinach",
+"titleEn": "Nine to Six",
+"tmdbId": 310209,
+"trailerKey": null
+},
+"prime:tv:310209:s1e5:sub": {
+"access": "sub",
+"backdropPath": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
+"confirmedAt": null,
+"date": "2026-12-09",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:310209:s1e5:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 5,
+"episodeTo": 5,
+"genres": [
+18,
+35
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Szefowej Chronic Motors, Kang Yi-ji, oskarżonej o podpalenie auta, grozi degradacja. Czy uda jej się odnaleźć szczęście w świecie biurowych intryg?",
+"overviewEn": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+"popularity": 18.51,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "Miłość po godzinach",
+"titleEn": "Nine to Six",
+"tmdbId": 310209,
+"trailerKey": null
+},
+"prime:tv:310209:s1e6:sub": {
+"access": "sub",
+"backdropPath": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
+"confirmedAt": null,
+"date": "2026-12-10",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:310209:s1e6:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 6,
+"episodeTo": 6,
+"genres": [
+18,
+35
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Szefowej Chronic Motors, Kang Yi-ji, oskarżonej o podpalenie auta, grozi degradacja. Czy uda jej się odnaleźć szczęście w świecie biurowych intryg?",
+"overviewEn": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+"popularity": 18.51,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "Miłość po godzinach",
+"titleEn": "Nine to Six",
+"tmdbId": 310209,
+"trailerKey": null
+},
+"prime:tv:310209:s1e7:sub": {
+"access": "sub",
+"backdropPath": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
+"confirmedAt": null,
+"date": "2026-12-16",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:310209:s1e7:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 7,
+"episodeTo": 7,
+"genres": [
+18,
+35
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Szefowej Chronic Motors, Kang Yi-ji, oskarżonej o podpalenie auta, grozi degradacja. Czy uda jej się odnaleźć szczęście w świecie biurowych intryg?",
+"overviewEn": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+"popularity": 18.51,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "Miłość po godzinach",
+"titleEn": "Nine to Six",
+"tmdbId": 310209,
+"trailerKey": null
+},
+"prime:tv:310209:s1e8:sub": {
+"access": "sub",
+"backdropPath": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
+"confirmedAt": null,
+"date": "2026-12-17",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:310209:s1e8:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 8,
+"episodeTo": 8,
+"genres": [
+18,
+35
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Szefowej Chronic Motors, Kang Yi-ji, oskarżonej o podpalenie auta, grozi degradacja. Czy uda jej się odnaleźć szczęście w świecie biurowych intryg?",
+"overviewEn": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+"popularity": 18.51,
+"ratings": null,
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "Miłość po godzinach",
+"titleEn": "Nine to Six",
+"tmdbId": 310209,
+"trailerKey": null
+},
 "prime:tv:310209:sub": {
 "access": "sub",
 "backdropPath": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
@@ -202437,7 +203111,7 @@
 "prime:tv:328010:s1e5:sub": {
 "access": "sub",
 "backdropPath": "/fA6eLsm6xEBK90IK3UNWoVPZBn7.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -202466,7 +203140,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Diabelska pieczęć",
 "titleEn": "Devils' Crest",
 "tmdbId": 328010,
@@ -202523,6 +203197,44 @@
 "allEpisodes": false,
 "episodeFrom": 7,
 "episodeTo": 7,
+"genres": [
+10759,
+10765,
+16
+],
+"kind": "series",
+"season": 1,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Nowa seria Rekiego Kawahary, autora „Accel World\" i „Sword Art Online\". „Sword Art Online\" poruszał temat wirtualnej rzeczywistości, „Sword Art Online the Movie: Ordinal Scale\" rzeczywistości rozszerzonej, a „Diabelska Pieczęć\" rzeczywistości mieszanej. Gdy Actual Magic, pierwsza pełnoimmersyjna gra VRMMORPG, przenika do rzeczywistości, zaczyna się nowa, śmiertelna gra. Która jest także realna.",
+"overviewEn": "Yuma Ashihara was set to enjoy a test session of Actual Magic (AM)—the world's first fulldive VRMMO-RPG—together with his classmates Sawa Ashihara, Kenji Kondo, and Minagi Sano. The plan was simple: defeat the boss as a party of four, log out, and finish the test play safely — or at least, that's how it was supposed to go.",
+"popularity": 14.89,
+"ratings": {
+"imdb": 6.3,
+"imdbVotes": 87
+},
+"serviceKey": "prime",
+"source": "tmdb",
+"status": "announced",
+"title": "Diabelska pieczęć",
+"titleEn": "Devils' Crest",
+"tmdbId": 328010,
+"trailerKey": "fB4EfJcItPE"
+},
+"prime:tv:328010:s1e8:sub": {
+"access": "sub",
+"backdropPath": "/fA6eLsm6xEBK90IK3UNWoVPZBn7.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "prime:tv:328010:s1e8:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 8,
+"episodeTo": 8,
 "genres": [
 10759,
 10765,
@@ -203178,7 +203890,7 @@
 "prime:tv:387:s18e1:paid": {
 "access": "paid",
 "backdropPath": "/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -203208,7 +203920,7 @@
 },
 "serviceKey": "prime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "SpongeBob Kanciastoporty",
 "titleEn": "SpongeBob SquarePants",
 "tmdbId": 387,
@@ -205483,7 +206195,7 @@
 "rakuten:movie:1140521:paid": {
 "access": "paid",
 "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -205513,7 +206225,7 @@
 },
 "serviceKey": "rakuten",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Drzewo magii",
 "titleEn": "The Magic Faraway Tree",
 "tmdbId": 1140521,
@@ -206334,7 +207046,7 @@
 "access": "paid",
 "backdropPath": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
 "confirmedAt": "2026-11-23T15:55:40Z",
-"date": "2026-11-23",
+"date": "2026-11-24",
 "dateConfirmed": true,
 "deepLinkId": null,
 "id": "rakuten:movie:1263337:paid",
@@ -212857,7 +213569,7 @@
 "skyshowtime:tv:126824:s6e9:sub": {
 "access": "sub",
 "backdropPath": "/kP7pCxfml6erWC9aB72ALtNawJq.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -212887,7 +213599,7 @@
 },
 "serviceKey": "skyshowtime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Patryk Rozgwiazda Show",
 "titleEn": "The Patrick Star Show",
 "tmdbId": 126824,
@@ -212896,7 +213608,7 @@
 "skyshowtime:tv:128822:s6e10:sub": {
 "access": "sub",
 "backdropPath": "/9gm3mqdQ1FcK0R8GMKs85xAbhAp.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -212923,7 +213635,7 @@
 },
 "serviceKey": "skyshowtime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "The Office PL",
 "titleEn": null,
 "tmdbId": 128822,
@@ -213036,6 +213748,45 @@
 "titleEn": null,
 "tmdbId": 128822,
 "trailerKey": "gkuO61ta8Js"
+},
+"skyshowtime:tv:153312:s4e10:sub": {
+"access": "sub",
+"backdropPath": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:tv:153312:s4e10:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 10,
+"episodeTo": 10,
+"genres": [
+80,
+18,
+35
+],
+"kind": "series",
+"season": 4,
+"withAds": false
+},
+"origin": "schedule",
+"overview": "Zwolniony po 25 latach z więzienia członek nowojorskiej mafii Dwight \"Generał\" Manfredi zostaje zesłany przez szefa do Oklahomy, aby rozszerzyć działalność. Podejrzewając, że mafia działa przeciwko niemu, bohater powoli buduje własną ekipę.",
+"overviewEn": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+"popularity": 300.12,
+"ratings": {
+"imdb": 7.9,
+"imdbVotes": 125457,
+"tmdb": 8.3
+},
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "announced",
+"title": "Król Tulsy",
+"titleEn": "Tulsa King",
+"tmdbId": 153312,
+"trailerKey": "aaQSScwZPbA"
 },
 "skyshowtime:tv:153312:s4e4:sub": {
 "access": "sub",
@@ -213157,7 +213908,7 @@
 "skyshowtime:tv:153312:s4e7:sub": {
 "access": "sub",
 "backdropPath": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -213187,7 +213938,7 @@
 },
 "serviceKey": "skyshowtime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Król Tulsy",
 "titleEn": "Tulsa King",
 "tmdbId": 153312,
@@ -214415,7 +215166,7 @@
 "skyshowtime:tv:286277:s3e23:sub": {
 "access": "sub",
 "backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -214441,7 +215192,7 @@
 "ratings": null,
 "serviceKey": "skyshowtime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Rubble & Crew",
 "titleEn": null,
 "tmdbId": 286277,
@@ -214495,6 +215246,41 @@
 "allEpisodes": false,
 "episodeFrom": 25,
 "episodeTo": 25,
+"genres": [
+16,
+10762,
+10751
+],
+"kind": "series",
+"season": 3,
+"withAds": false
+},
+"origin": "schedule",
+"overview": null,
+"overviewEn": null,
+"popularity": 4.38,
+"ratings": null,
+"serviceKey": "skyshowtime",
+"source": "tmdb",
+"status": "announced",
+"title": "Rubble & Crew",
+"titleEn": null,
+"tmdbId": 286277,
+"trailerKey": null
+},
+"skyshowtime:tv:286277:s3e26:sub": {
+"access": "sub",
+"backdropPath": "/bU61zseAE4I4S9uu4cUHFa1kP1H.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "skyshowtime:tv:286277:s3e26:sub",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 26,
+"episodeTo": 26,
 "genres": [
 16,
 10762,
@@ -215210,7 +215996,7 @@
 "skyshowtime:tv:387:s18e1:sub": {
 "access": "sub",
 "backdropPath": "/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -215240,7 +216026,7 @@
 },
 "serviceKey": "skyshowtime",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "SpongeBob Kanciastoporty",
 "titleEn": "SpongeBob SquarePants",
 "tmdbId": 387,
@@ -217350,7 +218136,7 @@
 "tvpvod:movie:1140521:paid": {
 "access": "paid",
 "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -217380,7 +218166,7 @@
 },
 "serviceKey": "tvpvod",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Drzewo magii",
 "titleEn": "The Magic Faraway Tree",
 "tmdbId": 1140521,
@@ -229603,7 +230389,7 @@
 "tvpvod:tv:213194:s5e10:free": {
 "access": "free",
 "backdropPath": "/a4FHdQfPGT1T2w4DYUEGgRMxSgZ.jpg",
-"confirmedAt": null,
+"confirmedAt": "2026-11-26T23:48:51Z",
 "date": "2026-11-27",
 "dateConfirmed": true,
 "deepLinkId": null,
@@ -229632,7 +230418,7 @@
 },
 "serviceKey": "tvpvod",
 "source": "tmdb",
-"status": "announced",
+"status": "live",
 "title": "Jedna miłość",
 "titleEn": "Kızılcık Şerbeti",
 "tmdbId": 213194,
@@ -229689,6 +230475,44 @@
 "allEpisodes": false,
 "episodeFrom": 12,
 "episodeTo": 12,
+"genres": [
+10751,
+18
+],
+"kind": "series",
+"season": 5,
+"withAds": true
+},
+"origin": "schedule",
+"overview": "Współczesny serial obyczajowy, w którym prywatne wybory młodych ludzi prowadzą do otwartego konfliktu wartości, światopoglądów i rodzinnych oczekiwań. Jedno uczucie uruchamia ciąg zdarzeń, których konsekwencje wykraczają daleko poza życie dwojga bohaterów.",
+"overviewEn": "When free-spirited Doğa falls head over heels for charming Fatih, nobody expects the chaos that follows. His family is deeply conservative and devout; hers is modern and secular — and neither side is ready to back down. What starts as a love story quickly becomes a collision of two very different Turkeys, played out through family dinners, in-law battles and everything in between. Sharp, relatable and impossible to stop watching.",
+"popularity": 27.87,
+"ratings": {
+"imdb": 5.3,
+"imdbVotes": 4808,
+"tmdb": 6.7
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "announced",
+"title": "Jedna miłość",
+"titleEn": "Kızılcık Şerbeti",
+"tmdbId": 213194,
+"trailerKey": null
+},
+"tvpvod:tv:213194:s5e13:free": {
+"access": "free",
+"backdropPath": "/a4FHdQfPGT1T2w4DYUEGgRMxSgZ.jpg",
+"confirmedAt": null,
+"date": "2026-12-18",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:tv:213194:s5e13:free",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 13,
+"episodeTo": 13,
 "genres": [
 10751,
 18
@@ -230595,6 +231419,42 @@
 "allEpisodes": false,
 "episodeFrom": 59,
 "episodeTo": 59,
+"genres": [
+18
+],
+"kind": "series",
+"season": 4,
+"withAds": true
+},
+"origin": "schedule",
+"overview": "Serial opowiada historie Hancer (w tej roli Talya Celebi), która wychodzi za mąż za Cihana (Cenay Turksever), by zdobyć pieniądze na leczenie chorego brata, Cemila. Po ślubie trafia do bardzo tajemniczej rezydencji rodziny Develioglu. Niepodzielnie rządzi tam matka jej męża, obdarzona żelazną wolą i charakterem Mukadder (Betigul Ceylan). Jest też była już żona Cihana, Beyza, która nie może się pogodzić z rozwodem. Hacer i Cemil nie mają rodziców. Dziewczyna wiele już w życiu przeszła. Teraz zrobi wszystko, by uratować brata, który jest jej jedyną rodziną.",
+"overviewEn": "The continuation of the lineage of a deep-rooted family depends on Cihan Develioğlu's unborn son, but Cihan cannot have a child due to his wife. Mukadder plays a cruel game for her son Cihan to have a son. Mukadder goes to Cihan's wife, Beyza, with a dangerous proposal and asks her to divorce her son. Named after her sharp looks, Hançer faces an offer that will turn her life upside down. Mukadder, who takes advantage of the fact that Hançer is poor and has a family that will not cause trouble, offers her the opportunity to marry her son and give birth to a male child. Hançer, who dreams of finding the love of her life and having a happy marriage, first rejects this offer. However, she is forced to accept the offer when she learns that her brother has a deadly illness. Cihan and Hançer, who have entered an irreversible path, will no longer be the same. Will these two young people, drawn into a big game and lost in a dark maze, fall under the spell of love contrary to the planned games?",
+"popularity": 29.78,
+"ratings": {
+"imdb": 4.0,
+"imdbVotes": 265
+},
+"serviceKey": "tvpvod",
+"source": "tmdb",
+"status": "live",
+"title": "Panna młoda",
+"titleEn": "The Bride",
+"tmdbId": 245841,
+"trailerKey": null
+},
+"tvpvod:tv:245841:s4e60:free": {
+"access": "free",
+"backdropPath": "/t6lbaygKyJ34pp1pV6X9bEsr6X2.jpg",
+"confirmedAt": "2026-11-26T23:48:51Z",
+"date": "2026-11-27",
+"dateConfirmed": true,
+"deepLinkId": null,
+"id": "tvpvod:tv:245841:s4e60:free",
+"mediaType": "tv",
+"meta": {
+"allEpisodes": false,
+"episodeFrom": 60,
+"episodeTo": 60,
 "genres": [
 18
 ],
